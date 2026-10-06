@@ -28,7 +28,7 @@ Com o manifesto, o Foundry avisa e instala as novas versões sozinho. Também d�
 
 ## Para mantenedores
 
-- **Publicar uma versão:** crie um release no GitHub com a tag `vX.Y.Z`. O workflow `.github/workflows/release.yml` ajusta a versão e os links do `module.json`, valida os JSON e anexa `module.json` e `N5eB-pt-br.zip` ao release.
+- **Publicar uma versão:** envie uma tag `vX.Y.Z` (`git tag v0.4.0 && git push origin v0.4.0`) ou crie um release no GitHub com essa tag. O workflow `.github/workflows/release.yml` ajusta a versão e os links do `module.json`, valida os JSON, cria o release (se ainda não existir) e anexa `module.json` e `N5eB-pt-br.zip`.
 - **Atualizar traduções após uma versão nova do n5eb:** no Foundry, clique com o botão direito num compêndio → *Exportar traduções* (Babele). O arquivo gerado já inclui atividades e progressões no mesmo formato dos arquivos em `compendium/`.
 - Evite colar texto direto de páginas web nos campos: estilos como `color` e `font-family` fixos ficam ilegíveis no tema escuro do Foundry.
 
