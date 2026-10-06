@@ -1,0 +1,661 @@
+{
+ "label": "Invocações",
+ "folders": {
+  "C-Rank": "Rank C",
+  "B-Rank": "Rank B",
+  "A-Rank": "Rank A",
+  "D-Rank": "Rank D",
+  "Tribe Features": "Características da Tribo",
+  "Lizard Tribe": "Tribo Lagarto",
+  "Natural Weapons": "Armas Naturais",
+  "Snake Tribe": "Tribo Serpente",
+  "Inuzuka Summon Features": "Características de Invocação Inuzuka",
+  "[Summon Jutsus]": "[Jutsus de Invocação]",
+  "Dog / Wolf": "Cão / Lobo",
+  "Tribe Weapons": "Armas da Tribo",
+  "S-Rank": "Rank S",
+  "Hare/Rabbit Features": "Características de Lebre/Coelho",
+  "Inuzuka Summons": "Invocações Inuzuka",
+  "Snake Features": "Características de Serpente",
+  "[Role Features]": "[Características de Função]",
+  "Hare/Rabbit Tribe": "Tribo Lebre/Coelho",
+  "Lizard Features": "Características de Lagarto"
+ },
+ "entries": {
+  "073nkik6Afzu8P03": {
+   "name": "Mestre da Matilha",
+   "description": "<p>Aliados têm vantagem em jogadas de ataque contra uma criatura se você estiver a até 5 pés da criatura. </p>"
+  },
+  "0tNBaMDOkfk9S10W": {
+   "name": "Astúcia de Tokage:",
+   "description": "<p>Se esta invocação acertar com seu ataque de cauda, ela pode optar por agarrar o alvo. Enquanto agarrado, o alvo não pode conjurar jutsus que exijam Selos de Mão (SM).</p>"
+  },
+  "1YZrVolgSoBmWP6K": {
+   "name": "Chegada de Tokage",
+   "description": "<p>Quando esta invocação é invocada, ela imediatamente realiza uma Ação e pode se mover até seu deslocamento total sem comando de seu invocador.</p>"
+  },
+  "1lgRtrnHqKOTwMju": {
+   "name": "Olhar Mortal",
+   "description": "<p>Como uma Ação, esta invocação pode Encarar uma criatura que possa ver a até 60 pés. O alvo deve fazer um teste de resistência de Sabedoria. Em uma falha, ele sofre penalidade de -2 em seu próximo teste de resistência e não pode receber os benefícios de bônus baseados em jutsu para o teste.</p>",
+   "effects": {
+    "RP8lOTAihyJdujmf": {
+     "name": "Olhar Mortal",
+     "description": "<p>Em uma falha, ele sofre penalidade de -2 em seu próximo teste de resistência e não pode receber os benefícios de bônus baseados em jutsu para o teste.</p>"
+    }
+   }
+  },
+  "28yRJBu38Zw4skTW": {
+   "name": "Silvo",
+   "description": "<p>Esta invocação ganha imunidade a penalidades em suas jogadas de ataque.</p>"
+  },
+  "2Jx9ZFSMwbC8ELTJ": {
+   "name": "Esforço Concentrado",
+   "description": "<p>Ao conjurar um jutsu que tenha uma criatura como alvo, enquanto um aliado estiver a até 5 pés dela, você não pode rolar em desvantagem por nenhum meio.</p>"
+  },
+  "2ZuGgQRwENM8aqSE": {
+   "name": "Quebra de Usagi",
+   "description": "<p>Esta invocação pode entrar em choque com todos os estilos de Jutsu e Artes, e faz seu teste de choque com Vantagem. Se esta invocação entrar em choque com um Genjutsu, o personagem oponente faz seu teste com Ilusões.</p>"
+  },
+  "2mH75poA0muSsdti": {
+   "name": "Invocação: Fera Rastreadora",
+   "description": "<p>Tribo: Qualquer tribo com Olfato Aguçado.</p><p>Tamanho: Qualquer</p><p>Você invoca uma Criatura Rastreadora, treinada para perceber os odores mais sutis.</p><p>Quando invocada, esta criatura pedirá uma fonte. Algo para usar como base para começar o rastreamento. De um pedaço de tecido a sangue.</p><p>Esta criatura então fará um teste de Sabedoria (Percepção) com vantagem, utilizando o Modificador de Atributo de Sabedoria base de sua Tribo. Esta criatura conta como tendo Especialização em Percepção, já que é treinada especificamente para isso.</p><p>Para cada rank adicional acima do básico, aumente o Modificador de Atributo de Sabedoria em 2.</p>"
+  },
+  "37VfQfJEicgU0pVa": {
+   "name": "Cão / Lobo",
+   "description": "<p>Cães e lobos são animais leais. Os cães servem a quem os trata com bondade e respeito. Os lobos servem a líderes poderosos e intimidadores.</p><hr><p><strong>Tipo de Invocação:</strong> Carnívoro</p><p><strong>Robustez</strong>: 8</p><p><strong>Atributo Defensivo</strong>: Destreza</p><p><strong>Testes de Resistência</strong>: Destreza, Inteligência, Sabedoria</p><p><strong>Perícias da Criatura</strong>: Atletismo, Percepção, Intuição</p><p><strong>Sentidos da Criatura</strong>: Visão no Escuro (30 pés), Olfato e Audição Aguçados</p><hr><h3>Funções</h3><p>Cães/Lobos são criaturas extremamente sábias e inteligentes. Capazes de planejar estratégias com seu invocador em uma série de opções táticas que sobrecarregam seus inimigos. Ao criar uma criatura Invocada, selecione uma das seguintes funções;</p><ul><li><p><strong>Atacante</strong>: Esta Invocação tem o traço Multiataque. <strong>Multiataque</strong>: Você pode fazer até dois ataques usando sua Mordida. Ataques de Mordida adicionam sua Destreza às jogadas de dano uma vez por turno.</p></li><li><p><strong>Tocaieiro</strong>: Esta invocação prioriza ataques surpresa e táticas furtivas. Esta invocação ganha o traço <strong>Ataque Letal</strong>. <strong>Ataque Letal</strong>: Uma vez por turno, você pode causar dano adicional a uma criatura que acertar com um ataque se outro inimigo do alvo estiver a até 5 pés dele. Este dano adicional é Xd8. (X = Metade do nível da invocação)</p></li></ul>",
+   "advancement": {
+    "JcaLWxRXwIJZWcDN": {
+     "title": "Espaços de Jutsu"
+    },
+    "DIhZ59kRd5PbCgK0": {
+     "title": "Dano Natural",
+     "hint": "Isso aumentará dependendo do tamanho da invocação"
+    },
+    "E71uvLesclSfrTIh": {
+     "title": "Rank C"
+    },
+    "cMzamuc9SAHZuS3n": {
+     "title": "Rank B"
+    },
+    "6n62mqh4n81SIrVy": {
+     "title": "Rank A"
+    },
+    "TtpNHp09QTV3M50F": {
+     "title": "Rank S"
+    },
+    "DylqoTdwNcHEulpV": {
+     "title": "Rank D"
+    }
+   }
+  },
+  "4gNHhDQWd1iDF8wa": {
+   "name": "Sacos de Veneno",
+   "description": "<p>Ao acertar com seu ataque de mordida, a criatura alvo faz um teste de resistência de Constituição, ganhando 3 ranks de Empeçonhado em uma falha.</p>",
+   "effects": {
+    "7RgsKyKtC3Nbq1NW": {
+     "name": "Envenenado/Empeçonhado",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura <strong>Empeçonhada</strong> (às vezes chamada de Envenenada) foi exposta a algum tipo de peçonha ou toxina, fazendo sua vitalidade e sua imunidade despencarem rapidamente.</p><ul><li><p>Uma criatura ou objeto <strong>Empeçonhado</strong> sofre 1d6 de dano de veneno para cada rank que possuir, no início de cada um de seus turnos, enquanto durar esta condição.</p></li><li><p>Uma criatura <strong>Empeçonhada</strong> sofre penalidade de -1 em sua CA para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Empeçonhada</strong> não pode receber os benefícios de um descanso.</p></li><li><p>Criaturas imunes a dano de veneno são imunes à condição Empeçonhado.</p></li><li><p>Fora de combate, a cada hora a criatura sofre os efeitos desta condição como se um turno de combate tivesse passado.</p></li></ul>"
+    }
+   }
+  },
+  "691Mj7pvWGMpmhm4": {
+   "name": "Predador",
+   "description": "<p>Quando você ataca uma criatura que ainda não agiu, está surpresa ou não pode vê-lo, ela tem desvantagem em testes de resistência de Força e Destreza contra você.</p>"
+  },
+  "6N71Hrzquy1IwZsK": {
+   "name": "Mordida",
+   "description": "<p>Em uma rolagem de 17 ou mais, a criatura alvo ganha 1 rank de empeçonhado.</p>"
+  },
+  "6WP34fCQfrPByqUn": {
+   "description": "<p><span style=\"font-family:Signika, sans-serif\"><strong style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track)\">Kugsha Jovem:</strong> Uma raça conhecida por sua habilidade em combate. Este Nin-Dog ganha o seguinte;</span></p><ul><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Proficiência em Acrobacia e Artes Marciais.</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Especialização em Atletismo.</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Multiataque: Você pode fazer até dois ataques usando sua Mordida. Ataques de Mordida adicionam sua Destreza às jogadas de dano uma vez por turno.</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Ganha +1 característica especial adicional de Cão/Lobo de Rank D.</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">A partir do nível 11, ganha +1 característica especial adicional de Cão/Lobo de Rank D ou C.</span></p></li></ul>"
+  },
+  "7SgEd17l6G5e9Cdo": {
+   "name": "Poder de Usagi"
+  },
+  "A9vSyfYFONDLPGL5": {
+   "name": "Giro de Usagi",
+   "description": "<p>Se esta invocação ativa o efeito <strong>Giro</strong>, ela também espalha condições <strong>mentais</strong> e <strong>sensoriais</strong>.</p>"
+  },
+  "AgkrNycQfDMfxjYo": {
+   "name": "Investida de Inu",
+   "description": "<p>Você rerrola 1s e 2s quando causa dano com um ataque corpo a corpo se pelo menos um de seus aliados estiver a até 5 pés da criatura.</p>"
+  },
+  "AkgefAYoJUHaJNqf": {
+   "name": "Braço Direito",
+   "description": "<p>Enquanto estiver a até 5 pés de seu invocador, esta invocação e seu invocador ganham um bônus de +3 em testes de resistência nos quais cada um não tenha proficiência completa.</p>"
+  },
+  "BClHYryz6ngMxbgE": {
+   "name": "Deslocamento",
+   "effects": {
+    "ktHb2jvOom8CHtYP": {
+     "name": "Deslocamento"
+    }
+   }
+  },
+  "C4j1Xs6gVZyqINmx": {
+   "name": "Caçador",
+   "description": "<p>Quando esta invocação ataca uma criatura que não sabe sua localização, ela faz seus ataques com Vantagem.</p>"
+  },
+  "CPJGt8XXq0UQaYTE": {
+   "name": "Consumir",
+   "description": "<p>Quando a serpente reduz os pontos de vida de uma criatura a 0 como resultado de um ataque de mordida, ela a engole por completo, consumindo-a totalmente. Uma criatura engolida é completamente digerida após 24 horas, não podendo mais ser revivida.</p>"
+  },
+  "Cbbgq0qwxc7OikN5": {
+   "name": "Invocação: Fera Escavadora",
+   "description": "<p>Tribo: Coelho, Inseto, Rato, Serpente, Aranha, Furão</p><p>Tamanho: Grande</p><p>Descrição: Você invoca uma Fera Escavadora, capaz de criar túneis e viajar sob a superfície enquanto carrega criaturas em sua boca ou estômago.</p><p>Esta criatura deixa um túnel para trás enquanto se move, e pode manter até 2 criaturas dentro de sua boca por vez, viajando a qualquer taxa de velocidade. Esta criatura não pode ser afetada por Jutsus que possam aumentar sua velocidade.</p><p>Para cada rank adicional acima do básico, aumente o tamanho da criatura em um, e o número de criaturas que a invocação pode manter em 1.</p>"
+  },
+  "D0nbjMEsVJL88cPu": {
+   "name": "Invocação: Fera Mensageira",
+   "description": "<p>Tribo: Coelho, Falcão, Lagarto, Rato, Tubarão, Serpente, Sapo, Tartaruga, Furão.</p><p>Tamanho: minúsculo</p><p>Você invoca uma Criatura Mensageira, uma fera pequena e veloz, capaz de cobrir grandes distâncias em pouco tempo.</p><p>Quando invocada, você pode especificar um local que já visitou anteriormente e um destinatário que corresponda a uma descrição geral. Você pode então dar à criatura a informação a ser entregue; a criatura não aceitará transportar nenhum objeto, e rejeitará um pedido para entrar em perigo evidente, como território inimigo.</p><p>A criatura viajará em direção ao local, cobrindo no máximo 150 milhas por 24 horas.</p><p>Para cada rank adicional acima do básico, aumente em 50 milhas a distância que a criatura pode cobrir em 24 horas.</p>"
+  },
+  "DMIpnKg1NDQbdKsV": {
+   "name": "Presas Serrilhadas",
+   "description": "<p>Ataques corpo a corpo bem-sucedidos feitos por esta invocação infligem 1 rank de sangramento.</p>"
+  },
+  "ESSOfmTWMci3g21i": {
+   "name": "Deslocamento",
+   "effects": {
+    "ktHb2jvOom8CHtYP": {
+     "name": "Deslocamento"
+    }
+   }
+  },
+  "IN1yWunEGpQsBx5s": {
+   "name": "Rosnado de Inu",
+   "description": "<p>Como uma Ação, esta invocação pode emitir um rosnado baixo. Quando o faz, uma criatura que ela possa ver a até 30 pés deve fazer um teste de resistência de Sabedoria. Em uma falha, o alvo sofre penalidade de -2 em sua CA até o final de seu próximo turno. Depois de usar este rosnado, esta invocação não pode usar esta ação novamente até o final de seu próximo turno.</p>",
+   "effects": {
+    "mhxiewizdY0wnAkJ": {
+     "name": "Rosnado de Inu"
+    }
+   }
+  },
+  "MF5sYMQA1wTtsDqc": {
+   "name": "Conjuração de Usagi",
+   "description": "<p>Quando esta invocação conjura um Jutsu, ela pode gastar um Espaço de Jutsu adicional. Se o fizer, maximiza até três dos dados de dano do jutsu.</p>"
+  },
+  "MIvq9t2RogsCd3UE": {
+   "name": "Duplicidade de Usagi",
+   "description": "<p>Esta invocação pode gastar um de seus <strong>Espaços de Jutsu</strong> para se multiplicar, criando um clone de si mesma. O clone criado possui apenas uma Ação e 40 pés de deslocamento. Ele realiza as mesmas ações e conjura o mesmo jutsu que o invocador ordenar que a invocação realize. Assim que o clone conjura um jutsu, ele é desinvocado. Esta invocação pode clonar a si mesma uma vez por descanso longo.</p>"
+  },
+  "MkQ63oDPauQL6yAU": {
+   "name": "Chutes",
+   "description": "<p>Em uma rolagem de 19~20, faça outro ataque de Chutes. Este efeito pode ser repetido indefinidamente.</p>"
+  },
+  "PWDUhzHfQNypevMU": {
+   "name": "Jovem Kugsha",
+   "description": "<p>Do Inuzuka @UUID[Compendium.n5eb.clan.Item.uvQdkZlw2ofp6Jfy]{Mestre das Bestas}<br>Uma raça conhecida por sua habilidade em combate. Este Nin-Dog ganha o seguinte; </p><ul><li><p>Proficiência em Acrobacia e Artes Marciais. </p></li><li><p>+1 rank de Maestria em Atletismo. </p></li><li><p>Multiataque: Você pode fazer até dois ataques usando sua Mordida. Ataques de Mordida adicionam sua Destreza às jogadas de dano uma vez por turno. </p></li><li><p>Ganha +1 característica especial extra de Cão/Lobo de Rank D. </p></li><li><p>A partir do nível 11, ganha +1 característica especial adicional de Cão/Lobo de Rank D ou C.</p></li></ul><hr><p>Cães e lobos são animais leais. Os cães servem a quem os trata com bondade e respeito. Os lobos servem a líderes poderosos e intimidadores.</p><hr><p><strong>Tipo de Invocação:</strong> Carnívoro</p><p><strong>Robustez</strong>: 10</p><p><strong>Atributo Defensivo</strong>: Destreza</p><p><strong>Testes de Resistência</strong>: Força, Destreza, Constituição, Inteligência, Sabedoria, Carisma</p><p><strong>Perícias da Criatura</strong>: Atletismo, Percepção, Intuição</p><p><strong>Sentidos da Criatura</strong>: Visão no Escuro (30 pés), Olfato e Audição Aguçados</p>",
+   "advancement": {
+    "JcaLWxRXwIJZWcDN": {
+     "title": "Espaços de Jutsu"
+    },
+    "DIhZ59kRd5PbCgK0": {
+     "title": "Dano Natural",
+     "hint": "Isso aumentará dependendo do tamanho da invocação"
+    },
+    "E71uvLesclSfrTIh": {
+     "title": "Rank C"
+    },
+    "cMzamuc9SAHZuS3n": {
+     "title": "Rank B"
+    },
+    "6n62mqh4n81SIrVy": {
+     "title": "Rank A"
+    },
+    "TtpNHp09QTV3M50F": {
+     "title": "Rank S"
+    },
+    "DylqoTdwNcHEulpV": {
+     "title": "Rank D"
+    },
+    "PdN7ILwVJNcXh0tt": {
+     "title": "Especialização"
+    },
+    "kgha9Nixqw58vlzr": {
+     "title": "+8 Aumentos de Valor de Atributo, até 20."
+    },
+    "ZGIi2krdARRm5yFa": {
+     "title": "+8 Aumentos de Valor de Atributo, até 20."
+    },
+    "EtnVhViuV4PKUaUR": {
+     "title": "+8 Aumentos de Valor de Atributo, até 24."
+    },
+    "CscSwKQZ7Q4Chi8G": {
+     "title": "+8 Aumentos de Valor de Atributo, até 26."
+    },
+    "EzpQmvTHD4FKhThc": {
+     "title": "+8 Aumentos de Valor de Atributo, até 28."
+    },
+    "rI8eUFaPSFzs5rGh": {
+     "title": "Bônus de Kugsha"
+    }
+   }
+  },
+  "PX5LSVQ2kbibeKIK": {
+   "name": "Flexibilidade de Usagi",
+   "description": "<p>Esta Invocação é imune às condições agarrado e contido.</p>"
+  },
+  "PnDrj00GMW4xC4Qs": {
+   "name": "Tocaia de Usagi",
+   "description": "<p>Como uma ação, esta invocação pode realizar a ação Esconder-se e ganhar os benefícios de uma Disparada, sem quebrar sua furtividade.</p>"
+  },
+  "QicIk07PbAI9nTuW": {
+   "name": "Cauda",
+   "description": "<p>Esta invocação possui uma arma corpo a corpo simples, usando as estatísticas da arma para ataque e dano. Se esta invocação for Grande ou maior, aumente o dado de dano da arma em +1.</p>",
+   "condition": "Se a jogada de ataque for maior que 15 = caído",
+   "effects": {
+    "nnZZ4Cbl3hb7i7Lw": {
+     "name": "Caído"
+    }
+   }
+  },
+  "Rklbk8FfUvuqXUKo": {
+   "name": "Sentidos de Cão/Lobo",
+   "description": "<p><strong>Sentidos da Criatura</strong>: Visão no Escuro (30 pés), Olfato e Audição Aguçados</p>",
+   "effects": {
+    "isbhcrMAIm6x4Mfu": {
+     "name": "Sentidos de Cão/Lobo"
+    }
+   }
+  },
+  "SNAbF94v8eIVaW8r": {
+   "name": "Presas de Inu",
+   "description": "<p>Esta invocação pode adicionar seu modificador de Constituição às jogadas de dano de seus ataques de Mordida.</p>"
+  },
+  "UUroLNnBuL3vPgXH": {
+   "description": "<p><span style=\"font-family:Signika, sans-serif\"><strong style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track)\">Tamaskan Jovem:</strong> Uma raça conhecida por sua habilidade de moldar Chakra. Este Nin-Dog ganha o seguinte;</span></p><ul><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Proficiência em Controle de Chakra e Ninshou.</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Especialização em Intuição.</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Aprende 1 Jutsu de Rank D seguindo os limites de especialidade de Jutsu de Cão/Lobo</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">O primeiro jutsu que seu Nin-Dog conjura por descanso curto não gasta um Espaço de Jutsu.</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">A partir do nível 11, este Nin-Dog aprende 1 jutsu de Rank C seguindo os limites de especialidade de Jutsu de Cão/Lobo</span></p></li></ul>"
+  },
+  "UoLZYkz7P5eHzNLJ": {
+   "name": "Serpente",
+   "description": "<p>Poucas criaturas terrestres são mais perigosas, astutas e poderosas que uma serpente. A serpente é uma fera cujos laços e histórias remontam a antes do tempo começar a ser registrado. A maior arma da serpente é seu corpo astuto e poderoso, com presas afiadas para perfurar a carne de seus inimigos.</p><hr><p><strong>Tipo de Invocação:</strong> Dragão</p><p><strong>Robustez</strong>: 10</p><p><strong>Atributo Defensivo</strong>: Destreza</p><p><strong>Testes de Resistência</strong>: Destreza, Constituição, Carisma</p><p><strong>Perícias da Criatura</strong>: Atletismo, Furtividade, Percepção</p><p><strong>Sentidos da Criatura</strong>: Visão no Escuro (60 pés), Olfato Aguçado</p><hr><h2>Funções</h2><p>As serpentes são frequentemente consideradas a tribo mais forte entre as feras sábias, disputando lado a lado com os sapos. Ao criar uma criatura Invocada, selecione uma das seguintes funções;</p><ul><li><p><strong>@UUID[Compendium.n5eb.summons.Item.vl7UtADFlso3wfHo]{Tocaieiro}</strong>: Esta invocação prioriza ataques surpresa e táticas furtivas. Esta invocação ganha o traço Ataque Letal. Ataque Letal: Uma vez por turno, você pode causar dano adicional a uma criatura que acertar com um ataque se outro inimigo do alvo estiver a até 5 pés dele. Este dano adicional é Xd8. (X = Metade do nível da invocação) </p></li><li><p><strong>@UUID[Compendium.n5eb.summons.Item.ZjIHcop42OspRU8Y]{Controlador}</strong>: Esta invocação ganha um bônus em sua CD de Resistência igual ao seu rank quando invocada (Rank D/Rank C: +1, Rank B/Rank A: +2, Rank S: +3)</p></li></ul>",
+   "advancement": {
+    "JcaLWxRXwIJZWcDN": {
+     "title": "Espaços de Jutsu"
+    },
+    "E71uvLesclSfrTIh": {
+     "title": "Rank C"
+    },
+    "KYySf9nyZTVhZvVI": {
+     "title": "Rank D"
+    },
+    "cMzamuc9SAHZuS3n": {
+     "title": "Rank B"
+    },
+    "6n62mqh4n81SIrVy": {
+     "title": "Rank A"
+    },
+    "TtpNHp09QTV3M50F": {
+     "title": "Rank S"
+    },
+    "m3Tkt8ZWHKGCQVv1": {
+     "title": "Deslocamento"
+    },
+    "nXMOeXc1iGi6xOuD": {
+     "title": "Características Tribais"
+    },
+    "Ql7pENbCgGQF1TD3": {
+     "title": "Arma Natural"
+    }
+   }
+  },
+  "V2MXjT6esMY2uXjL": {
+   "name": "Olhar do Diabo",
+   "description": "<p>Como uma ação, esta invocação pode Encarar uma criatura que possa ver a até 60 pés. A criatura alvo faz um teste de resistência de Carisma. Em uma falha, ela fica Atordoada até o final de seu próximo turno. Uma criatura Atordoada desta forma se torna imune a esta característica por 24 horas.</p>",
+   "effects": {
+    "MOUfYbYHXRvTL3Pw": {
+     "name": "Atordoado",
+     "description": "<ul><li><p>Uma criatura atordoada está incapacitada (veja a condição), não pode se mover e só consegue falar de forma hesitante.</p></li><li><p>A criatura falha automaticamente em testes de resistência de Força e Destreza.</p></li><li><p>Jogadas de ataque contra a criatura têm vantagem.</p></li></ul>"
+    }
+   }
+  },
+  "WA0cYx3AzT4y4GkG": {
+   "name": "Presas de Ferro",
+   "description": "<p>O dano desta invocação não pode ser resistido.</p>"
+  },
+  "YQv4CPkt16N0as03": {
+   "name": "Mordida",
+   "description": "<p>Em uma rolagem de 16 ou mais, o alvo é derrubado ou arrastado 5 pés em qualquer direção que a invocação desejar.</p>"
+  },
+  "Yg9RC60U1iwAttyO": {
+   "name": "Tamaskan Jovem",
+   "description": "<p>Do Inuzuka @UUID[Compendium.n5eb.clan.Item.uvQdkZlw2ofp6Jfy]{Mestre das Bestas}<br>Uma raça conhecida por sua habilidade de moldar Chakra. Este Nin-Dog ganha o seguinte; </p><ul><li><p>Proficiência em Controle de Chakra e Ninshou. </p></li><li><p>+1 rank de Maestria em Intuição. </p></li><li><p>Aprende 1 Jutsu de Rank D seguindo os limites de especialidade de Jutsu de Cão/Lobo </p></li><li><p>O primeiro jutsu que seu Nin-Dog conjura por descanso curto não gasta um Espaço de Jutsu. </p></li><li><p>A partir do nível 11, este Nin-Dog aprende 1 jutsu de Rank C seguindo os limites de especialidade de Jutsu de Cão/Lobo</p></li></ul><hr><p>Cães e lobos são animais leais. Os cães servem a quem os trata com bondade e respeito. Os lobos servem a líderes poderosos e intimidadores.</p><hr><p><strong>Tipo de Invocação:</strong> Carnívoro</p><p><strong>Robustez</strong>: 10</p><p><strong>Atributo Defensivo</strong>: Destreza</p><p><strong>Testes de Resistência</strong>: Força, Destreza, Constituição, Inteligência, Sabedoria, Carisma</p><p><strong>Perícias da Criatura</strong>: Atletismo, Percepção, Intuição</p><p><strong>Sentidos da Criatura</strong>: Visão no Escuro (30 pés), Olfato e Audição Aguçados</p>",
+   "advancement": {
+    "JcaLWxRXwIJZWcDN": {
+     "title": "Espaços de Jutsu"
+    },
+    "DIhZ59kRd5PbCgK0": {
+     "title": "Dano Natural",
+     "hint": "Isso aumentará dependendo do tamanho da invocação"
+    },
+    "E71uvLesclSfrTIh": {
+     "title": "Rank C"
+    },
+    "cMzamuc9SAHZuS3n": {
+     "title": "Rank B"
+    },
+    "6n62mqh4n81SIrVy": {
+     "title": "Rank A"
+    },
+    "TtpNHp09QTV3M50F": {
+     "title": "Rank S"
+    },
+    "DylqoTdwNcHEulpV": {
+     "title": "Rank D"
+    },
+    "PdN7ILwVJNcXh0tt": {
+     "title": "Especialização"
+    },
+    "kgha9Nixqw58vlzr": {
+     "title": "+8 Aumentos de Valor de Atributo, até 20."
+    },
+    "ZGIi2krdARRm5yFa": {
+     "title": "+8 Aumentos de Valor de Atributo, até 20."
+    },
+    "EtnVhViuV4PKUaUR": {
+     "title": "+8 Aumentos de Valor de Atributo, até 24."
+    },
+    "CscSwKQZ7Q4Chi8G": {
+     "title": "+8 Aumentos de Valor de Atributo, até 26."
+    },
+    "EzpQmvTHD4FKhThc": {
+     "title": "+8 Aumentos de Valor de Atributo, até 28."
+    }
+   }
+  },
+  "ZJGZADfBvqNTRIlk": {
+   "name": "Distração de Inu",
+   "description": "<p>Como uma ação, enquanto estiver a até 5 pés de uma criatura hostil, esta invocação pode distraí-la ativamente, concedendo ao seu invocador vantagem no próximo ataque que fizer contra o alvo.</p>"
+  },
+  "ZjIHcop42OspRU8Y": {
+   "name": "Controlador",
+   "description": "<p>Esta invocação ganha um bônus em sua CD de Resistência igual ao seu rank quando invocada</p><p>(Rank D/Rank C: +1, Rank B/Rank A: +2, Rank S: +3)</p>",
+   "effects": {
+    "VM09S7gEbMmuwktI": {
+     "name": "Controlador"
+    }
+   }
+  },
+  "afNk5Kw2jo77glGO": {
+   "name": "Defensor",
+   "description": "<p>Esta invocação ganha um bônus em sua CA igual ao seu rank quando invocada.</p><p>(Rank D/Rank C: +1, Rank B/Rank A: +2, Rank S: +3)</p>",
+   "effects": {
+    "4wtAN7YsywM3NPUX": {
+     "name": "Defensor",
+     "description": "<p>Esta invocação ganha um bônus em sua CA igual ao seu rank quando invocada.</p><p>(Rank D/Rank C: +1, Rank B/Rank A: +2, Rank S: +3)</p>"
+    }
+   }
+  },
+  "b5DJ3OfcwhNT8bD8": {
+   "name": "Presa Evanescente",
+   "description": "<p>Como uma reação, esta invocação pode gastar um de seus espaços de Jutsu para ganhar os benefícios do Genjutsu Invisibilidade como se o tivesse conjurado. Ela deve manter concentração nele normalmente.</p>",
+   "effects": {
+    "apdon0zv0B1IQfdL": {
+     "name": "Invisível",
+     "description": "<ul><li><p>Uma criatura invisível não pode ser vista sem a ajuda de poderes ou de um sentido especial. Para fins de se esconder, a criatura está em escuridão densa. A localização da criatura pode ser detectada por qualquer barulho que ela faça ou rastros que deixe.</p></li><li><p>Jogadas de ataque contra a criatura têm desvantagem, e as jogadas de ataque da criatura têm vantagem.</p></li></ul>"
+    }
+   }
+  },
+  "csdexXkrBmJtk5kT": {
+   "name": "Guerra de Hebi",
+   "description": "<p>Esta invocação é mais eficaz ao lutar contra outras tribos. Esta invocação aumenta todo o dano que causa a tipos de Invocação Anfíbio e Herbívoro em +2 dados de dano.</p>"
+  },
+  "cxHKhGhu5nrs42l5": {
+   "name": "Presa Implacável",
+   "description": "<p>Esta Invocação causa 3d8 de dano de veneno adicional a criaturas que tenham uma penalidade em sua CA como resultado de um Jutsu ou Condição.</p>"
+  },
+  "e198H5cuHtQKMd8H": {
+   "name": "Escalada de Usagi",
+   "description": "<p>Jutsus que esta invocação conjura que infligem ranks de <strong>sangramento</strong>, <strong>concussão</strong> ou <strong>ofuscado</strong>, infligem +1 rank dessa condição.</p>"
+  },
+  "fFWOnriOOVgjO6SP": {
+   "name": "Conjurador",
+   "description": "<p>Esta invocação ganha Espaços de Jutsu adicionais, iguais ao seu rank.</p><p>(Rank D/Rank C: +1, Rank B/Rank A: +2, Rank S: +3)</p>",
+   "effects": {
+    "KEoGi6yASwDM0e1H": {
+     "name": "Espaços de Jutsu Adicionais"
+    }
+   }
+  },
+  "fRYpfrGDxL1nwn1q": {
+   "name": "Blitz de Usagi",
+   "description": "<p>Como uma ação, esta invocação pode ganhar o benefício de uma Disparada. Uma vez por turno, ao final de seu movimento ao usar esta Disparada, ela pode fazer um ataque de <strong>Chutes</strong>. Em um acerto, o ataque causa +1 dado de dano para cada 30 pés percorridos durante o turno.</p>"
+  },
+  "gSe3BAvNp2RLWAw7": {
+   "description": "<p><strong>Jovem Inuit:</strong> Uma raça conhecida por sua habilidade de caça. Este Nin-Cão ganha o seguinte;</p><ul><li><p>Proficiência em Investigação e Furtividade.</p></li><li><p>Especialização em Percepção.</p></li><li><p>Aumento de <strong>+</strong>10 em seu deslocamento e ignora terreno difícil.</p></li><li><p>Esta raça pode usar Disparada ou Desengajar sem custo de ação, uma vez por rodada, como parte de um de seus comandos.</p></li><li><p>Começando no 11º nível, seu Nin-Cão ganha os benefícios de sua característica Sentido Selvagem.</p></li></ul>",
+   "effects": {
+    "dOAibUVlKbopOF92": {
+     "name": "Jovem Inuit"
+    }
+   }
+  },
+  "h9S3ruR9o9YVhzdX": {
+   "name": "Uivo de Inu",
+   "description": "<p>Como uma ação, esta invocação pode uivar, inspirando a si mesma e seus aliados. Todas as criaturas aliadas a até 15 pés dela quando ela uiva ganham um bônus de +1d4 em sua próxima jogada de ataque feita antes do início do próximo turno de seu invocador.</p>",
+   "effects": {
+    "PIaMlWbksgmxoQzw": {
+     "name": "Uivo de Inu",
+     "description": "<p><span style=\"font-family:Signika, sans-serif\">ganha um bônus de +1d4 em sua próxima jogada de ataque feita antes do início do próximo turno de seu invocador</span></p>"
+    }
+   }
+  },
+  "hdFJ7UOyByVKFNdO": {
+   "name": "Jovem Inuit",
+   "description": "<p>Do Inuzuka @UUID[Compendium.n5eb.clan.Item.uvQdkZlw2ofp6Jfy]{Mestre das Bestas}<br>Uma raça conhecida por sua habilidade de caça. Este Nin-Dog ganha o seguinte;</p><ul><li><p>Proficiência em Investigação e Furtividade.</p></li><li><p>+1 rank de Maestria em Percepção.</p></li><li><p>+10 de aumento em seu deslocamento e ignora terreno difícil.</p></li><li><p>Esta raça pode usar Disparada ou Desengajar sem custo de ação, uma vez por rodada como parte de um de seus comandos.</p></li><li><p>A partir do nível 11, seu Nin-Dog ganha os benefícios de sua característica Sentido Selvagem.</p></li></ul><hr><p>Cães e lobos são animais leais. Os cães servem a quem os trata com bondade e respeito. Os lobos servem a líderes poderosos e intimidadores.</p><hr><p><strong>Tipo de Invocação:</strong> Carnívoro</p><p><strong>Robustez</strong>: 10</p><p><strong>Atributo Defensivo</strong>: Destreza</p><p><strong>Testes de Resistência</strong>: Força, Destreza, Constituição, Inteligência, Sabedoria, Carisma</p><p><strong>Perícias da Criatura</strong>: Atletismo, Percepção, Intuição</p><p><strong>Sentidos da Criatura</strong>: Visão no Escuro (30 pés), Olfato e Audição Aguçados</p>",
+   "advancement": {
+    "JcaLWxRXwIJZWcDN": {
+     "title": "Espaços de Jutsu"
+    },
+    "DIhZ59kRd5PbCgK0": {
+     "title": "Dano Natural",
+     "hint": "Isso aumentará dependendo do tamanho da invocação"
+    },
+    "E71uvLesclSfrTIh": {
+     "title": "Rank C"
+    },
+    "cMzamuc9SAHZuS3n": {
+     "title": "Rank B"
+    },
+    "6n62mqh4n81SIrVy": {
+     "title": "Rank A"
+    },
+    "TtpNHp09QTV3M50F": {
+     "title": "Rank S"
+    },
+    "DylqoTdwNcHEulpV": {
+     "title": "Rank D"
+    },
+    "kgha9Nixqw58vlzr": {
+     "title": "+8 Aumentos de Valor de Atributo, até 20."
+    },
+    "ZGIi2krdARRm5yFa": {
+     "title": "+8 Aumentos de Valor de Atributo, até 20."
+    },
+    "EtnVhViuV4PKUaUR": {
+     "title": "+8 Aumentos de Valor de Atributo, até 24."
+    },
+    "CscSwKQZ7Q4Chi8G": {
+     "title": "+8 Aumentos de Valor de Atributo, até 26."
+    },
+    "EzpQmvTHD4FKhThc": {
+     "title": "+8 Aumentos de Valor de Atributo, até 28."
+    }
+   }
+  },
+  "iNuigFprAT6Y28zT": {
+   "name": "Sacos de Veneno",
+   "description": "<p>Os ataques de Mordida desta invocação causam 2d8 de dano de veneno adicional em um acerto, uma vez por turno.</p>",
+   "condition": "O ataque de Mordida desta invocação"
+  },
+  "iX4CPnMncfpQBKIx": {
+   "name": "Criador de Presas",
+   "description": "<p>Quando esta invocação ataca uma criatura que possui uma condição Física ou Mental, ela causa 2d8 de dano de Veneno adicional em um acerto bem-sucedido, uma vez por turno. </p>"
+  },
+  "j5UJzaVtEJgvwvPT": {
+   "name": "Sentidos de Serpente",
+   "description": "<p><strong>Sentidos da Criatura:</strong> Visão no Escuro (60 pés), Olfato Aguçado</p>",
+   "effects": {
+    "w15N0l4aD9AQJeou": {
+     "name": "Sentidos de Serpente"
+    }
+   }
+  },
+  "kA8DLZwMWeqgGXIp": {
+   "name": "Sentidos de Lebre/Coelho",
+   "description": "<p><strong>Sentidos da Criatura:</strong> Olfato Aguçado, Audição Aguçada</p>",
+   "effects": {
+    "w15N0l4aD9AQJeou": {
+     "name": "Sentidos de Lebre/Coelho"
+    }
+   }
+  },
+  "ldEbaZqvTjX9kyWY": {
+   "name": "União de Usagi",
+   "description": "<p>União: Se esta invocação auxiliar na conjuração de um Ninjutsu com as palavras-chave <strong>Liberação de Vento</strong> e <strong>Combinação</strong>, ela conta como duas criaturas. Fazer isso também faz com que ela gaste 2 <strong>Espaços de Jutsu</strong>.</p>"
+  },
+  "lrMTVQsMqFUCBOVi": {
+   "name": "Sentidos de Usagi",
+   "description": "<p>Esta invocação ganha 20 pés de Visão Cega.</p>"
+  },
+  "m7600csgW8jNEMTe": {
+   "name": "Capuz de Cobra",
+   "description": "<p>Esta invocação possui um capuz de cobra, que lhe permite liberar uma aura intimidadora. Todas as criaturas hostis que começarem seus turnos a até 10 pés desta invocação devem fazer um teste de resistência de Sabedoria, ficando lentas em uma falha até o início de seu próximo turno.</p>",
+   "condition": "Todas as criaturas hostis que começarem seus turnos a até 10 pés desta invocação",
+   "effects": {
+    "KFdEQ1WkbtvzCkFI": {
+     "name": "Lento"
+    }
+   }
+  },
+  "m90gwjlnf0xJeiiM": {
+   "name": "Reações de Usagi",
+   "description": "<p>Esta invocação pode optar por conjurar um Ninjutsu que tenha tempo de conjuração de 1 Ação, como uma reação, como se estivesse usando a modelagem <strong>Ninjutsu Reativo</strong>. Ela pode fazer isso duas vezes por descanso longo.</p>"
+  },
+  "mExymzj5cYsVw30X": {
+   "name": "Ápice",
+   "description": "<p>A Serpente obtém um acerto crítico em seu ataque de Mordida em uma rolagem de 17 ou mais.</p>"
+  },
+  "mjqsardVPJFMqPGv": {
+   "name": "Tocaia de Inu",
+   "description": "<p>No início de cada turno de seu invocador, esta invocação pode tentar a ação Esconder-se sem custo de ação.</p>"
+  },
+  "n05IUcI502kWzu48": {
+   "name": "Caçador de Usagi",
+   "description": "<p>Esta invocação pode ativar seu <strong>Ataque Letal</strong> duas vezes em um turno, mas apenas contra alvos diferentes.</p>"
+  },
+  "oZUYvpdJ2kGneL7x": {
+   "name": "Constrição",
+   "description": "<p>Se esta invocação obtiver um acerto bem-sucedido com seu ataque de Mordida, o alvo deve fazer um teste de resistência de Força, ficando contido em uma falha. Como uma ação, esta invocação pode constringir um alvo contido, causando 5d6 de dano de concussão. Criaturas contidas podem gastar uma ação para refazer seu teste de resistência.</p>",
+   "condition": "Se esta invocação obtiver um acerto bem-sucedido com seu ataque de Mordida",
+   "effects": {
+    "aubm5DZ9TWt8PR4L": {
+     "name": "Contido",
+     "description": "<p>Uma criatura <strong>Contida</strong> foi completamente imobilizada, incapaz de sair do seu espaço.</p><ul><li><p>O deslocamento de uma criatura contida se torna 0, e ela não pode se beneficiar de nenhum bônus de deslocamento.</p></li><li><p>Jogadas de ataque contra a criatura têm vantagem, e as jogadas de ataque da criatura têm desvantagem.</p></li><li><p>A criatura tem desvantagem em testes de resistência de Destreza.</p></li></ul>"
+    }
+   }
+  },
+  "odxhFccLcsufOn03": {
+   "name": "Queda do Céu de Usagi",
+   "description": "<p>O primeiro ataque de <strong>Chutes</strong> feito após se mover mais de 200 pés em um turno é feito com vantagem.</p>"
+  },
+  "p8MH8sMJ265pVR3c": {
+   "name": "Apoiador",
+   "description": "<p>Esta invocação aumenta a cura realizada ou os pontos de vida temporários ganhos em +X dados, iguais ao seu rank quando invocada. (Rank D/Rank C: +1, Rank B/Rank A: +2, Rank S: +3)</p>",
+   "effects": {
+    "exUCncTfSuOpOnrb": {
+     "name": "Apoiador",
+     "description": "<p>Esta invocação aumenta a cura realizada ou os pontos de vida temporários ganhos em +X dados, iguais ao seu rank quando invocada. (Rank D/Rank C: +1, Rank B/Rank A: +2, Rank S: +3)</p>"
+    }
+   }
+  },
+  "pkeAdV4KUJ2BPKzL": {
+   "name": "Carne Venenosa de Tokage",
+   "description": "<p>Esta invocação é imune a dano de Veneno e Ácido. Se ela pudesse sofrer dano de um ataque corpo a corpo, a criatura que o causou precisaria fazer um teste de resistência de Constituição, ganhando as condições empeçonhado e corroído em uma falha.</p>",
+   "condition": "Quando atingido",
+   "effects": {
+    "KnKauyqFt8gI5fUr": {
+     "name": "Envenenado/Empeçonhado",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura <strong>Empeçonhada</strong> (às vezes chamada de Envenenada) foi exposta a algum tipo de peçonha ou toxina, fazendo sua vitalidade e sua imunidade despencarem rapidamente.</p><ul><li><p>Uma criatura ou objeto <strong>Empeçonhado</strong> sofre 1d6 de dano de veneno para cada rank que possuir, no início de cada um de seus turnos, enquanto durar esta condição.</p></li><li><p>Uma criatura <strong>Empeçonhada</strong> sofre penalidade de -1 em sua CA para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Empeçonhada</strong> não pode receber os benefícios de um descanso.</p></li><li><p>Criaturas imunes a dano de veneno são imunes à condição Empeçonhado.</p></li><li><p>Fora de combate, a cada hora a criatura sofre os efeitos desta condição como se um turno de combate tivesse passado.</p></li></ul>"
+    },
+    "imSEBVux4h4WregT": {
+     "name": "Corroído",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura <strong>Corroída</strong> foi exposta a algum tipo de composto ácido, fazendo sua carne e seu equipamento definharem e se deteriorarem se não forem tratados.</p><ul><li><p>Uma criatura <strong>Corroída</strong> recebe penalidade de -2 em sua RD (redução de dano) para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Corroída</strong> recebe penalidade de -1 em todos os testes e testes de resistência baseados em Constituição para cada rank que possuir.</p></li><li><p>Uma criatura pode encerrar a condição Corroído usando sua ação para fazer um teste de Destreza ou Constituição CD 15, ou submergindo completamente em um corpo d'água.</p></li></ul>"
+    }
+   }
+  },
+  "rax5YN1JNlwtewRQ": {
+   "name": "Presa de Víbora",
+   "description": "<p>Esta invocação possui veneno de víbora cobrindo suas presas. Ataques de Mordida que ela faz causam 2d8 de dano de Veneno adicional, uma vez por turno.</p>"
+  },
+  "rnYmB8BGlIyYH3n8": {
+   "name": "Presas Rápidas",
+   "description": "<p>Esta invocação pode fazer um ataque adicional com seu ataque de Mordida, por turno.</p>"
+  },
+  "uNuV080VGvjkRS8e": {
+   "name": "Lebre/Coelho",
+   "description": "<p>Normalmente usadas por sua velocidade e agilidade, as Lebres são excelentes mensageiras e correios, embora sua destreza em combate marcial deixe um pouco a desejar; suas capacidades de conjuração rivalizam com as da tribo dos Sapos em alguns aspectos.</p><hr><p><strong>Tipo de Invocação:</strong> Roedores</p><p><strong>Robustez</strong>: 6</p><p><strong>Atributo Defensivo</strong>: Destreza</p><p><strong>Testes de Resistência</strong>: Destreza, Inteligência, Carisma</p><p><strong>Perícias da Criatura</strong>: Acrobacia, Percepção, Furtividade,</p><p><strong>Sentidos da Criatura</strong>: Olfato Aguçado, Audição Aguçada</p><hr><h2>Funções</h2><p>Lebres/Coelhos são criaturas extremamente inteligentes, mas territoriais. Dentro da comunidade das tribos sábias, são conhecidas como as mais agressivas de todos os Roedores, sendo frequentemente comparadas a uma máfia ou gangue. As tribos Lebre/Coelho, embora fofas, costumam ser um sinal de extrema hostilidade e selvageria. Ao criar uma criatura Invocada, selecione uma das seguintes funções;</p><ul><li><p><strong>Conjurador</strong>: Esta invocação ganha Espaços de Jutsu adicionais, iguais ao seu rank. (Rank D/Rank C: +1, Rank B/Rank A: +2, Rank S: +3).</p></li><li><p><strong>Tocaieiro</strong>: Esta invocação prioriza ataques surpresa e táticas furtivas. Esta invocação ganha o traço <strong>Ataque Letal</strong>. <strong>Ataque Letal</strong>: Uma vez por turno, esta invocação pode causar dano adicional a uma criatura que acertar com um ataque se tiver vantagem na jogada de ataque. Este dano adicional é Xd8. (X = Metade do nível da invocação)</p></li></ul>",
+   "advancement": {
+    "JcaLWxRXwIJZWcDN": {
+     "title": "Espaços de Jutsu"
+    },
+    "E71uvLesclSfrTIh": {
+     "title": "Rank C"
+    },
+    "KYySf9nyZTVhZvVI": {
+     "title": "Rank D"
+    },
+    "cMzamuc9SAHZuS3n": {
+     "title": "Rank B"
+    },
+    "6n62mqh4n81SIrVy": {
+     "title": "Rank A"
+    },
+    "TtpNHp09QTV3M50F": {
+     "title": "Rank S"
+    },
+    "m3Tkt8ZWHKGCQVv1": {
+     "title": "Deslocamento"
+    },
+    "nXMOeXc1iGi6xOuD": {
+     "title": "Características Tribais"
+    },
+    "Ql7pENbCgGQF1TD3": {
+     "title": "Arma Natural"
+    }
+   }
+  },
+  "vdiNA8tW3S01ZEvD": {
+   "name": "Atacante",
+   "description": "<p>Esta invocação possui a característica Multiataque, sendo capaz de fazer dois ataques usando suas armas naturais ou empunhadas.</p>"
+  },
+  "vl7UtADFlso3wfHo": {
+   "name": "Tocaieiro",
+   "description": "<p>Esta invocação ganha o traço <strong>Ataque Letal</strong>, sendo capaz de causar dano adicional quando acerta um ataque em uma criatura surpresa. Tribos diferentes possuem condições alternativas para ativar este efeito. Ativar este efeito custa um número de Espaços de Jutsu igual ao Rank da Invocação. </p><p>(Rank D/Rank C: 1 Espaço, Rank B/Rank A: 2 Espaços, Rank S: 3 Espaços)</p>"
+  },
+  "yabLAflDiFON4amG": {
+   "name": "Tática de Inu",
+   "description": "<p>Você tem vantagem em jogadas de ataque contra uma criatura se pelo menos um de seus aliados estiver a até 5 pés da criatura.</p>"
+  },
+  "ye5pE4k0ygMGylk7": {
+   "name": "Tribalismo de Usagi",
+   "description": "<p>Esta invocação pode optar por tornar seus aliados imunes ao Ninjutsu que conjura, como se estivesse usando a modelagem Ninjutsu Cuidadoso. Ela pode fazer isso duas vezes por descanso longo.</p>"
+  },
+  "yjKr4wNIJ23G3IGX": {
+   "name": "Predador Alfa",
+   "description": "<p>Esta invocação, enquanto oculta, ganha um bônus de +2 em sua margem de ameaça crítica.</p>"
+  },
+  "zfXoYLv2GGaZuRjc": {
+   "name": "Lagarto",
+   "description": "<p>Lagartos são guerreiros pacientes e capazes. Podem ser bípedes ou quadrúpedes, e são adequados para uma série de tarefas diferentes. Frequentemente são vistos como primos menores dos dragões, uma comparação que detestam profundamente. Lagartos amam vencer, e só servirão a quem não despreza os fracos.</p><hr><p><strong>Tipo de Invocação</strong>: Dragão</p><p><strong>Robustez</strong>: 8</p><p><strong>Atributo Defensivo</strong>: Força</p><p><strong>Testes de Resistência</strong>: Força, Constituição, Sabedoria</p><p><strong>Perícias da Criatura</strong>: Atletismo, Acrobacia, Furtividade</p><p><strong>Sentidos da Criatura</strong>: Sentido Sísmico (30 pés), Olfato Aguçado</p><hr><h2>Funções</h2><p>Lagartos são os coletores de impostos das tribos sábias. Sua sociedade é fortemente regida por moeda e troca justa. Isso se expressa em seus estilos de combate e luta baseados em controle. Ao criar uma criatura Invocada, selecione uma das seguintes funções;</p><ul><li><p><strong>Atacante</strong>: Esta Invocação tem o traço Multiataque. </p><p>Multiataque: Ela pode fazer até dois ataques usando sua arma Simples ou Cauda. Estes ataques adicionam sua Destreza às jogadas de dano uma vez por turno.</p></li><li><p><strong>Controlador</strong>: Esta invocação ganha um bônus em sua CD de Resistência igual ao seu rank quando invocada (Rank D/Rank C: +1, Rank B/Rank A: +2, Rank S: +3)</p></li></ul>",
+   "advancement": {
+    "mv0ILD1Ovd1MvTMZ": {
+     "hint": "Força, Constituição e Sabedoria"
+    },
+    "JcaLWxRXwIJZWcDN": {
+     "title": "Espaços de Jutsu"
+    },
+    "T5qd9wZc6JJcrf5h": {
+     "hint": "Força"
+    }
+   }
+  }
+ }
+}

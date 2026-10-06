@@ -1,0 +1,1608 @@
+{
+ "label": "NPC",
+ "folders": {
+  "Class Mod Helpers": "Auxiliares de Modificação de Classe",
+  "Tribe Summons": "Invocações de Tribo",
+  "Jutsu Summons": "Invocações de Jutsu",
+  "Classes Npc": "Classes NPC",
+  "Inuzuka Summons": "Invocações Inuzuka"
+ },
+ "entries": {
+  "1QsUxCrtDqxs30Ic": {
+   "name": "Enxame de Marionetes",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/cheat-sheets/puppet-swarm.webp\">",
+   "items": {
+    "1XrPubIpTuKueS2x": {
+     "name": "Ataque",
+     "description": "<p>(X Comandos)</p><p>Escolha uma arma que uma de suas Marionetes possua.</p><p> Faça um ataque com essa arma contra uma criatura dentro do alcance.</p><p> Para cada comando que você gastar para usar esta Ação Especial, você envia Marionetes para ajudar sua Ferramenta de Marionete inicial, concedendo ao ataque +1 em acerto e um bônus de +3 na jogada de dano.</p><p> Se você usar um upgrade que faça uma jogada de ataque ou que imponha um teste de resistência, deve gastar um comando adicional para utilizá-lo com esta ação especial.</p><p> Se a Performance de 100 Marionetes estiver ativa e você gastar pelo menos dois Comandos, suas Marionetes ganham vantagem no ataque.</p><p></p>"
+    },
+    "3ZGfyglGkmQLxzwo": {
+     "name": "Ferramenta Marionete",
+     "description": "<p>O Enxame tem acesso às mesmas características do bloco de estatísticas da Ferramenta de Marionete.</p><p> Quaisquer upgrades que forneçam efeitos passivos continuam ativos normalmente; porém, upgrades que exijam jogadas de ataque ou que imponham testes de resistência só podem ser usados com a Ação Especial de Ataque (a menos que um upgrade especifique o contrário).</p><p></p>"
+    },
+    "9ZkRZ9T8CXt4oBqd": {
+     "name": "Defender",
+     "description": "<p>(2 Comandos).</p><p> Você gasta dois comandos para fazer com que Marionetes circulem em torno de uma criatura aliada dentro do alcance e a protejam.</p><p> Até o início do seu próximo turno, todos os ataques que têm essa criatura como alvo são feitos com uma penalidade de -1d4, e a criatura ganha um bônus de +1d4 no primeiro teste de resistência que fizer por turno.</p><p> Se a Performance de 100 Marionetes estiver ativa, aumente os 1d4 para 1d6.</p><p></p>"
+    },
+    "CW2UjjLCnw5Px3mE": {
+     "name": "Um Entre Muitos",
+     "description": "<p>O Enxame de Marionetes conta como uma única Marionete para fins de jutsu, ataques e outros efeitos que o tenham como alvo; porém, conta como sendo múltiplas Marionetes para fins de interação com características de classe da Técnica Vermelha. </p><p>Como uma Ação Bônus, você pode comandar uma única Marionete para realizar uma ação e se mover. </p><p>A Marionete só pode se mover até a metade de seu deslocamento de distância do Enxame, já que, até o final do turno, ela retorna ao Enxame.</p>"
+    },
+    "Re4k3HNMBZkCBQXB": {
+     "name": "Enxame de Marionetes",
+     "description": "<p>O Enxame de Marionetes é formado por cópias das suas Marionetes existentes, até você ter um total de 10/100 Marionetes.</p><p> Ao determinar as estatísticas do Enxame de Marionetes, escolha o valor mais alto de cada atributo entre todas as suas Marionetes.</p><p> Cada Marionete copiada compartilha as mesmas estatísticas e Upgrades de Marionete (quaisquer upgrades com limite de uso ou que exijam munição têm seus usos/munição compartilhados com o enxame inteiro e NÃO são restaurados quando o enxame é ativado).</p><p> Enquanto o Enxame de Marionetes estiver ativo, você ganha acesso a todas as Funções de Marionete, e na primeira vez que invocar o Enxame de Marionetes por descanso longo, você recupera metade de quaisquer usos gastos de Upgrades.</p><p> Se você invocar a Performance de 100 Marionetes, recupere todos os usos.</p><p></p>"
+    },
+    "VzIiIE9FxttDoP2O": {
+     "name": "Performance de 100 Marionetes",
+     "description": "<p>Quando a Performance de 100 Marionetes está ativa, o Enxame de Marionetes se torna de tamanho Gigantesco e dobra seus pontos de vida. </p><p>Ele também ganha um bônus de +2 na CA. </p><p>Você também ganha melhorias em suas Ações Especiais e mais Comandos, conforme indicado abaixo.</p>"
+    },
+    "ZrxZnYjlOwL9a7b2": {
+     "name": "Enxame",
+     "description": "<p>(3 Comandos)</p><p>Você gasta 3 comandos para enxamear criaturas hostis em um raio de 20 pés a até 60 pés do enxame.</p><p>A criatura deve fazer um teste de resistência de Força ou Destreza (sua escolha, para todas as criaturas), sofrendo os efeitos listados; se a Performance de 100 Marionetes estiver ativa, as criaturas têm desvantagem em seu teste de resistência.</p><p></p><p>• Teste de Resistência de Força: As Marionetes começam a espancar as criaturas.<br> Sucesso: Metade do dano, sem efeitos.<br> Falha: Dano de arma de uma marionete, 1 rank de uma condição associada ao tipo de dano da arma escolhida (Concussão-Contundido, Perfurante=Enfraquecido, Cortante-Sangrando).<br> Falha Crítica (Falhar por 5 ou mais): Mesmos efeitos, mas a criatura sofre dano dobrado.</p><p></p><p> • Teste de Resistência de Destreza: As Marionetes começam a atacar as criaturas freneticamente.<br> Sucesso: Metade do dano, sem efeitos.<br> Falha: Dano da arma + 30 pés de recuo horizontal ou 10 pés de recuo para cima (escolha um, para todas as criaturas).<br> Falha Crítica (Falhar por 5 ou mais): Mesmos efeitos, mas as criaturas também ficam Aturdidas em uma falha.</p><p></p>"
+    },
+    "uIdwenmIjr7BWYoh": {
+     "name": "Performance de Marionetes",
+     "description": "<p>Quando você comanda sua Ferramenta de Marionete usando sua Ação, em vez disso você comanda o Enxame de Marionetes para realizar as seguintes Ações Especiais; </p><p>Essas Ações Especiais consomem de uma reserva de Comandos. </p><p>Enquanto a Performance de 10 Marionetes estiver ativa, você tem 5 Comandos para gastar. </p><p>Enquanto a Performance de 100 Marionetes estiver ativa, você tem 10 Comandos para gastar. </p><p>Você recupera os comandos gastos no início do seu próximo turno.</p>"
+    }
+   }
+  },
+  "1Yl1JK6InOdP3Pcx": {
+   "name": "Yamaskan Jovem",
+   "items": {
+    "2bI6YpgPf2KMmrnA": {
+     "description": "<p><span style=\"font-family:Signika, sans-serif\"><strong style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track)\">Tamaskan Jovem:</strong> Uma raça conhecida por sua habilidade de moldar Chakra. Este Nin-Dog ganha o seguinte;</span></p><ul><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Proficiência em Controle de Chakra e Ninshou.</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Especialização em Intuição.</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Aprende 1 Jutsu de Rank D seguindo os limites de especialidade de Jutsu de Cão/Lobo</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">O primeiro jutsu que seu Nin-Dog conjura por descanso curto não gasta um Espaço de Jutsu.</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">A partir do nível 11, este Nin-Dog aprende 1 jutsu de Rank C seguindo os limites de especialidade de Jutsu de Cão/Lobo</span></p></li></ul>"
+    },
+    "LITjgR12B1kczRy9": {
+     "name": "Mordida",
+     "description": "<p>Em uma rolagem de 16 ou mais, o alvo é derrubado ou arrastado 5 pés em qualquer direção que a invocação desejar.</p>"
+    },
+    "SgOq5oCMh8zwzMJO": {
+     "name": "Sentidos de Cão/Lobo",
+     "description": "<p><strong>Sentidos da Criatura</strong>: Visão no Escuro (30 pés), Olfato e Audição Aguçados</p>",
+     "effects": {
+      "isbhcrMAIm6x4Mfu": {
+       "name": "Sentidos de Cão/Lobo"
+      }
+     }
+    },
+    "ZInHIy5mvFlTUEOA": {
+     "name": "Tamaskan Jovem",
+     "description": "<p>Do Inuzuka @UUID[Compendium.n5eb.clan.Item.uvQdkZlw2ofp6Jfy]{Mestre das Bestas}<br>Uma raça conhecida por sua habilidade de moldar Chakra. Este Nin-Dog ganha o seguinte; </p><ul><li><p>Proficiência em Controle de Chakra e Ninshou. </p></li><li><p>+1 rank de Maestria em Intuição. </p></li><li><p>Aprende 1 Jutsu de Rank D seguindo os limites de especialidade de Jutsu de Cão/Lobo </p></li><li><p>O primeiro jutsu que seu Nin-Dog conjura por descanso curto não gasta um Espaço de Jutsu. </p></li><li><p>A partir do nível 11, este Nin-Dog aprende 1 jutsu de Rank C seguindo os limites de especialidade de Jutsu de Cão/Lobo</p></li></ul><hr><p>Cães e lobos são animais leais. Os cães servem a quem os trata com bondade e respeito. Os lobos servem a líderes poderosos e intimidadores.</p><hr><p><strong>Tipo de Invocação:</strong> Carnívoro</p><p><strong>Robustez</strong>: 10</p><p><strong>Atributo Defensivo</strong>: Destreza</p><p><strong>Testes de Resistência</strong>: Força, Destreza, Constituição, Inteligência, Sabedoria, Carisma</p><p><strong>Perícias da Criatura</strong>: Atletismo, Percepção, Intuição</p><p><strong>Sentidos da Criatura</strong>: Visão no Escuro (30 pés), Olfato e Audição Aguçados</p>",
+     "advancement": {
+      "JcaLWxRXwIJZWcDN": {
+       "title": "Espaços de Jutsu"
+      },
+      "DIhZ59kRd5PbCgK0": {
+       "title": "Dano Natural",
+       "hint": "Isso aumentará dependendo do tamanho da invocação"
+      },
+      "E71uvLesclSfrTIh": {
+       "title": "Rank C"
+      },
+      "cMzamuc9SAHZuS3n": {
+       "title": "Rank B"
+      },
+      "6n62mqh4n81SIrVy": {
+       "title": "Rank A"
+      },
+      "TtpNHp09QTV3M50F": {
+       "title": "Rank S"
+      },
+      "DylqoTdwNcHEulpV": {
+       "title": "Rank D"
+      },
+      "PdN7ILwVJNcXh0tt": {
+       "title": "Especialização"
+      },
+      "kgha9Nixqw58vlzr": {
+       "title": "+8 Aumentos de Valor de Atributo, até 20."
+      },
+      "ZGIi2krdARRm5yFa": {
+       "title": "+8 Aumentos de Valor de Atributo, até 20."
+      },
+      "EtnVhViuV4PKUaUR": {
+       "title": "+8 Aumentos de Valor de Atributo, até 24."
+      },
+      "CscSwKQZ7Q4Chi8G": {
+       "title": "+8 Aumentos de Valor de Atributo, até 26."
+      },
+      "EzpQmvTHD4FKhThc": {
+       "title": "+8 Aumentos de Valor de Atributo, até 28."
+      }
+     }
+    },
+    "wIajB6Ydozl6YOKP": {
+     "name": "Rosnado de Inu",
+     "description": "<p>Como uma Ação, esta invocação pode emitir um rosnado baixo. Quando o faz, uma criatura que ela possa ver a até 30 pés deve fazer um teste de resistência de Sabedoria. Em uma falha, o alvo sofre penalidade de -2 em sua CA até o final de seu próximo turno. Depois de usar este rosnado, esta invocação não pode usar esta ação novamente até o final de seu próximo turno.</p>",
+     "effects": {
+      "mhxiewizdY0wnAkJ": {
+       "name": "Rosnado de Inu"
+      }
+     }
+    }
+   }
+  },
+  "2DwgcczMnetI7KXG": {
+   "name": "Dragão de Argila",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/clay-dragon.webp\">",
+   "items": {
+    "4QgzbREWThdvH5Ft": {
+     "name": "Cauda",
+     "description": "<p>Ataque de Arma Corpo a Corpo: alcance 10 pés, uma criatura. Acerto: 19 (3d8 + 5) de dano de concussão.</p>"
+    },
+    "FofpJsiRCdnIMIle": {
+     "name": "Embate",
+     "description": "<p>Se o Dragão de Argila voar em linha reta por pelo menos 10 pés, ele pode realizar o ataque Embate. </p><p>Todas as criaturas em linha reta depois que o dragão se moveu pelo menos 10 pés devem obter sucesso em um teste de resistência de Destreza, sofrendo 6d8 de dano de concussão em uma falha, ou metade do dano em um sucesso.</p>",
+     "condition": "Voar pelo menos 10 pés em linha reta"
+    },
+    "ZSmzndCNbxoWjof6": {
+     "name": "Armas Elementais",
+     "description": "<p>Os ataques do Dragão de Argila são potencializados por chakra.</p>"
+    },
+    "hCnMWfwsbb8MqLSh": {
+     "name": "Detonação",
+     "description": "<p>O Dragão de Argila explode em um belo espetáculo incendiário. </p><p>Todas as criaturas a até 20 pés do dragão devem obter sucesso em um teste de resistência de Destreza contra sua CD de resistência de Ninjutsu. Em uma falha, sofrem 12d8 de dano de energia, ou metade do dano em um sucesso.</p>"
+    },
+    "mwFR3fmn059swk8Q": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Dragão de Argila pode atacar 2 vezes com sua Cauda.</p>"
+    },
+    "qutEikpp6xZmRiEc": {
+     "name": "Forma Imutável",
+     "description": "<p>O Dragão de Argila é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "wcD4eUzkoY5LcnSl": {
+     "name": "Liberação de Explosão: Pássaros de Argila [A]",
+     "description": "<p>Palavras-chave: Hijutsu, Ninjutsu, Liberação de Raio, Liberação de Terra, Fuinjutsu, Estilo Artístico</p><p>Você molda argila, terra ou outra substância terrosa inorgânica em três pássaros de sua descrição. Esses pássaros então voam em direção a um alvo dentro do alcance, ignorando cobertura. Faça um ataque de Ninjutsu à distância. Em um acerto, você causa dano de energia igual a 3d10 + seu modificador de habilidade de Ninjutsu. Em um acerto, a(s) criatura(s) afetada(s) deve(m) fazer um teste de resistência de Força, sendo derrubada(s) e cegada(s) até o final de seu próximo turno em uma falha.</p><p>Em Ranks Superiores: Para cada rank em que você conjurar este jutsu acima do Rank D, aumente o custo deste jutsu em 3, o número de criaturas que você pode escolher como alvo em +1 e o dano em 1d10.</p>"
+    },
+    "zal3ETkJKGzvfoI0": {
+     "name": "Composição Inefável",
+     "description": "<p>O Dragão de Argila não pode ser dissipado por nenhum jutsu de Rank B ou inferior.</p>"
+    },
+    "zhyCWhHzpxQDhqyX": {
+     "name": "Sopro Explosivo",
+     "description": "<p>O Dragão de Argila conjura Liberação de Explosão: Pássaros de Argila no Rank A como se você o tivesse conjurado, usando seu bônus de ataque de Ninjutsu, CD de resistência ou modificador de habilidade quando necessário.</p>"
+    }
+   }
+  },
+  "3VpWohrWHNM3zvM4": {
+   "name": "Cria",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/broodling.webp\">",
+   "items": {
+    "O7Ln4U8WKabtMEFo": {
+     "name": "Mordida",
+     "description": "<p>Ataque de Arma Corpo a Corpo: alcance 5 pés, uma criatura. Acerto: 10 (2d4 + 5) de dano de veneno. </p><p>Se uma criatura estiver envenenada ou Empeçonhada, esse dano é aumentado em 1d4.</p>"
+    },
+    "QdxUee1e1ZrTgFO7": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>A Cria pode atacar 2 vezes com sua Mordida.</p>"
+    },
+    "ak2L9mpqVzMztbPe": {
+     "name": "Escalar como Aranha",
+     "description": "<p>A Cria pode escalar ou atravessar qualquer superfície sem sofrer penalidades de deslocamento.</p>"
+    }
+   }
+  },
+  "4LpPZYhIBrktHRms": {
+   "name": "Dragão de Pedra",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/stone-dragon.webp\">",
+   "items": {
+    "61AsJgNZasoQ2XGO": {
+     "name": "Armas Elementais",
+     "description": "<p>Os ataques dos Dragões são potencializados por chakra.</p>"
+    },
+    "GNZDfanfVSIv6NR0": {
+     "name": "Mordida"
+    },
+    "R3jCUTGofINPai7o": {
+     "name": "Forma Imutável",
+     "description": "<p>O Dragão da Terra é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "eHYkgKXd6Wya8h6C": {
+     "name": "Sopro de Poeira",
+     "description": "<p>O dragão exala Poeira em um cone de 30 pés.</p><p>Cada criatura nesse cone deve fazer um teste de resistência de Destreza, sofrendo 55 (10d10) de dano de Terra e 3 ranks de contundido em uma falha, ou metade do dano em um sucesso.</p>"
+    },
+    "pqOqUmtKX8mo8TSI": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Dragão da Terra pode atacar 3 vezes com sua Mordida.</p>"
+    }
+   }
+  },
+  "908bbcd4f194ca8e": {
+   "name": "Monstro de Fios do Rancor da Terra",
+   "description": "<h2>Modelo de Monstro de Fios</h2><p>Defina o Nível de Desafio deste Ator como o nível de Medo do Rancor da Terra do invocador. Após a invocação, defina a CA como a CD de resistência completa da Arte dos Fios, os PV máximos e o Chakra temporário como quatro vezes essa CD, e adicione o Jutsu roubado do coração. O perfil de invocação nativo utiliza ataques, testes de resistência e proficiência do dono.</p><p>Sua arma natural causa 3d6 mais dano necrótico igual ao nível de modificação de classe, com alcance de 15 pés. Ela não possui ação bônus, a menos que Monstros do Marionetista seja conhecido.</p>",
+   "items": {
+    "1a00998e071e6559": {
+     "name": "Monstro de Fios Vinculado ao Coração",
+     "description": "<p>Esta invocação usa os testes de resistência, bônus de ataque e CDs de resistência de seu dono, e pode conjurar o Jutsu ligado ao coração ejetado usando seu próprio Chakra temporário. O dono não pode usar esse Jutsu enquanto ela estiver invocada. Ela age como parte do turno do dono sob um comando compartilhado de ação bônus ou reação. Se for destruída, seu dono sofre 10 de Decadência e o coração permanece no local do token.</p>"
+    },
+    "496e8a912476da0f": {
+     "name": "Arma Natural de Fios",
+     "description": "<p>Ataque Corpo a Corpo de Arte dos Fios, alcance 15 pés. Em um acerto, cause 3d6 mais dano necrótico igual ao nível de Medo do Rancor da Terra do invocador.</p>",
+     "activities": {
+      "02342e98f41e2073": {
+       "name": "Ataque",
+       "condition": "Defina o Nível de Desafio deste Ator como igual ao nível de Medo do Rancor da Terra de seu invocador."
+      }
+     }
+    }
+   }
+  },
+  "96VZX9Ol2znvjLXo": {
+   "name": "Leão de Tinta",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/ink-lion.webp\">",
+   "items": {
+    "ABSnrcuxZ0UUbvs9": {
+     "name": "Dilacerar",
+     "description": "<p>O Leão de Tinta, como uma ação bônus, pode entrar em uma postura de salto visando uma criatura a até 15 pés dele. </p><p>Quando faz isso, ele salta para dilacerar a criatura alvo. Até o final deste turno, seus ataques de Garra contra a criatura alvo são feitos com vantagem.</p>"
+    },
+    "DkmxLWA6GxwRktZl": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Leão de Tinta pode atacar duas vezes com suas garras.</p>"
+    },
+    "apNBo9GkzuvQGzEC": {
+     "name": "Garra"
+    },
+    "d28HdveEcqe0uNaK": {
+     "name": "Armas de Tinta",
+     "description": "<p>Os ataques dos Leões de Tinta são potencializados por chakra.</p>"
+    },
+    "ecGYDTlx8S0Wqw4T": {
+     "name": "Forma Imutável",
+     "description": "<p>O Leão de Tinta é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    }
+   }
+  },
+  "BtEsoZhBrJvURYX0": {
+   "name": "Tigre de Tinta",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/ink-tiger.webp\">",
+   "items": {
+    "0F1tPxi00rrBo89S": {
+     "name": "Garra",
+     "description": "<p> Uma criatura que sofrer dano deste ataque deve fazer um teste de resistência de Constituição, ganhando 2 ranks da condição sangrando.</p>"
+    },
+    "AAQ9ZkjpKrZ5Tyl9": {
+     "name": "Armas de Tinta",
+     "description": "<p>Os ataques do Tigre de Tinta são potencializados por chakra.</p>"
+    },
+    "AHbFacd97R0aQooS": {
+     "name": "Forma Imutável",
+     "description": "<p>O Tigre de Tinta é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "H0NduY5k29sfgfbG": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Tigre de Tinta pode atacar duas vezes com suas garras.</p>"
+    },
+    "yPYgLhAWG3JRwIUW": {
+     "name": "Rugido",
+     "description": "<p>O Tigre de Tinta, como uma ação bônus, pode rugir. </p><p>Todas as criaturas de sua escolha a até 20 pés dele devem fazer um teste de resistência de Carisma. </p><p>Em uma falha, ganham 3 ranks de Medo pela duração. </p><p>Ao final do turno de uma criatura amedrontada, ela refaz o teste de resistência de Carisma para encerrar a condição Medo.</p>"
+    }
+   }
+  },
+  "EGahpvfaSNJ5ntot": {
+   "name": "Leão de Água Supremo",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/supreme-water-lion.webp\">",
+   "items": {
+    "7ALWWfFQcsUkcnjd": {
+     "name": "Armas Elementais",
+     "description": "<p>Os ataques dos Leões são potencializados por chakra.</p>"
+    },
+    "DwLs0BSI0nFb95aq": {
+     "name": "Garra",
+     "description": "<p> Uma criatura atingida por este ataque deve fazer um teste de resistência de Constituição contra sua CD de resistência de Ninjutsu. Em uma falha, ganha 1 rank de Resfriado.</p>"
+    },
+    "MAA0aoIzufQJT0pV": {
+     "name": "Engolir",
+     "description": "<p>O Leão de Água faz um ataque de mordida contra uma criatura Grande ou menor que esteja agarrando.</p><p>Se o Ataque acertar, o alvo é engolido, e o agarrão termina.</p><p>O alvo engolido fica contido, mas totalmente visível na barriga do Leão de Água, embora não possa ser alvo de nenhum jutsu.</p><p>Enquanto estiver dentro do Leão, deve ser capaz de respirar debaixo d'água, ou começa a se afogar.</p><p>Uma criatura se afogando pode sobreviver por um número de rodadas igual a seu Modificador de Constituição (mín. 1) antes de cair inconsciente como resultado do afogamento.</p><p>Se uma criatura inconsciente continuar se afogando, no início do turno da criatura inconsciente, ela sofre dano de Frio igual a 6d6 + 9.</p><p>Uma criatura inconsciente que não esteja mais se afogando pode ser despertada por outra criatura como uma ação bônus.</p>"
+    },
+    "TEC3Soyfk28AuxNQ": {
+     "name": "Descarga Hídrica",
+     "description": "<p>O Leão exala chakra de Liberação de Água Pura em um cone de 60 pés. </p><p>Cada criatura, exceto seu invocador, nesse cone deve fazer um teste de resistência de Destreza contra sua CD de resistência de Ninjutsu, sofrendo 10d10 de dano de Frio e 2 ranks de Resfriado em uma falha, ou metade do dano em um sucesso.</p>"
+    },
+    "fBJ4i5XgdkJcz2zI": {
+     "name": "Mordida",
+     "description": "<p> Uma criatura atingida por este ataque deve fazer um teste de resistência de Força contra sua CD de resistência de Ninjutsu. </p><p>Em uma falha, fica agarrada. Até que esse agarrão termine, o alvo fica contido e o Leão não pode morder outro alvo.</p>"
+    },
+    "i3XbmJ4QImUue8rV": {
+     "name": "Um com a Água",
+     "description": "<p>Quando o leão está em contato com um corpo de água grande o suficiente para submergir, ele ganha deslocamento de natação de 250 pés e Visão Verdadeira de 90 pés contra outras criaturas submersas.</p>"
+    },
+    "vq9JZBeSJPQigm5X": {
+     "name": "Forma Imutável",
+     "description": "<p>O Leão de Água Supremo é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "xVx8Ucz8SfDci1AJ": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Leão de Água Supremo pode atacar 3 vezes. Duas vezes com suas garras e uma vez com sua mordida.</p>"
+    }
+   }
+  },
+  "GJpuQ0YCltwaSVxf": {
+   "name": "Dragão de Sangue",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/blood-dragon.webp\">",
+   "items": {
+    "7rFzFDk5ZnqMtAdY": {
+     "name": "Armas Elementais",
+     "description": "<p>Os ataques dos Dragões são potencializados por chakra</p>"
+    },
+    "8BnuATpy4eb8MiAy": {
+     "name": "Bala de Hidra",
+     "description": "<p>Ataque de Arma à Distância: Alcance (60/120), uma criatura. Acerto: 4d6+6 de dano de Frio ou Necrótico (escolha um).</p>"
+    },
+    "Fp3tnCoavxTVSeeQ": {
+     "name": "Genjutsu: Lago de Sangue! [A]",
+     "description": "<p>Palavras-chave: Hijutsu, Liberação de Água, Genjutsu, Tátil</p><p>Um genjutsu que faz o alvo experimentar uma sensação de afogamento, exaurindo-se como se seu corpo realmente estivesse passando por um trauma físico. Escolha um alvo dentro do alcance. Essa criatura deve obter sucesso em um teste de resistência de Sabedoria.</p><p>Se este jutsu for usado enquanto seu Ketsuryūgan estiver ativo, todas as criaturas a até 5 pés do alvo, à sua escolha, também devem fazer esse teste de resistência.</p><p>Sucesso Crítico: A criatura consegue resistir aos efeitos deste jutsu e não pode ser afetada por este jutsu por 1 minuto</p><p>Sucesso: A criatura consegue resistir aos efeitos deste jutsu.</p><p>Falha: A criatura perde a visão de seu entorno e vê uma pequena fenda se abrir sob seus pés, revelando um oceano vermelho. A criatura cai na água e sente como se estivesse presa há vários dias, tentando constantemente escapar e não se afogar. A criatura ganha 2 ranks de Exaustão por 1d4 rodadas.</p><p>Falha Crítica: Mesmos efeitos de uma falha, mas o alvo sofre 4d8 de dano psíquico, e a Exaustão dura 1d4+2 rodadas. Ela também ganha 3 ranks de Exaustão.</p><p>Em Ranks Superiores: Para cada rank em que você conjurar este jutsu acima do Rank C, aumente o custo deste jutsu em 3, o alcance em 15 pés e a duração da condição Exaustão em 1 rodada.</p>"
+    },
+    "FxixILx4teLfoJb2": {
+     "name": "Corpo Líquido",
+     "description": "<p>Criaturas podem passar através do seu corpo a critério de seu invocador. </p><p>Se uma criatura terminar seu turno em seu espaço, ela é imediatamente ejetada de você para um espaço que possa contê-la.</p>"
+    },
+    "L8TqzB1JAu0jV952": {
+     "name": "Forma Imutável",
+     "description": "<p>O Dragão de Sangue é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "OWdhDTGuuPlXoFxP": {
+     "name": "Composição Inefável",
+     "description": "<p>O Dragão de Sangue não pode ser dissipado por nenhum jutsu de Rank A ou inferior.</p>"
+    },
+    "RyYhBUvhNHc2CGWO": {
+     "name": "Mordida",
+     "description": "<p>Ataque de Arma Corpo a Corpo: alcance 10 pés, uma criatura. Acerto: 3d10 + 6 de dano de Frio ou Necrótico (escolha um).</p>"
+    },
+    "Vh0kj7vWzqKR7DTn": {
+     "name": "Vórtice Violento",
+     "description": "<p>As cabeças do dragão convergem e formam uma torrente gigantesca de água, despedaçando tudo o que tocam. </p><p>O dragão se desloca até um espaço dentro de seu deslocamento, seguindo um caminho específico que você designa. </p><p>Cada criatura dentro desse caminho deve obter sucesso em um teste de resistência de Destreza, sofrendo 10d4 de dano de frio ou necrótico (escolha um) e tendo seu deslocamento reduzido à metade até o final de seu próximo turno em uma falha, ou metade do dano e nenhum efeito adicional em um sucesso.</p>"
+    },
+    "pzblufAnUkUUBQu4": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Dragão de Sangue pode atacar 2 vezes com sua Mordida ou Bala de Hidra.</p>"
+    },
+    "x8bHE2AJJonZtEWm": {
+     "name": "Oceano de Sangue",
+     "description": "<p>(Recarga 9-10): O Dragão de Sangue conjura Genjutsu: Lago de Sangue no Rank A como se você o tivesse conjurado duas vezes, em dois locais diferentes, usando sua CD de resistência de Ninjutsu.</p>"
+    }
+   }
+  },
+  "HLvXfR99QT7VOk9r": {
+   "name": "Fantasma Sombrio",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/dark-phantasm.webp\">",
+   "items": {
+    "AacDKj6RO0QRKjhf": {
+     "name": "Movimento Incorpóreo",
+     "description": "<p>O fantasma pode se mover através de outras criaturas e objetos como se fossem terreno difícil. </p><p>Ele sofre 5 de dano se terminar seu turno dentro de um objeto.</p>"
+    },
+    "EzW7xWKFgot3gpMJ": {
+     "name": "Passo Fantasmal",
+     "description": "<p>O Fantasma pode usar seu bônus de Furtividade.</p>"
+    },
+    "xZvj1dFwDLePxF7E": {
+     "name": "Garras"
+    }
+   }
+  },
+  "N7VxP7A96ZQgrKwC": {
+   "name": "Anjo/Demônio de Dados",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/data-angel-demon.webp\">",
+   "items": {
+    "1qTm0WiTYtNlEOsL": {
+     "name": "Habilidade Projetada",
+     "description": "<p>Dependendo da escolha de seu invocador entre Anjo de Dados ou Demônio de Dados, você ganha o seguinte;</p><p></p><p>Anjo: </p><p>Você é classificado como um Celestial e ganha uma arma corpo a corpo Espadão que causa 2d6+3 de dano de energia em um acerto. </p><p></p><p>Você emite uma aura curativa revigorante. </p><p>Aliados (excluindo outros Anjos) a até 20 pés de você ganham +1 em testes de resistência e recuperam 5 pontos de vida no início de cada um de seus turnos. (Isso pode se acumular até duas vezes, com múltiplos Anjos.)</p><p></p><p></p><p>Demônio: </p><p>Você é classificado como um Demônio e ganha uma arma corpo a corpo Garras que causa 3d4+3 de dano de energia em um acerto. </p><p></p><p>Você tem uma presença furiosa. </p><p>Para cada Demônio a até 30 pés de você, seus ataques ganham +1 em jogadas de ataque e na CD de resistência. </p><p>Aliados a até 15 pés de você perfuram 3 de RD ao causar dano a uma criatura hostil (Isso pode se acumular até duas vezes, com múltiplos Demônios)</p>"
+    },
+    "7MSa60ogCMWg3t46": {
+     "name": "Programação Embutida",
+     "description": "<p>Anjos/Demônios de Dados só podem ser comandados por seu invocador. </p><p>Eles são proficientes em todos os testes de resistência, usando o modificador de habilidade de Ninjutsu de seu invocador como bônus de proficiência. </p><p>Eles também usam o bônus de ataque de Ninjutsu e a CD de resistência de seu invocador. </p><p>O invocador pode comandar qualquer número de Anjos/Demônios para se mover em seu turno (nenhuma ação necessária) e pode comandar um deles, como uma ação bônus, para realizar sua ação. </p><p>No Rank S, o invocador pode comandar um Anjo/Demônio para realizar sua ação em seu turno (nenhuma ação necessária), uma vez por rodada.</p>"
+    },
+    "OQCljzRI1oIr8d8J": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>Você pode fazer dois ataques com seu Espadão ou Garras, respectivamente.</p>"
+    },
+    "gl55h6sORPmWEVKK": {
+     "name": "Mergulho Bombardeiro",
+     "description": "<p>Você voa alto no ar e desce em disparada com velocidade incrível, enviando uma explosão de chakra azul (anjo) ou vermelho (demônio) para um espaço dentro de 60 pés. </p><p>Todas as criaturas a até 15 pés desse espaço, à sua escolha, devem obter sucesso em um teste de resistência de Destreza, sofrendo 4d6 + metade do nível de seu Invocador em dano de energia em uma falha, ou metade em um sucesso.</p>"
+    },
+    "r1xx7FKhTsEqZ0xl": {
+     "name": "(Demônio) Mísseis Vermelhos",
+     "description": "<p>Você gira no ar e forma 3 esferas de chakra vermelho. Faça 3 ataques de Ninjutsu à distância. </p><p>Em um acerto, a criatura sofre 1d12+3 de dano de energia, perfurando a RD, e deve obter sucesso em um teste de resistência de Constituição, ficando Enfraquecida até o final de seu próximo turno em uma falha.</p>"
+    },
+    "sENWeOsAvNXDPftO": {
+     "name": "Forma Imutável",
+     "description": "<p>Anjos/Demônios de Dados são imunes a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "tf9Q1MF2bRGFUBim": {
+     "name": "(Anjo) Laser Azul",
+     "description": "<p>Você lança um feixe de chakra azul em uma linha de 60 pés de comprimento e 5 pés de largura. </p><p>Cada criatura dentro do alcance, à sua escolha, deve obter sucesso em um teste de resistência de Sabedoria, sofrendo 5d8 de dano de energia e ficando Cega até o início de seu próximo turno, ou metade do dano e nenhum efeito em um sucesso.</p>"
+    },
+    "xH7q5ioUSf1GYbAk": {
+     "name": "Armas Holográficas",
+     "description": "<p>Os ataques dos Anjos/Demônios de Dados são potencializados por chakra.</p>"
+    }
+   }
+  },
+  "Ne5gxOmbUnjT0IFh": {
+   "name": "Doki (Clava)",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/doki-club.webp\">",
+   "items": {
+    "PDflSTPRJsrshjBs": {
+     "name": "Imunidade Demoníaca",
+     "description": "<p>Doki são imunes a efeitos negativos e dano causados por jutsus conjurados com a Ferramenta Ninja Auditiva.</p>"
+    },
+    "QeKXH24TmtKWNuwT": {
+     "name": "Revolta do Mundo Demoníaco",
+     "description": "<p>Ataque de Genjutsu à Distância +seu bônus de ataque de Genjutsu para acertar, alcance 30 pés, um alvo. Acerto: 6d8 de dano psíquico, e metade</p><p>desse valor em dano de chakra. </p><p>Uma criatura com 0 pontos de chakra sofre dano psíquico dobrado.</p>"
+    },
+    "WaOgKrTbLYHAEj1k": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>Doki (Clava) pode fazer 2 ataques com sua clava.</p>"
+    },
+    "oXEn7A1ebRyJrF8Z": {
+     "name": "Clava",
+     "description": "<p>Ataque de Arma Corpo a Corpo: +11 para acertar, alcance 5 pés, um alvo. Acerto: 1d12+4 de dano de concussão</p>"
+    },
+    "tJSopN9gWwlm3azZ": {
+     "name": "Golpe de Clava",
+     "description": "<p>O Doki golpeia sua clava contra o solo com toda a força. </p><p>Todas as criaturas a até 20 pés devem fazer um teste de resistência de Destreza, sofrendo 5d6 de dano de concussão e caindo no chão em uma falha, ou metade do dano e nenhum efeito adicional em um sucesso.</p>"
+    }
+   }
+  },
+  "OdGIlggxyQ4NIZJI": {
+   "name": "Verdadeiro Kan'on de 10.000 Braços",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/veritable-10000-armed-kan-on.webp\">",
+   "items": {
+    "0UvcKIiWPy2FR5Hh": {
+     "name": "Defesa Crítica",
+     "description": "<p>Criaturas não podem causar acertos críticos contra Kan'on</p>"
+    },
+    "12oBACttn8ogFpxV": {
+     "name": "Arte Sábia: Paz",
+     "description": "<p>Como uma ação, Kan'on tenta conter um alvo e selar seu chakra. Kan'on realiza a ação de perícia Agarrar. </p><p>Em um sucesso, o alvo deve obter sucesso em um teste de resistência de Constituição. </p><p>Em uma falha, seu chakra é selado, ficando incapaz de gastar chakra. </p><p>Uma criatura selada desta forma não pode gastar chakra até refazer o teste de resistência como uma ação uma vez por dia, ou até que um Senjutsu com a palavra-chave Fuinjutsu a tenha como alvo para romper o selo.</p>"
+    },
+    "48mXilCBEX1iotK6": {
+     "name": "10.000 Mãos",
+     "description": "<p>Ataque de Arma Corpo a Corpo: +20 para acertar, Alcance 25 pés, um alvo.</p><p>Acerto: 10d10 + Força de dano de concussão</p>"
+    },
+    "6f2wZTdhpe7FrHtg": {
+     "name": "Punho do Arrependimento",
+     "description": "<p><span style=\"font-family:Signika, sans-serif\">Ataque de Arma Corpo a Corpo: +20 para acertar, Alcance 15 pés, um alvo. Acerto: 6d12 + Força de dano de chakra.</span></p>"
+    },
+    "KpyeZSNbyEPXsQFa": {
+     "name": "Forma Imutável",
+     "description": "<p>Kan'on é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "R1ZJORjyahDftHfJ": {
+     "name": "Arte Sábia: Blitz",
+     "description": "<p>Como uma ação, enquanto Kan'on não estiver com os 10.000 braços presos às suas costas, ele entra em um estado de êxtase e arrependimento. </p><p>Kan'on dispara pelo campo de batalha atacando criaturas em um ritmo tão rápido que a maioria não conseguiria conceber uma criatura tão grande se movendo tão rapidamente. </p><p>Kan'on faz um número de ataques de Punho do Arrependimento contra cada criatura hostil a até 100 pés dele. </p><p>Faça um ataque de Punho do Arrependimento, comparando o resultado com a CA de todas as criaturas alvo, causando o dano de Punho do Arrependimento a cada criatura um número de vezes igual ao número de criaturas que Kan'on atacou. </p><p>Além disso, criaturas com 0 de Chakra sofrem o triplo do dano causado como dano de energia. Uma vez usada, Kan'on é desinvocado imediatamente.</p>"
+    },
+    "YAyk0l66Osx3FEzJ": {
+     "name": "Grande Demais para Falhar",
+     "description": "<p>Kan'on usa a Proficiência de seu invocador + seu Modificador de Força para todos os testes de resistência e testes de Atletismo.</p>"
+    },
+    "b3GS6djojlpWaB8j": {
+     "name": "Mão de Deus",
+     "description": "<p>Kan'on trata todos os Demônios e Mortos-Vivos como vulneráveis a todos os seus ataques.</p>"
+    },
+    "d2n7aZaCeKTtsfce": {
+     "name": "Palma Aberta do Respeito",
+     "description": "<p>Ataque de Arma Corpo a Corpo: Própria (raio de 30 pés), teste de resistência de Destreza.</p><p>Em uma falha, as criaturas sofrem 14d6 de dano de concussão, ou metade do dano em um sucesso.</p>"
+    },
+    "gnim3WHG0LV53ktS": {
+     "name": "Tributo Sábio",
+     "description": "<p>Quando Kan'on causa dano, esse dano é tratado como o tipo de dano primário de sua tribo (sua interpretação, com aprovação do Mestre)</p>"
+    },
+    "iQnNIf63HpoyjDTb": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>Kan'on pode atacar quatro vezes usando 10.000 Mãos, depois três vezes usando Punho do Arrependimento, depois duas vezes usando Palma Aberta do Respeito.</p>"
+    },
+    "j7hmqg2gziuPInUR": {
+     "name": "Arte Sábia: Guerra",
+     "description": "<p>Como uma Ação Bônus, Kan'on tenta trazer um fim rápido à luta. </p><p>Até o final do turno, os ataques com arma corpo a corpo que Kan'on tentar são feitos com vantagem. </p><p>Em um acerto bem-sucedido, Kan'on dobra o dado de dano rolado.</p>"
+    },
+    "tIO04eAeNFnrJPx7": {
+     "name": "Soltar-se",
+     "description": "<p>Como uma ação bônus, Kan'on se desprende dos 10.000 braços em suas costas. </p><p>Quando faz isso, não pode mais usar seu ataque de 10.000 Mãos e sua CA recebe uma penalidade de -5, mas seu Multiataque aumenta para cinco ataques usando Punho do Arrependimento, seu deslocamento aumenta em 25 pés, e ele pode usar Arte Sábia: Blitz do Sábio.</p>"
+    }
+   }
+  },
+  "Q2O7HlQ0c45Rdz0g": {
+   "name": "Fera Kujaku",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/kujaku-beast.webp\">",
+   "items": {
+    "AzDRcLuwM9VZWlX0": {
+     "name": "Armas Cósmicas",
+     "description": "<p>Os ataques da Fera Kujaku ignoram resistência.</p>"
+    },
+    "TafYwe6UQWeP1XkS": {
+     "name": "Forma Imutável",
+     "description": "<p>A Fera Kujaku é imune a qualquer Jutsu ou efeito que mudaria sua forma.</p>"
+    },
+    "qHhWmEzed5mscjxF": {
+     "name": "Mordida",
+     "description": "<p>Ataque de Arma Corpo a Corpo: bônus de ataque de Ninjutsu do invocador para acertar, alcance 5 pés, um alvo. Acerto: 2d6 + modificador de Ninjutsu do invocador em dano de energia.</p>"
+    }
+   }
+  },
+  "U0r5YseEDt5q4kMP": {
+   "name": "Jovem Inuit",
+   "items": {
+    "FhizMkZFUhhnna7K": {
+     "name": "Mordida",
+     "description": "<p>Em uma rolagem de 16 ou mais, o alvo é derrubado ou arrastado 5 pés em qualquer direção que a invocação desejar.</p>"
+    },
+    "FxXdRqjyYTHLRpGm": {
+     "name": "Jovem Inuit",
+     "description": "<p>Do Inuzuka @UUID[Compendium.n5eb.clan.Item.uvQdkZlw2ofp6Jfy]{Mestre das Bestas}<br>Uma raça conhecida por sua habilidade de caça. Este Nin-Dog ganha o seguinte;</p><ul><li><p>Proficiência em Investigação e Furtividade.</p></li><li><p>+1 rank de Maestria em Percepção.</p></li><li><p>+10 de aumento em seu deslocamento e ignora terreno difícil.</p></li><li><p>Esta raça pode usar Disparada ou Desengajar sem custo de ação, uma vez por rodada como parte de um de seus comandos.</p></li><li><p>A partir do nível 11, seu Nin-Dog ganha os benefícios de sua característica Sentido Selvagem.</p></li></ul><hr><p>Cães e lobos são animais leais. Os cães servem a quem os trata com bondade e respeito. Os lobos servem a líderes poderosos e intimidadores.</p><hr><p><strong>Tipo de Invocação:</strong> Carnívoro</p><p><strong>Robustez</strong>: 10</p><p><strong>Atributo Defensivo</strong>: Destreza</p><p><strong>Testes de Resistência</strong>: Força, Destreza, Constituição, Inteligência, Sabedoria, Carisma</p><p><strong>Perícias da Criatura</strong>: Atletismo, Percepção, Intuição</p><p><strong>Sentidos da Criatura</strong>: Visão no Escuro (30 pés), Olfato e Audição Aguçados</p>",
+     "advancement": {
+      "JcaLWxRXwIJZWcDN": {
+       "title": "Espaços de Jutsu"
+      },
+      "DIhZ59kRd5PbCgK0": {
+       "title": "Dano Natural",
+       "hint": "Isso aumentará dependendo do tamanho da invocação"
+      },
+      "E71uvLesclSfrTIh": {
+       "title": "Rank C"
+      },
+      "cMzamuc9SAHZuS3n": {
+       "title": "Rank B"
+      },
+      "6n62mqh4n81SIrVy": {
+       "title": "Rank A"
+      },
+      "TtpNHp09QTV3M50F": {
+       "title": "Rank S"
+      },
+      "DylqoTdwNcHEulpV": {
+       "title": "Rank D"
+      },
+      "kgha9Nixqw58vlzr": {
+       "title": "+8 Aumentos de Valor de Atributo, até 20."
+      },
+      "ZGIi2krdARRm5yFa": {
+       "title": "+8 Aumentos de Valor de Atributo, até 20."
+      },
+      "EtnVhViuV4PKUaUR": {
+       "title": "+8 Aumentos de Valor de Atributo, até 24."
+      },
+      "CscSwKQZ7Q4Chi8G": {
+       "title": "+8 Aumentos de Valor de Atributo, até 26."
+      },
+      "EzpQmvTHD4FKhThc": {
+       "title": "+8 Aumentos de Valor de Atributo, até 28."
+      }
+     }
+    },
+    "HOrC5JkPCt8A4T5a": {
+     "name": "Sentidos de Cão/Lobo",
+     "description": "<p><strong>Sentidos da Criatura</strong>: Visão no Escuro (30 pés), Olfato e Audição Aguçados</p>",
+     "effects": {
+      "isbhcrMAIm6x4Mfu": {
+       "name": "Sentidos de Cão/Lobo"
+      }
+     }
+    },
+    "OQWmvJSt0Ja3ULe2": {
+     "name": "Rosnado de Inu",
+     "description": "<p>Como uma Ação, esta invocação pode emitir um rosnado baixo. Quando o faz, uma criatura que ela possa ver a até 30 pés deve fazer um teste de resistência de Sabedoria. Em uma falha, o alvo sofre penalidade de -2 em sua CA até o final de seu próximo turno. Depois de usar este rosnado, esta invocação não pode usar esta ação novamente até o final de seu próximo turno.</p>",
+     "effects": {
+      "mhxiewizdY0wnAkJ": {
+       "name": "Rosnado de Inu"
+      }
+     }
+    },
+    "siB34nggYKauy9Yu": {
+     "description": "<p><strong>Jovem Inuit:</strong> Uma raça conhecida por sua habilidade de caça. Este Nin-Cão ganha o seguinte;</p><ul><li><p>Proficiência em Investigação e Furtividade.</p></li><li><p>Especialização em Percepção.</p></li><li><p>Aumento de <strong>+</strong>10 em seu deslocamento e ignora terreno difícil.</p></li><li><p>Esta raça pode usar Disparada ou Desengajar sem custo de ação, uma vez por rodada, como parte de um de seus comandos.</p></li><li><p>Começando no 11º nível, seu Nin-Cão ganha os benefícios de sua característica Sentido Selvagem.</p></li></ul>",
+     "effects": {
+      "dOAibUVlKbopOF92": {
+       "name": "Jovem Inuit"
+      }
+     }
+    }
+   }
+  },
+  "U5k8IpK9GQmc5YJK": {
+   "name": "Aranha Carmesim",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/crimson-spider.webp\">",
+   "items": {
+    "DCk34nVFv2QI6f4Y": {
+     "name": "Teia de Chamas",
+     "description": "<p>O alvo é coberto por teias flamejantes solidificadas e fica contido por elas, sofrendo 2d6+2 de dano de fogo.</p><p>Como uma ação, o alvo contido pode fazer um teste de atributo de Força, libertando-se da teia em um sucesso.</p><p>A teia também pode ser atacada e destruída (CA 10, PV: 5; Vulnerabilidade a dano de frio.)</p>"
+    },
+    "I1DEERKlxujHf8h2": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>A Aranha de Chamas pode atacar 2 vezes com sua Mordida.</p>"
+    },
+    "JGnzqTQeE0udTwE0": {
+     "name": "Corpo Elemental",
+     "description": "<p>Os ataques de arma das Aranhas de Chamas são potencializados por chakra.</p>"
+    },
+    "WhZdZkVrN2WA3AgC": {
+     "name": "Mordida"
+    }
+   }
+  },
+  "YSPta5us8uB497Fb": {
+   "name": "Lacaio Vinculado",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/bound-minion.webp\"><p></p>",
+   "items": {
+    "AQTxr5OMbU6PKXz4": {
+     "name": "Arma de Alma Morta",
+     "description": "<p>Uma Arma Simples</p>"
+    },
+    "IQ0xk4Wc9DAAb8P8": {
+     "name": "Jutsu na Morte",
+     "description": "<p>Um jutsu que o lacaio conhecia em vida.</p>"
+    },
+    "RdFv0Num09p0Lnij": {
+     "name": "Lacaios Vinculados",
+     "description": "<p>Este Lacaio, como sua reação, quando perceber que você sofreria dano, enquanto estiver a até 10 pés de você, interceptará o dano em seu lugar.</p>"
+    }
+   }
+  },
+  "YgOIHKZiAuZqM68h": {
+   "name": "Besta Ninja Científica",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/cheat-sheets/scientific-ninja-beast.webp\">",
+   "items": {
+    "1Dl3zczn8gB6O0AD": {
+     "name": "Inteligência Artificial",
+     "description": "<p>A Fera Ninja Científica é programada para responder apenas ao seu criador; porém, ainda pode realizar funções básicas quando não é comandada.</p><p> Se a Fera Ninja Científica não tiver recebido nenhum comando em um turno, ela realizará a ação Esquivar.</p><p> Se seu mestre ficar incapacitado de alguma forma, ela escolherá um aliado dele, que agora pode usar sua ação bônus para direcionar a Fera Ninja Científica.</p><p></p>"
+    },
+    "F6ZQeltxGjrds0Is": {
+     "name": "Link de Rádio Interno",
+     "description": "<p>Você pode dar ordens à sua F.N.C. enquanto estiver a até 1 milha de distância dela</p>"
+    },
+    "RuEB7GxVPFzwl8bO": {
+     "name": "Identificador Bio-Orgânico",
+     "description": "<p>Seu S.N.B pode gastar 1 minuto analisando uma amostra de uma substância de natureza orgânica; ele pode identificar o que é a substância, sua origem regional e sua idade.</p><p> A partir do nível 15, você conectou seu S.N.B a um banco de dados de DNA.</p><p> A critério do mestre, quando seu S.N.B identificar com sucesso uma substância como sangue, ele pode ser capaz de determinar a quem o sangue pertence.</p><p> Se seu S.N.B tiver acertado a criatura com sucesso usando um ataque de Mordida corpo a corpo e causado dano aos Pontos de Vida do alvo, ele pode reconhecer o sangue automaticamente.</p><p></p>"
+    },
+    "l238EUbQJOr7ehGN": {
+     "name": "Mordida",
+     "description": "<p>O dado de dano deste ataque aumenta para d8 no Nível 9 e depois para d10 no Nível 14.</p>"
+    }
+   }
+  },
+  "Z0mPV9JVy2aYX8u6": {
+   "name": "Dragão Kujaku",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/kujaku-dragon.webp\">",
+   "items": {
+    "AiPbPaGnWblrkpuO": {
+     "name": "Forma Imutável",
+     "description": "<p>O Dragão Kujaku é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "I6W1AEMqxi9chemm": {
+     "name": "Armas Cósmicas",
+     "description": "<p>Os ataques do Dragão Kujaku ignoram resistência.</p>"
+    },
+    "VVHtoCA56FjQdPFf": {
+     "name": "Mordida",
+     "description": "<p>Ataque de arma corpo a corpo: bônus de ataque de ninjutsu do invocador para acertar, alcance de 15 pés, um alvo. Acerto: 4d8 + modificador de ninjutsu do invocador de dano de energia.</p>"
+    },
+    "hNCTUctsVXl8dU6W": {
+     "name": "Forja de Chakra Estelar",
+     "description": "<p>Você pode gastar qualquer quantidade do seu próprio Chakra Estelar para aumentar o dano do ataque de Sopro do Dragão Kujaku em 1d8 de dano de energia para cada 2 pontos de Chakra Estelar gastos.</p>"
+    },
+    "kRJfwejx8bOmZRu8": {
+     "name": "Sopro Estelar",
+     "description": "<p>O Dragão Kujaku expele chakra flamejante em uma linha de 90 pés de comprimento por 5 pés de largura. </p><p>Cada criatura nessa linha deve fazer um teste de resistência de Destreza (CD de Ninjutsu do invocador), sofrendo 8d8 de dano de energia em uma falha, ou metade do dano em um sucesso. </p><p>Uma criatura que falhar nesse teste por 5 ou mais ganha 1 rank de Enfraquecido pelo próximo minuto, à medida que a radiação meteórica penetra sua pele. </p><p>Criaturas afetadas repetem esse teste ao final de seus turnos para encerrar a condição.</p>"
+    },
+    "mm5EzKYWflUjk7iV": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O constructo faz dois ataques com sua Mordida ou usa seu Sopro Estelar.</p>"
+    },
+    "xNhMpgRV884U7ejw": {
+     "name": "Predação de Chakra",
+     "description": "<p>Uma vez por turno, quando o Dragão Kujaku causa dano a uma criatura com sua Mordida, esse alvo perde pontos de chakra iguais à metade do dano causado, e os pontos de vida do Dragão são restaurados na mesma quantidade</p>"
+    }
+   }
+  },
+  "aCEmsxsmvTCWffgG": {
+   "name": "Tubarão de Água",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/water-shark.webp\">",
+   "items": {
+    "I8bcX8DLb5P9XiYt": {
+     "name": "Gatilho do Tubarão",
+     "description": "<p>Quando o Tubarão de Água é reduzido a 0 pontos de vida, ele explode, forçando todas as criaturas a até 10 pés a fazer um teste de resistência de Destreza, sofrendo 5d6 de dano de frio e 1 rank de Resfriado em uma falha, ou metade do dano e nenhum efeito adicional em um sucesso. (Excluindo o conjurador)</p>",
+     "condition": "Quando o Tubarão de Água é reduzido a 0 pontos de vida"
+    },
+    "NCwtyEOo9g5NCp2U": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Tubarão de Água pode atacar 2 vezes com sua Mordida.</p>"
+    },
+    "yrJfGHxYdLKMraoh": {
+     "name": "Mordida",
+     "description": "<p>Em um acerto, o alvo deve fazer um teste de resistência de Força contra a CD de resistência de Ninjutsu do conjurador, sendo agarrado por este Tubarão de Água em uma falha. </p><p>O Tubarão só pode agarrar uma criatura dessa forma por vez.</p>"
+    }
+   }
+  },
+  "aqbIZebKeiPhWwCk": {
+   "name": "Mão das Sombras",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/shadowhand.webp\"><img src=\"systems/n5eb/assets/content/cheat-sheets/shadowhand-sigil-1.webp\"><img src=\"systems/n5eb/assets/content/cheat-sheets/shadowhand-sigil-2.webp\"><img src=\"systems/n5eb/assets/content/cheat-sheets/shadowhand-sigil-3.webp\"><img src=\"systems/n5eb/assets/content/cheat-sheets/shadowhand-sigil-4.webp\">",
+   "items": {
+    "1jSkPmYu51NP3T2N": {
+     "name": "Das Cinzas",
+     "description": "<p>Se os PV da Shadowhand caírem a 0, ela é desinvocada.</p><p>Você pode gastar 10 de Chakra e uma Ordem Corajosa para reinvocá-la com metade de seus PV máximos. Caso contrário, metade de seus Pontos de Vida é restaurada quando você completa um descanso curto, e todos os seus Pontos de Vida quando você completa um descanso longo.</p>"
+    },
+    "M0Yvdkz3T5Z0AfBI": {
+     "name": "Inesgotável",
+     "description": "<p>A Shadowhand não pode conjurar jutsus ou usar efeitos que aumentariam seus próprios ranks de exaustão ou resultariam na morte da Shadowhand.</p>"
+    },
+    "iPGCsR0yGNGRkfsw": {
+     "name": "Golpe Desarmado"
+    },
+    "icWJ2YQkA5lBJK4O": {
+     "name": "Forma Imutável",
+     "description": "<p>A Shadowhand é imune a qualquer jutsu ou efeito que alteraria sua forma.</p>"
+    }
+   }
+  },
+  "b39968ecaa1b5697": {
+   "name": "Guardião da Terra",
+   "description": "<p>Constructo Humanoide Gigantesco. CA 23, PV 100, e Deslocamento 80 pés, cada um aumentando por criatura dentro dele, conforme indicado na página 109 do PDF. FOR 32, DES 18, CON 30. Possui imunidade a todas as condições e resistência a todos os tipos de dano, Visão de Chakra de 120 pés, Visão às Escuras de 60 pés, Defesa Crítica, Forma Imutável, Grande Demais para Ser Seguido, Buscador da Verdade, Kami da Terra, Yang de Muitos, e seis mãos.</p>",
+   "items": {
+    "29a011a1f09f8957": {
+     "name": "Barragem Buscadora da Verdade Suprema (Recarga 5–6)",
+     "description": "<p>Criaturas em um raio de 30 pés dentro de 120 pés fazem um teste de resistência de Destreza e sofrem 7d8 de dano de energia por Orbe em uma falha, metade em um sucesso.</p>",
+     "activities": {
+      "d3975e1ea6d17899": {
+       "name": "Barragem Buscadora da Verdade Suprema (Recarga 5–6)",
+       "durationSpecial": "Instantâneo"
+      }
+     }
+    },
+    "4363af890d4f9374": {
+     "name": "Advento Celestial (Recarga 5–6)",
+     "description": "<p>Criaturas em um raio de 30 pés fazem um teste de resistência de Força, sofrendo 20d12 de dano de energia em uma falha, metade em um sucesso, mais 2d12 por criatura dentro dele.</p>",
+     "activities": {
+      "ffc9a0b801cba0e5": {
+       "name": "Advento Celestial (Recarga 5–6)",
+       "durationSpecial": "Instantâneo"
+      }
+     }
+    },
+    "55a1d91cc767cfc8": {
+     "name": "Explosão da Verdade",
+     "description": "<p>Faça um ataque de arma corpo a corpo com +20 para acertar e alcance de 30 pés. Acerto: 10d6 + Força de dano de energia.</p>",
+     "activities": {
+      "714c38e0f63df69d": {
+       "name": "Explosão da Verdade",
+       "durationSpecial": "Instantâneo"
+      }
+     }
+    },
+    "f6b744be2c5310b3": {
+     "name": "Punho Guardião",
+     "description": "<p>Faça um ataque de arma corpo a corpo com +20 para acertar e alcance de 20 pés. Acerto: 10d10 + Força de dano de concussão ou cortante.</p>",
+     "activities": {
+      "d95621dcffc09816": {
+       "name": "Punho Guardião",
+       "durationSpecial": "Instantâneo"
+      }
+     }
+    }
+   }
+  },
+  "bNNgpFHbpH0D92qI": {
+   "name": "Urso de Tinta",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/ink-bear.webp\">",
+   "items": {
+    "0F1tPxi00rrBo89S": {
+     "name": "Garra"
+    },
+    "AAQ9ZkjpKrZ5Tyl9": {
+     "name": "Armas de Tinta",
+     "description": "<p>Os ataques do Urso de Tinta são potencializados por chakra.</p>"
+    },
+    "AHbFacd97R0aQooS": {
+     "name": "Forma Imutável",
+     "description": "<p>O Urso de Tinta é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "H0NduY5k29sfgfbG": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Urso de Tinta pode atacar duas vezes com suas garras.</p>"
+    },
+    "oub9rhf2ZvFlHmr0": {
+     "name": "Bloqueio Corporal",
+     "description": "<p>O Urso de Tinta pode, como reação, interpor-se em um ataque direcionado a uma criatura aliada a até 30 pés dele. Ao fazer isso, o ataque que o desencadeou é tratado como se estivesse direcionado ao Urso de Tinta.</p>"
+    },
+    "yPYgLhAWG3JRwIUW": {
+     "name": "Carga",
+     "description": "<p>O Urso de Tinta avança 70 pés em linha reta.</p><p>Todas as criaturas em seu caminho devem fazer um teste de resistência de Força. </p><p>Em uma falha, elas sofrem 3d6 de dano de concussão, ficam Caídas e Aturdidas.</p>"
+    }
+   }
+  },
+  "chxTsPtx1LbbncW8": {
+   "name": "Avatar Malévolo de Corpo Inteiro",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/full-body-malefic-avatar.webp\">",
+   "items": {
+    "9pzYjKtdlW4wWv7J": {
+     "name": "Preparar-se (Recarga: 1 Dado de Chakra)",
+     "description": "<p>Quando seu Avatar Malévolo sofreria dano, ele pode se preparar para o dano levantando sua guarda. </p><p>Ele ganha redução de dano adicional igual ao seu valor de Constituição.</p>"
+    },
+    "DUM8p4UUIx3FsUPN": {
+     "name": "Defesa Crítica",
+     "description": "<p>Criaturas não podem causar acertos críticos contra seu Avatar Malévolo.</p>"
+    },
+    "DcAX6FTR1bPyv0oY": {
+     "name": "Arte Susanoo",
+     "description": "<p>Conjure uma Arte Susanoo usando suas estatísticas.</p>"
+    },
+    "M2p7SdCtr58TZ2UD": {
+     "name": "Autoridade Malévola",
+     "description": "<p>Se uma criatura falhar em seu teste de resistência ou teste de atributo contra este avatar por 10 ou mais, ela não poderá refazer esse teste de resistência ou teste pela duração do efeito.</p>"
+    },
+    "NfsEV9pPDwJr8hr4": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Avatar Malévolo pode fazer 3 ataques neste turno com sua arma Susanoo.</p>"
+    },
+    "NvrwjgxOM2bUikgN": {
+     "name": "Arte Mangekyōu.",
+     "description": "<p>Seu Avatar Malévolo pode conjurar suas Artes Mangekyōu como se você mesmo as tivesse conjurado.</p>"
+    },
+    "QSSydaX25XZjtN6U": {
+     "name": "Arma Susanoo",
+     "description": "<p>Veja a descrição da Arma Susanoo que você escolheu.</p>"
+    },
+    "iillumIaPtdymJSO": {
+     "name": "Deus da Pureza",
+     "description": "<p>Seu Avatar Malévolo trata todas as Aberrações, Monstruosidades e Mutantes como Vulneráveis a todos os seus ataques.</p>"
+    },
+    "lXh6tr6vDXklCkLY": {
+     "name": "Avatar Malévolo de Corpo Inteiro",
+     "description": "<p>Todos os testes de resistência que seu Avatar faz usam seu Bônus de Ataque de Mangekyō no lugar de quaisquer bônus de teste de resistência.</p>"
+    },
+    "xYbojFV2AybuvFl4": {
+     "name": "Arte Mangekyō",
+     "description": "<p>Conjure uma Arte Mangekyō usando suas estatísticas.</p>"
+    },
+    "yQ1CETT72ZUpXD2u": {
+     "name": "Ação(ões) Malévola(s)",
+     "description": "<p>Enquanto seu Avatar Malévolo estiver ativo, você ganha uma ação especial conhecida como Ação Malévola em cada um de seus turnos. </p><p>Esta Ação só pode ser usada para conjurar uma Arte Susanoo.</p>",
+     "condition": "Enquanto seu Avatar Malévolo estiver ativo"
+    }
+   }
+  },
+  "d8c429224f4010f9": {
+   "name": "Quimera de Fios do Medo do Rancor da Terra",
+   "description": "<h2>Quimera de Fios</h2><p>Defina o ND deste Ator para o nível de Medo do Rancor da Terra do invocador, e seu Chakra para o Chakra combinado dos monstros componentes. Sua fonte não tem Pontos de Vida: a Absorção converte cada evento de dano em Decadência. O 1 PV deste auxiliar serve apenas para manter seu token operável.</p><p>Ela age imediatamente após o invocador, conhece os Jutsus dos monstros componentes, e pode ser dispensada como uma ação bônus.</p>",
+   "items": {
+    "cee6ed9e4a8297de": {
+     "name": "Traços da Quimera de Fios",
+     "description": "<h2>Traços da Quimera de Fios</h2><h3>Absorção</h3><p>Em vez de sofrer dano, a Quimera recebe Decadência. O primeiro evento custa 30 menos cinco vezes o nível de modificação de classe do invocador; cada evento posterior adiciona 10 menos esse nível ao custo anterior.</p><h3>Terror dos Fios</h3><p>Ela conhece os Jutsus de todos os monstros componentes. Aumente cada dado de dano de Jutsu em um passo, mude seu dano para necrótico, e use a CD e o Bônus de Ataque da Arte dos Fios do invocador.</p><h3>Fios Endurecidos</h3><p>Ela tem redução de dano contra todo dano igual a três vezes o nível de modificação de classe do invocador; no nível 5, use Medo do Rancor da Terra Dominado em vez disso.</p><h3>Fios Defletores</h3><p>Ela usa os testes de resistência do invocador.</p><h3>Múltiplos Ataques</h3><p>Ela ataca um número de vezes igual ao seu número de Monstros de Fios componentes.</p><h3>Conjuração de Jutsu</h3><p>Por Ação, ela pode conjurar um número de Jutsus igual ao número de monstros componentes menos dois, no mínimo um.</p>",
+     "activities": {
+      "0dedfb8c21039117": {
+       "name": "Resolver Dano Absorvido",
+       "condition": "Aumente cada evento de dano posterior em 10 menos o nível de modificação de classe.",
+       "rollName": "Decadência Inicial de Absorção"
+      },
+      "8fe87e2e7dba6101": {
+       "name": "Engolir o Invocador",
+       "condition": "No turno da Quimera. O invocador ganha cobertura total, mas não pode agir, usar ações bônus ou manter concentração."
+      }
+     }
+    },
+    "e1905baf43151daa": {
+     "name": "Fios Terríveis",
+     "description": "<p>Ataque corpo a corpo de Arte dos Fios, alcance de 30 pés. Em um acerto, cause 5d10 mais o nível de Medo do Rancor da Terra do invocador de dano necrótico.</p>",
+     "activities": {
+      "3128004f15f16b24": {
+       "name": "Ataque"
+      }
+     }
+    }
+   }
+  },
+  "eYRGVAUjrypfVIbz": {
+   "name": "Fera do Raio",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/lightning-beast.webp\">",
+   "items": {
+    "1nCSS0AEwoKs6gc2": {
+     "name": "Mordida"
+    },
+    "dnjHRExFl0DYwflB": {
+     "name": "Corpo Elemental",
+     "description": "<p>Os ataques de arma da Fera do Raio são potencializados por chakra.</p>"
+    },
+    "zBhZJ9OTbSf4zvRu": {
+     "name": "Interruptor Mortal",
+     "description": "<p>Quando sua fera chega a 0 pontos de vida, ela explode, disparando raios em todas as direções. </p><p>Todas as criaturas a até 10 pés dela devem fazer um teste de resistência de Destreza, sofrendo 4d10 de dano elétrico e ficando Eletrocutadas em uma falha, ou metade do dano e nenhum efeito adicional em um sucesso</p>",
+     "condition": "Quando sua fera chega a 0 pontos de vida"
+    }
+   }
+  },
+  "en0ZUQYto5gNUOZ3": {
+   "name": "Lobo de Lama",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/mud-wolf.webp\">",
+   "items": {
+    "GJrfghErBjGsxybJ": {
+     "name": "Tática de Matilha",
+     "description": "<p>Enquanto o Lobo de Lama e um aliado do lobo estiverem ambos a até 5 pés da mesma criatura hostil, o lobo faz seu ataque com vantagem.</p>"
+    },
+    "JWaEz9u5FZ1XYPIH": {
+     "name": "Forma Imutável",
+     "description": "<p>O Lobo de Lama é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "LI3iIsc6g83ZsBUA": {
+     "name": "Mordida"
+    },
+    "YHx9t1vj3SCUdGUZ": {
+     "name": "Agarrar",
+     "description": "<p>Se a criatura alvo for atingida pelo seu ataque de mordida, ela deve fazer um teste de resistência de Força. </p><p>Em uma falha, ela é derrubada e fica Caída.</p>"
+    },
+    "onfvopQsPkl60VwB": {
+     "name": "Armas Elementais",
+     "description": "<p>Os ataques de arma do Lobo de Lama são potencializados por chakra</p>"
+    }
+   }
+  },
+  "euSdLYi5AvQAUXt5": {
+   "name": "Ferramenta Marionete",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/cheat-sheets/puppet-tool.webp\">",
+   "items": {
+    "20ABgIiirUqeahZd": {
+     "name": "Vinculado",
+     "description": "<p>Uma Marionete está vinculada ao seu usuário por fios de chakra e não pode ficar a mais de 500 pés de você. </p><p>Se os fios não estiverem vinculados à Marionete, ela não pode se mover ou realizar ações de qualquer tipo.</p><p>Se uma criatura que não seja sua criadora usar fios de chakra para manipular a marionete, ela não pode usar nenhuma Melhoria</p>"
+    },
+    "Vz1Xfao11vCURcNB": {
+     "name": "Casca Vazia",
+     "description": "<p>Ferramentas de Marionete não podem ser afetadas por Genjutsu</p>"
+    },
+    "gYjbUM5FKhwM7e68": {
+     "name": "Limites Mecânicos",
+     "description": "<p>Marionetes não podem conjurar jutsus (ou ter tais jutsus conjurados através delas), nem usar efeitos que aumentem seus ranks de exaustão ou criem Clones.</p>"
+    }
+   }
+  },
+  "iCqPFUNVhIA5rsxm": {
+   "name": "Pássaro de Argila",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/clay-bird.webp\">",
+   "items": {
+    "0zZyEGecBGk6YFQC": {
+     "name": "Embate",
+     "description": "<p>Se o Pássaro de Argila voar em linha reta por pelo menos 30 pés, ele pode realizar o ataque de Arremetida. </p><p>Todas as criaturas em linha reta após o pássaro ter se movido pelo menos 30 pés devem ser bem-sucedidas em um teste de resistência de Destreza, sofrendo 6d6 de dano de concussão em uma falha ou metade em um sucesso.</p>",
+     "condition": "Voar em linha reta por pelo menos 30 pés"
+    },
+    "5MlmPxwAy7lN8t0e": {
+     "name": "Detonação",
+     "description": "<p>O Pássaro de Argila explode em um belo espetáculo incendiário.</p><p>Todas as criaturas a até 10 pés do pássaro devem ser bem-sucedidas em um teste de resistência de Destreza contra sua CD de resistência de Ninjutsu.</p><p>Em uma falha, sofrem 6d8 de dano de energia, ou metade em um sucesso.</p>"
+    },
+    "W5MaZKegdWrDGc8e": {
+     "name": "Bicada",
+     "description": "<p>Ataque de Arma Corpo a Corpo: alcance de 5 pés, uma criatura. Acerto: 8 (2d6 + 3) de dano perfurante.</p>"
+    },
+    "WMCjSulBy6D6rQhj": {
+     "name": "Armas Elementais",
+     "description": "<p>Os ataques do Pássaro de Argila são potencializados por chakra.</p>"
+    },
+    "ZKLTnzDXFXaHyqZQ": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Pássaro de Argila pode atacar 2 vezes com sua Bicada.</p>"
+    },
+    "tVVubIipCSPb0U1K": {
+     "name": "Forma Imutável",
+     "description": "<p>O Pássaro de Argila é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    }
+   }
+  },
+  "iJwlBOhanvzwEgwd": {
+   "name": "Modelo de Invocação de Cobra",
+   "items": {
+    "2RepFj6gcnpKUlZW": {
+     "name": "Serpente",
+     "description": "<p>Poucas criaturas terrestres são mais perigosas, astutas e poderosas que uma serpente. A serpente é uma fera cujos laços e histórias remontam a antes do tempo começar a ser registrado. A maior arma da serpente é seu corpo astuto e poderoso, com presas afiadas para perfurar a carne de seus inimigos.</p><hr><p><strong>Tipo de Invocação:</strong> Dragão</p><p><strong>Robustez</strong>: 10</p><p><strong>Atributo Defensivo</strong>: Destreza</p><p><strong>Testes de Resistência</strong>: Destreza, Constituição, Carisma</p><p><strong>Perícias da Criatura</strong>: Atletismo, Furtividade, Percepção</p><p><strong>Sentidos da Criatura</strong>: Visão no Escuro (60 pés), Olfato Aguçado</p><hr><h2>Funções</h2><p>As serpentes são frequentemente consideradas a tribo mais forte entre as feras sábias, disputando lado a lado com os sapos. Ao criar uma criatura Invocada, selecione uma das seguintes funções;</p><ul><li><p><strong>@UUID[Compendium.n5eb.summons.Item.vl7UtADFlso3wfHo]{Tocaieiro}</strong>: Esta invocação prioriza ataques surpresa e táticas furtivas. Esta invocação ganha o traço Ataque Letal. Ataque Letal: Uma vez por turno, você pode causar dano adicional a uma criatura que acertar com um ataque se outro inimigo do alvo estiver a até 5 pés dele. Este dano adicional é Xd8. (X = Metade do nível da invocação) </p></li><li><p><strong>@UUID[Compendium.n5eb.summons.Item.ZjIHcop42OspRU8Y]{Controlador}</strong>: Esta invocação ganha um bônus em sua CD de Resistência igual ao seu rank quando invocada (Rank D/Rank C: +1, Rank B/Rank A: +2, Rank S: +3)</p></li></ul>",
+     "advancement": {
+      "JcaLWxRXwIJZWcDN": {
+       "title": "Espaços de Jutsu"
+      },
+      "E71uvLesclSfrTIh": {
+       "title": "Rank C"
+      },
+      "KYySf9nyZTVhZvVI": {
+       "title": "Rank D"
+      },
+      "cMzamuc9SAHZuS3n": {
+       "title": "Rank B"
+      },
+      "6n62mqh4n81SIrVy": {
+       "title": "Rank A"
+      },
+      "TtpNHp09QTV3M50F": {
+       "title": "Rank S"
+      },
+      "m3Tkt8ZWHKGCQVv1": {
+       "title": "Deslocamento"
+      },
+      "nXMOeXc1iGi6xOuD": {
+       "title": "Características Tribais"
+      },
+      "Ql7pENbCgGQF1TD3": {
+       "title": "Arma Natural"
+      }
+     }
+    },
+    "OC7bLegdQHKyfYhb": {
+     "name": "Sentidos de Serpente",
+     "description": "<p><strong>Sentidos da Criatura:</strong> Visão no Escuro (60 pés), Olfato Aguçado</p>",
+     "effects": {
+      "w15N0l4aD9AQJeou": {
+       "name": "Sentidos de Serpente"
+      }
+     }
+    },
+    "vaRxdVkR0cqzGZxg": {
+     "name": "Deslocamento",
+     "effects": {
+      "ktHb2jvOom8CHtYP": {
+       "name": "Deslocamento"
+      }
+     }
+    },
+    "wPkVbNpHmm5XJPpi": {
+     "name": "Mordida",
+     "description": "<p>Em uma rolagem de 17 ou mais, a criatura alvo ganha 1 rank de empeçonhado.</p>"
+    },
+    "y8ccXAbiADjKjQxq": {
+     "name": "Constrição",
+     "description": "<p>Se esta invocação obtiver um acerto bem-sucedido com seu ataque de Mordida, o alvo deve fazer um teste de resistência de Força, ficando contido em uma falha. Como uma ação, esta invocação pode constringir um alvo contido, causando 5d6 de dano de concussão. Criaturas contidas podem gastar uma ação para refazer seu teste de resistência.</p>",
+     "condition": "Se esta invocação obtiver um acerto bem-sucedido com seu ataque de Mordida",
+     "effects": {
+      "aubm5DZ9TWt8PR4L": {
+       "name": "Contido",
+       "description": "<p>Uma criatura <strong>Contida</strong> foi completamente imobilizada, incapaz de sair do seu espaço.</p><ul><li><p>O deslocamento de uma criatura contida se torna 0, e ela não pode se beneficiar de nenhum bônus de deslocamento.</p></li><li><p>Jogadas de ataque contra a criatura têm vantagem, e as jogadas de ataque da criatura têm desvantagem.</p></li><li><p>A criatura tem desvantagem em testes de resistência de Destreza.</p></li></ul>"
+      }
+     }
+    }
+   }
+  },
+  "iOClRDbu9SK4Dwp2": {
+   "name": "Oni de Tinta",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/ink-oni.webp\">",
+   "items": {
+    "0ggHIP2ZFIj7WkpR": {
+     "name": "Dilacerar",
+     "description": "<p>Uma criatura que sofrer dano deste ataque duas vezes deve fazer um teste de resistência de Constituição, ficando Aturdida até o final de seu próximo turno.</p>"
+    },
+    "0qvMu9t6EsBNaoD1": {
+     "name": "Armas de Tinta",
+     "description": "<p>Os ataques do Oni de Tinta são potencializados por chakra.</p>"
+    },
+    "24q8KNojELZrm9uF": {
+     "name": "Golpe dos Onis Gêmeos",
+     "description": "<p>O Oni de Tinta pode, como ação, reter sua ação. </p><p>Se ambos os Onis de Tinta retiverem sua ação, no turno seguinte você pode comandá-los a realizar um Golpe dos Onis Gêmeos em uma criatura da qual ambos estejam a até 10 pés. Um Oni de sua escolha faz 3 ataques de Marreta com vantagem. </p><p>Cada acerto bem-sucedido aumenta o dano em 1d10. Uma vez usado, ambos os Onis devem recarregar para poder realizar este ataque novamente.</p>"
+    },
+    "6Y10KRmTdjiXOVWz": {
+     "name": "Guarda",
+     "description": "<p>O Oni de Tinta pode, como reação, levantar sua guarda, protegendo todas as criaturas a até 5 pés dele. </p><p>Até o início do seu próximo turno, todos os ataques que teriam como alvo uma criatura a até 5 pés do Oni passam a ter o Oni como alvo.</p>"
+    },
+    "s6DMiuE0h6B6EwqX": {
+     "name": "Forma Imutável",
+     "description": "<p>O Oni de Tinta é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "tefcKRG0DvCYHXSL": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Oni de Tinta pode atacar duas vezes com suas marretas.</p>"
+    },
+    "uL5SzOoOMHKbG0JC": {
+     "name": "Foco do Oni",
+     "description": "<p>O Oni pode, como ação bônus, se concentrar.</p><p>Até o final do seu turno, o próximo ataque de Marreta do Oni causa um acerto crítico com uma rolagem de 19 ou 20.</p>"
+    }
+   }
+  },
+  "jyOQuU8nzUek5D2I": {
+   "name": "Divindade Suprema do Veneno",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/supreme-poison-deity.webp\">",
+   "items": {
+    "AxRkHJO8QwnlTeld": {
+     "name": "Um com o Veneno",
+     "description": "<p>Quando a Divindade está em contato com um corpo d'água, independentemente de seu tamanho, ela o transforma em veneno em um raio de até 100 pés.</p>"
+    },
+    "CWKfwIFAFVvzb4M1": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>A Divindade Suprema do Veneno pode atacar 3 vezes. </p><p>Duas vezes com seu Ferrão e uma vez com sua Pinça.</p>"
+    },
+    "Ku0slJbLEqiR2SrP": {
+     "name": "Armas Venenosas",
+     "description": "<p>Os ataques da Divindade são potencializados por chakra.</p>"
+    },
+    "NwxSH89KfvQ9ew7M": {
+     "name": "Pinça",
+     "description": "<p>Uma criatura atingida por este ataque deve fazer um teste de resistência de Força. </p><p>Em uma falha, ela fica Agarrada e Contida. </p><p>Uma criatura Agarrada pode fazer um teste de resistência de Força, escapando em um sucesso.</p>"
+    },
+    "O3gykLUUprje5eld": {
+     "name": "Ferrão",
+     "description": "<p>Uma criatura atingida por este ataque deve fazer um teste de resistência de Constituição. </p><p>Em uma falha, ela fica Envenenada e ganha 2 ranks de Empeçonhado.</p>"
+    },
+    "i2E8qqpAGHT62uXo": {
+     "name": "Cargas de Veneno",
+     "description": "<p>A Divindade possui um número de cargas, que pode usar para conjurar Ninjutsus com a palavra-chave Médico, que causam dano de veneno. </p><p>Quando conjura um jutsu, ela gasta um número de cargas igual ao rank do jutsu (Rank D: 1, Rank C: 2, Rank B: 3, Rank A: 4)</p>"
+    },
+    "jQ6uSphDsxVDJuXR": {
+     "name": "Forma Imutável",
+     "description": "<p>A Divindade Suprema do Veneno é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    }
+   }
+  },
+  "lYMlc7YSiBKSLm1G": {
+   "name": "Doki (Enfaixado)",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/doki-bandaged.webp\">",
+   "items": {
+    "e8Egr2wmrbs2CwYD": {
+     "name": "Cabeçada Perfurante",
+     "description": "<p>Ataque de Arma Corpo a Corpo: +12 para acertar, alcance de 30 pés, um alvo. Acerto: 2d6+5 de dano perfurante. </p><p>Uma criatura atingida deve fazer um teste de resistência de Constituição, ganhando 1 rank de Sangrando em uma falha.</p>"
+    },
+    "hmr575J0ht3p4FMQ": {
+     "name": "Chute Saltado",
+     "description": "<p>Ataque de Arma Corpo a Corpo: +12 para acertar, alcance de 5 pés, um alvo. Acerto: 1d8+5 de dano de concussão. Uma criatura atingida deve fazer um teste de resistência de Força, sendo derrubada e ficando Caída em uma falha</p>"
+    },
+    "jOrIcbkLpIJ5pG04": {
+     "name": "Imunidade Demoníaca",
+     "description": "<p>Doki são imunes a efeitos negativos e dano causados por jutsus conjurados com a Ferramenta Ninja Auditiva.</p>"
+    },
+    "qaNhb6fVXiIYvT3K": {
+     "name": "Revolta do Mundo Demoníaco",
+     "description": "<p>Genjutsu à Distância</p><p>Ataque: +Seu bônus de ataque de Genjutsu para acertar, alcance de 30 pés, um alvo. Acerto: 6d8 de dano psíquico, e metade disso em dano de chakra. </p><p>Uma criatura com 0 pontos de chakra sofre dano psíquico em dobro.</p>"
+    }
+   }
+  },
+  "n5ebNaruto000001": {
+   "description": "<p>Personagem inicial de Naruto baseado no livro, construído a partir do Especialista em Ninjutsu de Orochimaru, do Clã Uzumaki de Tsunade, do antecedente Estudante, e das entradas de jutsu de Jiraiya/Tsunade. Este ator é de nível 3, de modo que a Técnica de Clone das Sombras de Rank C e o Rasengan podem estar presentes junto com jutsus iniciais de Rank D/E.</p>",
+   "items": {
+    "n5ebAdamChains01": {
+     "name": "Correntes Golpeantes Adamantinas",
+     "description": "<p>Faça um ataque de Ninjutsu à distância causando 4d6 de dano de energia e aumente o custo base do próximo jutsu do alvo.</p>",
+     "activities": {
+      "n5ebAdamChainAtk": {
+       "name": "Golpe"
+      }
+     }
+    },
+    "n5ebChakraRec001": {
+     "name": "Recuperação de Chakra",
+     "description": "<p>Uma vez por descanso curto, reduza à metade o custo de um Ninjutsu que não seja de Combinação.</p>"
+    },
+    "n5ebCloneTech001": {
+     "name": "Técnica de Clone",
+     "description": "<p>Crie duplicatas visuais que podem interferir em ataques.</p>",
+     "activities": {
+      "n5ebCloneAct0001": {
+       "name": "Conjurar"
+      }
+     }
+    },
+    "n5ebJutsuCast001": {
+     "name": "Conjuração de Jutsu",
+     "description": "<p>Ninjutsu usa Inteligência, Genjutsu usa Sabedoria, e Taijutsu usa Força.</p>"
+    },
+    "n5ebJutsuSubst01": {
+     "name": "Técnica de Substituição",
+     "description": "<p>Você rapidamente se substitui por um objeto, permitindo uma fuga mais rápida com menor margem de erro. Quando você sofreria dano, pode aumentar sua CA em +3 até o início de seu próximo turno. Se esse bônus fizer o ataque que o acionou errar, você pode se mover até a metade do seu deslocamento para longe. Se você ativar este jutsu como resultado de fazer um teste de resistência, ainda deve fazer o teste de resistência, mesmo que seu movimento o leve para fora do alcance dele.</p>",
+     "condition": "Você sofreria dano.",
+     "activities": {
+      "n5ebSubstAct0001": {
+       "name": "Conjurar"
+      }
+     }
+    },
+    "n5ebNinSpec00001": {
+     "name": "Especialista em Ninjutsu",
+     "description": "<p>Classe Especialista em Ninjutsu do Compêndio de Observação de Orochimaru.</p>",
+     "advancement": {
+      "n5ebHPAdv000001X": {
+       "title": "Pontos de Vida"
+      },
+      "n5ebKnownScale01": {
+       "title": "Jutsus Conhecidos"
+      },
+      "n5ebRankScale001": {
+       "title": "Jutsu de Maior Rank Conhecido"
+      }
+     }
+    },
+    "n5ebRasengan0001": {
+     "description": "<p>Faça um ataque de Ninjutsu corpo a corpo causando 5d8 de dano de energia, com um teste de resistência de Força contra empurrão e condições.</p>",
+     "activities": {
+      "n5ebRasenganAtk1": {
+       "name": "Golpe"
+      }
+     }
+    },
+    "n5ebRefinedNin01": {
+     "name": "Ninjutsu Refinado",
+     "description": "<p>Ninjutsus selecionados que não sejam de Combinação podem ganhar +1 dado de dano ou uma CD de resistência maior.</p>"
+    },
+    "n5ebShadowClone1": {
+     "name": "Técnica do Clone das Sombras",
+     "description": "<p>Crie clones das sombras sólidos; o primeiro custa 6 de chakra e cada clone adicional custa 3 de chakra.</p>",
+     "chakraSpecial": "Cada clone adicional após o primeiro custa 3 de chakra.",
+     "activities": {
+      "n5ebShCloneAct01": {
+       "name": "Conjurar"
+      }
+     }
+    },
+    "n5ebStormWind001": {
+     "name": "Liberação de Vento",
+     "description": "<p>Característica de tradição Terror da Tempestade registrando o caminho de Liberação de Vento de Naruto.</p>"
+    },
+    "n5ebStudent00001": {
+     "name": "Estudante",
+     "description": "<p>Antecedente Estudante do documento principal de Naruto 5e.</p>"
+    },
+    "n5ebTransform001": {
+     "name": "Transformar",
+     "description": "<p>Mude sua forma aparente com um genjutsu visual.</p>",
+     "activities": {
+      "n5ebTransAct0001": {
+       "name": "Conjurar"
+      }
+     }
+    },
+    "n5ebUzuFuinMast1": {
+     "name": "Mestre de Fuinjutsu",
+     "description": "<p>Uma vez por descanso, conjure um jutsu de Fuinjutsu de ação conhecido como uma ação bônus.</p>"
+    },
+    "n5ebUzuReserve01": {
+     "name": "Reservas de Chakra",
+     "description": "<p>Gaste células de reserva em Sacar Reservas para ganhar vantagem e melhorar a recuperação de dados de chakra.</p>"
+    },
+    "n5ebUzuWell00001": {
+     "name": "Nascente de Chakra",
+     "description": "<p>Seu máximo de pontos de chakra aumenta em 2 por nível.</p>"
+    },
+    "n5ebUzumaki00001": {
+     "name": "Clã Uzumaki",
+     "description": "<p>Membro do clã Uzumaki com proficiência em Controle de Chakra e Ninshou, reservas profundas de chakra, e características de clã focadas em selos.</p>"
+    }
+   }
+  },
+  "n5ebStarterNin01": {
+   "name": "Inicial de Ninjutsu do N5eB",
+   "description": "<p>Um ator inicial de nível 1 para testes de fumaça do N5eB. Ele usa o placeholder inicial de Especialista em Ninjutsu, o placeholder Sem Clã, o antecedente Estudante, chakra, dados de chakra, Maestria em Ninshou de Rank 1, e jutsus de Rank E/D.</p>",
+   "items": {
+    "n5ebJutsuSpark01": {
+     "name": "Faísca de Chakra",
+     "description": "<p><strong>Jutsu placeholder inicial.</strong> Faça um ataque de Ninjutsu à distância contra uma criatura dentro do alcance. Em um acerto, o alvo sofre 1d4 de dano elétrico.</p>",
+     "activities": {
+      "n5ebSparkAtk001": {
+       "name": "Conjurar"
+      }
+     }
+    },
+    "n5ebJutsuSubst01": {
+     "name": "Técnica de Substituição",
+     "description": "<p>Você rapidamente se substitui por um objeto, permitindo uma fuga mais rápida com menor margem de erro. Quando você sofreria dano, pode aumentar sua CA em +3 até o início de seu próximo turno. Se esse bônus fizer o ataque que o acionou errar, você pode se mover até a metade do seu deslocamento para longe. Se você ativar este jutsu como resultado de fazer um teste de resistência, ainda deve fazer o teste de resistência, mesmo que seu movimento o leve para fora do alcance dele.</p>",
+     "condition": "Você é alvo de um ataque ou efeito hostil.",
+     "activities": {
+      "n5ebSubstAct0001": {
+       "name": "Conjurar"
+      }
+     }
+    },
+    "n5ebNinSpec00001": {
+     "name": "Especialista em Ninjutsu (Placeholder Inicial)",
+     "description": "<p><strong>Placeholder inicial.</strong> Esta classe existe apenas para tornar o primeiro ator inicial do N5eB jogável até que o compêndio completo de classes esteja disponível.</p>",
+     "advancement": {
+      "n5ebHPAdv000001X": {
+       "title": "Pontos de Vida"
+      },
+      "n5ebKnownScale01": {
+       "title": "Jutsus Conhecidos"
+      },
+      "n5ebRankScale001": {
+       "title": "Jutsu de Maior Rank Conhecido"
+      }
+     }
+    },
+    "n5ebNonClan00001": {
+     "name": "Sem Clã (Placeholder Inicial)",
+     "description": "<p>Placeholder inicial de clã, pendente até o compêndio completo de clãs.</p>"
+    },
+    "n5ebStudent00001": {
+     "name": "Estudante",
+     "description": "<p>Antecedente Estudante do PDF. Proficiências em perícia: Acrobacia e uma de Ninshou, Artes Marciais ou Ilusões. Característica: O Nome do Mestre.</p>"
+    }
+   }
+  },
+  "nszIgauZp0U0qiLj": {
+   "name": "Dragão de Madeira",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/wood-dragon.webp\">",
+   "items": {
+    "8c1CLUfmvEreBswo": {
+     "name": "Detonação",
+     "description": "<p>O dragão explode, destruindo-se em uma enorme explosão incendiária de água e madeira. </p><p>Todas as criaturas a até 15 pés do Dragão quando ele explode fazem um teste de resistência de Destreza, sofrendo 6d8 de dano de terra em uma falha, ou metade em um sucesso. </p><p>Uma criatura Contida por este dragão, quando esta habilidade é usada, sofre o dobro do dano em vez disso.</p>"
+    },
+    "Aeb0PZ2XsmbNbNfN": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Dragão de Madeira pode atacar 2 vezes com sua Mordida.</p>"
+    },
+    "DF7eA0A7kjIBiyeC": {
+     "name": "Armas Elementais",
+     "description": "<p>Os ataques do Dragão são potencializados por Chakra.</p>"
+    },
+    "Ehkm4ote1LysL3Z6": {
+     "name": "Composição Inefável",
+     "description": "<p>O Dragão de Madeira não pode ser dissipado por nenhum jutsu de Rank B ou inferior.</p>"
+    },
+    "I3UkLtg9nu5LpNYN": {
+     "name": "Constrição",
+     "description": "<p>Em um ataque de Mordida bem-sucedido, o dragão de madeira pode abrir mão de seu segundo ataque para, em vez disso, constringir o alvo. </p><p>Se o fizer, o alvo deve ser bem-sucedido em um teste de resistência de Força, sendo Agarrado &amp; Contido pelo Dragão. </p><p>Ao final do turno do dragão e da criatura contida, a criatura perde 5 de Chakra. </p><p>Uma criatura Contida pode fazer um teste de Força (Atletismo) ou Destreza (Acrobacia) contra uma CD 18 como uma Ação para encerrar ambas as condições.</p>",
+     "condition": "Em um ataque de mordida bem-sucedido"
+    },
+    "Lq0Lfdl7ywZtIBHa": {
+     "name": "Forma Imutável",
+     "description": "<p>O Dragão de Madeira é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "qA1AcyfJdYxGP9YK": {
+     "name": "Mordida",
+     "description": "<p>Ataque de Arma Corpo a Corpo: alcance de 10 pés, uma criatura. Acerto: 2d8 + 6 de dano de terra. </p><p>Em um acerto bem-sucedido, o alvo deve ser bem-sucedido em um teste de resistência de Constituição, sofrendo dano de Chakra igual à metade do dano causado.</p>"
+    }
+   }
+  },
+  "o2qbFlCt0mDU0Zpp": {
+   "name": "Jovem Kugsha",
+   "items": {
+    "4s7hxFBqO0JLNIEO": {
+     "name": "Mordida",
+     "description": "<p>Em uma rolagem de 16 ou mais, o alvo é derrubado ou arrastado 5 pés em qualquer direção que a invocação desejar.</p>"
+    },
+    "Vb6tNKO9qCwspcfb": {
+     "description": "<p><span style=\"font-family:Signika, sans-serif\"><strong style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track)\">Kugsha Jovem:</strong> Uma raça conhecida por sua habilidade em combate. Este Nin-Dog ganha o seguinte;</span></p><ul><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Proficiência em Acrobacia e Artes Marciais.</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Especialização em Atletismo.</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Multiataque: Você pode fazer até dois ataques usando sua Mordida. Ataques de Mordida adicionam sua Destreza às jogadas de dano uma vez por turno.</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Ganha +1 característica especial adicional de Cão/Lobo de Rank D.</span></p></li><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">A partir do nível 11, ganha +1 característica especial adicional de Cão/Lobo de Rank D ou C.</span></p></li></ul>"
+    },
+    "hVzYiFMcRKtxlYNo": {
+     "name": "Rosnado de Inu",
+     "description": "<p>Como uma Ação, esta invocação pode emitir um rosnado baixo. Quando o faz, uma criatura que ela possa ver a até 30 pés deve fazer um teste de resistência de Sabedoria. Em uma falha, o alvo sofre penalidade de -2 em sua CA até o final de seu próximo turno. Depois de usar este rosnado, esta invocação não pode usar esta ação novamente até o final de seu próximo turno.</p>",
+     "effects": {
+      "mhxiewizdY0wnAkJ": {
+       "name": "Rosnado de Inu"
+      }
+     }
+    },
+    "jdbm4140hhk8hRag": {
+     "name": "Sentidos de Cão/Lobo",
+     "description": "<p><strong>Sentidos da Criatura</strong>: Visão no Escuro (30 pés), Olfato e Audição Aguçados</p>",
+     "effects": {
+      "isbhcrMAIm6x4Mfu": {
+       "name": "Sentidos de Cão/Lobo"
+      }
+     }
+    },
+    "m9wPQqeBireLyYwN": {
+     "name": "Jovem Kugsha",
+     "description": "<p>Do Inuzuka @UUID[Compendium.n5eb.clan.Item.uvQdkZlw2ofp6Jfy]{Mestre das Bestas}<br>Uma raça conhecida por sua habilidade em combate. Este Nin-Dog ganha o seguinte; </p><ul><li><p>Proficiência em Acrobacia e Artes Marciais. </p></li><li><p>+1 rank de Maestria em Atletismo. </p></li><li><p>Multiataque: Você pode fazer até dois ataques usando sua Mordida. Ataques de Mordida adicionam sua Destreza às jogadas de dano uma vez por turno. </p></li><li><p>Ganha +1 característica especial extra de Cão/Lobo de Rank D. </p></li><li><p>A partir do nível 11, ganha +1 característica especial adicional de Cão/Lobo de Rank D ou C.</p></li></ul><hr><p>Cães e lobos são animais leais. Os cães servem a quem os trata com bondade e respeito. Os lobos servem a líderes poderosos e intimidadores.</p><hr><p><strong>Tipo de Invocação:</strong> Carnívoro</p><p><strong>Robustez</strong>: 10</p><p><strong>Atributo Defensivo</strong>: Destreza</p><p><strong>Testes de Resistência</strong>: Força, Destreza, Constituição, Inteligência, Sabedoria, Carisma</p><p><strong>Perícias da Criatura</strong>: Atletismo, Percepção, Intuição</p><p><strong>Sentidos da Criatura</strong>: Visão no Escuro (30 pés), Olfato e Audição Aguçados</p>",
+     "advancement": {
+      "JcaLWxRXwIJZWcDN": {
+       "title": "Espaços de Jutsu"
+      },
+      "DIhZ59kRd5PbCgK0": {
+       "title": "Dano Natural",
+       "hint": "Isso aumentará dependendo do tamanho da invocação"
+      },
+      "E71uvLesclSfrTIh": {
+       "title": "Rank C"
+      },
+      "cMzamuc9SAHZuS3n": {
+       "title": "Rank B"
+      },
+      "6n62mqh4n81SIrVy": {
+       "title": "Rank A"
+      },
+      "TtpNHp09QTV3M50F": {
+       "title": "Rank S"
+      },
+      "DylqoTdwNcHEulpV": {
+       "title": "Rank D"
+      },
+      "PdN7ILwVJNcXh0tt": {
+       "title": "Especialização"
+      },
+      "kgha9Nixqw58vlzr": {
+       "title": "+8 Aumentos de Valor de Atributo, até 20."
+      },
+      "ZGIi2krdARRm5yFa": {
+       "title": "+8 Aumentos de Valor de Atributo, até 20."
+      },
+      "EtnVhViuV4PKUaUR": {
+       "title": "+8 Aumentos de Valor de Atributo, até 24."
+      },
+      "CscSwKQZ7Q4Chi8G": {
+       "title": "+8 Aumentos de Valor de Atributo, até 26."
+      },
+      "EzpQmvTHD4FKhThc": {
+       "title": "+8 Aumentos de Valor de Atributo, até 28."
+      },
+      "rI8eUFaPSFzs5rGh": {
+       "title": "Bônus de Kugsha"
+      }
+     }
+    },
+    "rddCGlTaYxHvimD9": {
+     "name": "Uivo de Inu",
+     "description": "<p>Como uma ação, esta invocação pode uivar, inspirando a si mesma e seus aliados. Todas as criaturas aliadas a até 15 pés dela quando ela uiva ganham um bônus de +1d4 em sua próxima jogada de ataque feita antes do início do próximo turno de seu invocador.</p>",
+     "effects": {
+      "PIaMlWbksgmxoQzw": {
+       "name": "Uivo de Inu",
+       "description": "<p><span style=\"font-family:Signika, sans-serif\">ganha um bônus de +1d4 em sua próxima jogada de ataque feita antes do início do próximo turno de seu invocador</span></p>"
+      }
+     }
+    }
+   }
+  },
+  "oHv6PwGis9NYuB99": {
+   "name": "Filhote",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/whelp-1.webp\"><img src=\"systems/n5eb/assets/content/cheat-sheets/whelp-2.webp\">",
+   "items": {
+    "0uMtyVvdQGvyj2gk": {
+     "name": "Obra da Ciência",
+     "description": "<p>O Filhote usa chakra do seu CCD para pagar seus custos de chakra, e usa seu bônus de ataque de Ninjutsu e CD de resistência para todos os efeitos.</p>"
+    },
+    "KXoWgvW1Qth17Hi1": {
+     "name": "Existência Elemental",
+     "description": "<p>O Filhote repousa pousado na Manopla Dracônica.</p><p> Enquanto pousado na Manopla, o Filhote não pode ser escolhido como alvo e é imune a efeitos em área.</p><p> Como uma ação bônus, você pode usar os ataques de Bola de Fogo Etérea e Sopro Etéreo do Filhote.</p><p> Como uma ação, você pode permitir que o Filhote se solte da sua Manopla, permitindo que ele se mova imediatamente até seu deslocamento e realize uma Ação.</p><p> O Filhote mantém acesso aos seus ataques (exigindo uma Ação para usar), e também ganha acesso ao seu ataque de Meteoro Etéreo e pode fazer dois ataques com sua Bola de Fogo Etérea.</p><p> Nos turnos seguintes, você pode comandar o Filhote a se mover e realizar uma ação ao final do seu turno (sem exigir ação).</p><p> Se o Filhote não for comandado a realizar uma ação enquanto estiver desacoplado, ele realiza a ação de esquivar.</p><p> Enquanto desacoplado, o Filhote pode ser escolhido como alvo por ataques e efeitos em área normalmente.</p><p> Se o Filhote for reduzido a 0 pontos de vida, ele desaparece até seu próximo descanso.</p><p> O Filhote não pode ficar a mais de 300 pés de você, teleportando-se de volta até você em uma nuvem de névoa alquímica se for movido além desse alcance.</p><p> A partir do seu próximo turno, você pode permitir que o Filhote se repouse novamente em sua Manopla como uma interação com objeto.</p><p></p>"
+    },
+    "MbFODsHUOeAdHaVY": {
+     "name": "Bola de Fogo Etérea (5 de Chakra)",
+     "description": "<p>Em uma rolagem de 17 a 20, o alvo ganha 1 rank de Queimado.</p>"
+    },
+    "MonixIaxrHuF8SY1": {
+     "name": "Sopro Etéreo (10 de Chakra)",
+     "description": "<p>O Filhote exala um grande cone de fogo alquímico. Falha: 5d6+5 de dano de fogo, Queimado. </p><p>O Filhote pode pagar incrementos de 10 de chakra para aumentar o dano em 2d6+2 e a área do cone em +10 pés, até um total de 40 de chakra.</p>"
+    },
+    "SbG9oISjdePGacyv": {
+     "name": "Forma Imutável, Vontade Impenetrável",
+     "description": "<p>A forma e a vontade do Filhote são imunes a serem alteradas por qualquer Jutsu ou efeito. </p><p>O Filhote é leal a você e àqueles a quem você permitir.</p>"
+    },
+    "oxhqCzz4lHvPHnDf": {
+     "name": "Meteoro Etéreo",
+     "description": "<p>O Filhote exala um sigilo dracônico de chamas no solo, em um espaço a até 120 pés.</p><p> Grandes bolas de fogo de chama alquímica começam a se manifestar no céu acima, tratando a área como se estivesse sendo alvo do Ninjutsu de Fogo Tempestade de Fogo no Rank A.</p><p></p>"
+    }
+   }
+  },
+  "pg00EjdCg2yfOMl4": {
+   "name": "Doki (Garra)",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/doki-claw.webp\">",
+   "items": {
+    "63U5VuUWiIgJTDVn": {
+     "name": "Imunidade Demoníaca",
+     "description": "<p>Doki são imunes a efeitos negativos e dano causados por jutsus conjurados com a Ferramenta Ninja Auditiva.</p>"
+    },
+    "T6O2DvSGDvG872BS": {
+     "name": "Garra",
+     "description": "<p>Ataque de Arma Corpo a Corpo: +12 para acertar, alcance de 5 pés, um alvo. Acerto: 1d6+5 de dano cortante.</p><p>Este ataque causa um acerto crítico com uma rolagem de 19-20</p>"
+    },
+    "okqwuGANl65gdv5N": {
+     "name": "Agarrão de Tigre",
+     "description": "<p>Escolha uma criatura a até 5 pés e faça um teste disputado de agarrão. </p><p>Em um sucesso, a criatura alvo fica Agarrada e incapaz de tecer selos de mão.</p>"
+    },
+    "uA3ULdzRckGFQAI6": {
+     "name": "Revolta do Mundo Demoníaco",
+     "description": "<p>Ataque de Genjutsu à Distância: +Seu bônus de ataque de Genjutsu para acertar, alcance de 30 pés, um alvo. Acerto: 6d8 de dano psíquico, e metade disso em dano de chakra. </p><p>Uma criatura com 0 pontos de chakra sofre dano psíquico em dobro.</p>"
+    },
+    "xTtJqJCUG0E7zMjM": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>Doki (Garra) pode fazer 3 ataques com suas garras</p>"
+    }
+   }
+  },
+  "rFjL0N9OcM4FatBV": {
+   "name": "Cadáver Vinculado",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/bound-corpse.webp\"><img src=\"systems/n5eb/assets/content/cheat-sheets/false-traits.webp\"><p></p>",
+   "items": {
+    "4PigS96j8EH50u05": {
+     "name": "Traços",
+     "description": "<p>O cadáver pode selecionar 2 traços falsos da lista na descrição.</p><p>O cadáver pode selecionar 2 traços falsos adicionais da lista na descrição (Elite).</p>"
+    },
+    "7gYbafogg7D9akUw": {
+     "name": "Arma de Alma Morta",
+     "description": "<p>Qualquer Ataque de Arma:</p><p>Este adversário possui uma versão falsa da arma que tinha em vida.</p><p>Ele usa as estatísticas de uma versão básica desse tipo de arma.</p>"
+    },
+    "NEtPJyMZRQp9waSs": {
+     "name": "Conjurar Um Jutsu",
+     "description": "<p>O cadáver retém um número de jutsus que você sabe que ele conhecia em vida, até o limite do seu bônus de proficiência. </p><p>Quando os conjura, ele gasta o seu chakra.</p>"
+    }
+   }
+  },
+  "rP8g5IlkT6VJMNR5": {
+   "name": "Alma do Vazio",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/void-soul.webp\">",
+   "items": {
+    "E5reHfKIYLzxINZi": {
+     "name": "Constructo de Chakra",
+     "description": "<p>Os ataques da Alma do Vazio são potencializados por chakra.</p>"
+    },
+    "EGOYLyumgm5kVUVe": {
+     "name": "Forma Imutável",
+     "description": "<p>A Alma do Vazio é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "lNPU2Fe5BqPFXTZw": {
+     "name": "Inesgotável",
+     "description": "<p>A Alma do Vazio não pode conjurar jutsus ou usar efeitos que aumentariam seus próprios ranks de exaustão.</p>"
+    },
+    "mNJigTi6pFKipUcV": {
+     "name": "Golpe Desarmado"
+    }
+   }
+  },
+  "tZkgMa5iWOLx3s61": {
+   "name": "Marionete Inanimada",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/inanimate-puppet.webp\">",
+   "items": {
+    "ECdCUUvJzwPtK4Lx": {
+     "name": "Golpe"
+    },
+    "O7pcd3ASMTV2Elll": {
+     "name": "ESMAGAR",
+     "description": "<p>A Marionete Inanimada golpeia o chão. </p><p>Todas as criaturas a até 10 pés dela devem fazer um teste de resistência de Destreza CD (12 + o Rank do Jutsu). </p><p>Em uma falha, sofrem 3d8 de dano de concussão, ficam Caídas e Aturdidas até o final de seu próximo turno.</p>"
+    },
+    "ctx61g7nHZRYqNa7": {
+     "name": "Fortitude Antinatural",
+     "description": "<p>A Marionete Inanimada faz testes de resistência de Constituição com vantagem</p>"
+    },
+    "qvyXqPSYXyNCDaIM": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>A Marionete Inanimada pode atacar um número de vezes igual ao rank do jutsu com seu ataque de golpe.</p>"
+    }
+   }
+  },
+  "xJhijWqQLrnmSTbc": {
+   "name": "Aracnídeo Mãe da Prole",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/brood-mother-arachnid.webp\">",
+   "items": {
+    "I6VjpCYmtRRvry9z": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Aracnídeo Mãe da Prole pode atacar 2 vezes com sua Mordida e uma vez com seu Fio de Teia, ou pode atacar três vezes com seu Fio de Teia</p>"
+    },
+    "KkFqctX0LjJ5geUf": {
+     "name": "Mordida",
+     "description": "<p>Ataque de Arma Corpo a Corpo: alcance de 5 pés, uma criatura. Acerto: 16 (2d10 + 5) de dano de veneno. </p><p>Criaturas que sofrerem dano deste ataque devem fazer um teste de resistência de Constituição, ganhando 1 rank de Empeçonhado em uma falha.</p>"
+    },
+    "SUKJ05wG3VMcfJrR": {
+     "name": "Eclosão da Prole",
+     "description": "<p>O Aracnídeo Mãe da Prole gasta uma ação invocando um Filhote da Prole, que age ao final da ação do Aracnídeo Mãe da Prole. </p><p>Ele usa seu bônus de ataque de Ninjutsu, CD de resistência ou modificador de atributo quando necessário.</p>"
+    },
+    "i2XmcY8PUTmMmXZo": {
+     "name": "Escalar como Aranha",
+     "description": "<p>A Mãe da Prole pode escalar ou atravessar qualquer superfície sem sofrer penalidades de deslocamento.</p>"
+    },
+    "jLm8Dixd7jJc4dTa": {
+     "name": "Veneno Imutável",
+     "description": "<p>O dano de veneno causado por esta criatura não pode ser resistido, e ela trata imunidade como resistência.</p>"
+    },
+    "tNzYbVByF886aiv5": {
+     "name": "Fio de Teia",
+     "description": "<p>Ataque de Arma à Distância: alcance de 30 pés, uma criatura.</p><p>A criatura afetada fica Agarrada pela teia. </p><p>A criatura afetada pode gastar imediatamente sua reação em uma tentativa de se libertar, fazendo um teste de resistência de Força para escapar.</p><p>Se optar por não gastar sua reação para escapar imediatamente, ela deve gastar sua ação nos turnos seguintes para fazer o teste de resistência de Força e encerrar a condição Agarrado.</p>"
+    }
+   }
+  },
+  "xjLzPm7AQv6MdkuT": {
+   "name": "Titã",
+   "description": "<img src=\"systems/n5eb/assets/content/cheat-sheets/titan.webp\"><img src=\"systems/n5eb/assets/content/cheat-sheets/titan-specialization.webp\">",
+   "items": {
+    "5tq13WABGKkivaRZ": {
+     "name": "Golpe",
+     "description": "<p>Esta arma pode ser usada para o dano desarmado de Taijutsu.</p>"
+    },
+    "TXPQFEGOjTYajOfc": {
+     "name": "Integração de Ferramenta Ninja",
+     "description": "<p>Os ataques do Titan são potencializados por chakra.</p>"
+    },
+    "X0PJJtqzHqlourXI": {
+     "name": "Especialização de Titan",
+     "description": "<p>Quando você constrói seu Titan, você escolhe uma Especialização de Titan para ele seguir, optando entre um Titan Legião, um Titan Monarca ou um Titan Ronin, que concedem ao seu Titan habilidades adicionais.</p>"
+    },
+    "ZcBY61hlBOBE2px4": {
+     "name": "Melhoria Constante",
+     "description": "<p>O Titan ganha um número adicional de pontos de AVA igual a 1 + seu bônus de proficiência. </p><p>Você distribui esses pontos quando constrói seu Titan, e pode redistribuí-los durante um descanso longo.</p>"
+    },
+    "dRWFsinocS0mRf7V": {
+     "name": "Expansão Gradual",
+     "description": "<p>Seu Titan começa como Grande, tornando-se Enorme no 14º nível.</p>"
+    },
+    "fNM2EI2qnBlU9Hke": {
+     "name": "Barreira Alimentada por Bateria",
+     "description": "<p>Todos os Titans são equipados com uma barreira que protege o titan de dano. </p><p>Quando um Titan é danificado, ele subtrai pontos de vida da sua barreira primeiro. </p><p>A Barreira Alimentada por Bateria tem um número máximo de pontos de vida igual a duas vezes seu nível de Science-Nin, e em seu turno, você pode gastar incrementos de 5 de chakra do seu CCD para restaurar 10 dos pontos de vida da barreira.</p>"
+    },
+    "pvAXVKMr6K561jGY": {
+     "name": "Ataque Extra",
+     "description": "<p>Seu Titan pode atacar duas vezes com a ação de ataque</p>"
+    }
+   }
+  }
+ }
+}

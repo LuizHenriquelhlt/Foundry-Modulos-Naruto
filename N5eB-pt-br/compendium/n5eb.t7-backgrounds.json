@@ -1,0 +1,1020 @@
+{
+ "label": "Antecedentes T7",
+ "folders": {
+  "Background Items": "Itens de Antecedente",
+  "Background Features": "Características de Antecedente"
+ },
+ "entries": {
+  "1hkZ7MqEQb9KgB5C": {
+   "name": "Coração das Trevas",
+   "description": "<p>Aqueles que olham em seus olhos conseguem ver que você enfrentou um horror inimaginável e que a escuridão não lhe é estranha.</p><p>Embora possam temer você, plebeus lhe oferecerão toda cortesia e farão o possível para ajudá-lo.</p><p>A menos que você tenha se mostrado um perigo para eles, chegarão até a pegar em armas para lutar ao seu lado, caso você se veja enfrentando um inimigo sozinho.</p>"
+  },
+  "1kDvBW36w6n9daTC": {
+   "name": "Da Terra",
+   "description": "<p>Você não tem a educação formal das classes mais altas, mas, por mais pouco que saiba, há muita coisa que você compreende.</p><p>Você tem um conhecimento prático de astrologia e meteorologia, e consegue acompanhar facilmente a hora e a data, além de prever o tempo dentro de algumas horas, ou dias, se tiver sorte.</p><p>Você entende os \"segredos da vida\"; as necessidades da vida (água, luz, ar, sal, etc.), os padrões de herança física e as conexões entre diferentes plantas e animais.</p>"
+  },
+  "23wYjdbpq53Xu5TF": {
+   "name": "Lembrança de um Apoiador"
+  },
+  "2CV4OTO0vGmut2Py": {
+   "name": "Trabalho da Herança",
+   "description": "<p>Trabalhe com seu Mestre para definir os detalhes: Por que sua herança é tão importante, e qual é a sua história completa? Você pode preferir que o Mestre invente esses detalhes como parte do jogo, permitindo que você descubra mais sobre sua herança conforme seu personagem também descobre.</p>"
+  },
+  "2Q4LQEwcQsaWnrD6": {
+   "name": "Treinado pela ANBU",
+   "description": "<p>Você pode ter sido recrutado ainda jovem, ou um veterano da ANBU se interessou por você e decidiu treiná-lo.</p><p> De qualquer forma, você recebeu o treinamento necessário para se tornar uma arma letal, capaz de realizar diferentes tipos de missões perigosas.</p><p> Trabalhe com seu Mestre para decidir como e por que você recebeu um treinamento tão especial e como isso afetou seu personagem.</p><p> Eles o treinaram para se tornar um fantoche sem emoções que segue ordens sem questionar? Ou talvez o veterano que o treinou tenha lhe dito explicitamente para ter cuidado ao seguir ordens cegamente? Para quem você trabalha? O grupo ANBU de sua vila, um grupo secreto, ou apenas você mesmo?</p><hr><p> Proficiências em perícias: Intuição e uma perícia de Inteligência, Sabedoria ou Carisma de sua escolha </p><p>Proficiências em ferramentas: Kit de Rastreamento, Kit de Veneno ou Kit de Disfarce </p><p>Equipamento: um conjunto de roupas comuns, um Livro Bingo e uma bolsa contendo 100 ryo </p><p>Pacote de equipamento: pacote de Infiltrador ou de Explorador </p><hr><p> Característica: Refúgio Seguro </p><p>Como um agente treinado, você tem acesso a uma rede secreta de apoiadores e operativos que podem lhe oferecer assistência em suas aventuras.</p><p> Você conhece um conjunto de sinais e senhas secretas que pode usar para identificar tais operativos, que podem lhe dar acesso a um esconderijo seguro, hospedagem e alimentação gratuitas, ou ajuda para encontrar informações.</p><p> Esses agentes nunca arriscam suas vidas por você, nem correm o risco de revelar suas verdadeiras identidades.</p><hr><p> O Segredo É Fundamental </p><p>Escolha uma: Destreza +1 ou Inteligência +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Chakra.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Destreza +1 ou Inteligência +1"
+    }
+   }
+  },
+  "2YT1BXeDwFn71LmP": {
+   "name": "Quase O Escolhido",
+   "description": "<p>Há milhares de anos, uma profecia em seu reino previa a ascensão de um grande mal ao poder e de um grande bem que venceria esse mal.</p><p> Dizia-se que essa pessoa nasceria sob a combinação certa de estrelas, com a cor de cabelo certa, a cor de olhos certa, e uma marca de nascença em um local específico.</p><p> Infelizmente, seu irmão gêmeo mais velho é quem tem a marca de nascença, não você.</p><p> Isso lhe deixou com uma vida de ser ignorado.</p><p> Talvez seus pais ainda o amassem por quem você era, mas o país não se importava com o que você faria de sua vida, deixando que você aprendesse por conta própria.</p><p> Ainda assim, tudo o que você já fez sempre foi eclipsado por seu irmão mais velho.</p><p> Será que eles fizeram isso de propósito? Estariam tentando intencionalmente fazer você parecer mal para que todos os amassem mais, ou foi simplesmente a natureza de quem eram que os fez ficar no caminho de cada passo que você deu? Seus pais sempre o apoiaram, apesar de você não ter se tornado o grande bem que venceria o mal, foram especialmente duros com você para que ainda tivesse uma vida com significado, ou o deixaram de lado, permitindo que fizesse o que quisesse porque já tinham perdido a esperança de que você realizasse algo? Quantas vezes você já fingiu ser seu irmão para conseguir favores, ou talvez apenas sentir o amor que ele recebe? </p><hr><p>Proficiências em perícias: Furtividade e Enganação </p><p>Proficiências em ferramentas: Kit de Disfarce </p><p>Equipamento: Uma bugiganga de sua escolha da sua infância, um conjunto de roupas comuns, um livro contando a profecia que previa seu irmão, e uma bolsa de cinto contendo 100 Ryo.</p><p> Pacote de equipamento: pacote de Infiltrador ou de Artista Marcial [★] </p><hr><p>Característica: Irmão do Escolhido </p><p>Devido ao status de seu irmão, as pessoas não olham em sua direção quando seu irmão está por perto.</p><p> Todos ficam tão maravilhados com seu irmão que, para ser sincero, não dão a mínima para você.</p><p> No entanto, você pode conseguir certas coisas de graça, como tudo que conseguir pegar enquanto ninguém está olhando.</p><p> Às vezes você pode até conseguir um quarto ou serviço gratuito prometendo que o Escolhido visitará um estabelecimento.</p><p> Se tiver sorte, você pode até se passar pelo escolhido.</p><p> Só tenha cuidado com complicações e consequências.</p><hr><p> Um Personagem Secundário Importante </p><p>Escolha uma: Destreza +1 ou Inteligência +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Clã.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Destreza +1 ou Sabedoria +1"
+    }
+   }
+  },
+  "2bH37Hq7QFhc88nq": {
+   "name": "Lembrança dos Pais/Lar"
+  },
+  "33ToS48d5EDyH1zb": {
+   "name": "Credo do Caçador",
+   "description": "<p>O povo das florestas reconhece você como alguém que trabalha para matar as bestas e monstros que rondam seus domínios.</p><p>Se estivesse em uma cidade, seria considerado um guarda de confiança que patrulha a noite em busca de assassinos e bandidos.</p><p>Batedores, caçadores, guias e outras criaturas do tipo lhe oferecerão ajuda e hospedagem, e estarão mais dispostos a atender ao chamado para caçar presas perigosas em seus respectivos territórios.</p>"
+  },
+  "36vgc3vsFh5LoKGP": {
+   "name": "Reformado",
+   "description": "<p>Você já foi um vilão, mas agora busca mudar.</p><p> Você procura se redimir aos olhos daqueles que machucou.</p><p> O caminho é longo, mas é um que você vai percorrer.</p><p> Com sorte, lhe darão a oportunidade de compensar todos.</p><hr><p> Proficiências em perícias: Escolha duas entre Furtividade, Investigação, Intimidação ou Percepção </p><p>Proficiências em ferramentas: Kit de Veneno ou Kit de Segurança </p><p>Equipamento: Uma arma à distância com 20 munições, um livro de conhecimento sobre um monstro específico ou um livro de histórias sobre grandes caçadas, e uma pequena bolsa com 100 Ryo.</p><p> Pacote de equipamento: pacote de Explorador ou de Artesão </p><hr><p>Característica: De Volta ao Lado Certo da Lei </p><p>Mesmo tendo abandonado seus hábitos de infringir a lei, você ainda carrega habilidades aprendidas ao cometer atos criminosos.</p><p> Você também sabe onde os elementos criminosos de uma cidade provavelmente residem.</p><hr><p> Passado Criminoso </p><p>Escolha uma: Destreza +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Crítico.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Sabedoria +1"
+    }
+   }
+  },
+  "3LsILnxhXqyT9DTv": {
+   "name": "Nomes, Rostos E Lugares",
+   "description": "<p>Embora muitos reivindiquem o papel de caçador de recompensas, poucos realmente se destacam na profissão, exceto aqueles com um olhar atento para a observação.</p><p>Entre os adeptos, há os que são verdadeiramente talentosos, possuindo um talento quase sobrenatural para antecipar o comportamento de seu alvo.</p><p>Fazendo parte dessas fileiras, você tem uma habilidade extraordinária de lembrar detalhes específicos de conversas e nomes que ouviu ou dos quais participou relacionados à sua recompensa, ou que viu escritos, mesmo que apenas por um instante.</p><p>Você também pode esboçar rostos e locais gerais que já viu com precisão, possuindo uma memória excepcional.</p><p>Além disso, você frequentemente identifica sem esforço pistas ao rastrear os movimentos e a disposição de sua recompensa, que passariam despercebidas a perseguidores menos habilidosos.</p>"
+  },
+  "3cDuDD89hb8b1gL2": {
+   "name": "Lembrança da Fama",
+   "description": "<p>carta de fã, esboço autografado de si mesmo ou cartaz de propaganda de uma apresentação passada</p>"
+  },
+  "3j6Wacevfwbb0JIo": {
+   "name": "Contrabandista",
+   "description": "<p>Você passou sua vida se escondendo na escuridão, fazendo negócios obscuros por trás de portas fechadas.</p><p> O que o levou a se envolver em uma vida de crime? Você busca a emoção de infringir a lei, ou entrou na profissão para pagar uma dívida, arriscando a própria pele em nome de um nobre pouco honrado? Um contrabandista é um indivíduo treinado na arte da aquisição, um vigarista profissional que pode entregar qualquer coisa… por um preço.</p><p> Contrabandistas tendem a ser criminosos mais audaciosos do que a maioria, preferindo suborno ou distração em vez de subterfúgio e furtividade.</p><hr><p> Proficiências em perícias: Furtividade e Enganação ou Prestidigitação </p><p>Proficiências em ferramentas: Kit de Segurança ou Kit de Disfarce </p><p>Equipamento: Um cortador de cadeados, um conjunto de roupas comuns escuras incluindo um capuz, e uma bolsa de cinto contendo 100 Ryo.</p><p> Pacote de equipamento: pacote de Explorador </p><hr><p>Característica: Seleção Cuidadosa </p><p>Alguns encontros próximos com a lei lhe ensinaram que nem todo guarda da cidade pode ser subornado, e que algumas pessoas são simplesmente perspicazes demais para deixar passar pequenas discrepâncias.</p><p> Esta característica permite que você estude uma pessoa e tenha uma noção de se ela aceitaria ou não um suborno, ou perceba se ela é excepcionalmente mais perceptiva do que você.</p><p> Isso não revela, no entanto, quão caro um suborno pode ser em uma determinada situação.</p><hr><p> Troca Equivalente </p><p>Escolha uma: Destreza +1 ou Carisma +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Crítico.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Destreza +1"
+    }
+   }
+  },
+  "3lu5Uws51iPq6f5K": {
+   "name": "Herança"
+  },
+  "3xg0LIhpzEgZYWgX": {
+   "name": "Cheiro Das Terras Selvagens",
+   "description": "<p>Seus sentidos de visão e olfato foram finamente ajustados durante seus anos na natureza selvagem.</p><p>Quando você entra em uma floresta ou campos densos, consegue identificar corretamente as pegadas de qualquer besta ou humanoide.</p><p>Além disso, você consegue determinar o abrigo seguro mais próximo de você.</p>"
+  },
+  "4FcTZH6vpnPUI5vw": {
+   "name": "Pirata",
+   "description": "<p>Você passou sua juventude sob o domínio de um pirata temível, um assassino implacável que lhe ensinou a sobreviver em um mundo de tubarões e selvagens.</p><p> Você se entregou a pilhagens em alto mar e enviou mais de uma alma merecedora para uma sepultura salgada.</p><p> Medo e derramamento de sangue não lhe são estranhos, e você conquistou uma reputação um tanto desagradável em muitas cidades portuárias.</p><hr><p> Proficiências em perícias: Acrobacia e Intimidação.</p><p> Proficiências em ferramentas: Kit de Demolição ou Kit de Armeiro.</p><p> Equipamento: Um frasco, um gancho de escalada, uma rapieira, um pino de amarração, 50 pés de corda de seda, um amuleto da sorte, um conjunto de roupas comuns, e uma bolsa contendo 100 Ryo.</p><p> Pacote de equipamento: pacote de Marinheiro [★] </p><hr><p>Característica: Má Reputação.</p><p> Não importa aonde você vá, as pessoas têm medo de você por causa de sua reputação.</p><p> Quando você está em um assentamento civilizado, pode se livrar de pequenos delitos, como se recusar a pagar pela comida em uma taverna ou arrombar portas em uma loja local, já que a maioria das pessoas não denunciará sua atividade às autoridades.</p><hr><p> Pilhagem em Alto-Mar </p><p>Escolha uma: Força +1 ou Destreza +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Taijutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Constituição +1"
+    }
+   }
+  },
+  "4g9EEXlQXcV4kGTj": {
+   "name": "Criminoso",
+   "description": "<p>Você é um criminoso experiente com um histórico de infringir a lei.</p><p> Você passou muito tempo entre outros criminosos e ainda mantém contatos dentro do submundo do crime.</p><p> Você está muito mais próximo do que a maioria das pessoas do mundo de assassinato, roubo e violência que permeia os bastidores da civilização, e sobreviveu até agora desafiando as regras e normas da sociedade.</p><hr><p> Proficiências em perícias: Intimidação, Furtividade </p><p>Proficiências em ferramentas: Kit de Disfarce, Kit de Falsificação </p><p>Equipamento: Um conjunto de roupas comuns com capuz, um jogo de tabuleiro (um de sua escolha), e uma bolsa de cinto contendo 100 Ryo </p><p>Pacote de equipamento: pacote de Infiltrador ou de Cientista [★] </p><hr><p>Característica: Contato Criminoso </p><p>Você tem um contato confiável e digno de crédito que atua como seu intermediário com uma rede de outros criminosos.</p><p> Você sabe como enviar e receber mensagens de seu contato, mesmo a grandes distâncias; especificamente, você conhece os mensageiros locais, mestres de caravana corruptos e marinheiros suspeitos que podem entregar mensagens por você.</p><hr><p> Coração Endurecido </p><p>Escolha uma: Inteligência +1 ou Destreza +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Crítico.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Destreza +1 ou Inteligência +1"
+    }
+   }
+  },
+  "57jXSb5pK1FCEyre": {
+   "name": "Livro de Monstros Ou Livro de Histórias"
+  },
+  "5IMQIrfmNCiW9ujg": {
+   "name": "Carta Misteriosa",
+   "description": "<p>uma carta misteriosa cujo destinatário não pôde ser encontrado</p>"
+  },
+  "5KeEc5PPTtP3SyTQ": {
+   "name": "Apostador",
+   "description": "<p>Você é um jogador habilidoso que passa a maior parte do seu tempo em casinos, bares e casas de jogos.</p><p> Suas atividades são legais, ou você infringe a lei? Você já trapaceou em algum jogo, ou joga de acordo com as regras? De qualquer forma, sua vida tem sido de emoção, sorte e perigo.</p><hr><p> Proficiências em perícias: Intuição, Prestidigitação </p><p>Proficiências em ferramentas: Dois Tipos de Jogos de Tabuleiro </p><p>Equipamento: Um conjunto de roupas comuns, um conjunto de dados, um baralho de cartas, um amuleto da sorte, e uma bolsa de cinto contendo 100 Ryo </p><p>Pacote de equipamento: pacote de Artista ou de Jogador [★] </p><hr><p>Característica: Vamos Deixar Isso Interessante </p><p>Você consegue convencer quase qualquer pessoa a apostar algo que normalmente não estaria disposta a abrir mão (propriedade ou informação) em um jogo de azar.</p><p> Seu Mestre pode decidir que eles só aceitarão um jogo de sua escolha, e podem concordar apenas se sentirem que as chances estão a seu favor.</p><hr><p> Busca pela Adrenalina </p><p>Escolha uma: Sabedoria +1 ou Carisma +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Chakra.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Sabedoria +1 ou Carisma +1"
+    }
+   }
+  },
+  "6Y7Uu6ILl0Ves8QY": {
+   "name": "Instinto do Caçador",
+   "description": "<p>Quando você viaja pela natureza selvagem, sente quando alguém ou algo encontrou sua trilha ou rastro.</p><p>Embora não tenha os detalhes, você reconhece instintivamente quando seus perseguidores estão a uma hora ou menos de sua posição.</p>"
+  },
+  "6hqxSS560lVIC4op": {
+   "name": "Amigo Meu",
+   "description": "<p>Outros mafiosos conhecem seu rosto e estão espalhados por toda a terra, sejam eles do seu clã ou de outro.</p><p>Dependendo do seu status, eles podem tentar tirar sua vida, fazer um favor a você, ou até mesmo se tornar um aliado em potencial.</p><p>Trabalhe com seu Mestre para conversar sobre os relacionamentos da sua gangue com outras gangues, e detalhes sobre você e as outras gangues.</p><hr><p><br></p>"
+  },
+  "7f22UiZMHcf9rquu": {
+   "name": "Manto Com Capuz"
+  },
+  "7tNUkv8HUFi1ivlI": {
+   "name": "Conselheiro",
+   "description": "<p>Você é conselheiro de uma pessoa importante.</p><p> Talvez você seja o conselheiro pessoal de um senhor local, ou talvez seja o estrategista militar de um senhor.</p><p> De qualquer forma, você é frequentemente procurado por conselhos por alguém com poder.</p><p> Seu papel não é necessariamente de fama e prestígio, embora possa ser.</p><p> Também é possível que você ajude a governar das sombras, sussurrando seus conselhos ao seu senhor em segredo para garantir que ele tome as decisões certas.</p><p> Você pode até, ocasionalmente, redigir documentos em nome de seu superior – com ou sem o conhecimento dele.</p><hr><p> Proficiências em perícias: Persuasão, História </p><p>Proficiências em ferramentas: Kit Forense </p><p>Equipamento: Um frasco de tinta preta, uma pena, 3 pedaços de pergaminho, um conjunto de roupas finas, e uma bolsa contendo 100 Ryo.</p><p> Pacote de equipamento: pacote de Erudito [★] </p><hr><p>Característica: Posição de Poder </p><p>Por causa de sua posição, você impõe certo respeito.</p><p> Pessoas que sabem quem você é e também têm interesse em agradar seu senhor tendem a lhe dar o benefício da dúvida e farão o possível para não atrair sua ira, temendo incorrer na fúria de seu superior.</p><p> Outros dentro da organização da qual você faz parte também provavelmente buscarão seu favor de alguma forma.</p><hr><p> Articulador </p><p>Escolha uma: Inteligência +1 ou Sabedoria +1</p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Genjutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente seu Carisma +1 ou Sabedoria +1"
+    }
+   }
+  },
+  "7zdTY9m4fvcrVP0d": {
+   "description": "<p>Você foi criado por um jutsu de clonagem – uma técnica de ninjutsu necromântico normalmente usada para escapar da morte.</p><p> Por algum motivo, você foi despertado antes que seu original morresse, e despertou sem nenhuma das memórias de seu original.</p><p> Seu original ainda não morreu – ele ainda está por aí no mundo, e você tem pouco ou nenhum entendimento de quem ele é e quais são seus objetivos.</p><p> Talvez você tenha despertado apenas recentemente.</p><p>Ou talvez você esteja neste mundo há mais tempo do que isso? Você emergiu de um tanque ou câmara em que foi criado, ou houve algum outro meio pelo qual foi criado? Você conhecia a pessoa a partir da qual foi criado, ou vocês dois nunca se encontraram, ou você sequer sabe se ela ainda está viva? Você sabe quem o criou? Seu criador também era a pessoa de quem você foi clonado? Para qual propósito você foi criado? Você vai procurar seu criador, ou está feliz em nunca conhecer a pessoa que compartilha seu rosto? </p><hr><p>Proficiências em perícias: Escolha duas entre Furtividade, Investigação, Lidar com Animais, Natureza ou Sobrevivência </p><p>Proficiências em ferramentas: Kit Forense ou Kit de Hacker </p><p>Equipamento: um conjunto de roupas comuns, um conjunto de ferramentas e uma pequena bolsa com 100 Ryo.</p><p> Pacote de equipamento: pacote de Explorador ou de Viajante </p><hr><p>Característica: Identidade Equivocada </p><p>Ser uma cópia perfeita de alguém tem suas vantagens.</p><p> Qualquer pessoa que conhecia seu original inicialmente pensará que você é ele.</p><p> Elas o tratarão como seu original e, se convencidas dessa identidade, lhe darão acesso a tudo que seu original teria acesso.</p><p> Se você falhar em se passar por seu original, a pessoa pode perceber o engano e temer que você seja um duplo, um espião disfarçado, um ilusionista, um monstro metamorfoseado, ou alguma outra coisa horrível.</p><hr><p> Cópia de Segunda Mão </p><p>Escolha uma: Destreza +1 ou Constituição +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Chakra.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Destreza +1 ou Constituição +1"
+    }
+   }
+  },
+  "81Jilgzo1IzN7PhB": {
+   "name": "Mercenário",
+   "description": "<p>Como um shinobi que não é originário de uma vila shinobi, você luta apenas por dinheiro e glória.</p><p> Experiente nos caminhos da batalha, você colhe seus benefícios sem nunca estar preso por ter de declarar lealdade a uma das muitas nações em guerra que lhe pagam.</p><p> Qualquer lar será secundário ao campo de batalha em seu coração, e você é livre para se mover e servir a quem quiser.</p><p> Você pode ser famoso ou infame, fazer parte de um grupo de mercenários, ou ser um lobo solitário, mas está sempre disposto a lutar – pelo preço certo.</p><p> Seja por ouro, glória, paz ou guerra, você nunca está longe do campo de batalha, e sempre mantém suas armas afiadas.</p><hr><p> Proficiências em perícias: Intimidação, Percepção </p><p>Proficiências em ferramentas: Kit de Armeiro ou Kit de Veneno </p><p>Equipamento: Prova do primeiro contrato que você completou, um conjunto de roupas comuns, um jogo de tabuleiro de escolha, bolsa de cinto contendo 100 ryo.</p><p> Pacote de equipamento: pacote de Viajante </p><hr><p>Característica: Lâmina de Aluguel </p><p>Como um mercenário experiente, você já participou de missões suficientes para ter um profundo entendimento do que consegue lidar e do que não consegue.</p><p> Ao ouvir o briefing de uma missão ou uma descrição de uma missão, você tem uma noção vaga de quão difícil ela deve ser.</p><hr><p> Espada à Venda </p><p>Escolha uma: Força +1 ou Destreza +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Taijutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Sabedoria +1"
+    }
+   }
+  },
+  "89csi748MGXRf8v7": {
+   "name": "Troféu Precioso do Clã Transmitido pela Família"
+  },
+  "8FKCs2H5vfvhcwAH": {
+   "name": "Talento Inato",
+   "description": "<p>A capacidade de usar chakra vem naturalmente para você.</p><p>Isso fez com que você fosse mais criativo do que os outros no uso de ninjutsu.</p><p>Uma vez por descanso curto, você pode transformar qualquer teste de perícia que não seja baseado em Carisma em um teste de perícia de ninjutsu.</p>"
+  },
+  "8FwhcPpRNnyM6XDz": {
+   "name": "Vida Solitária",
+   "description": "<p>Tendo sobrevivido por conta própria por alguns anos, você é capaz de cuidar das necessidades de sobrevivência por si mesmo.</p><p>Você pode fazer fogueiras, construir abrigos, cozinhar comida, etc.</p><p>sem precisar fazer um teste de Sobrevivência.</p><p>Além disso, você conhece vários moradores, caçadores e donos de loja só de suas viagens.</p><p>Marcos e locais de interesse também podem lhe ser familiares.</p><hr><p><br></p>"
+  },
+  "8KjmTmq2M2xOTAmn": {
+   "name": "Vamos Deixar Isso Interessante",
+   "description": "<p>Você consegue convencer quase qualquer pessoa a apostar algo que normalmente não estaria disposta a abrir mão (propriedade ou informação) em um jogo de azar.</p><p>Seu Mestre pode decidir que eles só aceitarão um jogo de sua escolha, e podem concordar apenas se sentirem que as chances estão a seu favor.</p>"
+  },
+  "8Nwl14uBhte7jLf5": {
+   "name": "Arma Cerimonial"
+  },
+  "8QyLTvFzLZfho6jp": {
+   "name": "Pino de Amarração"
+  },
+  "8SOzbGnngaDfCRRv": {
+   "description": "<p>Você é alguém que conhece o valor de um ensopado bem temperado e consegue distinguir especiarias pela visão, sabor, aroma e até pela textura.</p><p> Dos soldados marchando pelos campos, ao abrigo acolhedor de uma hospedaria, às tigelas das maiores fortalezas, até as casas do povo comum, você sabe que a comida e a necessidade de comida é o que une todos, de toda nação, religião, raça e credo.</p><p> Comida é sua paixão, é sua missão, é sua vida.</p><hr><p> Proficiências em perícias: História e Atuação ou Natureza </p><p>Proficiências em ferramentas: Kit de Culinária </p><p>Equipamento: Utensílios de Cozinheiro, uma panela, uma pequena faca, 2 cantis de água cheios, 10 rações, um livro com suas receitas, e uma bolsa contendo 100 Ryo </p><p>Pacote de equipamento: pacote de Explorador </p><hr><p>Característica: Comida Gourmet </p><p>Você tem paixão por saber de onde vem a comida que usa.</p><p> Você sempre sabe onde encontrar ingredientes para seus pratos e se algum alimento seria prejudicial para comer.</p><hr><p> Cozinheiro Apaixonado </p><p>Escolha uma: Carisma +1 ou Inteligência +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Chakra.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher Talento, ignore este AVA] Aumente seu Carisma +1 ou Inteligência +1"
+    }
+   }
+  },
+  "8YB2a3VSdfsMbCRX": {
+   "name": "Androide/Robô",
+   "description": "<p>Você foi feito, não nascido, e como um andróide você não envelhece.</p><p> Por ser um ser inumano, muitos têm medo de você e muitos já o maltrataram.</p><p> Esse tratamento fez você desgostar da humanidade? Você foi feito com um propósito? Esse propósito é algo com o qual você concorda? Você tem a opção de concordar com seu propósito? Quem são seus criadores.</p><p> Eles têm natureza má ou mente pura? </p><hr><p>Proficiências em perícias: Escolha duas entre Ninshou, Acrobacia, Atletismo e Controle de Chakra </p><p>Proficiências em ferramentas: escolha uma entre Kit de Demolição, Kit de Perícia Forense ou Kit de Armadilheiro </p><p>Equipamento: Roupas comuns, um caderno de desenhos com seus projetos dentro, e uma bolsa com 100 Ryo dentro.</p><p> Pacote de equipamento: Pacote de Artista Marcial </p><hr><p>Característica: Criado para Vencer </p><p>Como um Andróide você possui rações de energia de emergência que pode racionar quando está perto da morte.</p><p> Você demora 50% mais tempo para morrer de fome, desidratação e hipóxia.</p><hr><p> Forma de Vida Artificial </p><p>Selecione um: Força +1 ou Constituição +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Chakra.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Sabedoria +1"
+    }
+   }
+  },
+  "99J1Uqbq2W5fT6kf": {
+   "name": "Caçador de Bestas",
+   "description": "<p>Você é um caçador poderoso.</p><p> Habilidoso na arte de rastrear e abater bestas.</p><p> Você caça criaturas da variedade mais feroz.</p><p> Talvez porque o trabalho seja recompensador.</p><p> Ou talvez seja só a emoção da caçada que o motiva! É possível que você tenha uma conta a acertar ou uma vila para proteger.</p><p> Mas, em todo caso, você abraçou o predador de ápice que há em você.</p><hr><p> Proficiências em perícias: Escolha duas entre Furtividade, Investigação, Lidar com Animais, Natureza ou Sobrevivência </p><p>Proficiências em ferramentas: Kit de Veneno ou Kit de Segurança </p><p>Equipamento: Uma arma à distância com 20 munições, um livro de conhecimento sobre um monstro específico ou um livro de histórias sobre grandes caçadas, e uma pequena bolsa com 100 Ryo.</p><p>Pacote de equipamento: Pacote de Explorador ou de Artesão </p><hr><p>Característica: Credo do Caçador </p><p>O povo da floresta o reconhece como alguém que trabalha para matar as bestas e monstros que rondam seu domínio.</p><p> Se estivesse em uma cidade, você seria considerado um guarda de confiança que patrulha a noite em busca de assassinos e bandidos.</p><p> Patrulheiros, caçadores, guias e outras criaturas do tipo oferecerão ajuda, hospedagem, e têm mais chance de atender ao chamado para caçar presas perigosas em seus respectivos terrenos.</p><hr><p> Na Espreita </p><p>Selecione um: Destreza +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Crítico.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Destreza +1 ou Sabedoria +1"
+    }
+   }
+  },
+  "9xsbhGc9v083PEp9": {
+   "name": "Soldado",
+   "description": "<p>O mundo precisa de mais combatentes do que as vilas conseguem fornecer usando combatentes não treinados em chakra para lutar em batalhas que não valem os caros preços de um ninja.</p><p> Você treinou quando jovem, estudou o uso de armas e armaduras, aprendeu técnicas básicas de sobrevivência, incluindo como se manter vivo no campo de batalha.</p><p> Você pode ter feito parte de um exército nacional permanente, de uma companhia mercenária, ou talvez tenha sido membro de uma milícia local que ganhou destaque durante uma guerra recente.</p><hr><p> Proficiências em perícias: Atletismo, Intimidação </p><p>Proficiências em ferramentas: Kit Médico ou Kit de Demolição </p><p>Equipamento: Uma insígnia de patente, um troféu tirado de um inimigo caído, um jogo de tabuleiro (um à sua escolha), um conjunto de roupas comuns, e uma bolsa de cinto contendo 100 Ryo </p><p>Pacote de equipamento: Pacote de Artista Marcial [★] </p><hr><p>Característica: Patente Militar </p><p>Você tem uma patente militar de sua carreira como soldado.</p><p> Soldados leais à sua antiga organização militar ainda reconhecem sua autoridade e influência, e se curvam a você caso tenham patente inferior.</p><p> Você pode invocar sua patente para exercer influência sobre outros soldados e requisitar equipamentos simples para uso temporário.</p><p> Você também costuma conseguir acesso a acampamentos militares amigos onde sua patente é reconhecida.</p><hr><p> Disciplina Rígida </p><p>Selecione um: Força +1 ou Constituição +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Taijutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Destreza +1"
+    }
+   }
+  },
+  "AUGflgQNfd3sXbXx": {
+   "name": "Caçador de Recompensas",
+   "description": "<p>Por mais belo e nobre que o mundo pudesse parecer à primeira vista, assim que você cavou um pouco mais fundo sob a fachada, uma verdade mais profunda se revelou para você.</p><p> Conflito e discórdia são as únicas constantes reais em terras \"civilizadas\", e para você, ali residia a oportunidade de lucro.</p><p> Como caçador de recompensas, você exerceu bem seu ofício, oferecendo serviços e habilidades duvidosos (ainda que eficazes) a todo tipo de cliente pelos mais variados motivos - superficiais ou não.</p><p> Independentemente da causa, da justificativa, ou da impunidade moral associada a localizar seu alvo.</p><p> Cada trabalho concluído trazia o tilintar de moedas em sua bolsa, à custa de outra pobre alma fadada a sofrer consequências terríveis, e muitas vezes cruéis.</p><hr><p> Proficiências em perícias: Enganação, Intimidação </p><p>Proficiências em ferramentas: Kit de Hacker ou Kit de Armadilheiro.</p><p>Equipamento: Frasco de tinta, um conjunto de roupas de viajante, pena de tinta, 6 folhas de pergaminho, 4 armadilhas de caça, um kit de ferramenta à sua escolha, uma bugiganga de uma de suas recompensas anteriores, e uma bolsa de cinto contendo 100 Ryo.</p><p>Pacote de equipamento: Pacote de Infiltrador ou de Investigador [★] </p><hr><p>Característica: Nomes, Rostos e Lugares </p><p>Embora muitos reivindiquem o papel de caçador de recompensas, poucos realmente se destacam na profissão, exceto aqueles com um olhar aguçado para observação.</p><p> Entre os adeptos estão os que são verdadeiramente talentosos, possuindo um talento quase sobrenatural para antecipar o comportamento de seu alvo.</p><p> Estando entre essas fileiras, você tem uma habilidade extraordinária de recordar detalhes específicos de conversas e nomes que ouve ou dos quais participa relacionados à sua recompensa, ou que vê escritos, mesmo que apenas por um momento.</p><p> Você também consegue esboçar com precisão rostos e localizações gerais que viu, possuindo uma memória excepcional.</p><p> Além disso, você frequentemente identifica sem esforço pistas ao rastrear os movimentos e a disposição de sua presa, que de outra forma passariam despercebidas a perseguidores menos capazes.</p><hr><p> Nada Pessoal </p><p>Selecione um: Inteligência +1 ou Destreza +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Ninjutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Destreza +1 ou Inteligência +1"
+    }
+   }
+  },
+  "BKCcuqyXwYr2P9eW": {
+   "name": "Detetive",
+   "description": "<p>Por uma parte significativa de sua vida, você tem buscado respostas.</p><p>Mistérios sempre o fascinaram, e resolvê-los fez de você alguém muito melhor em procurar pistas e ler as pessoas.</p><p>Que respostas você estava buscando? Você sempre encontrou respostas satisfatórias para suas perguntas, ou houve uma resposta que você gostaria de poder esquecer? Suas investigações fizeram inimigos ou amigos? De qualquer forma, isso lhe rendeu um trabalho como detetive, talvez como um emprego remunerado para uma cidade específica, talvez como um andarilho com o hobby de resolver mistérios.</p><hr><p>Proficiências em perícias: Investigação, Intuição </p><p>Proficiências em ferramentas: Kit de Rastreamento ou Kit de Segurança </p><p>Equipamento: Um distintivo de detetive, uma lembrança tirada de um criminoso que prendi (um cachimbo, um cantil ou caneca, ou um par de óculos escuros), uma lupa, um pequeno caderno de bolso, uma pena de tinta, ferramentas de ladrão ou um jogo de tabuleiro, um conjunto de roupas comuns, e uma bolsa contendo 100 Ryo </p><p>Pacote de equipamento: Pacote de Investigador [★] ou de Infiltrador </p><hr><p>Característica: Conhecimento Elementar </p><p>Você sabe onde encontrar pessoas que sabem das coisas, ou pessoas que conhecem pessoas que sabem das coisas.</p><p>Quando você entra em uma cidade, sabe onde procurar informações sobre os acontecimentos da cidade.</p><p>Você também nunca esquece o rosto das pessoas que conhece, pois pode precisar delas em outros casos.</p><hr><p>Olho Particular </p><p>Selecione um: Inteligência +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Genjutsu.</p><p>Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Inteligência em +1 ou sua Destreza em +1"
+    }
+   }
+  },
+  "CR1Arl01jNPrFqli": {
+   "name": "Caçador de Tesouros",
+   "description": "<p>Você sempre foi um explorador do desconhecido, encontrando artefatos antigos e tesouros perdidos com a passagem do tempo.</p><p>Você pode ser um ladrão ou um arqueólogo, mas está determinado a encontrar qualquer tesouro e segredo escondido no mundo.</p><p>Seus sentidos aguçados e reflexos rápidos o levaram longe e o ajudaram a encontrar tesouros que outros facilmente deixariam passar.</p><hr><p>Proficiências em perícias: Escolha duas entre Investigação, Prestidigitação ou Acrobacia </p><p>Proficiências em ferramentas: Kit de Veneno ou Kit de Segurança </p><p>Equipamento: Uma arma à distância com 20 munições, um livro de conhecimento sobre um monstro específico ou um livro de histórias sobre grandes caçadas, e uma pequena bolsa com 100 Ryo.</p><p>Pacote de equipamento: Pacote de Explorador ou de Artesão </p><hr><p>Característica: Localizador Rápido </p><p>Você sempre consegue encontrar rumores de tesouros e masmorras próximas.</p><p>Sempre que você entra em uma área povoada, sabe onde encontrar qualquer informação relacionada a masmorras, tesouros ou recompensas.</p><hr><p>Desbravador de Masmorras </p><p>Selecione um: Destreza +1 ou Carisma +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Ninjutsu.</p><p>Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente seu Carisma em +1 ou sua Destreza em +1"
+    }
+   }
+  },
+  "CnnqSIhRzWpMhF02": {
+   "name": "Abrigo dos Fiéis",
+   "description": "<p>Como um acólito, você comanda o respeito daqueles que compartilham sua fé, e pode realizar as cerimônias religiosas de sua divindade.</p><p>Você e seus companheiros de aventura podem esperar receber cura e cuidados gratuitos em um templo, santuário ou outra presença estabelecida de sua fé.</p><p>Aqueles que compartilham sua religião o sustentarão (mas apenas a você) em um estilo de vida modesto.</p><p>Você também pode ter laços com um templo específico dedicado à sua divindade ou panteão escolhido, e ter uma residência lá.</p><p>Pode ser o templo onde você costumava servir, se ainda mantiver boas relações com ele, ou um templo onde encontrou um novo lar.</p><p>Enquanto estiver perto de seu templo, você pode recorrer aos sacerdotes para obter ajuda, desde que a ajuda solicitada não seja perigosa e você permaneça em boas relações com seu templo.</p>"
+  },
+  "DE0ylTqtlrd1MnnW": {
+   "name": "Ferramentas de Assassino",
+   "description": "<p>Várias folhas de papel, pena de tinta, frascos de tinta preta, vermelha e invisível.</p>"
+  },
+  "DNo8AlkwtJnB4Odk": {
+   "name": "Conhecimento",
+   "description": "<p>Se você precisa de informações sobre algo, sabe se existe um livro contendo essa informação e onde encontrá-lo.</p><p>Além disso, quando ouve uma criatura falando ou vê um idioma escrito, você consegue identificar exatamente qual idioma está sendo usado, mesmo que não seja proficiente nele.</p><p>Por fim, quando ouve música, você sabe quais instrumentos estão sendo usados na performance, mesmo que não seja proficiente em seu uso.</p>"
+  },
+  "DT5ILsr3zED0qhny": {
+   "name": "Baixa Expectativa",
+   "description": "<p>Outros têm expectativas muito baixas quanto a você; por causa disso, você frequentemente recebe tarefas muito mais fáceis que seus companheiros de equipe ou é subestimado em combate.</p><p>Se você mostrar que é mais capaz do que essa pessoa pensava, ela passará a tratá-lo como trataria qualquer outra pessoa.</p>"
+  },
+  "Dq5JB8SdV2f2wDCI": {
+   "name": "Viajante do Tempo",
+   "description": "<p>Você nasceu anos, décadas, talvez até séculos adiante na linha do tempo.</p><p>No entanto, seja pela influência de um deus ou por um acidente mágico, você foi lançado de volta ao seu passado, e agora vive entre figuras que você achava serem apenas mito e lenda.</p><p>Como você nasceu e cresceu no referido futuro, seu modo de vida teve, ou terá, que mudar drasticamente.</p><p>A tecnologia que o ajudava e o entretinha não existe.</p><p>Você está preso na história, sem nenhuma forma visível de escapar.</p><p>Ao criar um personagem com este antecedente, considere como era o futuro dele.</p><p>O chakra ainda era amplamente usado, ou desapareceu e foi substituído pela Tecnologia? Quanto você sabe sobre o/seu passado? Quão precisa era essa informação? Você quer voltar ao futuro, ou está tudo bem em viver nos livros? Por que você acabou voltando, e por que gostaria de ficar / partir? </p><hr><p>Proficiências em perícias: História, Intuição </p><p>Proficiências em ferramentas: escolha uma entre Kit de Alquimista, Kit de Demolição ou Kit de Hacker </p><p>Equipamento: Um conjunto de roupas finas, 10 folhas de pergaminho, tinta e pena, uma bugiganga representativa do estado futuro do mundo, e uma bolsa de cinto contendo 100 Ryo.</p><p>Pacote de equipamento: Pacote de Cientista, Pacote de Viajante ou Pacote de Jogador [★] </p><hr><p>Característica: Bem-Informado </p><p>Ao encontrar pessoas particularmente importantes ou vivenciar eventos que alteram o mundo, você frequentemente recorda \"história\" ensinada durante sua vida no futuro, o que fornece informações adicionais.</p><p>Seu Mestre pode decidir que a passagem do tempo não considerou essa situação digna de ser registrada, ou pode até fornecer informações apenas parcialmente corretas ou completamente falsas devido a imprecisões históricas.</p><hr><p>Conheça seu Passado </p><p>Selecione um: Destreza +1 ou Inteligência +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Chakra.</p><p>Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher Talento, ignore este AVA] Aumente seu Carisma +1 ou Inteligência +1"
+    }
+   }
+  },
+  "EJvcnZFIGjPCxMy7": {
+   "name": "Infiltrador",
+   "description": "<p>Sendo apenas mais um rosto na multidão, você pode até ser uma pessoa carismática, mas sabe como se mover completamente despercebido; você treinou a vida inteira para se tornar o infiltrador definitivo.</p><p> Você foi ensinado desde cedo nas artes de como ser um espião, de investigar e aprender os segredos de seus inimigos.</p><hr><p> Proficiências em perícias: Enganação, Furtividade </p><p>Proficiências em ferramentas: Kit de Disfarce, Kit de Segurança ou Kit de Hacker </p><p>Equipamento: Um conjunto de roupas apropriadas para sua missão de infiltração, documentos de identificação, e uma bolsa contendo 100 Ryo </p><p>Pacote de equipamento: Pacote de Infiltrador ou Pacote de Diplomata </p><hr><p>Característica: Identidade Falsa </p><p>Você tem mais de uma identidade.</p><p> Você tem documentação, conhecidos estabelecidos, e disfarces que permitem assumir essa persona e se encaixar em qualquer lugar.</p><p> Sempre que quiser, você pode abandonar essa identidade e se misturar às massas da cidade.</p><hr><p> Versatilidade </p><p>Selecione um: Destreza +1 ou Carisma +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Ninjutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Destreza +1 ou Sabedoria +1"
+    }
+   }
+  },
+  "EMbR3PuPLKea26Jg": {
+   "name": "Na Graça da Ordem",
+   "description": "<p>Como um monge, você tem o respeito dos outros em sua ordem.</p><p>Você e seus companheiros podem esperar receber cura e cuidados gratuitos em um mosteiro, santuário ou outra presença estabelecida de sua ordem.</p><p>Sua ordem o sustentará (mas apenas a você) em um estilo de vida modesto.</p>"
+  },
+  "Fxav7s31uzJRxaTA": {
+   "name": "Guerreiro Veterano",
+   "description": "<p>Você é um veterano de guerra condecorado, tendo servido em pelo menos uma campanha brutal pela honra e glória de sua vila.</p><p> Você geralmente é bem-vindo em qualquer lugar dentro de suas terras e é tratado com respeito até mesmo por aqueles que não gostam pessoalmente de você.</p><hr><p> Proficiências em perícias: Escolha duas entre Sobrevivência, Medicina, Lidar com Animais ou Intimidação </p><p>Proficiências em ferramentas: Kit de Ferreiro de Armas ou Kit de Ferreiro de Armaduras </p><p>Equipamento: Um conjunto de roupas finas, uma arma cerimonial dada a você por sua vitória, e uma bolsa com 100 Ryo.</p><p> Pacote de equipamento: Pacote de Explorador ou de Capitão </p><hr><p>Característica: Reputação de Herói </p><p>Você pode usar sua patente e histórico como soldado para obter acesso a áreas normalmente privadas de seu respectivo reino.</p><p> Você geralmente consegue hospedagem e alimentação gratuitas dentro de seu império, e com alguma persuasão pode conseguir estender esse benefício à sua companhia atual, dependendo do tamanho do seu grupo.</p><hr><p> Herói da Vila </p><p>Selecione um: Destreza +1 ou Inteligência +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Ninjutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Inteligência em +1 ou sua Constituição em +1"
+    }
+   }
+  },
+  "GXxS2NVlUvwCISTA": {
+   "name": "Solidariedade",
+   "description": "<p>Você tem um parentesco não dito com todas as pessoas que vivem em servidão, uma compreensão compartilhada do que significa servir a um mestre, como você já fez.</p><p>Falando uma linguagem socialmente codificada, você pode ganhar a confiança de outros servos, encontrar acolhimento em sua companhia, abrigo em seu meio, e às vezes até obter acesso a lugares de poder pelas portas dos fundos.</p><p>Conversando com outros escravos e servos, você pode facilmente extrair deles rumores e informações sobre seus senhores.</p>"
+  },
+  "GdYxO6XmfzLfb8LH": {
+   "name": "Alicate de Corte"
+  },
+  "H4H69gR6zTrTGSib": {
+   "name": "Bolsa de Ombro Repleta de Curiosidades"
+  },
+  "HNoUUlMs0CPKYZ4j": {
+   "name": "Homens de Ideias Semelhantes",
+   "description": "<p>Você faz parte de uma rede de companheiros insurgentes.</p><p>Embora você nem sempre concorde com os métodos de dissidência de seus companheiros, eles estão dispostos a criar distrações em público, fornecer passagem segura, e informá-lo sobre as rotas de patrulha de guardas, militares e outras forças da lei nas cidades e territórios onde atuam.</p>"
+  },
+  "IRgQIVrJACgbdOH6": {
+   "name": "Criado para Vencer",
+   "description": "<p>Como um Andróide, você possui rações de energia de emergência que pode racionar quando está perto da morte.</p><p>Você demora 50% mais tempo para morrer de fome, desidratação e hipóxia.</p>"
+  },
+  "Iorf0UrdrqgxcWlN": {
+   "name": "Bugiganga Representativa do Estado Futuro do Mundo"
+  },
+  "JVAHptJ6DnoAIx5I": {
+   "name": "Bem-Informado",
+   "description": "<p>Ao encontrar pessoas particularmente importantes ou vivenciar eventos que alteram o mundo, você frequentemente recorda \"história\" ensinada durante sua vida no futuro, o que fornece informações adicionais.</p><p>Seu Mestre pode decidir que a passagem do tempo não considerou essa situação digna de ser registrada, ou pode até fornecer informações apenas parcialmente corretas ou completamente falsas devido a imprecisões históricas.</p>"
+  },
+  "Juwk1131WYzacodI": {
+   "name": "Atleta",
+   "description": "<p>O atleta se esforça para aperfeiçoar cada aspecto de seu ser físico.</p><p> eles são motivados pela competição e adoram se apresentar diante de um público admirador.</p><p> Atletas não têm medo de aproveitar a recepção calorosa que sua celebridade pode trazer.</p><p> Não deveria ser surpresa que esses indivíduos muitas vezes almejem uma vida de aventura.</p><hr><p> Proficiências em perícias: Acrobacia, Atletismo </p><p>Proficiências em ferramentas: Kit de Culinária ou Kit Médico </p><p>Equipamento: Um disco de bronze ou bola de couro, um amuleto da sorte ou troféu do passado, um conjunto de roupas de viajante, e uma bolsa contendo 100 Ryo.</p><p>Pacote de equipamento: Pacote de Artista Marcial [★] </p><hr><p>Característica: Ecos da Vitória </p><p>A notícia de suas vitórias na arena se espalhou, a ponto de você ter fãs admiradores.</p><p> Se você estiver visitando um povoado a até 100 milhas de sua cidade natal, há 50 por cento de chance de encontrar um admirador que lhe dará abrigo ou informação.</p><hr><p>Alma de Competidor </p><p>Selecione um: Destreza +1 ou Força +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Taijutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Destreza +1"
+    }
+   }
+  },
+  "K7U8xUjCjOtfepNI": {
+   "name": "Símbolo Monástico",
+   "description": "<p>contas, um anel, um colar</p>"
+  },
+  "KAzDmJpyirjflMY3": {
+   "name": "Porto Seguro",
+   "description": "<p>Como um agente treinado, você tem acesso a uma rede secreta de apoiadores e operativos que podem lhe prestar assistência em suas aventuras.</p><p>Você conhece um conjunto de sinais e senhas secretas que pode usar para identificar tais operativos, que podem lhe dar acesso a um esconderijo seguro, hospedagem e alimentação gratuitas, ou ajuda para encontrar informações.</p><p>Esses agentes nunca arriscam suas vidas por você nem arriscam revelar suas verdadeiras identidades.</p>"
+  },
+  "KIZoubUzoOto3dEh": {
+   "name": "Objeto de um Roubo Bem-Sucedido"
+  },
+  "KN9EIhRwfL1JPQBi": {
+   "name": "Hospitalidade Rústica",
+   "description": "<p>Como você vem das fileiras do povo comum, você se encaixa entre eles com facilidade.</p><p>Você pode encontrar um lugar para se esconder, descansar ou se recuperar entre outros plebeus, a menos que tenha se mostrado um perigo para eles.</p><p>Eles o protegerão da lei ou de qualquer outra pessoa que o procure, embora não arrisquem suas vidas por você.</p>"
+  },
+  "Kq3fC5PxZclj1iv3": {
+   "name": "Bugiganga de uma Recompensa Anterior"
+  },
+  "KycbpH58Pxj0pZ2l": {
+   "name": "Ninja (Não) Aposentado",
+   "description": "<p>\"Estou ficando velho demais para essas coisas.\" Você passou a vida como um Ninja, aprendendo o uso de muitas habilidades e técnicas básicas de sobrevivência, incluindo como se manter vivo em uma área hostil.</p><p> Você pode ter feito parte de um Time famoso ou de um menos renomado.</p><p> Ao escolher este antecedente, trabalhe com seu Mestre para determinar os detalhes de sua carreira anterior, e que tipo de experiências você teve.</p><p> Quão famoso era seu time anterior e quão conhecido você é? O que você aprendeu? Qual era a especialidade do seu grupo? </p><hr><p>Proficiências em perícias: História, Sobrevivência </p><p>Proficiências em ferramentas: Kit de Rastreamento, Kit de Falsificação ou Kit Médico </p><p>Equipamento: Um gancho de escalada, uma ferramenta na qual você é proficiente, uma lembrança de uma expedição malsucedida (mapa para um tesouro nunca encontrado, mecha de cabelo de um companheiro caído, ou outra bugiganga), e uma bolsa contendo seus últimos 100 Ryo </p><p>Pacote de equipamento: Pacote de Artista Marcial [★], de Explorador, ou de Infiltrador</p><hr><p>Característica: Pontes Ainda Não Queimadas </p><p>Ao longo de suas aventuras você estabeleceu uma infinidade de contatos de todos os tipos de vida, mas os anos que se passaram deixaram esses relacionamentos desgastados.</p><p> Você pode usar qualquer característica de qualquer outro antecedente, mas, uma vez que uma característica específica é usada, ela não pode ser usada novamente até que um ano tenha se passado.</p><hr><p> Lembrança do Passado</p><p>Selecione um: Sabedoria +1 ou Carisma +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Ninjutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Sabedoria em +1 ou sua Constituição em +1"
+    }
+   }
+  },
+  "MKhcrm2hPiDhSbRA": {
+   "name": "Ferreiro",
+   "description": "<p>Você é um ferreiro; sua vida é ter um martelo na mão e suor no rosto.</p><p>Você pode criar para uma vila ninja ou criar obras simples para seu povoado.</p><p>De qualquer forma, suas mãos mostram as marcas de seu trabalho.</p><p>E agora você pode dar ao metal a forma que desejar.</p><hr><p>Proficiências em perícias: Criação, Atletismo</p><p>Proficiências em ferramentas: Kit de Ferreiro de Armas ou Kit de Ferreiro de Armaduras</p><p>Equipamento: um conjunto de roupas comuns, Um martelo, e uma bolsa contendo 100 Ryo </p><p>Pacote de equipamento: Pacote de Artesão ou de Erudito [★]</p><hr><p>Característica: Refinar e Reparar</p><p>Como um Ferreiro treinado, você conhece bem a forja.</p><p>Você é capaz de terminar o trabalho de forma rápida e barata.</p><p>Você é capaz de reparar equipamentos pela metade do custo necessário para comprá-los, e é capaz de aplicar selos em armas e armaduras na metade do tempo normal.</p><hr><p>Vida junto à forja</p><p>Selecione um: Força +1 ou Inteligência +1</p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Taijutsu.</p><p>Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar</p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Força em +1 ou sua Inteligência em +1"
+    }
+   }
+  },
+  "MNszFdHDktGLGeFf": {
+   "name": "Contato Criminoso",
+   "description": "<p>Você tem um contato confiável e digno de confiança que atua como seu elo com uma rede de outros criminosos.</p><p>Você sabe como enviar e receber mensagens de seu contato, mesmo a grandes distâncias; especificamente, você conhece os mensageiros locais, mestres de caravana corruptos, e marinheiros suspeitos que podem entregar mensagens para você.</p>"
+  },
+  "MZtM1IC2n7DcSd1L": {
+   "name": "Marinheiro",
+   "description": "<p>Você navegou em uma embarcação marítima por anos.</p><p> Nesse tempo, você enfrentou tempestades poderosas, monstros das profundezas, e aqueles que queriam afundar sua embarcação nas profundezas sem fundo.</p><p> Seu primeiro amor é a linha distante do horizonte, mas chegou a hora de tentar algo novo.</p><p> Discuta com seu Mestre a natureza do navio em que você navegava anteriormente.</p><p> Era um navio mercante, um navio de guerra, um navio de descobertas, ou um navio pirata? Quão famoso (ou infame) ele é? Ele viajou muito? Ele ainda navega, ou está desaparecido e presumido perdido com toda a tripulação? Quais eram seus deveres a bordo: contramestre, capitão, navegador, cozinheiro, ou alguma outra posição? Quem eram o capitão e o primeiro oficial? Você deixou seu navio em boas relações com seus companheiros, ou fugindo? </p><hr><p>Proficiências em perícias: Atletismo ou Acrobacia, Percepção </p><p>Proficiências em ferramentas: Escolha qualquer uma proficiência em ferramenta.</p><p> Equipamento: Um cabo de amarração, 50 pés de corda de seda, um amuleto da sorte como um pé de coelho ou uma pequena pedra com um furo no centro, um conjunto de roupas comuns, e uma bolsa contendo 100 Ryo.</p><p> Pacote de equipamento: Pacote de Marinheiro [★] </p><hr><p>Característica: Passagem de Navio </p><p>Quando precisar, você pode garantir passagem gratuita em um navio para você e seus companheiros de aventura.</p><p> Você pode navegar no navio em que serviu, ou em outro navio com o qual tenha boas relações (talvez um comandado por um antigo companheiro de tripulação).</p><p> Como você está cobrando um favor, não pode ter certeza de um cronograma ou rota que atenda a todas as suas necessidades.</p><p> Seu Mestre determinará quanto tempo leva para chegar aonde você precisa ir.</p><p> Em troca de sua passagem gratuita, espera-se que você e seus companheiros ajudem a tripulação durante a viagem.</p><hr><p> Pernas de Marinheiro </p><p>Selecione um: Força +1 ou Destreza +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Chakra.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Constituição +1"
+    }
+   }
+  },
+  "Mbvk0W6I56tT9ZsY": {
+   "name": "Incenso"
+  },
+  "MxpIRcYiVaasWpsG": {
+   "name": "Seleção Cuidadosa",
+   "description": "<p>Alguns roces com a lei lhe ensinaram que nem todo guarda da cidade pode ser subornado, e algumas pessoas são simplesmente muito atentas para deixar passar pequenas discrepâncias.</p><p>Esta característica permite que você estude uma pessoa e tenha uma percepção sobre se ela aceitaria ou não um suborno, ou perceber se ela é excepcionalmente mais perceptiva do que você.</p><p>Entretanto, ela não revela o quão caro pode ser um suborno em uma determinada situação.</p>"
+  },
+  "MzbYVaqwHLRHApY2": {
+   "name": "Prova do Primeiro Contrato"
+  },
+  "N752ox1QcUalj0UN": {
+   "name": "Lembrança da Terra Natal"
+  },
+  "NDuEkJ4OIvjdiypl": {
+   "name": "Lembrança de uma Expedição Malsucedida",
+   "description": "<p>mapa para um tesouro nunca encontrado, mecha de cabelo de um companheiro caído, ou outra bugiganga</p>"
+  },
+  "NWZePtH93SmQsO6P": {
+   "name": "Pontes Ainda Não Queimadas",
+   "description": "<p>Ao longo de suas aventuras você estabeleceu uma infinidade de contatos de todos os tipos de vida, mas os anos que se passaram deixaram esses relacionamentos desgastados.</p><p>Você pode usar qualquer característica de qualquer outro antecedente, mas, uma vez que uma característica específica é usada, ela não pode ser usada novamente até que um ano tenha se passado.</p>"
+  },
+  "ODXlmnoNUVlzo8Km": {
+   "name": "Pedra Brilhante"
+  },
+  "OMrfQK7EPPnzWNmL": {
+   "name": "Aldeão",
+   "description": "<p>Você nasceu em uma pequena vila, fora do radar das Cinco Grandes Vilas Ocultas.</p><p> Sua família era conhecida localmente, mas por algum motivo, você decidiu se mudar e descobrir como é o mundo fora de sua comunidade local.</p><p> Trabalhe com seu Mestre para decidir qual evento colocou seu personagem em um caminho diferente e o marcou para coisas maiores.</p><hr><p> Proficiências em perícias: Lidar com Animais, Sobrevivência </p><p>Proficiências em ferramentas: Kit de Armadilheiro ou Kit de Rastreamento </p><p>Equipamento: Uma pequena lembrança de sua vila, um conjunto de roupas comuns, e uma bolsa contendo 100 Ryo </p><p>Pacote de equipamento: Pacote de Explorador ou Pacote de Exploração de Masmorras </p><hr><p>Característica: Hospitalidade Rústica </p><p>Como você vem das fileiras do povo comum, você se encaixa entre eles com facilidade.</p><p> Você pode encontrar um lugar para se esconder, descansar ou se recuperar entre outros plebeus, a menos que tenha se mostrado um perigo para eles.</p><p> Eles o protegerão da lei ou de qualquer outra pessoa que o procure, embora não arrisquem suas vidas por você.</p><hr><p> Origens Humildes </p><p>Selecione um: Sabedoria +1 ou Constituição +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Clã.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Sabedoria em +1 ou sua Constituição em +1"
+    }
+   }
+  },
+  "Ofy16Z7YopztGFVa": {
+   "name": "Lembrança de Sua Antiga Casa"
+  },
+  "OzCcSN7dIkG0RF28": {
+   "name": "Livro de Profecias Sobre Seu Irmão"
+  },
+  "PdH3RD2hBcnQvKfo": {
+   "name": "Infâmia",
+   "description": "<p>Você tem um passado associado a uma gangue infame de vadios, que as pessoas podem reconhecer (tatuagem especial, símbolo proeminente no equipamento, ou reconhecido por uma testemunha).</p><p>Você tem vantagem em testes de Intimidação contra qualquer um que esteja consciente de seu passado (e que seria intimidado por bandidos razoavelmente poderosos) </p>"
+  },
+  "PfB2uQgdsftundCg": {
+   "name": "Caderno de Desenhos"
+  },
+  "Pz47yVzQTUc8JW67": {
+   "name": "Pequeno Item Roubado ou Dado por um Antigo Mestre",
+   "description": "<p>Uma pequena joia de sua terra natal</p>"
+  },
+  "Q8OCRXvomjSte8BW": {
+   "name": "Bárbaro",
+   "description": "<p>Você vem de uma terra distante que carece de qualquer forma de civilização centralizada.</p><p> Uma terra selvagem que conjurava nevascas, enchentes, secas e tempestades para arrasar, afogar e de outras formas destruir você e seu clã.</p><p> Ainda assim, você prevaleceu contra toda essa intenção assassina; mesmo assim, você agradece à sua terra natal.</p><p> Por algum motivo, você deixou sua terra natal.</p><p> Você foi forçado a partir, ou partiu em busca de glória e riquezas? Você veio sozinho ou seu clã o seguiu?</p><hr><p>Proficiências em perícias: Escolha duas entre Furtividade, Investigação, Lidar com Animais, Natureza ou Sobrevivência</p><p> Proficiências em ferramentas: Kit de Veneno ou Kit de Segurança </p><p>Equipamento: Roupas comuns rasgadas, uma arma simples, um troféu valioso passado através de seu clã, e uma bolsa contendo 100 ryo.</p><p> Pacote de equipamento: Pacote de Explorador ou de Artesão </p><hr><p>Característica: Instinto de Caçador </p><p>Quando você viaja na natureza, sente quando alguém ou algo encontrou seu rastro ou cheiro.</p><p> Embora não tenha os detalhes, você reconhece instintivamente quando seus perseguidores estão a uma hora ou menos de distância de sua posição.</p><hr><p> Selvagens </p><p>Selecione um: Força +1 ou Constituição +1</p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Taijutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Sabedoria +1"
+    }
+   }
+  },
+  "QTOQ4yHa9jZYE5P0": {
+   "name": "Mágico",
+   "description": "<p>Sua casa é o palco.</p><p> Há muitos palcos que você já conheceu, de esquinas de rua a grandes teatros, mas em todos eles você se deliciou com os gritos de alegria e os aplausos ensurdecedores da multidão.</p><p> Usando seu conhecimento de chakra e Ninjutsu, você maravilha e encanta seu público com exibições de uma beleza inexplicável, ou os reduz a um medo silencioso com fugas desafiadoras da morte e ilusões de carnificina certa.</p><p> Você já viu espectadores de todas as idades reduzidos a momentos de maravilhamento infantil, independentemente de sua posição na vida.</p><p> Mas sempre há o palco e seu chamado para a glória.</p><hr><p> Proficiências em perícias: Atuação e Ninshou </p><p>Proficiências em ferramentas: Kit de Disfarce </p><p>Equipamento: Um baralho de cartas de jogar, uma lembrança de fama (carta de fã, esboço autografado de si mesmo ou cartaz de propaganda de uma apresentação passada), um figurino, e uma bolsa contendo 100 Ryo.</p><p> Pacote de equipamento: Pacote de Artista [★]</p><hr><p>Característica: A Pedidos do Público </p><p>Você sempre consegue encontrar um lugar para se apresentar, geralmente em uma pousada ou taverna, mas possivelmente em um circo, em um teatro, ou até mesmo na corte de um nobre.</p><p> Em tal lugar, você recebe hospedagem e comida gratuitas de padrão modesto ou confortável (dependendo da qualidade do estabelecimento), desde que se apresente todas as noites.</p><p> Além disso, sua apresentação faz de você algo como uma figura local.</p><p> Quando estranhos o reconhecem em uma cidade onde você se apresentou, eles geralmente simpatizam com você.</p><hr><p> Trapaceiro Arcano </p><p>Selecione um: Inteligência +1 ou Carisma +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Ninjutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Inteligência em +1 ou sua Sabedoria em +1"
+    }
+   }
+  },
+  "QdKpZ7Pf8nKvgU9k": {
+   "description": "<p>Você tem ideias brilhantes e então as transforma em realidade através da tecnologia ou do chakra.</p><p> Você busca conteúdo original, ou pelo menos tenta.</p><p> As pessoas podem achar sua personalidade excêntrica e divertida, ou atraente.</p><p> Outros podem condenar suas práticas como não ortodoxas ou até perigosas.</p><p> Inventores variam muito em objetivos e especialidades, desde armamentos, até pequenos reparos, e até mesmo o reino do metafísico, como teóricos ou os chamados mágicos.</p><hr><p> Proficiências em perícias: História e Criação </p><p>Proficiências em ferramentas: Kit de Demolição</p><p> Equipamento: Um Kit de Demolição, um pequeno conjunto de suprimentos de reparo (molas, engrenagens, alavancas, válvulas, rolamentos, etc.), um conjunto de roupas de viajante, e uma carteira contendo 100 Ryo.</p><p> Pacote de equipamento: Pacote de Cientista </p><hr><p>Característica: Mente para Máquinas </p><p>Você tem um olhar aguçado e uma intuição natural quando se trata de garimpar materiais para novas invenções e ter inspiração para novas ideias.</p><p> Ao investigar e procurar em seus arredores, você é muito habilidoso em localizar materiais que podem ser usados para criar novas máquinas e também pode se inspirar com uma ideia para uma nova máquina para tentar construir.</p><hr><p> Um Bom Dia para Aprender </p><p>Selecione um: Inteligência +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Ninjutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Inteligência em +1 ou sua Sabedoria em +1"
+    }
+   }
+  },
+  "QeiEfJcpP9rFRD3C": {
+   "name": "Faca Com o Símbolo do Padrinho"
+  },
+  "R0rUSld4Elz7zOov": {
+   "name": "Artesão Conhecido",
+   "description": "<p>Seu trabalho artesanal se tornou conhecido pelos lugares que você visitou, e as pessoas sempre confiam que seu trabalho é bem feito.</p><p>Você sempre consegue um lugar para ficar ou informações em troca de trabalho.</p><p>Se você está associado a uma guilda de artesãos, as pessoas reconhecem seu status e agem de acordo.</p>"
+  },
+  "R7l0N2FojYbxSvPO": {
+   "name": "Amuleto da Sorte"
+  },
+  "RH0uvY3YLBJLrEZC": {
+   "name": "Livro de Receitas"
+  },
+  "RJIDffh2ygYoXTmS": {
+   "name": "Martelo"
+  },
+  "RNxNNVMMUvpL8dTq": {
+   "name": "Patente Militar",
+   "description": "<p>Você tem uma patente militar de sua carreira como soldado.</p><p>Soldados leais à sua antiga organização militar ainda reconhecem sua autoridade e influência, e se curvam a você caso tenham patente inferior.</p><p>Você pode invocar sua patente para exercer influência sobre outros soldados e requisitar equipamentos simples para uso temporário.</p><p>Você também costuma conseguir acesso a acampamentos militares amigos onde sua patente é reconhecida.</p>"
+  },
+  "RgS4VmTn9qeRrHAu": {
+   "name": "Criança da Guerra",
+   "description": "<p>Você cresceu em uma região devastada pela guerra, onde o perigo espreita a cada amanhecer.</p><p> Houve momentos em que você se escondeu de soldados, lutou contra ataques, ou simplesmente ajudou aqueles que fizeram isso sem sucesso.</p><p> Você deixou esse mundo para trás agora, seja porque a própria guerra terminou ou porque simplesmente partiu para nunca mais olhar para trás.</p><p> Mas o tempo gasto na guerra nunca permitirá que você volte a ser quem você era.</p><hr><p> Proficiências em perícias: Escolha duas entre Atletismo, Medicina ou Furtividade </p><p>Proficiências em ferramentas: escolha uma entre Kit de Demolição, Kit de Culinária ou Kit de Armadilheiro </p><p>Equipamento: uma lembrança de sua antiga casa, um conjunto de roupas comuns com um manto de capuz, e uma bolsa contendo 100 Ryo.</p><p> Pacote de equipamento: Pacote de Viajante </p><hr><p>Característica: Avaliação de Ameaças </p><p>Seu tempo na guerra o tornou habilidoso em localizar a coisa mais perigosa em uma situação hostil.</p><p> Quando a adrenalina age, seus sentidos se intensificam, e você pode rapidamente identificar qual é o perigo mais imediato em uma situação hostil.</p><hr><p> Sobrevivente Aterrorizado </p><p>Selecione um: Destreza +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Taijutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Sabedoria em +1 ou sua Destreza em +1"
+    }
+   }
+  },
+  "RvfsZ3IkUX7vBxXE": {
+   "name": "Álibi",
+   "description": "<p>Você tem pessoas que mentirão por você, dando-lhe um álibi quando precisar, porém elas só mentirão por você enquanto você mantiver boas relações com elas e suas mentiras não as colocarem em perigo.</p>"
+  },
+  "S3JaCwb2v3MA9vm4": {
+   "name": "Cronista",
+   "description": "<p>A história é feita todos os dias, mas nem todas as pessoas se importam em lembrá-la.</p><p> É seu dever como cronista garantir que essa história seja registrada para as futuras gerações.</p><p> Você é um dos poucos que se opõe à ignorância.</p><p> Você pode ser uma pessoa obcecada por detalhes, ou talvez um erudito curioso em busca de todas as partes de uma história que está empenhado em registrar.</p><p> Qualquer que seja o motivo, você decidiu partir para o mundo para buscar e registrar tudo o que puder encontrar.</p><hr><p> Proficiências em perícias: História, Sobrevivência</p><p>Proficiências em ferramentas: escolha uma entre Kit de Demolição, Kit de Perícia Forense ou Kit de Armadilheiro </p><p>Equipamento: Caixa de madeira contendo um mapa para uma ruína ou masmorra, um conjunto de roupas de viajante, e uma bolsa contendo 100 Ryo </p><p>Pacote de equipamento: Pacote de Exploração de Masmorras, Pacote de Explorador ou Pacote de Erudito [★] </p><hr><p>Característica: Conhecimento Histórico </p><p>Quando você entra em uma ruína ou algum lugar histórico, consegue determinar corretamente seu propósito original e identificar seus construtores.</p><p> Além disso, você tem vantagem em testes de História para lembrar informações históricas.</p><hr><p> Conheça seu Passado </p><p>Selecione um: Inteligência +1 ou Sabedoria +1 Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Chakra.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Destreza +1 ou Inteligência +1"
+    }
+   }
+  },
+  "S6bJIPNqBfpseZpV": {
+   "name": "Manto Escuro"
+  },
+  "STJyvfJKPcSqr9q9": {
+   "name": "Charlatão",
+   "description": "<p>Você sempre teve um jeito com as pessoas.</p><p> Você sabe o que as motiva, consegue descobrir os desejos de seus corações depois de alguns minutos de conversa, e com algumas perguntas direcionadas consegue lê-las como se fossem livros infantis.</p><p> É um talento útil, e um que você está perfeitamente disposto a usar para sua vantagem.</p><p> Você sabe o que as pessoas querem e entrega, ou melhor, promete entregar.</p><p> O bom senso deveria afastar as pessoas de coisas que parecem boas demais para ser verdade, mas o bom senso parece estar em falta quando você está por perto.</p><p> O frasco de líquido rosa certamente curará aquela erupção cutânea inconveniente, esta pomada – nada mais do que um pouco de graxa com uma pitada de pó de prata – pode restaurar a juventude e o vigor, e há uma ponte na cidade que por acaso está à venda.</p><p> Essas maravilhas parecem implausíveis, mas você as faz parecer genuínas.</p><hr><p> Proficiências em perícias: Enganação, Prestidigitação </p><p>Proficiências em ferramentas: Kit de Disfarce, Kit de Perícia Forense </p><p>Equipamento: Um conjunto de roupas finas, um kit de disfarce, ferramentas de trapaça à sua escolha (dez garrafas com rolha cheias de líquido colorido, um conjunto de dados viciados, um baralho de cartas marcadas, ou um anel de sinete de um duque imaginário), e uma bolsa contendo 100 Ryo.</p><p> Pacote de equipamento: Pacote de Jogador [★] ou de Artista </p><hr><p>Característica: Identidade Falsa </p><p>Você criou uma segunda identidade que inclui documentação, conhecidos estabelecidos, e disfarces que permitem assumir essa persona.</p><p> Além disso, você pode falsificar documentos incluindo papéis oficiais e cartas pessoais, desde que já tenha visto um exemplo do tipo de documento ou da caligrafia que está tentando copiar.</p><hr><p> Dupla Face </p><p>Selecione um: Inteligência +1 ou Carisma +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Genjutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher Talento, ignore este AVA] Aumente seu Carisma +1 ou Inteligência +1"
+    }
+   }
+  },
+  "Sc7s8gL3EH71GEFJ": {
+   "name": "Lembrança Criminosa",
+   "description": "<p>um cachimbo, um cantil ou caneca, ou um par de óculos escuros</p>"
+  },
+  "T2Lu1klytZbNryKt": {
+   "name": "Experiência em Primeira Mão",
+   "description": "<p>Você vivenciou incontáveis dias de agonia mental, física e espiritual, e sabe intimamente como foi mantido vivo durante isso.</p><p>Ao interrogar um humanoide vivo, você pode garantir que qualquer dor que infligir não mate o indivíduo.</p><p>Além disso, ao examinar tal indivíduo, você pode gastar pelo menos 30 minutos para tentar (Intuição/Medicina/Investigação) descobrir quaisquer segredos arcanos ou biológicos sobre seu corpo.</p>"
+  },
+  "THBFRpDhGy8VOzuB": {
+   "name": "Posição de Poder",
+   "description": "<p>Por causa de sua posição, você comanda certo respeito.</p><p>Pessoas que sabem quem você é e também têm interesse em agradar seu senhor tendem a lhe dar o benefício da dúvida e farão o possível para não atrair sua ira, para não correrem o risco de incorrer na fúria de seu superior.</p><p>Outros dentro da organização da qual você faz parte também provavelmente buscarão seu favor da forma que puderem.</p>"
+  },
+  "Tr5mjOzrAevFYntY": {
+   "name": "Artesão",
+   "description": "<p>Artesãos estão entre as pessoas mais comuns do mundo — até que deixem suas ferramentas de lado e sigam uma carreira de aventureiro.</p><p> Eles entendem o valor do trabalho duro e a importância da comunidade, mas são vulneráveis aos pecados da avareza e da cobiça.</p><p> Alguns artesãos fazem parte de guildas de artesãos especializadas, geralmente encontradas em cidades grandes o suficiente para sustentar vários artesãos praticando o mesmo ofício.</p><p> No entanto, algumas guildas podem ser, em vez disso, redes soltas de artesãos que trabalham cada um em uma vila diferente pelo mundo.</p><p> Trabalhe com seu Mestre para determinar a natureza de seu antecedente de artesão, para determinar de qual lugar você veio e por que escolheu deixar de ser um artesão.</p><hr><p> Proficiências em perícias: Criação, selecione uma entre História ou Intuição </p><p>Proficiências em ferramentas: Kit de Ferreiro de Armas ou Kit de Ferreiro de Armaduras </p><p>Equipamento: um conjunto de roupas de viajante, seu kit de ferramentas de artesão escolhido, e uma bolsa contendo 100 ryo </p><p>Pacote de equipamento: Pacote de Artesão ou Pacote de Cientista [★] </p><hr><p>Característica: Artesão Conhecido </p><p>Seu trabalho artesanal se tornou conhecido pelos lugares que você visitou, e as pessoas sempre confiam que seu trabalho é bem feito.</p><p> Você sempre consegue um lugar para ficar ou informações em troca de trabalho.</p><p> Se você está associado a uma guilda de artesãos, as pessoas reconhecem seu status e agem de acordo.</p><hr><p> Recompensas de uma Criação Magistral </p><p>Selecione um: Inteligência +1 ou Carisma +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Clã.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher Talento, ignore este AVA] Aumente seu Carisma +1 ou Inteligência +1"
+    }
+   }
+  },
+  "TwzZtrZ5HMkVrW0E": {
+   "name": "Má Reputação",
+   "description": "<p>Não importa aonde você vá, as pessoas têm medo de você por causa de sua reputação.</p><p>Quando você está em um povoado civilizado, pode se safar de pequenos delitos criminais, como se recusar a pagar por comida em uma taverna ou arrombar portas de uma loja local, já que a maioria das pessoas não denunciará sua atividade às autoridades.</p>"
+  },
+  "U00N07KUADFKWV6W": {
+   "name": "Caixa de Madeira com um Mapa para uma Masmorra"
+  },
+  "U7Pd2HiWiwjC3KXj": {
+   "name": "Ferramentas de Trapaça do Charlatão",
+   "description": "<p>dez garrafas com rolha cheias de líquido colorido, um conjunto de dados viciados, um baralho de cartas marcadas, ou um anel de sinete de um duque imaginário</p>"
+  },
+  "URXfshzX0eVdxEDN": {
+   "name": "Pequena Faca"
+  },
+  "UXZn2xYNmjnHjzSE": {
+   "name": "Conhecimento Histórico",
+   "description": "<p>Quando você entra em uma ruína ou algum lugar histórico, consegue determinar corretamente seu propósito original e identificar seus construtores.</p><p>Além disso, você tem vantagem em testes de História para lembrar informações históricas.</p>"
+  },
+  "UydjUQK5jKNkMucp": {
+   "name": "Bandido",
+   "description": "<p>Uma vida de assaltos em estradas o treinou bem.</p><p>Dando a você bastante experiência na sela e um talento para adquirir e avaliar montarias, animais de estimação e veículos de outras pessoas, entre outras coisas.</p><p>Esse conjunto particular de habilidades se tornou muito lucrativo para você, trabalhando para a clandestinidade como ladrão de cavalos para uma guilda local de ladrões e outras organizações obscuras.</p><hr><p>Proficiências em perícias: Furtividade e Enganação </p><p>Proficiências em ferramentas: Kit de Disfarce </p><p>Equipamento: Uma faca, uma panela, um cobertor de inverno, um objeto que você recebeu como sua parte de um roubo bem-sucedido, um conjunto de roupas comuns, e uma bolsa contendo 100 ryo </p><p>Pacote de equipamento: Pacote de Explorador ou de Infiltrador </p><hr><p>Característica: Infâmia </p><p>Você tem um passado associado a uma gangue infame de vadios, que as pessoas podem reconhecer (tatuagem especial, símbolo proeminente no equipamento, ou reconhecido por uma testemunha).</p><p>Você tem vantagem em testes de Intimidação contra qualquer um que esteja consciente de seu passado (e que seria intimidado por bandidos razoavelmente poderosos) </p><hr><p>Último Grande Golpe </p><p>Selecione um: Força +1 ou Carisma +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Taijutsu.</p><p>Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Destreza +1"
+    }
+   }
+  },
+  "Vxt32QOr1kHOb7pW": {
+   "name": "Uma Vida Já Vivida",
+   "description": "<p>Você já teve um lar, uma família, relacionamentos, posses, mas agora sobrou apenas a capacidade de começar de novo.</p><p>Você não está familiarizado com o mundo à sua volta nem com as pessoas nele.</p><p>Você pode frequentemente precisar pedir esclarecimentos sobre coisas que outros aventureiros podem saber intrinsecamente.</p><p>Alguns eventos, locais, nomes, frases ou objetos também podem fazer você recordar pequenos detalhes que podem se relacionar com a vida que você já teve, a critério do Mestre.</p>"
+  },
+  "WHbRdu8Asr829ViF": {
+   "name": "Bugiganga de Seu Passado"
+  },
+  "WcjjO1FWCHJ2PvYh": {
+   "name": "Mensageiro",
+   "description": "<p>Você é um mensageiro de encomendas, um serviço muito necessário em um mundo perigoso onde a comunicação entre povoados pode ser difícil.</p><p>Você já viajou muito, das maiores cidades às menores vilas perdidas.</p><p>A estrada é seu lar, e embora suas viagens tenham sido frequentemente solitárias, o seu é um negócio de pessoas.</p><p>Esse simples fato o expôs a muitas culturas diferentes e permitiu que você veja o mundo de uma forma que poucos outros conseguem.</p><p>Quando a jornada é difícil, você sempre consegue encontrar um caminho até seu destino, mesmo que um ainda não exista.</p><hr><p>Proficiências em perícias: Persuasão, Sobrevivência </p><p>Proficiências em ferramentas: Kit de Armadilheiro ou Kit Médico </p><p>Equipamento: Um cajado, uma bolsa de couro, dois estojos de pergaminho impermeáveis, um mapa de seu país ou região de origem, um frasco de tinta preta, uma pena, uma carta misteriosa cujo destinatário não pôde ser encontrado, um conjunto de roupas de viajante, e uma bolsa contendo 100 Ryo.</p><p>Pacote de equipamento: Pacote de Explorador </p><hr><p>Característica: Rede de Contatos</p><p>Ao longo dos anos você construiu uma reputação baseada em confiabilidade e confiança.</p><p>A maioria dos grandes povoados contém cidadãos, empresários, políticos, ou possivelmente até criminosos com quem você desenvolveu um bom relacionamento.</p><p>Essas pessoas costumam estar dispostas a lhe dar informações e também podem ajudá-lo em troca de um favor.</p><p>Certos comerciantes podem lhe oferecer preços melhores em agradecimento por seus serviços passados.</p><p>Converse com seu Mestre para determinar quem são essas pessoas ao entrar em um grande povoado.</p><hr><p>Carteiro Prestativo </p><p>Selecione um: Destreza +1 ou Constituição +1</p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Ninjutsu.</p><p>Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Constituição em +1 ou sua Destreza em +1"
+    }
+   }
+  },
+  "XgG0XfrCESfn0K3p": {
+   "name": "Pedaço de Pele",
+   "description": "<p>Uma pequena lembrança de valor íntimo para você</p>"
+  },
+  "XxeCkCB8K34ZAxOj": {
+   "name": "Pergaminho"
+  },
+  "YHZTQKtlHJswhxRo": {
+   "name": "Historiador",
+   "description": "<p>Você passou a maior parte de sua juventude rastejando na poeira, pilhando relíquias de valor questionável de criptas e ruínas.</p><p> Desde que você pode se lembrar, você se interessa pelos acontecimentos do passado.</p><p> As ruínas de cidades antigas, os mistérios de clãs há muito perdidos e os campos de batalhas históricas, todos esses acontecimentos o fascinam e lhe dão a vontade de estudá-los, de entender e revelar seus segredos.</p><hr><p> Proficiências em perícias: História, Sobrevivência </p><p>Proficiências em ferramentas: escolha uma entre Kit de Demolição, Kit de Perícia Forense ou Kit de Armadilheiro </p><p>Equipamento: Caixa de madeira contendo um mapa para uma ruína ou masmorra, um conjunto de roupas de viajante, e uma bolsa contendo 100 Ryo </p><p>Pacote de equipamento: Pacote de Exploração de Masmorras, Pacote de Explorador ou Pacote de Erudito [★] </p><hr><p>Característica: Conhecimento Histórico </p><p>Quando você entra em uma ruína ou algum lugar histórico, consegue determinar corretamente seu propósito original e identificar seus construtores.</p><p> Além disso, você tem vantagem em testes de História para lembrar informações históricas.</p><hr><p> Conheça seu Passado </p><p>Selecione um: Inteligência +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Ninjutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Força em +1 ou sua Inteligência em +1"
+    }
+   }
+  },
+  "YuTUHijoNxFkQ3zk": {
+   "name": "Conhecimento Elementar",
+   "description": "<p>Você sabe onde encontrar pessoas que sabem das coisas, ou pessoas que conhecem pessoas que sabem das coisas.</p><p>Quando você entra em uma cidade, sabe onde procurar informações sobre os acontecimentos da cidade.</p><p>Você também nunca esquece o rosto das pessoas que conhece, pois pode precisar delas em outros casos.</p>"
+  },
+  "ZlRhpGU0erS6Aln0": {
+   "name": "Pá"
+  },
+  "a5Wp1K7Pait0LQbu": {
+   "name": "Professor",
+   "description": "<p>Você é um professor experiente que sabe como instruir melhor os outros em uma gama de disciplinas.</p><p> Embora você mesmo tenha uma vasta quantidade de conhecimento, a pedagogia é a ferramenta mais importante em sua caixa de ferramentas, pois permite que o resto de seu conhecimento se espalhe da forma mais eficiente.</p><hr><p> Proficiências em perícias: História, Atuação </p><p>Proficiências em ferramentas: Kit de Perícia Forense </p><p>Equipamento: Um conjunto de roupas comuns, um instrumento ou conjunto de ferramentas no qual você é proficiente, uma lembrança de um antigo aluno, e uma bolsa de cinto contendo 100 Ryo </p><p>Pacote de equipamento: Pacote de Erudito [★] </p><hr><p>Característica: Conhecimento</p><p>Se você precisa de informações sobre algo, sabe se existe um livro contendo essa informação e onde encontrá-lo.</p><p> Além disso, quando ouve uma criatura falando ou vê um idioma escrito, você consegue identificar exatamente qual idioma está sendo usado, mesmo que não seja proficiente nele.</p><p> Por fim, quando ouve música, você sabe quais instrumentos estão sendo usados na performance, mesmo que não seja proficiente em seu uso.</p><hr><p> Guia do Futuro </p><p>Selecione um: Sabedoria +1 ou Inteligência +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Ninjutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Sabedoria em +1 ou sua Destreza em +1"
+    }
+   }
+  },
+  "aBckM4DF6veywZtD": {
+   "name": "Bugiganga de Sua Infância"
+  },
+  "aGx1JO3z1RKzUm9K": {
+   "name": "Cantil"
+  },
+  "ajpw27jvLlco10fO": {
+   "name": "Proeminência Política",
+   "description": "<p>Você comumente é visto como uma pessoa de grande status.</p><p>As pessoas provavelmente o tratarão como um nobre ou assumirão que você é dessa linhagem.</p><p>Você pode obter audiências com nobres ou oficiais com facilidade, já que muitas vezes podem vê-lo como alguém de seu círculo.</p>"
+  },
+  "b2531nHXxXWl7sLW": {
+   "name": "Saco com Mercadorias"
+  },
+  "b3311BQoprWkyU0S": {
+   "name": "Mente para Máquinas",
+   "description": "<p>Você tem um olhar aguçado e uma intuição natural quando se trata de garimpar materiais para novas invenções e ter inspiração para novas ideias.</p><p>Ao investigar e procurar em seus arredores, você é muito habilidoso em localizar materiais que podem ser usados para criar novas máquinas e também pode se inspirar com uma ideia para uma nova máquina para tentar construir.</p>"
+  },
+  "b3rVCQhz4NMlqLYK": {
+   "name": "Lembrança de um Antigo Aluno"
+  },
+  "bGMA3JWePvmYOIw2": {
+   "name": "Refinar e Reparar",
+   "description": "<p>Como um Ferreiro treinado, você conhece bem a forja.</p><p>Você é capaz de terminar o trabalho de forma rápida e barata.</p><p>Você é capaz de reparar equipamentos pela metade do custo necessário para comprá-los, e é capaz de aplicar selos em armas e armaduras na metade do tempo normal.</p>"
+  },
+  "bYBEjYsloxkIBXnU": {
+   "name": "Sem Fronteiras",
+   "description": "<p>Seja como for que você tenha conquistado seu prestígio ou título como médico, agora você é conhecido como alguém que jurou fazer o melhor possível para salvar vidas.</p><p>Sua certificação como médico faz com que os outros o vejam como alguém neutro que costuma fazer o que é certo, não importa o caso.</p><p>Em casos em que possa haver um conflito acirrado entre vizinhos ou fronteiras, você, como médico, pode ser a figura ideal para mediar.</p><p>Se você precisar atravessar para um território perigoso, como um de guerra ou rixa, as autoridades serão mais tolerantes com seu pedido, já que sua profissão fornece um motivo bastante razoável aos olhos delas.</p><p>Isso não significa que você sempre terá passagem livre, já que o respeito devido aos médicos nem sempre é garantido na sociedade.</p>"
+  },
+  "cloA635SHEDZu0fZ": {
+   "name": "Médico",
+   "description": "<p>Na maior parte do tempo, espera-se que os médicos sejam exemplos de bondade.</p><p> Eles estão vinculados a um código que garante que não causem mal e façam o possível para ajudar os pacientes.</p><p> Sendo assim, não deveria ser surpresa que eles frequentemente encontrem o que há de pior na humanidade.</p><p> Questões morais os perseguem como fornecedores de um bem limitado.</p><p> Tentações podem desviar um médico do caminho e facilmente transformá-lo em um monstro.</p><p> O que motiva seu médico? Dinheiro? Fama? Médicos geralmente são reconhecidos de uma forma ou de outra dentro das comunidades onde atuam, como figuras de autoridade.</p><p> Será que já sofreram alguma doença debilitante, o que os impulsionou para essa área? Devido ao estresse do trabalho, médicos podem se distanciar emocionalmente dos pacientes ou escolher tratar todos profissionalmente.</p><p> Considere como seu personagem lida com toda a morte que pode ter visto, assim como quaisquer milagres da medicina que possa ter testemunhado.</p><p> Eles, mais do que ninguém, conhecem a fragilidade da vida e como ela pode ser facilmente esquecida.</p><p> Em um mundo onde nem todos podem pagar por jutsu médico, um médico pode ser o árbitro final entre quem vive e quem morre.</p><hr><p> Proficiências em perícias: Investigação, Medicina </p><p>Proficiências em ferramentas: Kit Médico ou Kit de Veneno </p><p>Equipamento: Um saco de dormir, cobertor, barraca para 2 pessoas, notas de doutorado sobre sua área de especialização, certificação de médico, um conjunto de roupas comuns, e uma bolsa de cinto contendo 100 Ryo.</p><p>Pacote de equipamento: Pacote de Erudito [★] </p><hr><p>Característica: Sem Fronteiras </p><p>Seja como for que você tenha conquistado seu prestígio ou título como médico, agora você é conhecido como alguém que jurou fazer o melhor possível para salvar vidas.</p><p> Sua certificação como médico faz com que os outros o vejam como alguém neutro que costuma fazer o que é certo, não importa o caso.</p><p> Em casos em que possa haver um conflito acirrado entre vizinhos ou fronteiras, você, como médico, pode ser a figura ideal para mediar.</p><p> Se você precisar atravessar para um território perigoso, como um de guerra ou rixa, as autoridades serão mais tolerantes com seu pedido, já que sua profissão fornece um motivo bastante razoável aos olhos delas.</p><p> Isso não significa que você sempre terá passagem livre, já que o respeito devido aos médicos nem sempre é garantido na sociedade.</p><hr><p> Aqui para Ajudar </p><p>Selecione um: Inteligência +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Chakra.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Sabedoria em +1 ou sua Inteligência em +1"
+    }
+   }
+  },
+  "dfRMKICQCziczz2d": {
+   "name": "Perspectiva de Forasteiro",
+   "description": "<p>Como um forasteiro, você vê a sociedade de uma forma diferente da maioria e pode avaliá-la melhor à distância.</p><p>Ao passar tempo em uma cidade, vilarejo ou tribo, as falhas e vantagens do sistema se tornam evidentes para você, e você percebe rapidamente as dinâmicas sociais.</p><p>Ao interagir com os habitantes locais e circular pela área, você é capaz de determinar coisas como o equilíbrio atual de poder, questões urgentes e notícias, se há insatisfação com o status quo atual, e quem podem ser figuras importantes.</p><p>Entretanto, como um forasteiro, é menos provável que os outros aceitem bem suas críticas à sociedade deles sem um bom motivo.</p>"
+  },
+  "eFM7swccIfKJITXC": {
+   "name": "Identidade Falsa",
+   "description": "<p>Você criou uma segunda identidade que inclui documentação, conhecidos estabelecidos, e disfarces que permitem assumir essa persona.</p><p>Além disso, você pode falsificar documentos incluindo papéis oficiais e cartas pessoais, desde que já tenha visto um exemplo do tipo de documento ou da caligrafia que está tentando copiar.</p>"
+  },
+  "eH1Hns8K0207kHKY": {
+   "name": "Lâmina Contratada",
+   "description": "<p>Como um mercenário experiente, você participou de missões suficientes para ter um profundo entendimento do que pode e do que não pode lidar.</p><p>Ao ouvir o briefing de uma missão ou a descrição de uma missão, você tem uma noção vaga de quão difícil a missão deve ser.</p>"
+  },
+  "eRRQQRVOrWmo1pYj": {
+   "name": "Criança Selvagem",
+   "description": "<p>Algumas pessoas são abandonadas ou se perdem quando jovens, e consequentemente sobrevivem na natureza por algum golpe de sorte extraordinário.</p><p> Você é uma dessas pessoas.</p><p> Você foi criado por animais, ou sobreviveu inteiramente por conta própria? Você é órfão? Seus pais o abandonaram na floresta por pobreza ou apatia? Você se perdeu acidentalmente enquanto seus parentes caminhavam pela natureza com você? É possível que você não tenha nenhuma memória de seus pais ou de como terminou separado deles.</p><p> Após seu primeiro encontro com humanoides, como você passou a viver na sociedade humanoide? Você procurou outras pessoas ou foi forçado a deixar seu lar e entrar em um mundo com o qual não tinha conexão ou compreensão? </p><hr><p>Proficiências em perícias: Sobrevivência e Lidar com Animais </p><p>Proficiências em ferramentas: Kit de Alquimista, Kit de Envenenador </p><p>Equipamento: Um kit de cura, um objeto que você coletou na natureza, como uma pedra brilhante ou concha marinha, um conjunto de roupas de viajante, um pedaço de pele de um animal, e um grande odre que pode conter dois galões de água.</p><p> Pacote de equipamento: Pacote de Viajante </p><hr><p>Característica: Cheiro das Terras Selvagens </p><p>Seu sentido de visão e olfato foi finamente ajustado durante seus anos na natureza.</p><p> Quando você entra em uma floresta ou campos densos, consegue determinar corretamente rastros de qualquer besta ou humanoide.</p><p> Além disso, você consegue determinar um porto seguro mais próximo de você.</p><hr><p> Estranhos Como Eu </p><p>Selecione um: Destreza +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Taijutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Sabedoria em +1 ou sua Constituição em +1"
+    }
+   }
+  },
+  "emhBia0LSzt7jPC6": {
+   "name": "Fracasso",
+   "description": "<p>Até hoje você não teve uma única grande vitória em sua vida.</p><p> Você sempre chegou em último lugar, sendo deixado na poeira por seus colegas.</p><p> Já lhe disseram muitas vezes que você deveria desistir de ser um ninja, mas há algo que faz você continuar.</p><p> Seja para provar que aqueles que o rebaixam estão errados, para provar que você pode ser um ninja verdadeiramente grandioso, ou para provar que um de seus raros apoiadores está certo.</p><p> Seja qual for o caso, cabe a você trabalhar duro, para que não seja um fracasso para sempre.</p><hr><p> Proficiências em perícias: Escolha duas entre Atletismo, Acrobacia ou Persuasão </p><p>Proficiências em ferramentas: Kit de Armadilheiro ou Kit de Ferreiro de Armaduras </p><p>Equipamento: Roupas comuns, uma lembrança de um de seus apoiadores, e uma bolsa contendo 100 Ryo.</p><p> Pacote de equipamento: Pacote de Artista Marcial [★] </p><hr><p>Característica: Baixas Expectativas </p><p>Outros têm expectativas muito baixas quanto a você; por causa disso, você frequentemente recebe tarefas muito mais fáceis que seus companheiros de equipe ou é subestimado em combate.</p><p> Se você mostrar que é mais capaz do que essa pessoa pensava, ela passará a tratá-lo como trataria qualquer outra pessoa.</p><hr><p> Garra de Ouro </p><p>Selecione um: Força +1 ou Destreza +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Taijutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Destreza em +1 ou sua Força em +1"
+    }
+   }
+  },
+  "ex6wdwwPZfiJ9LjK": {
+   "name": "Lembrança de Seu Passado",
+   "description": "<p>brasão de família, ordem oficial de rejeição, ou outra lembrança</p>"
+  },
+  "eyS2hCdxWAT5j0XG": {
+   "name": "Amnésico",
+   "description": "<p>Um dia você despertou, talvez em uma floresta ou em uma praia de areia, sem nenhuma lembrança do que aconteceu com você.</p><p> Como você chegou aqui? Quem você era? Essas perguntas confundem e atormentam sua mente.</p><p> Algumas pessoas desejam um novo começo, mas você nem teve essa escolha.</p><hr><p>Proficiências em perícias: Intuição, Investigação </p><p>Proficiências em ferramentas: kit de disfarce ou kit de falsificação </p><p>Equipamento: Um conjunto de roupas comuns, uma relíquia de seu passado da qual você não se lembra, e uma bolsa de cinto contendo 100 Ryo</p><p>Pacote de equipamento: Pacote de Artista Marcial [★] ou Pacote de Explorador </p><hr><p>Característica: Uma vida já vivida </p><p>Você já teve um lar, uma família, relacionamentos, posses, mas agora sobrou apenas a capacidade de começar de novo.</p><p> Você não está familiarizado com o mundo à sua volta nem com as pessoas nele.</p><p> Você pode frequentemente precisar pedir esclarecimentos sobre coisas que outros aventureiros podem saber intrinsecamente.</p><p> Alguns eventos, locais, nomes, frases ou objetos também podem fazer você recordar pequenos detalhes que podem se relacionar com a vida que você já teve, a critério do Mestre.</p><hr><p> Remanescentes do Passado </p><p>Selecione um: Sabedoria +1 ou Carisma +1 Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Clã.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente seu Carisma +1 ou Sabedoria +1"
+    }
+   }
+  },
+  "ezGoNZ3R3pyNPcBj": {
+   "name": "Insurgente",
+   "description": "<p>Tem inimigos? Ótimo, isso significa que você defendeu algo em algum momento de sua vida.</p><p> Para você, isso foi se posicionar contra o status quo em sua terra.</p><p> Seja contra senhores mercantes trapaceiros ou uma autocracia opressora, você fez sua voz ser ouvida para lutar por mudanças... e talvez seja por isso que agora você está em uma aventura, tendo deixado seu lar para reunir aliados ou escapar de retaliação.</p><hr><p> Proficiências em perícias: Persuasão, Furtividade </p><p>Proficiências em ferramentas: Kit de Demolição, kit de disfarce, ou kit de falsificação </p><p>Equipamento: Um conjunto de ferramentas no qual você é proficiente, um conjunto de roupas de viajante, e uma bolsa de cinto contendo 100 Ryo </p><p>Pacote de equipamento: Pacote de Infiltrador </p><hr><p>Característica: Homens de Ideias Semelhantes</p><p>Você faz parte de uma rede de companheiros insurgentes.</p><p> Embora você nem sempre concorde com os métodos de dissidência de seus companheiros, eles estão dispostos a criar distrações em público, fornecer passagem segura, e informá-lo sobre as rotas de patrulha de guardas, militares e outras forças da lei nas cidades e territórios onde atuam.</p><hr><p> Revolução É Ordem </p><p>Selecione um: Destreza +1 ou Carisma +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Crítico.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Destreza +1"
+    }
+   }
+  },
+  "f0J342nqcFg1qtJj": {
+   "name": "Assassino",
+   "description": "<p>Você é, ou foi, um assassino profissional ou pistoleiro.</p><p> Seu trabalho, possivelmente até seu propósito na vida, era matar pessoas sem ser pego.</p><p> Por sorte ou talento, você deve ter sido razoavelmente bem-sucedido; afinal, um assassino famoso é um assassino morto.</p><p> Você nasceu na profissão, ou foi forçado a entrar nela, ou pegou a adaga intencionalmente? Você agia sozinho, ou trabalhava para uma agência/guilda, um grupo do crime organizado, ou um indivíduo particular? Você trabalhava por dinheiro, crenças pessoais, para evitar alguma ameaça de seu empregador ou por sua própria liberdade? Você foi lavado cerebralmente ou torturado para fazer esse tipo de trabalho? Você recebeu treinamento profissional como assassino, ou aprendeu por conta própria? Você se aposentou, ou ainda está disponível para contratação? Você gostava de seu trabalho? O que você sente sobre seus alvos? O que você pensa de outros assassinos? Houve alguma pessoa realmente importante que você foi encarregado de matar, ou alguma missão que foi especialmente difícil ou memorável? </p><hr><p>Proficiências em perícias: Furtividade, Enganação </p><p>Proficiências em ferramentas: Kit de Veneno ou Kit de Disfarce </p><p>Equipamento: Um conjunto de roupas comuns, roupas de viajante, e roupas finas, e um manto escuro, cada um com uma bolsa escondida costurada nele.<br> Você também tem várias folhas de papel, uma pena de tinta, e frascos de tinta preta, vermelha e invisível.<br>Além disso, você tem uma bolsa de moedas contendo 100 Ryo.</p><p> Pacote de equipamento: Pacote de Infiltrador </p><hr><p>Característica: Álibi </p><p>Você tem pessoas que mentirão por você, dando-lhe um álibi quando precisar, porém elas só mentirão por você enquanto você mantiver boas relações com elas e suas mentiras não as colocarem em perigo.</p><hr><p>Morte Sem Rosto </p><p>Selecione um: Destreza +1 ou Carisma +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Crítico.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente seu Carisma em +1 ou sua Destreza em +1"
+    }
+   }
+  },
+  "fAkW3bvTxdy0gCeH": {
+   "name": "Acólito",
+   "description": "<p>Você passou sua vida ao serviço de um templo dedicado a um deus específico ou a um panteão de deuses.</p><p> Você era um funcionário menor em um templo, criado desde a infância para auxiliar os sacerdotes nos ritos sagrados? Ou você era um sumo sacerdote que repentinamente sentiu um chamado para servir seu deus de uma forma diferente? Talvez você fosse o líder de um pequeno culto fora de qualquer estrutura de templo estabelecida, ou até um grupo oculto que servia a um mestre demoníaco que você agora nega.</p><hr><p> Proficiências em perícias: Persuasão, História </p><p>Proficiências em ferramentas: Kit de Rastreamento, Kit de Veneno ou Kit de Disfarce </p><p>Equipamento: um conjunto de roupas comuns, um Livro Bingo e uma bolsa contendo 100 ryo </p><p>Pacote de Equipamento: Pacote de Erudito [★] ou Pacote de Explorador </p><hr><p>Característica: Abrigo dos Fiéis </p><p>Como um acólito, você comanda o respeito daqueles que compartilham sua fé, e pode realizar as cerimônias religiosas de sua divindade.</p><p> Você e seus companheiros de aventura podem esperar receber cura e cuidados gratuitos em um templo, santuário ou outra presença estabelecida de sua fé.</p><p> Aqueles que compartilham sua religião o sustentarão (mas apenas a você) em um estilo de vida modesto.</p><p> Você também pode ter laços com um templo específico dedicado à sua divindade ou panteão escolhido, e ter uma residência lá.</p><p> Pode ser o templo onde você costumava servir, se ainda mantiver boas relações com ele, ou um templo onde encontrou um novo lar.</p><p> Enquanto estiver perto de seu templo, você pode recorrer aos sacerdotes para obter ajuda, desde que a ajuda solicitada não seja perigosa e você permaneça em boas relações com seu templo.</p><hr><p> Presença do Divino </p><p>Selecione um: Sabedoria +1 ou Carisma +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Chakra.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente seu Carisma +1 ou Sabedoria +1"
+    }
+   }
+  },
+  "fQGwA1YwuOjV3vZI": {
+   "name": "Monge",
+   "description": "<p>Ainda jovem, você foi levado ao mosteiro.</p><p>Você tem pouca ou nenhuma lembrança de sua vida anterior.</p><p>Você treinou com seus irmãos e irmãs aprendendo os caminhos do ninshou desde que pode se lembrar.</p><p>Você foi ensinado sobre como o chakra foi dado à humanidade como um presente e como uma forma de trazer paz, não guerra.</p><hr><p>Proficiências em perícias: Atletismo, Percepção</p><p>Proficiências em ferramentas: escolha uma entre Kit de Demolição, Kit de Perícia Forense ou Kit de Armadilheiro</p><p>Equipamento: Um conjunto de ferramentas de artesão, um símbolo monástico (ou seja, contas, um anel, um colar), Roupas, e uma Bolsa preenchida com 100 Ryo.</p><p>Pacote de equipamento: Pacote de Viajante ou Pacote de Artista Marcial [★]</p><hr><p>Característica: Na Graça da Ordem</p><p>Como um monge, você tem o respeito dos outros em sua ordem.</p><p>Você e seus companheiros podem esperar receber cura e cuidados gratuitos em um mosteiro, santuário ou outra presença estabelecida de sua ordem.</p><p>Sua ordem o sustentará (mas apenas a você) em um estilo de vida modesto.</p><hr><p>Uma Vida Modesta</p><p>Selecione um: Inteligência +1 ou Sabedoria +1</p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Chakra.</p><p>Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Sabedoria +1"
+    }
+   }
+  },
+  "fWwLitFZRID9EdFk": {
+   "name": "Último do Clã",
+   "description": "<p>Você é o último de seu clã.</p><p> Você foi o único sobrevivente de um grande evento que ameaçou sua vida.</p><p> Talvez sua vila ou cidade tenha sido atacada por algum grande mal, ou talvez você tenha sido enganado por algum poder maior.</p><p> Não importam os detalhes, todos além de você morreram, e você sobreviveu.</p><p> Onde você estava quando isso aconteceu? Com que idade? Você era uma criança pequena, ou um jovem adulto? O que o atacou? Era uma única coisa, ou um grupo? Que efeito isso teve em você? Você ficou traumatizado, ou foi fortalecido por isso? Você fugiu, ou lutou contra isso? </p><hr><p>Proficiências em perícias: Sobrevivência, Percepção </p><p>Proficiências em ferramentas: escolha uma entre Kit de Ferreiro de Armas, Kit de Culinária ou Kit Médico </p><p>Equipamento: Uma bugiganga de seu passado (um colar, anel, espada, dedo ou cabelo decepado, etc.), um conjunto de roupas de viajante gastas, um pergaminho detalhando sua vida até este ponto, uma mochila, e uma bolsa de cinto contendo 100 ryo.</p><p> Pacote de equipamento: Pacote de Viajante, Pacote de Explorador ou Pacote de Artista Marcial [★] </p><hr><p>Característica: Vida Solitária </p><p>Tendo sobrevivido sozinho por alguns anos, você é capaz de cuidar das necessidades de sobrevivência por conta própria.</p><p> Você pode fazer fogueiras, construir abrigos, cozinhar comida, etc.</p><p> sem precisar fazer um teste de Sobrevivência.</p><p> Além disso, você conhece vários moradores, caçadores e comerciantes de suas viagens solitárias.</p><p> Marcos e pontos de interesse também podem ser familiares para você.</p><hr><p> Sobrevivente Solitário </p><p>Selecione um: Destreza +1 ou Inteligência +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Clã.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Inteligência em +1 ou sua Sabedoria em +1"
+    }
+   }
+  },
+  "g2Zewra6g7TqMsge": {
+   "name": "Herói do Povo",
+   "description": "<p>Você vem de uma posição social humilde, mas está destinado a algo muito maior.</p><p> O povo de sua vila natal já o considera seu campeão, e seu destino o chama para se opor aos tiranos e monstros que ameaçam o povo comum em todo lugar.</p><hr><p> Proficiências em perícias: Controle de Chakra, Sobrevivência.</p><p> Proficiências em ferramentas: Kit de Armadilheiro ou Kit de Demolição.</p><p> Equipamento: Um kit de ferramenta à sua escolha, uma pá, uma panela de ferro, um conjunto de roupas comuns, e uma bolsa contendo 100 Ryo.</p><p> Pacote de equipamento: Pacote de Artista Marcial [★] ou Pacote de Explorador </p><hr><p>Característica: Hospitalidade Rústica </p><p>Como você vem das fileiras do povo comum, você se encaixa entre eles com facilidade.</p><p> Você pode encontrar um lugar para se esconder, descansar ou se recuperar entre outros plebeus, a menos que tenha se mostrado um perigo para eles.</p><p> Eles o protegerão da lei ou de qualquer outra pessoa que o procure, embora não arrisquem suas vidas por você.</p><hr><p> Pelo Povo </p><p>Selecione um: Força +1 ou Constituição +1 </p><p>Talento do capítulo 13: Opções de Customização, da Categoria Geral, Perícia ou Taijutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um Aumento no Valor de Atributo de nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Constituição +1"
+    }
+   }
+  },
+  "g3KXc69L7lXWhRTH": {
+   "name": "Anel Elegante"
+  },
+  "g3m57PD7a6of2iAR": {
+   "name": "Olho do Guardião",
+   "description": "<p>Você tem um olhar aguçado quando se trata de segurança.</p><p>Você e seus companheiros podem viajar em velocidade normal através de multidões; e você sempre consegue escolher a rota mais segura para atravessar uma vila ou cidade.</p><p>Isso não leva em conta perigos invisíveis ou ocultos, como uma toca de vampiros escondida no bairro nobre; mas você pode facilmente evitar cortiços e áreas onde capangas costumam ficar.</p>"
+  },
+  "gdnx8Aobz4tmWD7X": {
+   "name": "Herdeiro",
+   "description": "<p>Pode ser uma herança de família, um último presente de seu mentor falecido ou algo que alguém, por algum motivo, deixou com você.</p><p> O importante é que você não sabe exatamente o que é, apenas que é importante e que deve protegê-lo.</p><p> Você pode decidir se conta aos seus companheiros sobre sua herança imediatamente ou, em vez de atrair atenção para si mesmo, pode preferir manter sua herança em segredo até descobrir mais sobre o que ela significa para você e o que ela pode fazer por você.</p><hr><p> Proficiências em perícias: Sobrevivência, escolha uma entre Ninshou, Ilusões ou Artes Marciais </p><p>Proficiências em ferramentas: Kit de Rastreamento, Kit de Veneno ou Kit Médico </p><p>Equipamento: Sua herança, um conjunto de roupas de viajante, e uma bolsa contendo 100 ryo </p><p>Pacote de equipamento: pacote de Explorador ou de Exploradores de Masmorras </p><hr><p>Característica: Trabalho da Herança </p><p>com seu Mestre para definir os detalhes: Por que sua herança é tão importante, e qual é a sua história completa? Você pode preferir que o Mestre invente esses detalhes como parte do jogo, permitindo que você descubra mais sobre sua herança conforme seu personagem também descobre.</p><hr><p> Legado Escolha </p><p>uma: Inteligência +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Clã.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Destreza +1 ou Inteligência +1"
+    }
+   }
+  },
+  "h6jgS3cXjUGrKX8t": {
+   "name": "Documentos de Identificação"
+  },
+  "hBIKOdBs1FNUMm7o": {
+   "name": "Favor de um Admirador",
+   "description": "<p>carta de amor, mecha de cabelo, ou bugiganga</p>"
+  },
+  "hGqQ0IfwZw09kFoa": {
+   "name": "O Sentimento É Mútuo",
+   "description": "<p>Deixar seu Clã ainda o afeta até hoje.</p><p>Membros do seu clã continuam a tratá-lo com dureza, enquanto inimigos do seu clã e aqueles que sentem pena de você tendem a tratá-lo com cuidado.</p><p>Você também compartilha uma conexão não dita com outros forasteiros.</p>"
+  },
+  "hgxhyzigL5UKGhqU": {
+   "name": "Bugiganga Favorita"
+  },
+  "hjdlyQdy1ho45IWR": {
+   "name": "Memórias de Atleta",
+   "description": "<p>Um disco de bronze ou bola de couro, um amuleto da sorte ou troféu passado</p>"
+  },
+  "hqkBJ2yiN8jbjOlu": {
+   "name": "Distintivo de Detetive"
+  },
+  "i83sd4PbcP21IHZp": {
+   "name": "Cobaia",
+   "description": "<p>Você foi criado na escravidão ou cativeiro, onde foi usado em experimentos.</p><p>Uma grande parte da sua história consiste em masmorras sombrias ou celas de torre, e manipulações excruciantes em sua pessoa, por meios arcanos ou mundanos.</p><p>Você suportou eventos extraordinários de ciência desumana.</p><p>Em algum momento, você escapou do cativeiro, por subterfúgio, diplomacia ou violência.</p><hr><p>Proficiências em perícias: Medicina e Intuição ou Prestidigitação </p><p>Proficiências em ferramentas: Kit de Veneno ou Kit Forense </p><p>Equipamento: Um conjunto de roupas comuns, uma lembrança de sua casa/pais, um par de grilhões, e uma bolsa contendo 100 Ryo </p><p>Pacote de equipamento: pacote de Cientista [★] ou de Infiltrador </p><hr><p>Característica: Experiência em Primeira Mão</p><p>Você vivenciou inúmeros dias de agonia mental, física e espiritual, e sabe intimamente como foi mantido vivo durante isso.</p><p>Ao interrogar um humanoide vivo, você pode garantir que qualquer dor que infligir não matará o indivíduo.</p><p>Além disso, ao perceber tal indivíduo, você pode gastar pelo menos 30 minutos para tentar (Intuição/Medicina/Investigação) descobrir quaisquer segredos arcanos ou biológicos sobre o corpo dele.</p><hr><p>Cobaia Humana </p><p>Escolha uma: Constituição +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Chakra.</p><p>Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Sabedoria em +1 ou sua Constituição em +1"
+    }
+   }
+  },
+  "iLNiHXxZfKd8MFxF": {
+   "name": "Fazendeiro",
+   "description": "<p>Você era o que a maioria do povo comum é–um fazendeiro.</p><p> Você trabalhava na propriedade de um senhor, ou trabalhava para uma empresa.</p><p> De qualquer forma, você produzia recursos da terra em troca de comida, abrigo, roupas, proteção e outros benefícios.</p><p> Fazendeiros se concentram em criar seres vivos e colher diversos bens úteis–principalmente comida–da terra.</p><p> Fazendeiros compõem a vasta maioria do campesinato, junto com outros produtores de recursos brutos, como mineiros e pescadores.</p><p> Fazendeiros são um povo robusto e resistente, trabalham longas horas sob o sol, frequentemente fazendo trabalho sujo e exaustivo ou até repugnante.</p><hr><p> Proficiências em perícias: Lidar com Animais e Natureza </p><p>Proficiências em ferramentas: Kit de Culinária ou Kit de Segurança </p><p>Equipamento: Uma ferramenta de fazenda (como um forcado ou uma pá), um conjunto de roupas de trabalho ou roupas comuns, um chapéu de abas largas, um saco contendo mercadorias, e uma bolsa de cinto contendo 100 Ryo.</p><p> Pacote de equipamento: pacote de Artesão </p><hr><p>Característica: Da Terra </p><p>Você não tem a educação formal das classes mais altas, mas, por mais pouco que saiba, há muita coisa que você compreende.</p><p> Você tem um conhecimento prático de astrologia e meteorologia, e consegue acompanhar facilmente a hora e a data, além de prever o tempo dentro de algumas horas, ou dias, se tiver sorte.</p><p> Você entende os \"segredos da vida\"; as necessidades da vida (água, luz, ar, sal, etc.), os padrões de herança física e as conexões entre diferentes plantas e animais.</p><hr><p> Um com a Terra </p><p>Escolha uma: Força +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Chakra.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Destreza em +1 ou sua Força em +1"
+    }
+   }
+  },
+  "iaN7najDE5FXs3Xg": {
+   "name": "Identidade Equivocada",
+   "description": "<p>Ser uma cópia perfeita de alguém tem suas vantagens.</p><p>Qualquer pessoa que conhecia seu original inicialmente pensará que você é ele.</p><p>Elas o tratarão como seu original e, se convencidas dessa identidade, lhe darão acesso a tudo que seu original teria acesso.</p><p>Se você falhar em se passar por seu original, a pessoa pode perceber o engano e temer que você seja um duplo, um espião disfarçado, um ilusionista, um monstro metamorfoseado, ou alguma outra coisa horrível.</p>"
+  },
+  "jbLgHLMV1RZVEo81": {
+   "name": "Variedade de Suprimentos de Mecânica",
+   "description": "<p>molas, engrenagens, alavancas, válvulas, rolamentos de esfera, etc.</p>"
+  },
+  "jjPcECvt11GmigO7": {
+   "name": "Amigo da Família",
+   "description": "<p>Como um servidor de longa data de sua família, nobres ou pessoas de alta posição reconhecerão sua origem.</p><p>Eles podem estar dispostos a ouvi-lo, se sua família tiver tido alguma conexão com eles, mas também podem estar reluzentes em confiar em você.</p><p>Como servidor de sua família, seja antigo ou atual, você ainda é visto através da reputação deles.</p>"
+  },
+  "jxeuvBFiV3mDwzuP": {
+   "name": "Nukenin",
+   "description": "<p>Você é um Ninja renegado notório que, devido a circunstâncias infelizes, perdeu o favor de sua vila.</p><p>No entanto, estar contra as grandes vilas traz benefícios.</p><p>Aqueles que não são das grandes vilas o veem como um deles, eles o protegem devido à sua natureza justa.</p><p>Um protetor do povo, uma pedra no sapato das autoridades.</p><hr><p>Proficiências em perícias: Sobrevivência e Acrobacia ou Atletismo </p><p>Proficiências em ferramentas: Kit de Disfarce </p><p>Equipamento: Uma armadilha de caça, uma panela de ferro, um conjunto de roupas de viajante, e uma bolsa contendo 100 ryo </p><p>Pacote de equipamento: pacote de Explorador </p><hr><p>Característica: Notório </p><p>Já que você passou a ser um do povo comum, não de uma das cinco grandes vilas, você se encaixa entre eles com facilidade.</p><p>Você pode encontrar um lugar para se esconder, descansar ou se recuperar entre plebeus, a menos que tenha se mostrado um perigo para eles.</p><p>Eles o protegerão da lei ou de qualquer outro que esteja procurando por você, embora não arrisquem suas vidas por você.</p><hr><p>Técnica Nascida das Sombras </p><p>Escolha uma: Constituição +1 ou Força +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Genjutsu.</p><p>Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Constituição +1"
+    }
+   }
+  },
+  "k1cB6AHJ9di20zxR": {
+   "name": "Bruxa/Feiticeiro",
+   "description": "<p>A comunidade em que você nasceu tinha pouco ou nenhum conhecimento sobre chakra, o que fazia muitos desconfiarem e temerem você, devido à sua habilidade natural de usar ninjutsu.</p><p>Ainda jovem, você percebeu que seu dom único o colocava acima do povo comum de sua cidade.</p><p>Você usou seu dom para ajudar aqueles em sua comunidade, ou se aproveitou dele? Você foi celebrado como um herói, ou foi expulso e visto como um monstro?</p><hr><p>Proficiências em perícias: Escolha duas entre Intimidação, Controle de Chakra, Ninshou ou Atuação</p><p>Proficiências em ferramentas: Kit de Alquimista</p><p>Equipamento: Um conjunto de roupas finas, uma grande bolsa de ombro repleta de bugigangas e curiosidades, incenso e uma bolsa contendo 100 Ryo.</p><p>Pacote de equipamento: pacote de Viajante</p><hr><p>Característica: Talento Inato </p><p>A capacidade de usar chakra vem naturalmente para você.</p><p>Isso fez com que você fosse mais criativo do que os outros no uso de ninjutsu.</p><p>Uma vez por descanso curto, você pode transformar qualquer teste de perícia que não seja baseado em Carisma em um teste de perícia de ninjutsu.</p><hr><p>Mal Julgado e Incompreendido</p><p>Escolha uma: Inteligência +1 ou Constituição +1</p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Genjutsu.</p><p>Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Inteligência em +1 ou sua Constituição em +1"
+    }
+   }
+  },
+  "kjSUEgJrarzoZUVg": {
+   "name": "Rede de Contatos",
+   "description": "<p>Com o passar dos anos, você construiu uma reputação baseada em confiabilidade e confiança.</p><p>A maioria dos grandes assentamentos contém cidadãos, empresários, políticos, ou possivelmente até criminosos com quem você desenvolveu um bom relacionamento.</p><p>Essas pessoas costumam estar dispostas a lhe dar informações e também podem ajudá-lo em troca de um favor.</p><p>Certos comerciantes podem lhe oferecer preços melhores em agradecimento por seus serviços passados.</p><p>Converse com seu Mestre para determinar quem são essas pessoas ao entrar em um grande assentamento.</p>"
+  },
+  "kpL7tpL0eiweMuIn": {
+   "name": "Guarda-Costas",
+   "description": "<p>Você passou sua vida protegendo a vida de outra pessoa.</p><p> Talvez fosse um nobre, ou um poderoso chefão do crime; talvez até um senhor da guerra brutal.</p><p> Talvez, em vez de alguém mais poderoso que você, fosse um companheiro ou membro da família fisicamente mais fraco.</p><p> Seja qual for o caso, sua vida até agora tem sido focada em proteger alguém.</p><hr><p> Proficiências em perícias: Intimidação e Intuição ou Percepção </p><p>Proficiências em ferramentas: Forense </p><p>Equipamento do Kit: Um conjunto de roupas comuns, um instrumento ou conjunto de ferramentas com o qual você é proficiente, uma lembrança de um antigo aluno, e uma bolsa de cinto contendo 100 Ryo </p><p>Pacote de equipamento: pacote de Artista Marcial [★] </p><hr><p>Característica: Olho do Guardião </p><p>Você tem um olhar atento quando se trata de segurança.</p><p> Você e seus companheiros podem viajar em velocidade normal por multidões; e você sempre consegue identificar a rota mais segura a seguir por uma vila ou cidade.</p><p> Isso não leva em conta perigos ocultos ou não vistos, como um covil de vampiros escondido no bairro nobre; mas você consegue evitar com facilidade favelas e áreas onde capangas costumam se reunir.</p><hr><p>Protetor Experiente </p><p>Escolha uma: Força.</p><p> +1 ou Constituição +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Ninjutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Constituição +1"
+    }
+   }
+  },
+  "l3G3Y0tdXmxNOOE3": {
+   "name": "Notas de Doutorado",
+   "description": "<p>notas de doutorado sobre sua área de especialização</p>"
+  },
+  "lITolvClg5nwdZKP": {
+   "name": "Comida Gourmet",
+   "description": "<p>Você tem paixão por saber de onde vem a comida que usa.</p><p>Você sempre sabe onde encontrar ingredientes para seus pratos e se algum alimento seria prejudicial para comer.</p>"
+  },
+  "lxU33rPdB6JPAE2w": {
+   "name": "Samurai de Nascença",
+   "description": "<p>Você vem da terra dos Samurais, um povo orgulhoso que valoriza a honra e a lealdade acima de tudo.</p><p> Desde cedo, você foi ensinado sobre a importância do dever, da honra e da lealdade, treinou tão duro quanto todos os futuros Samurais, e todos esperavam que você seguisse os passos de seus ancestrais.</p><p> Mas algo aconteceu que mudou sua vida e o fez deixar sua terra natal.</p><p> Trabalhe com seu Mestre para determinar por que seu personagem deixou seu país ou vila para seguir outro caminho.</p><hr><p> Proficiências em perícias: Intuição, escolha uma entre Atletismo ou Acrobacia </p><p>Proficiências em ferramentas: Kit de Rastreamento ou Kit de Armadilheiro </p><p>Equipamento: Uma lembrança de sua terra natal, um conjunto de roupas comuns, e uma bolsa contendo 100 Ryo </p><p>Pacote de equipamento: pacote de Artista Marcial [★] ou de Explorador </p><hr><p>Característica: Alma Samurai </p><p> Mesmo que você não tenha permanecido como Samurai em sua terra natal, você ainda lembra de todas as lições que lhe foram ensinadas, e sua postura é a de um verdadeiro Samurai.</p><p> Você recebe abrigo e ajuda de membros da ordem Samurai e daqueles que são simpáticos a seus objetivos.</p><hr><p> Lições bem aprendidas </p><p>Escolha uma: Sabedoria +1 ou Destreza +1 Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Taijutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Sabedoria em +1 ou sua Constituição em +1"
+    }
+   }
+  },
+  "ly1KRyNKsnJeKSBi": {
+   "name": "Ovelha Negra",
+   "description": "<p>Você já não é mais contado como membro de sua comunidade, seja essa comunidade seu clã ou outra coisa.</p><p> Algum evento em seu passado causou uma ruptura que ainda não foi reparada.</p><p> Talvez você ainda interaja com um membro do seu clã, ou talvez não queira nada com eles.</p><p> De qualquer forma, você mantém o futuro de seu relacionamento com eles, já que eles estariam mais do que felizes em esquecê-lo.</p><hr><p> Proficiências em perícias: Intuição e Enganação ou Intimidação </p><p>Proficiências em ferramentas: Kit Médico ou Kit de Culinária </p><p>Equipamento: Uma bugiganga favorita (um item de conforto de seu passado), um conjunto de roupas comuns, um manto com capuz, e uma bolsa com 100 Ryo </p><p>Pacote de equipamento: pacote de Explorador </p><hr><p>Característica: O Sentimento É Mútuo </p><p>Deixar seu Clã ainda o afeta até hoje.</p><p> Membros do seu clã continuam a tratá-lo com dureza, enquanto inimigos do seu clã e aqueles que sentem pena de você tendem a tratá-lo com cuidado.</p><p> Você também compartilha uma conexão não dita com outros forasteiros.</p><hr><p> Renegado e Indesejado </p><p>Escolha uma: Destreza +1 ou Inteligência +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Clã.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Destreza +1 ou Inteligência +1"
+    }
+   }
+  },
+  "mu79Hk6uGFEW8ZvO": {
+   "name": "Escravo",
+   "description": "<p>Você viveu uma vida de servidão, ligado a alguém a quem chamou de \"mestre\" por boa parte de sua vida.</p><p> Labutar para outra pessoa, obedecer ordens e se rebaixar foram o seu modo de vida.</p><p> Desde então, você escapou da servidão, tendo de alguma forma conquistado sua liberdade.</p><p> Talvez tenha sido contra sua vontade, por exemplo, você foi dispensado depois de desonrar seu mestre, ou seu mestre morreu, deixando-o à deriva no mundo sem ninguém para servir.</p><p> Independentemente disso, a liberdade é algo novo para você.</p><p> Sua origem como escravo lhe deu a paciência para suportar os caprichos de pessoas poderosas, e também uma visão sobre as dinâmicas de poder, seus usos e abusos.</p><hr><p> Proficiências em perícias: Intuição, e escolha uma entre Persuasão, Prestidigitação ou Enganação.</p><p> Proficiências em ferramentas: Escolha qualquer uma proficiência em ferramenta.</p><p> Equipamento: Um conjunto de roupas comuns e um pequeno item, roubado de, ou dado a você por, seu antigo mestre, e uma bolsa com 100 Ryo.</p><p> Pacote de equipamento: pacote de Explorador </p><hr><p>Característica: Solidariedade </p><p>Você tem um parentesco não dito com todas as pessoas que vivem em servidão, um entendimento compartilhado do que significa servir a um mestre, como você já fez.</p><p> Falando uma linguagem socialmente codificada, você pode ganhar a confiança de outros servos, encontrar acolhimento em sua companhia, abrigo em seu meio, e às vezes até acesso a lugares de poder pelas portas dos fundos.</p><p> Falando com outros escravos e servos, você pode facilmente obter deles rumores e informações sobre seus mestres.</p><hr><p> Forçado a Trabalhar </p><p>Escolha uma: Força +1 ou Destreza +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Taijutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Destreza +1"
+    }
+   }
+  },
+  "n4mJB4wTtynV1Pq9": {
+   "name": "Buscador Rápido",
+   "description": "<p>Você sempre consegue encontrar rumores de tesouros e masmorras próximas.</p><p>Sempre que entra em uma área povoada, você sabe onde encontrar qualquer informação relacionada a masmorras, tesouros ou recompensas.</p>"
+  },
+  "nLK9zGNwgjq4qPx2": {
+   "name": "Prisioneiro",
+   "description": "<p>Em algum momento de seu passado, e por um período substancial de tempo, você foi preso por um crime.</p><p> Embora os detalhes exatos possam variar de caso a caso, todos os prisioneiros têm isso em comum, pelo menos.</p><p> Seu tempo na prisão lhe ensinou como tais instituições funcionam e lhe deu várias habilidades que ajudariam qualquer pessoa a sobreviver a tal experiência.</p><hr><p> Proficiências em perícias: Furtividade e Enganação ou Prestidigitação </p><p>Proficiências em ferramentas: Kit de Culinária ou Kit de Disfarce </p><p>Equipamento: Um conjunto de roupas comuns, uma pequena faca, uma bugiganga ou lembrança facilmente escondida e barata, e uma bolsa contendo 100 Ryo.</p><p> Pacote de equipamento: pacote de Explorador </p><hr><p>Característica: Catador </p><p>Seu tempo trancado lhe ensinou a ser engenhoso e a prosperar com muito pouco.</p><p> Você só precisa de 2/3 da quantidade normal de materiais para fabricar ferramentas, armas, ou qualquer objeto mundano.</p><hr><p> Núcleo Nefasto </p><p>Escolha uma: Constituição +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Crítico.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Sabedoria em +1 ou sua Constituição em +1"
+    }
+   }
+  },
+  "nbUJ0LPEop50nGUL": {
+   "name": "Citar Nomes",
+   "description": "<p>Você conhece e já conheceu várias pessoas poderosas por toda a terra—e algumas delas podem até se lembrar de você.</p><p>Você pode conseguir obter assistência menor de uma figura importante na campanha, a critério do Mestre.</p><p>Além disso, o povo comum o trata com deferência, e sua herança e as histórias que você conta podem valer uma refeição gratuita ou um lugar para dormir.</p>"
+  },
+  "o7ysKULk1y6oUhr1": {
+   "name": "De Volta ao Lado Certo da Lei",
+   "description": "<p>Mesmo tendo abandonado seus hábitos de infringir a lei, você ainda carrega habilidades aprendidas ao cometer atos criminosos.</p><p>Você também sabe onde os elementos criminosos de uma cidade provavelmente residem.</p><p><br></p>"
+  },
+  "ojDGp2DKB4nStLSI": {
+   "name": "Pequena Lembrança de Sua Vila",
+   "description": "<p>Uma pequena lembrança de valor íntimo para você</p>"
+  },
+  "omItu2iViR5VQ63o": {
+   "name": "Certificação de Médico"
+  },
+  "ouhs28VeX4GjFTlD": {
+   "name": "Irmão do Escolhido",
+   "description": "<p>Devido ao status de seu irmão, as pessoas não olham em sua direção quando seu irmão está por perto.</p><p>Todos ficam tão maravilhados com seu irmão que, para ser sincero, não dão a mínima para você.</p><p>No entanto, você pode conseguir certas coisas de graça, como tudo que conseguir pegar enquanto ninguém está olhando.</p><p>Às vezes você pode até conseguir um quarto ou serviço gratuito prometendo que o Escolhido visitará um estabelecimento.</p><p>Se tiver sorte, você pode até se passar pelo escolhido.</p><p>Só tenha cuidado com complicações e consequências.</p>"
+  },
+  "oxQtdEtPc4c0HvKU": {
+   "name": "Passado Trágico",
+   "description": "<p>O destino não tem sido gentil com você.</p><p>Você sofreu uma tragédia em seu passado que o marcou tão profundamente que moldou suas metas de vida.</p><p>Trabalhe com seu Mestre para decidir qual evento trágico aconteceu na vida de seu personagem que o tornou quem ele é hoje.</p><hr><p>Proficiências em perícias: Investigação, Sobrevivência </p><p>Proficiências em ferramentas: Kit de Rastreamento ou Kit de Segurança </p><p>Equipamento: Uma lembrança de seu passado, um conjunto de roupas comuns, e uma bolsa contendo 100 ryo </p><p>Pacote de equipamento: pacote de Explorador ou de Exploradores de Masmorras </p><hr><p>Característica: Coração das Trevas </p><p>Aqueles que olham em seus olhos conseguem ver que você enfrentou um horror inimaginável e que a escuridão não lhe é estranha.</p><p>Embora possam temer você, plebeus lhe oferecerão toda cortesia e farão o possível para ajudá-lo.</p><p>A menos que você tenha se mostrado um perigo para eles, chegarão até a pegar em armas para lutar ao seu lado, caso você se veja enfrentando um inimigo sozinho.</p><hr><p>Memória Pesada </p><p>Escolha uma: Constituição +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Taijutsu.</p><p>Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Sabedoria em +1 ou sua Constituição em +1"
+    }
+   }
+  },
+  "pW9y5wYRZrvs2Ynq": {
+   "name": "Avaliação de Ameaças",
+   "description": "<p>Seu tempo em guerra fez de você alguém habilidoso em localizar a coisa mais perigosa em uma situação hostil.</p><p>Quando a adrenalina aumenta, seus sentidos se aguçam, e você consegue rapidamente identificar qual é o perigo mais imediato em uma situação hostil.</p>"
+  },
+  "qYmJtbaksDtpAdwQ": {
+   "name": "Por Demanda Popular",
+   "description": "<p>Você sempre consegue encontrar um lugar para se apresentar, geralmente em uma hospedaria ou taverna, mas possivelmente com um circo, em um teatro, ou até mesmo na corte de um nobre.</p><p>Em tal lugar, você recebe hospedagem e comida gratuitas de padrão modesto ou confortável (dependendo da qualidade do estabelecimento), desde que se apresente toda noite.</p><p>Além disso, sua apresentação faz de você uma espécie de figura local.</p><p>Quando estranhos o reconhecem em uma vila onde você se apresentou, eles costumam gostar de você.</p>"
+  },
+  "qZ6xtt9GnRAcigjw": {
+   "name": "Relíquia",
+   "description": "<p>Uma relíquia do seu passado da qual você não se lembra.</p>"
+  },
+  "qoPFAsxopGZRz3fd": {
+   "name": "Linhagem Famosa",
+   "description": "<p>Para o bem ou para o mal, as pessoas sempre o associam ao seu parente famoso.</p><p> Talvez seja o mesmo cabelo ou estrutura facial, não importa, as pessoas sempre apontam as semelhanças entre vocês dois.</p><p> Você está sempre à sombra dele, esperando ser reconhecido por suas próprias ações.</p><p> Trabalhe com seu Mestre para decidir por que seu parente famoso é tão conhecido e quais são as consequências disso para seu personagem.</p><hr><p> Proficiências em perícias: Percepção, escolha uma entre Persuasão ou Enganação </p><p>Proficiências em ferramentas: Kit de Falsificação ou Kit de Disfarce </p><p>Equipamento: Kit de disfarce, um conjunto de roupas finas, e uma bolsa contendo 100 Ryo </p><p>Pacote de equipamento: pacote de Explorador ou de Capitão </p><hr><p>Característica: Citar Nomes </p><p>Você conhece e já conheceu várias pessoas poderosas por toda a terra—e algumas delas podem até se lembrar de você.</p><p> Você pode conseguir obter assistência menor de uma figura importante na campanha, a critério do Mestre.</p><p> Além disso, o povo comum o trata com deferência, e sua herança e as histórias que você conta podem valer uma refeição gratuita ou um lugar para dormir.</p><hr><p> Nascido na Fama </p><p>Escolha uma: Carisma +1 ou Sabedoria +1 Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Clã.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Sabedoria em +1 ou sua Inteligência em +1"
+    }
+   }
+  },
+  "rHYAoKoCsa3FBlzS": {
+   "name": "Lembrança de uma Vida Anterior",
+   "description": "<p>brasão de família, ordem oficial de rejeição, ou outra lembrança</p>"
+  },
+  "rKcGCMe0S3JqA9HT": {
+   "name": "Alma Samurai",
+   "description": "<p>Mesmo que você não tenha permanecido como Samurai em sua terra natal, você ainda lembra de todas as lições que lhe foram ensinadas, e sua postura é a de um verdadeiro Samurai.</p><p>Você recebe abrigo e ajuda de membros da ordem Samurai e daqueles que são simpáticos a seus objetivos.</p>"
+  },
+  "rRfBU5JXerVUhNVR": {
+   "name": "Burocrata",
+   "description": "<p>Você é uma pessoa que busca mudar a sociedade ao seu redor atuando na arena da política.</p><p> Você tem uma personalidade muito sociável, e as palavras vêm com facilidade para você.</p><p> Por dentro, sua mente está repleta de estratégias e dialéticas.</p><p> Talvez você tenha uma língua afiada e consiga levar uma multidão a fazer tudo o que você quiser.</p><p> Talvez você seja um ex-vizir do rei, buscando fomentar uma insurreição contra a monarquia.</p><p> O que o levou a essa prática implacável de tecer palavras e promessas? Você é um político pelo bem do povo, ou um que busca satisfazer seus próprios desejos? </p><hr><p>Proficiências em perícias: Escolha duas entre Intuição, Enganação ou Persuasão </p><p>Proficiências em ferramentas: escolha uma entre Kit de Disfarce, Kit de Segurança ou Kit Forense </p><p>Equipamento: Roupas finas, um anel \"chique\" no valor de 5 Ryo, um manifesto político que você ajudou a escrever, e uma bolsa contendo 100 Ryo.</p><p> Pacote de equipamento: pacote de Capitão ou de Erudito [★]</p><hr><p>Característica: Proeminência Política </p><p>Você é comumente tido à primeira vista como uma pessoa de grande status.</p><p> As pessoas provavelmente o tratarão como um nobre ou assumirão que você é dessa linhagem.</p><p> Você consegue obter audiências com nobres ou oficiais com facilidade, já que eles podem frequentemente vê-lo como um dos seus.</p><hr><p> Ascendido ao Poder </p><p>Escolha uma: Inteligência +1 ou Carisma +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Genjutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Carisma +1"
+    }
+   }
+  },
+  "rT3Itibz9UUS7f5b": {
+   "name": "Para o Divertimento do Público",
+   "description": "<p>Você sempre consegue encontrar um lugar para se apresentar em qualquer local que ofereça combates para entretenimento — talvez uma arena de gladiadores ou um clube secreto de lutas de fosso.</p><p>Em tal lugar, você recebe hospedagem e comida gratuitas de padrão modesto ou confortável (dependendo da qualidade do estabelecimento), desde que se apresente toda noite.</p>"
+  },
+  "rhvVNWttkyGoDmRE": {
+   "name": "Catador",
+   "description": "<p>Seu tempo trancado lhe ensinou a ser engenhoso e a prosperar com muito pouco.</p><p>Você só precisa de 2/3 da quantidade normal de materiais para fabricar ferramentas, armas, ou qualquer objeto mundano.</p>"
+  },
+  "schgnrWztkypFKDn": {
+   "name": "Notório",
+   "description": "<p>Já que você passou a ser um do povo comum, não de uma das cinco grandes vilas, você se encaixa entre eles com facilidade.</p><p>Você pode encontrar um lugar para se esconder, descansar ou se recuperar entre plebeus, a menos que tenha se mostrado um perigo para eles.</p><p>Eles o protegerão da lei ou de qualquer outro que esteja procurando por você, embora não arrisquem suas vidas por você.</p>"
+  },
+  "sriGWULq9NT2GquK": {
+   "name": "Cientista Shinobi",
+   "description": "<p>Depois que as Vilas Ocultas começaram a cooperar entre si, a divisão entre o mundo ninja e o civil começou a diminuir.</p><p>Aproveitando-se disso, você conseguiu a oportunidade de trabalhar com outros pesquisadores para uma Vila Oculta ou outra organização.</p><p>Trabalhe com seu Mestre para decidir o que seu personagem fazia ao trabalhar para um grupo científico Shinobi e quais são as consequências disso, por que você deixou sua equipe de pesquisa? </p><hr><p>Proficiências em perícias: Investigação, escolha uma entre Medicina, Ninshou, Artes Marciais ou Ilusões </p><p>Proficiências em ferramentas: Kit Forense, Kit de Segurança ou Kit de Hacker </p><p>Equipamento: um conjunto de roupas comuns, e uma bolsa contendo 100 Ryo </p><p>Pacote de equipamento: pacote de Erudito [★] ou de Cientista [★] </p><hr><p>Característica: Pesquisador </p><p>Quando você tenta aprender ou recordar um fato histórico ou científico, se não souber aquela informação, você sabe onde e com quem pode obtê-la.</p><p>Saber onde a informação pode ser encontrada não lhe permite automaticamente aprendê-la; você pode precisar oferecer subornos, favores, ou outros incentivos para induzir pessoas a revelar seus segredos.</p><p>Seu Mestre pode decidir que o conhecimento que você busca está escondido em um lugar inacessível, ou que simplesmente não pode ser encontrado.</p><p>Desvendar os segredos mais profundos da terra pode exigir uma aventura ou até mesmo uma campanha inteira.</p><hr><p>Espírito de Pesquisa </p><p>Escolha uma: Inteligência +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Ninjutsu.</p><p>Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Força em +1 ou sua Inteligência em +1"
+    }
+   }
+  },
+  "t3HsVkocN07p5mQu": {
+   "name": "Pesquisador",
+   "description": "<p>Quando você tenta aprender ou recordar um fato histórico ou científico, se não souber aquela informação, você sabe onde e com quem pode obtê-la.</p><p>Saber onde a informação pode ser encontrada não lhe permite automaticamente aprendê-la; você pode precisar oferecer subornos, favores, ou outros incentivos para induzir pessoas a revelar seus segredos.</p><p>Seu Mestre pode decidir que o conhecimento que você busca está escondido em um lugar inacessível, ou que simplesmente não pode ser encontrado.</p><p>Desvendar os segredos mais profundos da terra pode exigir uma aventura ou até mesmo uma campanha inteira.</p>"
+  },
+  "thl4VrCw7CVpzjoF": {
+   "name": "Gângster",
+   "description": "<p>Sua vida e ações são ditadas por uma pessoa, o padrinho, se preferir.</p><p> Você faz o que lhe é mandado, cumprindo qualquer ordem que lhe seja dada, seja roubar uma pequena joia, ou matar uma criança.</p><p> Os meios que você usa não importam, desde que seja cumprida.</p><p> A menos que...</p><p> Você tenha se libertado de tal coisa? Ou talvez você esteja simplesmente em uma missão sob comando de seu superior? Você deseja continuar agindo como um cão na coleira, ou viver por suas próprias escolhas e desejos? </p><hr><p>Proficiências em perícias: Escolha duas entre: Intimidação, Persuasão, Enganação, Investigação, Intuição </p><p>Proficiências em ferramentas: Kit de Veneno ou Kit de Disfarce </p><p>Equipamento: Uma faca gravada com o símbolo de seu padrinho, roupas finas, e uma bolsa de cinto com 10 Ryo.</p><p> Pacote de equipamento: pacote de Explorador ou de Artesão </p><hr><p>Característica: Amigo Meu </p><p>Outros mafiosos conhecem seu rosto e estão espalhados por toda a terra, sejam eles do seu clã ou de outro.</p><p> Dependendo do seu status, eles podem tentar tirar sua vida, fazer um favor a você, ou até mesmo se tornar um aliado em potencial.</p><p> Trabalhe com seu Mestre para conversar sobre os relacionamentos da sua gangue com outras gangues, e detalhes sobre você e as outras gangues.</p><hr><p> Procurado por Todos (Vivo ou Morto) </p><p>Escolha uma: Inteligência +1 ou Sabedoria +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Crítico.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Inteligência em +1 ou sua Sabedoria em +1"
+    }
+   }
+  },
+  "tnL2eZnusUFWmEog": {
+   "name": "Mordomo/Camareira",
+   "description": "<p>Como servo de um nobre ou de uma família de alta posição, você passou seu tempo como seu criado fiel.</p><p> Suas tarefas diárias podiam incluir lavar roupas, ajudar outros a se vestir, cozinhar, cuidar de animais, jardinagem, remendar roupas desgastadas, limpar, cuidar de crianças como babá, fazer compras, e outras tarefas dadas por seu mestre.</p><p> As pessoas a quem você servia se tornaram sua família, algo muito próximo de você.</p><p> Sua própria família pode ter falecido, ou você pode fazer parte de uma linhagem de servos com uma longa tradição de trabalhar para a família de seu mestre.</p><hr><p> Proficiências em perícias: História, Intimidação </p><p>Proficiências em ferramentas: escolha uma entre Kit de Culinária, Kit Médico ou Kit de Segurança </p><p>Equipamento: Um fino traje de mordomo (equivalente a Roupas Finas), um anel de sinete dado aos servos da família para a qual você trabalhou, e uma bolsa contendo 100 Ryo.</p><p> Pacote de equipamento: pacote de Capitão </p><hr><p>Característica: Amigo da Família </p><p>Como um servidor de longa data de sua família, nobres ou pessoas de alta posição reconhecerão sua origem.</p><p> Eles podem estar dispostos a ouvi-lo, se sua família tiver tido alguma conexão com eles, mas também podem estar reluzentes em confiar em você.</p><p> Como servidor de sua família, seja antigo ou atual, você ainda é visto através da reputação deles.</p><hr><p> Um Servo Humilde </p><p>Escolha uma: Inteligência +1 ou Carisma +1 Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Ninjutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Carisma +1"
+    }
+   }
+  },
+  "vtYlci5bUBEFBgzi": {
+   "name": "Insígnia de Patente"
+  },
+  "wB5ZQNCCkvpd683q": {
+   "name": "Troféu de um Inimigo Caído"
+  },
+  "wTglIZSASL3uyeQS": {
+   "name": "Reputação de Herói",
+   "description": "<p>Você pode usar sua patente e histórico como soldado para obter acesso a áreas privadas de seu respectivo reino.</p><p>Você normalmente consegue hospedagem e alimentação gratuitas para si mesmo dentro de seu império, e com alguma persuasão talvez consiga estender esse benefício aos seus companheiros atuais, dependendo do tamanho do seu grupo.</p>"
+  },
+  "xsg4wLkDk5XVMnGd": {
+   "name": "Bugiganga Facilmente Escondida"
+  },
+  "yPYD3pLLEXjgVWzf": {
+   "name": "Gladiador",
+   "description": "<p>Você pode ter sido capturado, vendido ou até mesmo nascido em meio ao negócio das arenas de gladiadores.</p><p> Um negócio lucrativo para os ricos, que pagam fortunas para ver outras pessoas lutarem entre si, às vezes até a morte, mas uma luta pela sobrevivência para todas as almas infelizes que de alguma forma ficaram presas nessa situação.</p><p> Entre os gladiadores há aqueles que aceitaram seus destinos e tiraram o máximo proveito disso, tornando-se campeões famosos que todos querem aplaudir, outros estão apenas esperando o momento certo para uma oportunidade de escapar, qual é o seu caso? Trabalhe com seu Mestre para estabelecer como e por que seu personagem tem tal antecedente e como conseguiu deixar a arena.</p><p> Será que fugiu, ganhou sua liberdade em uma luta, ou alguém mais agora tem sua coleira? </p><hr><p>Proficiências em perícias: Atuação, e escolha uma entre Acrobacia, Atletismo ou Artes Marciais </p><p>Proficiências em ferramentas: Kit de Disfarce ou Kit Médico </p><p>Equipamento: O favor de um admirador (carta de amor, mecha de cabelo, ou bugiganga), roupas de figurino, e uma bolsa contendo 100 Ryo </p><p>Pacote de equipamento: pacote de Artista Marcial [★] ou de Artista </p><hr><p>Característica: Para o divertimento do público </p><p>Você sempre consegue encontrar um lugar para se apresentar em qualquer local que ofereça combates para entretenimento — talvez uma arena de gladiadores ou um clube secreto de lutas de fosso.</p><p> Em tal lugar, você recebe hospedagem e comida gratuitas de padrão modesto ou confortável (dependendo da qualidade do estabelecimento), desde que se apresente toda noite.</p><hr><p> Pronto para o Show </p><p>Escolha uma: Força +1 ou Destreza +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Taijutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este Aumento de Valor de Atributo] Aumente sua Força +1 ou Destreza +1"
+    }
+   }
+  },
+  "yrloQgvPOgbXHxm1": {
+   "name": "Passagem de Navio",
+   "description": "<p>Quando precisar, você pode garantir passagem gratuita em um navio para você e seus companheiros de aventura.</p><p>Você pode navegar no navio em que serviu, ou em outro navio com o qual tenha boas relações (talvez um comandado por um antigo companheiro de tripulação).</p><p>Como você está pedindo um favor, não pode ter certeza de um cronograma ou rota que atenda a todas as suas necessidades.</p><p>Seu Mestre determinará quanto tempo leva para chegar aonde você precisa ir.</p><p>Em troca da sua passagem gratuita, espera-se que você e seus companheiros ajudem a tripulação durante a viagem.</p><hr><p><br></p>"
+  },
+  "zC5ijybcDJqyetor": {
+   "name": "Ecos da Vitória",
+   "description": "<p>A notícia de suas vitórias dentro da arena se espalhou, a ponto de você ter fãs apaixonados.</p><p>Se você estiver visitando um assentamento a até 100 milhas de sua cidade natal, há 50 por cento de chance de encontrar um admirador que lhe fornecerá abrigo ou informações.</p>"
+  },
+  "zMTsUh3r7XKj8TzD": {
+   "name": "Exilado",
+   "description": "<p>Você foi apontado como indesejável no grupo ou sociedade em que foi criado e, por isso, foi isolado.</p><p> Talvez isso tenha sido sua própria escolha, rejeitando as regras de sua sociedade e partindo como objetor de consciência, ou você simplesmente nunca se encaixou e escolheu buscar um lugar onde pudesse pertencer melhor.</p><p> Alternativamente, você pode ter sido expulso à força por seus (mal) feitos ou ideias, tendo feito algo imperdoável ou falado contra aqueles que governam, resultando em banimento.</p><p> Independentemente de como ocorreu, você não faz mais parte de sua cultura natal e teve que seguir seu próprio caminho no mundo.</p><hr><p> Proficiências em perícias: Intuição, Sobrevivência </p><p>Proficiências em ferramentas: Kit de Rastreamento ou Kit de Disfarce </p><p>Equipamento: uma lembrança de sua vida anterior (brasão de família, ordem oficial de rejeição, ou outra lembrança), um bastão de caminhada (bordão), uma bússola, um cobertor de inverno, um conjunto de roupas de viajante, e uma bolsa contendo 100 Ryo.</p><p>Pacote de equipamento: pacote de Explorador </p><hr><p>Característica: Perspectiva de Forasteiro </p><p>Como um forasteiro, você vê a sociedade de uma forma diferente da maioria e pode avaliá-la melhor à distância.</p><p> Conforme você passa tempo em uma cidade, vila ou tribo, as falhas e vantagens do sistema se tornam evidentes para você, e você percebe rapidamente as dinâmicas sociais.</p><p> Ao interagir com os locais e se movimentar pela área, você consegue determinar coisas como o atual equilíbrio de poder, questões urgentes e notícias, se há insatisfação com o status quo atual, e quem podem ser as figuras importantes.</p><p> No entanto, como forasteiro, os outros têm menos probabilidade de aceitar bem suas críticas à sociedade deles sem um bom motivo.</p><hr><p> Vida Totalmente Nova </p><p>Escolha uma: Destreza +1 ou Inteligência +1 </p><p>Talento do capítulo 13: Opções de personalização, com a Categoria Geral, Perícia ou Taijutsu.</p><p> Independentemente de qual talento você escolher, você não ganha um aumento no valor de atributo por nenhum talento que selecionar.</p><p></p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher um Talento, ignore este AVA] Aumente sua Sabedoria em +1 ou sua Inteligência em +1"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,296 @@
+{
+ "label": "Antecedentes",
+ "folders": {
+  "Background Items": "Itens de Antecedente",
+  "Background Features": "Características de Antecedente"
+ },
+ "entries": {
+  "120D3JmCjUL6lRIZ": {
+   "name": "Correspondendo às Expectativas",
+   "description": "<p>Você sempre parece corresponder às expectativas dos outros quando surge um desafio.</p><p>Sempre que confrontado com um desafio ou situação difícil, você parece conseguir obter um fragmento de percepção sobre ele após apenas uma tentativa, seja em um sucesso ou em uma falha.</p><p>Essa percepção é uma pista sobre como esse desafio em particular funciona ou não funciona, algo que os outros à sua volta podem não entender, mas que agora você entende.</p>"
+  },
+  "1u1ktHsVIhMtmEpS": {
+   "name": "Jogo de Tabuleiro Exótico",
+   "description": "<p>Um jogo de tabuleiro peculiar, originado de uma terra natal distante</p>"
+  },
+  "2tKNVlG8vOhOham6": {
+   "name": "Mapa Mal Desenhado",
+   "description": "<p>Um mapa mal desenhado de uma terra natal distante e sua posição relativa ao mundo atual.</p>"
+  },
+  "3jsMMONUTvYPqeNX": {
+   "name": "Eremita",
+   "description": "<p>Você viveu em reclusão — seja em uma comunidade ou sozinho — por uma parte formativa de sua vida.</p><p>Em seu tempo afastado da sociedade, você encontrou quietude, solidão e talvez algumas das respostas que você ou sua família procuravam.</p><hr><p><strong>Proficiências em Perícias:</strong> Lidar com Animais, História</p><p><strong>Proficiências em Ferramentas:</strong> Escolha uma entre Kit de Veneno, Kit Médico, Kit de Armadilheiro</p><p><strong>Equipamento:</strong> Um diário de suas experiências, um cobertor de inverno, um conjunto de roupas comuns, um kit de veneno e 100 Ryo</p><p><strong>Pacote de Equipamento:</strong> Pacote de Explorador ou de Artesão (Escolha um).</p><hr><p><strong>CARACTERÍSTICA: DESCOBERTA</strong></p><p>A reclusão de seu eremitério deu a você acesso a uma descoberta única e poderosa.</p><p>A natureza dessa revelação depende da natureza de sua reclusão.</p><p>Você pode ter descoberto uma grande verdade sobre o mundo ou a natureza do Chakra, um fato há muito esquecido, uma relíquia do passado que poderia reescrever a história, ou um lugar não visto há eras.</p><p>Pode ser uma informação que seria prejudicial às pessoas que o condenaram ao exílio, e por isso o motivo de seu retorno à sociedade.</p><p>Trabalhe com seu Mestre para determinar os detalhes de sua descoberta e seu impacto na campanha.</p><hr><p><strong>RECLUSO</strong></p><p>Selecione uma opção:</p><p>• Sabedoria +1 ou Constituição +1.</p><p>• Selecione um Talento do capítulo 13: Opções de personalização, da Categoria Geral, Perícia ou Ninjutsu. Independentemente do talento escolhido, você não ganha um aumento de valor de atributo de nenhum talento selecionado.</p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher Talento, ignore este AVA] Sabedoria +1 ou Constituição +1."
+    },
+    "af2GUyy8VaPYTsug": {
+     "title": "Conceder Equipamento"
+    },
+    "uNpax4ZV54KlO4Ai": {
+     "title": "Conceder Característica"
+    },
+    "HFyORsYaoqgbfSFY": {
+     "title": "Pacote de Explorador ou de Artesão"
+    }
+   }
+  },
+  "64N1NWh9kC1dI7zN": {
+   "name": "Abrigo dos Fiéis",
+   "description": "<p>Como um acólito, você comanda o respeito daqueles que compartilham sua fé, e pode realizar as cerimônias religiosas de sua divindade. Você e seus companheiros de aventura podem esperar receber cura e cuidados gratuitos em um templo, santuário ou outra presença estabelecida de sua fé, embora você deva fornecer quaisquer componentes materiais necessários para feitiços. Aqueles que compartilham sua religião apoiarão você (mas apenas você) em um padrão de vida modesto.</p> <p>Você também pode ter laços com um templo específico dedicado à sua divindade ou panteão escolhido, e possuir uma residência lá. Isso pode ser o templo onde você costumava servir, se permanecer em boas relações com ele, ou um templo onde encontrou um novo lar. Enquanto estiver perto de seu templo, você pode recorrer aos sacerdotes para obter ajuda, desde que a ajuda solicitada não seja perigosa e você permaneça em boa posição junto ao seu templo.</p>"
+  },
+  "65jx0utfwo3UMDKz": {
+   "name": "Pequena Lembrança",
+   "description": "<p>Uma pequena lembrança de valor íntimo para você</p>"
+  },
+  "8jLDIOmUazIB7vBm": {
+   "name": "Emblema do Clã",
+   "description": "<p>O emblema do seu clã</p>"
+  },
+  "9DcrTDqr68L77haJ": {
+   "name": "Líder",
+   "description": "<p>Você é uma pessoa que busca mudar a sociedade ao seu redor atuando na arena da política, das pessoas e das personalidades.</p><p>Liderando seus aliados, amigos e rivais de acordo com suas vontades.</p><p>Você tem uma personalidade muito sociável e as palavras vêm com facilidade para você.</p><p>Por dentro, sua mente está repleta de estratégias e dialética.</p><p>Talvez você tenha a lábia ou a astúcia sem fundo para levar sua equipe à vitória, ou seus inimigos à derrota.</p><p>Talvez você consiga defender seus aliados com as estratégias que desenvolve.</p><p>Talvez você tenha o potencial de liderar mais do que uma equipe, e sim um exército.</p><hr><p><strong>Proficiências em Perícias:</strong> História e Enganação ou Persuasão</p><p><strong>Proficiências em Ferramentas:</strong> Kit de Falsificação</p><p><strong>Equipamento:</strong> Roupas finas, uma herança passada a você por alguém que lhe ensinou suas habilidades de liderança, um manifesto que você está escrevendo atualmente e uma carteira contendo 100 Ryo.</p><p><strong>Pacote de Equipamento:</strong> Pacote de Capitão ou de Explorador (Escolha um).</p><hr><p><strong>CARACTERÍSTICA: PRESENÇA DE LIDERANÇA</strong></p><p>As pessoas percebem que você tem uma presença notável.</p><p>Elas podem pará-lo com frequência e perguntar onde já o viram.</p><p>Você é visto, em geral, como uma pessoa muito acessível, e passantes aleatórios se sentirão atraídos a falar com você ao vê-lo.</p><p>Se alguém precisar de algo ou estiver angustiado, provavelmente se abrirá com você sobre seus problemas com muita facilidade.</p><p>Você é comumente visto, à primeira vista, como uma pessoa de grande posição.</p><p>As pessoas provavelmente o tratarão como um nobre ou presumirão que você é dessa linhagem.</p><p>Você pode conseguir audiências com nobres ou oficiais com facilidade, pois eles frequentemente o veem como parte de seus círculos.</p><hr><p><strong>COMANDANTE CAPITÃO</strong></p><p>Selecione uma opção:</p><p>• Carisma +1 ou Inteligência +1</p><p>• Selecione um Talento do capítulo 13: Opções de personalização, da Categoria Geral, Perícia ou Chakra. Independentemente do talento escolhido, você não ganha um aumento de valor de atributo de nenhum talento selecionado.</p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher Talento, ignore este AVA] Carisma +1 ou Inteligência +1"
+    },
+    "af2GUyy8VaPYTsug": {
+     "title": "Conceder Equipamento"
+    },
+    "uNpax4ZV54KlO4Ai": {
+     "title": "Conceder Característica"
+    },
+    "Jq4fbMs1Cy7f1J9A": {
+     "title": "Pacote de Capitão ou de Explorador"
+    }
+   }
+  },
+  "C0QdlDm3fhlaRFOV": {
+   "name": "Viajante",
+   "description": "<p>Quase todas as pessoas comuns que alguém poderia encontrar no mundo Shinobi têm uma coisa em comum: vivem suas vidas sem nunca viajar mais do que alguns quilômetros de onde nasceram.</p><p>Você não é uma dessas pessoas comuns.</p><p>Você vem de um lugar distante, tão remoto que poucas pessoas sequer sabem que ele existe, e é bem provável que, mesmo que algumas pessoas que você encontre já tenham ouvido falar de sua terra natal, elas conheçam apenas o nome e talvez algumas histórias extravagantes.</p><p>Você veio para uma das Grandes Vilas Shinobi por razões próprias, que você pode ou não escolher compartilhar.</p><p>Embora sem dúvida você ache alguns dos costumes desta terra estranhos e desconfortáveis, você também pode ter certeza de que algumas coisas que seu povo considera naturais serão, para você, maravilhas nunca antes vistas.</p><hr><p><strong>Proficiências em Perícias:</strong> Intuição, Percepção</p><p><strong>Proficiências em Ferramentas:</strong> Kit de Veneno</p><p><strong>Equipamento:</strong> Um conjunto de roupas de viajante, qualquer jogo de tabuleiro de sua terra natal, um mapa mal desenhado de sua terra natal que mostra onde você está no mundo, uma pequena joia no valor de 10 Ryo no estilo do artesanato de sua terra natal, e uma bolsa contendo 100 Ryo</p><p><strong>Pacote de Equipamento:</strong> Pacote de Viajante ou de Explorador (Escolha um).</p><hr><p><strong>CARACTERÍSTICA: O INDIVÍDUO EXÓTICO</strong></p><p>Seu sotaque, seus gestos, suas expressões e talvez até sua aparência o marcam como estrangeiro.</p><p>Olhares curiosos são direcionados a você onde quer que vá, o que pode ser incômodo, mas você também ganha o interesse amigável de estudiosos e outros fascinados por terras distantes, sem falar nas pessoas comuns ansiosas por ouvir histórias de sua terra natal.</p><p>Você pode transformar essa atenção em acesso a pessoas e lugares que de outra forma não teria, para você e seus companheiros de viagem.</p><p>Nobres, estudiosos e príncipes mercantes, para citar alguns, podem estar interessados em ouvir sobre sua terra natal distante e seu povo.</p><hr><p><strong>EXPERIENTE</strong></p><p>Selecione uma opção:</p><p>• Aumente qualquer valor de atributo em +1. (<strong>Recomendado:</strong> Força, Sabedoria)</p><p>• Ganhe um talento do Capítulo 13: Opções de personalização.</p><p>Independentemente do talento escolhido, você não ganha um aumento de valor de atributo do talento selecionado. (<strong>Recomendado:</strong> Geral, Perícia, Taijutsu)</p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher Talento, ignore este AVA]Inteligência +1 ou Destreza +1"
+    },
+    "af2GUyy8VaPYTsug": {
+     "title": "Conceder Equipamento"
+    },
+    "uNpax4ZV54KlO4Ai": {
+     "title": "Conceder Característica"
+    },
+    "8jO2lYaHNTXgvwkv": {
+     "title": "Pacote de Viajante ou de Explorador"
+    }
+   }
+  },
+  "FRhdtXTiasUXwUP5": {
+   "name": "Presença de Liderança",
+   "description": "<p>As pessoas percebem que você tem uma presença notável.</p><p>Elas podem pará-lo com frequência e perguntar onde já o viram.</p><p>Você é visto, em geral, como uma pessoa muito acessível, e passantes aleatórios se sentirão atraídos a falar com você ao vê-lo.</p><p>Se alguém precisar de algo ou estiver angustiado, provavelmente se abrirá com você sobre seus problemas com muita facilidade.</p><p>Você é comumente visto, à primeira vista, como uma pessoa de grande posição.</p><p>As pessoas provavelmente o tratarão como um nobre ou presumirão que você é dessa linhagem.</p><p>Você pode conseguir audiências com nobres ou oficiais com facilidade, pois eles frequentemente o veem como parte de seus círculos.</p>"
+  },
+  "GpzJzxYe9vZAEHac": {
+   "name": "O Indivíduo Exótico",
+   "description": "<p>Seu sotaque, seus gestos, suas expressões e talvez até sua aparência o marcam como estrangeiro.</p><p>Olhares curiosos são direcionados a você onde quer que vá, o que pode ser incômodo, mas você também ganha o interesse amigável de estudiosos e outros fascinados por terras distantes, sem falar nas pessoas comuns ansiosas por ouvir histórias de sua terra natal.</p><p>Você pode transformar essa atenção em acesso a pessoas e lugares que de outra forma não teria, para você e seus companheiros de viagem.</p><p>Nobres, estudiosos e príncipes mercantes, para citar alguns, podem estar interessados em ouvir sobre sua terra natal distante e seu povo.</p>"
+  },
+  "JfooXW5qno1hSYX0": {
+   "name": "Criador de Caso",
+   "description": "<p>Você pode vir de uma família privilegiada, onde nada do que faz está errado, ou da pobreza, onde nada do que faz está certo.</p><p>Talvez a agenda social ocupada de seus pais signifique que eles lhe dão pouca atenção, ou você não tem pais e não teve nenhuma base sólida desde o início, e ninguém se dispôs a dar uma olhada para ver qual potencial poderia estar escondido dentro de você.</p><p>De qualquer forma, você não aprecia ou aceita os dons de sua circunstância, ou rejeita as maldições de suas circunstâncias, e reage com comportamento ostentoso como forma de atrair atenção para si mesmo.</p><p>Você sempre teve jeito com as pessoas.</p><p>Você sabe o que as move e consegue usar as palavras delas a seu favor.</p><p>É um talento útil, e um que você está perfeitamente disposto a usar para se livrar de problemas.</p><hr><p><strong>Proficiências em Perícias:</strong> Enganação, Prestidigitação</p><p><strong>Proficiências em Ferramentas:</strong> Kit de Falsificação </p><p><strong>Equipamento:</strong> Um conjunto de roupas de plebeu, um kit de falsificação e uma carteira contendo 100 Ryo.</p><p><strong>Pacote de Equipamento:</strong> Pacote de Infiltrador ou de Viajante (Escolha um).</p><hr><p><strong>CARACTERÍSTICA: LAMENTÁVEL</strong></p><p>As pessoas normalmente deixam você se livrar de gafes sociais que, de outra forma, azedariam um acordo de negócios ou provocariam uma reação agressiva — mas fazem isso por pura pena, não porque, como você suspeita, estão enfeitiçadas por sua inteligência.</p><hr><p><strong>MÁ INFLUÊNCIA</strong></p><p>Selecione uma opção:</p><p>• Aumente qualquer valor de atributo em +1. (<strong>Recomendado:</strong> Força, Carisma)</p><p>• Ganhe um talento do Capítulo 13: Opções de personalização.</p><p>Independentemente do talento escolhido, você não ganha um aumento de valor de atributo do talento selecionado. (<strong>Recomendado:</strong> Geral, Perícia, Chakra)</p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher Talento, ignore este AVA] Força +1 ou Sabedoria +1"
+    },
+    "af2GUyy8VaPYTsug": {
+     "title": "Conceder Equipamento"
+    },
+    "uNpax4ZV54KlO4Ai": {
+     "title": "Conceder Característica"
+    },
+    "I8p50qiT4Q2QRgHw": {
+     "title": "Pacote de Infiltrador ou de Viajante"
+    }
+   }
+  },
+  "JwGv4iXrtcoKT7Ak": {
+   "name": "3 Livros de Estratégias de Treinamento"
+  },
+  "KMMauWGtCXCCe1FC": {
+   "name": "Nobre",
+   "description": "<p>Você entende de riqueza, poder e privilégio.</p><p>Você carrega um título de nobreza dentro de sua família ou vila, e sua família exerce influência política significativa.</p><p>Você pode ser o filho mimado de um aristocrata, sem familiaridade com trabalho manual, o filho de um antigo comerciante recém-elevado à nobreza, ou um clânico honesto e trabalhador que se importa profundamente com as pessoas que vivem e trabalham no distrito de seu clã.</p><p>Trabalhe com seu Mestre para criar um título apropriado e determinar quanta autoridade o clã possui, bem como a influência dele sobre você.</p><p>Sua família é antiga e estabelecida, ou seu título foi concedido recentemente? Quanta influência ela exerce, como as pessoas a veem?</p><hr><p><strong>Proficiências em Perícias:</strong> Persuasão, Intuição</p><p><strong>Proficiência em Ferramenta:</strong> Kit de Segurança</p><p><strong>Equipamento:</strong> Um conjunto de roupas finas, um anel de sinete, o emblema de seu clã, e uma carteira contendo 100 Ryo</p><p><strong>Pacote de Equipamento:</strong> Pacote de Capitão ou de Artesão (Escolha um).</p><hr><p><strong>CARACTERÍSTICA: POSIÇÃO DE PRIVILÉGIO</strong></p><p>Graças ao seu nascimento nobre, as pessoas tendem a pensar o melhor de você.</p><p>Você é bem-vindo na alta sociedade, e as pessoas assumem que você tem o direito de estar onde estiver.</p><p>O povo comum faz todo o esforço para acomodá-lo e evitar seu desagrado, e outras pessoas de berço nobre o tratam como membro da mesma esfera social.</p><p>Você pode garantir uma audiência com um nobre local se precisar, ao anunciar seu clã ou família.</p><hr><p><strong>REALEZA</strong></p><p>Selecione uma opção:</p><p>• Aumente qualquer valor de atributo em +1. (<strong>Recomendado:</strong> Sabedoria, Carisma)</p><p>• Ganhe um talento do Capítulo 13: Opções de personalização.</p><p>Independentemente do talento escolhido, você não ganha um aumento de valor de atributo do talento selecionado. (<strong>Recomendado:</strong> Geral, Perícia, Clã)</p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher Talento, ignore este AVA]"
+    },
+    "af2GUyy8VaPYTsug": {
+     "title": "Conceder Equipamento"
+    },
+    "uNpax4ZV54KlO4Ai": {
+     "title": "Conceder Característica"
+    },
+    "vkFHxh3dHCHrYYK0": {
+     "title": "Pacote de Capitão ou de Artesão"
+    }
+   }
+  },
+  "Rl80ezLojwOsoWCj": {
+   "name": "O Nome do Mestre",
+   "description": "<p>Você foi formalmente treinado na arte shinobi, e o nome daqueles que o treinaram pode abrir portas.</p><p>Você normalmente consegue obter uma audiência com outro Líder Shinobi, apenas mencionando o nome de seu Mestre ou da Escola de seu Mestre.</p><p>Além disso, você normalmente consegue encontrar um lugar para se hospedar entre Monges ou Templos Shinobi, a menos que se mostre um perigo para eles.</p><p>Você também pode ter acesso a recursos de quem lhe ensinou, seja acesso às bibliotecas e instalações de sua escola, ou simplesmente a capacidade de se corresponder com seu Mestre e pedir-lhe conselhos.</p>"
+  },
+  "UR0YwOl0ADLjEywu": {
+   "name": "Artista",
+   "description": "<p>Você prosperava na frente de um público, sabendo como encantá-lo, entretê-lo e até inspirá-lo.</p><p>Sua poética pode agitar os corações daqueles que o ouvem, despertando tristeza ou alegria, riso ou ira.</p><p>Sua música eleva os ânimos deles ou captura sua tristeza.</p><p>Seus passos de dança cativam, seu humor atinge fundo.</p><p>Quaisquer que sejam as técnicas que você usou; sua arte é sua vida.</p><hr><p><strong>Proficiências em Perícias:</strong> Acrobacia, Atuação</p><p><strong>Proficiências em Ferramentas:</strong> Kit de Disfarce</p><p><strong>Equipamento:</strong> Uma carta de amor de alguém com quem você já foi próximo, um figurino de um evento anterior, uma carteira contendo 100 Ryo.</p><p><strong>Pacote de Equipamento:</strong> Pacote de Infiltrador ou de Capitão (Escolha um).</p><hr><p><strong>CARACTERÍSTICA: DE VOLTA A PEDIDOS</strong></p><p>Você sempre consegue encontrar um lugar para se apresentar, geralmente em uma taverna ou praça da cidade, mas possivelmente com um circo, em um teatro, ou até na corte de um nobre.</p><p>Em tal lugar, você recebe hospedagem e comida gratuitas de padrão modesto ou confortável (dependendo da qualidade do estabelecimento), desde que se apresente todas as noites.</p><p>Além disso, sua apresentação faz de você uma espécie de figura local.</p><p>Quando estranhos o reconhecem em uma cidade onde você se apresentou, eles normalmente simpatizam com você, enquanto você se mistura facilmente com a população local</p><hr><p><strong>PERSONALIDADE SEDUTORA</strong></p><p>Selecione uma opção:</p><p>• Aumente qualquer valor de atributo em +1. (<strong>Recomendado</strong>: Inteligência, Carisma)</p><p>• Ganhe um talento do Capítulo 13: Opções de personalização.</p><p>Independentemente do talento escolhido, você não ganha um aumento de valor de atributo do talento selecionado. (<strong>Recomendado</strong>: Geral, Perícia, Genjutsu)</p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher Talento, ignore este AVA] Aumente seu Carisma +1 ou Inteligência +1"
+    },
+    "af2GUyy8VaPYTsug": {
+     "title": "Conceder Equipamento"
+    },
+    "uNpax4ZV54KlO4Ai": {
+     "title": "Conceder Característica"
+    },
+    "5ZhP4OllFRrExOy7": {
+     "title": "Pacote de Infiltrador ou de Capitão"
+    }
+   }
+  },
+  "Wtk9uUGjbEkmGZkC": {
+   "name": "Herança",
+   "description": "<p>Uma herança passada a você por alguém que lhe ensinou suas habilidades de liderança.</p>"
+  },
+  "Zuxrk9eVPuDUV7uD": {
+   "name": "Lamentável",
+   "description": "<p>As pessoas normalmente deixam você se livrar de gafes sociais que, de outra forma, azedariam um acordo de negócios ou provocariam uma reação agressiva — mas fazem isso por pura pena, não porque, como você suspeita, estão enfeitiçadas por sua inteligência.</p>"
+  },
+  "bHgl9IgQb1DJlKxL": {
+   "name": "Anel de Sinete",
+   "description": "<p>Um anel importante com um símbolo usado para autenticar documentos e exibir seu status e linhagem familiar</p>"
+  },
+  "buTkMuv8qna0TO5Q": {
+   "name": "De Volta a Pedidos",
+   "description": "<p>Você sempre consegue encontrar um lugar para se apresentar, geralmente em uma taverna ou praça da cidade, mas possivelmente com um circo, em um teatro, ou até na corte de um nobre.</p><p>Em tal lugar, você recebe hospedagem e comida gratuitas de padrão modesto ou confortável (dependendo da qualidade do estabelecimento), desde que se apresente todas as noites.</p><p>Além disso, sua apresentação faz de você uma espécie de figura local.</p><p>Quando estranhos o reconhecem em uma cidade onde você se apresentou, eles normalmente simpatizam com você, enquanto você se mistura facilmente com a população local<br></p>"
+  },
+  "dAXijo1tXRuVBf8f": {
+   "name": "Vila dos Segredos",
+   "description": "<p>Você conhece os padrões e fluxos secretos das cidades e consegue encontrar passagens pela malha urbana que outros não perceberiam.</p><p>Quando não está em combate, você (e os companheiros que lidera) pode viajar entre quaisquer dois locais da cidade duas vezes mais rápido do que seu deslocamento normalmente permitiria.</p>"
+  },
+  "dQaOdm9dbVN0RZYP": {
+   "name": "Bolsa de Moedas"
+  },
+  "fCbwEbwS1LaS2qfq": {
+   "name": "Pequena Joia",
+   "description": "<p>Uma pequena joia de sua terra natal</p>"
+  },
+  "gYeur8ECS65dZ5jy": {
+   "name": "Descoberta",
+   "description": "<p>A reclusão de seu eremitério deu a você acesso a uma descoberta única e poderosa.</p><p>A natureza dessa revelação depende da natureza de sua reclusão.</p><p>Você pode ter descoberto uma grande verdade sobre o mundo ou a natureza do Chakra, um fato há muito esquecido, uma relíquia do passado que poderia reescrever a história, ou um lugar não visto há eras.</p><p>Pode ser uma informação que seria prejudicial às pessoas que o condenaram ao exílio, e por isso o motivo de seu retorno à sociedade.</p><p>Trabalhe com seu Mestre para determinar os detalhes de sua descoberta e seu impacto na campanha.</p>"
+  },
+  "hT4Gdr2lbrkoQpq9": {
+   "name": "Última Carta",
+   "description": "<p>A última carta de seu mestre.</p>"
+  },
+  "jlRKxHwqoBQKRy3d": {
+   "name": "Pivete",
+   "description": "<p>Você cresceu nas ruas, sozinho, órfão e pobre.</p><p>Você não tinha ninguém para cuidar de você ou sustentá-lo, então aprendeu a se sustentar por conta própria.</p><p>Você lutava ferozmente por comida e mantinha vigilância constante contra outras almas desesperadas que poderiam roubá-lo.</p><p>Você dormia em telhados e becos, exposto às intempéries, e suportava doenças sem o benefício de remédios ou um lugar para se recuperar.</p><p>Você sobreviveu contra todas as probabilidades, e o fez por meio de astúcia, força, velocidade, ou alguma combinação dessas.</p><hr><p><strong>Proficiências em Perícias:</strong> Prestidigitação, Furtividade</p><p><strong>Proficiências em Ferramentas:</strong> Kit de Disfarce</p><p><strong>Equipamento:</strong> Um mapa da Vila onde você cresceu, uma Lembrança de valor íntimo para você, um conjunto de Roupas Básicas, uma carteira contendo 100 Ryo</p><p><strong>Pacote de Equipamento:</strong> Pacote de Infiltrador ou de Artesão (Escolha um).</p><hr><p><strong>CARACTERÍSTICA: VILA DOS SEGREDOS</strong></p><p>Você conhece os padrões e fluxos secretos das cidades e consegue encontrar passagens pela malha urbana que outros não perceberiam.</p><p>Quando não está em combate, você (e os companheiros que lidera) pode viajar entre quaisquer dois locais da cidade duas vezes mais rápido do que seu deslocamento normalmente permitiria.</p><hr><p><strong>ESTILO DE VIDA DESESPERADO</strong></p><p>Selecione uma opção:</p><p>• Aumente qualquer valor de atributo em +1. (Recomendado: Destreza, Carisma)</p><p>• Ganhe um talento do Capítulo 13: Opções de personalização.</p><p>Independentemente do talento escolhido, você não ganha um aumento de valor de atributo do talento selecionado. (Recomendado: Geral, Perícia, Genjutsu)</p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher Talento, ignore este AVA] Força +1 ou Carisma +1"
+    },
+    "af2GUyy8VaPYTsug": {
+     "title": "Conceder Equipamento"
+    },
+    "uNpax4ZV54KlO4Ai": {
+     "title": "Conceder Característica"
+    },
+    "Iw8qPZmtTJTyWpDU": {
+     "title": "Pacote de Infiltrador ou de Artesão"
+    }
+   }
+  },
+  "kgBQltygakR8Z1sT": {
+   "name": "Foco e Determinação",
+   "description": "<p>Você se treinou de tal forma que absorveu múltiplos tomos de conhecimento naquilo que se esforçou arduamente para dominar.</p><p>Você consegue se conectar rapidamente com pessoas que têm a mesma determinação e garra que você, e até conseguir audiências e conversas imediatas com essas pessoas.</p><p>Você também é capaz de citar e mencionar diferentes livros, estratégias e textos para chamar a atenção daqueles que leram esses textos ou seguem essas estratégias.</p>"
+  },
+  "mY7BwUCBHWmJkcrr": {
+   "description": "<p>Um Bingo Book passado a você por alguém importante.</p>"
+  },
+  "n5ebGenius000001": {
+   "name": "Gênio",
+   "description": "<p>Você é alguém que foi criado com uma noção de grandeza ao seu redor.</p><p>Sempre colocado em um pedestal acima de seus colegas por sua inteligência, habilidades ou talento nato.</p><p>Antes de chegar à academia, você tinha tanta aptidão para o sucesso que estranhos, pais e professores igualmente o colocavam em uma categoria própria.</p><p>Você provou que isso era verdade até este ponto, e muito provavelmente continuará a prová-lo no futuro.</p><p>Se você escolhe continuar o caminho que as pessoas presumiram que seguiria, ou mudar de foco, é sua própria escolha.</p><p>Você tem memórias tanto boas quanto más dessa presunção de genialidade sobre você.</p><p>Memórias como essas são algo que você pode guardar com carinho ou desprezar; de qualquer forma, você é um Gênio de ponta a ponta.</p><hr><p><strong>Proficiências em Perícias:</strong> Escolha duas entre Ninshou, Artes Marciais, Ilusões </p><p><strong>Proficiência</strong> <strong>em Ferramenta:</strong> Uma de sua escolha.</p><p><strong>Equipamento:</strong> Um Bingo Book passado a você por alguém importante, 1 Pergaminho de Jutsu em branco, uma Carteira Contendo 100 Ryo.</p><p><strong>Pacote de Equipamento:</strong> Pacote de Viajante ou de Capitão (Escolha um).</p><hr><p><strong>CARACTERÍSTICA: CORRESPONDENDO ÀS EXPECTATIVAS</strong></p><p>Você sempre parece corresponder às expectativas dos outros quando surge um desafio.</p><p>Sempre que confrontado com um desafio ou situação difícil, você parece conseguir obter um fragmento de percepção sobre ele após apenas uma tentativa, seja em um sucesso ou em uma falha.</p><p>Essa percepção é uma pista sobre como esse desafio em particular funciona ou não funciona, algo que os outros à sua volta podem não entender, mas que agora você entende.</p><hr><p><strong>CATEGORIA PRÓPRIA</strong></p><p>Selecione uma opção:</p><p>• Aumente qualquer valor de atributo em +1. (<strong>Recomendado:</strong> Inteligência, Sabedoria)</p><p>• Selecione Ganhe um talento do Capítulo 13: Opções de personalização.</p><p>Independentemente do talento escolhido, você não ganha um aumento de valor de atributo do talento selecionado. (<strong>Recomendado:</strong> Geral, Perícia, Clã)</p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher Talento, ignore este AVA]"
+    },
+    "af2GUyy8VaPYTsug": {
+     "title": "Conceder Equipamento"
+    },
+    "uNpax4ZV54KlO4Ai": {
+     "title": "Conceder Característica"
+    },
+    "WOr8qKmHR33smAvw": {
+     "title": "Pacote de Viajante ou de Capitão"
+    }
+   }
+  },
+  "n5ebHardWork0001": {
+   "name": "Trabalhador Esforçado",
+   "description": "<p>Você era alguém que sempre precisou provar a si mesmo e aos outros que valia seu peso e seu espaço.</p><p>Você sempre teve que trabalhar duas vezes mais e por duas vezes mais tempo para ver resultados, mas os resultados estão começando a aparecer.</p><p>Você nunca teve o talento natural de seus colegas, não, você teve uma determinação e persistência incomparáveis para superar todos os desafios que enfrentou para chegar até aqui, enquanto também aguarda ansiosamente o dia seguinte para melhorar ainda mais.</p><p>Você alcançou um nível de disciplina que seus colegas não conseguem imaginar, de modo que consegue manter seu treinamento em seu próprio tempo sem ficar atrás quando decide tirar uma pausa.</p><hr><p><strong>Proficiências em Perícias:</strong> Acrobacia, Atletismo</p><p><strong>Proficiências com Ferramentas:</strong> Kit de Ferreiro de Armas</p><p><strong>Equipamento:</strong> Um conjunto de pesos corporais que pesam mais de 50 lbs. para cada parte do seu corpo, 3 Livros contendo estratégias de treinamento, Gi de Treinamento, Uma Carteira contendo 100 Ryo.</p><p><strong>Pacote de Equipamento:</strong> Pacote de Artesão ou de Viajante (Escolha um).</p><hr><p><strong>CARACTERÍSTICA: FOCO E GARRA</strong></p><p>Você treinou a si mesmo de tal forma que absorveu múltiplos tomos de conhecimento em tudo aquilo em que se esforçou ao máximo para se destacar.</p><p>Você consegue se conectar rapidamente com pessoas que têm o mesmo ímpeto e determinação que você, e até conseguir audiências e conversas imediatas com essas pessoas.</p><p>Você também é capaz de referenciar e citar diferentes livros, estratégias e textos para chamar a atenção de quem já leu esses textos ou segue essas estratégias.</p><hr><p><strong>DISCIPLINA SURPREENDENTE</strong></p><p>Escolha uma:</p><ul><li><p>Força +1 ou Destreza +1</p></li><li><p>Escolha um Talento do capítulo 13: Opções de Personalização, da Categoria Geral, Perícia ou Taijutsu. Independentemente do talento escolhido, você não ganha um aumento de valor de atributo de nenhum talento selecionado.</p></li></ul>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher Talento, ignore este AVA]"
+    },
+    "af2GUyy8VaPYTsug": {
+     "title": "Conceder Equipamento"
+    },
+    "uNpax4ZV54KlO4Ai": {
+     "title": "Conceder Característica"
+    },
+    "70uaZfsZVgJGXDmb": {
+     "hint": "Escolher um pacote agora concede automaticamente os itens que ele contém. Espaços reservados para kits de ferramentas solicitam escolhas."
+    }
+   }
+  },
+  "n5ebStudent00001": {
+   "name": "Estudante",
+   "description": "<p>Você foi identificado como alguém com potencial inexplorado ainda muito jovem e foi recolhido como aprendiz.</p><p>Você foi tirado de sua casa para ser treinado pelo Mestre que o encontrou.</p><p>Você raramente vê sua família biológica, e foi criado e educado rodeado pelos costumes do código shinobi ensinado a você por seu mestre.</p><p>Agora, você partiu para o mundo mais amplo, buscando usar o que aprendeu.</p><hr><p><strong>Proficiências em Perícias:</strong> Acrobacia, Escolha uma entre Ninshou, Artes Marciais, Ilusões.</p><p><strong>Proficiências com Ferramentas:</strong> Kit de Perícia Forense</p><p><strong>Equipamento:</strong> Um conjunto de roupas comuns, um Livro repleto de ensinamentos do seu mestre, 1 Pergaminho de Jutsu em Branco, a última Carta que você recebeu de seu mestre e uma carteira contendo 100 Ryo</p><p><strong>Pacote de Equipamento:</strong> Pacote de Explorador ou de Infiltrador (Escolha um).</p><hr><p><strong>CARACTERÍSTICA: O NOME DO MESTRE</strong></p><p>Você foi formalmente treinado na arte shinobi, e o nome daqueles que o treinaram pode abrir portas.</p><p>Você normalmente consegue obter uma audiência com outro Líder Shinobi, apenas mencionando o nome do seu Mestre ou da Escola do seu Mestre.</p><p>Além disso, você normalmente consegue encontrar um lugar para ficar entre Monges ou Templos Shinobi, a menos que se mostre um perigo para eles.</p><p>Você também pode ter acesso a recursos daqueles que o treinaram, seja acesso às bibliotecas e instalações da sua escola, ou simplesmente a capacidade de se corresponder com seu Mestre e pedir seu conselho.</p><hr><p><strong>BEM INSTRUÍDO</strong></p><p>Escolha uma:</p><p>• Aumente qualquer valor de atributo em +1. (<strong>Recomendado:</strong> Destreza, Inteligência)</p><p>• Ganhe um talento do Capítulo 13: Opções de Personalização.</p><p>Independentemente do talento escolhido, você não ganha um aumento de valor de atributo do talento selecionado. (<strong>Recomendado:</strong> Geral, Perícia, Ninjutsu)</p>",
+   "advancement": {
+    "GT8o6PJHNC4ov0yf": {
+     "hint": "[Se escolher Talento, Ignore este AVA]Carisma +1 Ou Sabedoria +1"
+    },
+    "af2GUyy8VaPYTsug": {
+     "title": "Conceder Equipamento"
+    },
+    "uNpax4ZV54KlO4Ai": {
+     "title": "Conceder Característica"
+    },
+    "cRyp0K9ti2zQWvrq": {
+     "title": "Pacote de Explorador ou de Infiltrador"
+    }
+   }
+  },
+  "pkQ0PqJ3pPmphWBU": {
+   "name": "Conjunto de Pesos (50+ lbs.)"
+  },
+  "sY0yES0bmlxwJtP3": {
+   "name": "Carta de Amor",
+   "description": "<p>Uma carta de amor de alguém a quem você já foi próximo.</p>"
+  },
+  "tgX2cgWNZe1EufrR": {
+   "description": "<p>Um manifesto que você está escrevendo atualmente.</p>"
+  },
+  "uH32MKydDEQbycYi": {
+   "name": "Mapa Antigo",
+   "description": "<p>Um mapa antigo da vila onde você cresceu</p>"
+  },
+  "uRGWwZOZgtHeKBbF": {
+   "name": "Livros de Ensinamentos",
+   "description": "<p>Um livro repleto dos ensinamentos que você aprendeu com seu mestre.</p>"
+  },
+  "usbgYD1Lqvn9IipS": {
+   "name": "Posição de Privilégio",
+   "description": "<p>Graças ao seu nascimento nobre, as pessoas tendem a pensar o melhor de você.</p><p>Você é bem-vindo na alta sociedade, e as pessoas assumem que você tem o direito de estar onde estiver.</p><p>O povo comum faz de tudo para acomodá-lo e evitar seu descontentamento, e outras pessoas de nascimento nobre o tratam como um membro da mesma esfera social.</p><p>Você pode garantir uma audiência com um nobre local, caso precise, ao anunciar seu clã ou família.</p>"
+  },
+  "z8di9BwNkJ8CjfAy": {
+   "name": "Diário de Suas Experiências",
+   "description": "<p>Um diário detalhado das experiências que você acumulou enquanto viajava.</p>"
+  }
+ }
+}

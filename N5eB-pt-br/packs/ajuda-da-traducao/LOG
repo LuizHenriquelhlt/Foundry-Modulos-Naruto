@@ -1,0 +1,8 @@
+2024/06/17-16:17:43.954 20cc Recovering log #4
+2024/06/17-16:17:43.956 20cc Delete type=0 #4
+2024/06/17-16:17:43.956 20cc Delete type=3 #2
+2024/06/17-16:31:02.088 3f24 Level-0 table #9: started
+2024/06/17-16:31:02.088 3f24 Level-0 table #9: 0 bytes OK
+2024/06/17-16:31:02.089 3f24 Delete type=0 #7
+2024/06/17-16:31:02.089 3f24 Manual compaction at level-0 from '!journal!HuY0mWoB9GBrxFf2' @ 72057594037927935 : 1 .. '!journal.pages!HuY0mWoB9GBrxFf2.tP5CHMb9P7ocaXUV' @ 0 : 0; will stop at (end)
+2024/06/17-16:31:02.089 3f24 Manual compaction at level-1 from '!journal!HuY0mWoB9GBrxFf2' @ 72057594037927935 : 1 .. '!journal.pages!HuY0mWoB9GBrxFf2.tP5CHMb9P7ocaXUV' @ 0 : 0; will stop at (end)

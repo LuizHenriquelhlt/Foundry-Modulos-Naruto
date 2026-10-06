@@ -1,0 +1,317 @@
+{
+ "label": "Condições",
+ "folders": {
+  "Mental": "Mental",
+  "Death Dying and Disabled": "Morte, Morrendo e Incapacitação",
+  "Sensory": "Sensorial",
+  "Elemental": "Elemental",
+  "Physical": "Física"
+ },
+ "entries": {
+  "0imnrcSgN8C9eC29": {
+   "name": "Lacerado",
+   "description": "<p><strong>Ranks Máximos</strong>: 100</p><hr><p>Uma criatura <strong>Lacerada</strong> sofreu um ferimento grave no corpo e começa a sangrar profusamente; o sangue jorrando faz a ferida piorar a cada segundo que passa.</p><ul><li><p>Uma criatura <strong>Lacerada</strong> conta como <strong>Sangrando</strong> para fins de interação com Características, Traços e Jutsus.</p></li><li><p>No início do turno de uma criatura <strong>Lacerada</strong>, ela sofre 1d6 de dano necrótico por rank de Lacerado que possuir.</p></li><li><p>Uma criatura <strong>Lacerada</strong> que ganharia ranks de Sangrando ganha ranks de Lacerado em vez disso.</p></li><li><p>Uma criatura <strong>Lacerada</strong> não pode receber os benefícios de um descanso.</p></li><li><p>Com uma Ação, uma criatura <strong>Lacerada</strong> pode tentar estancar a laceração sendo bem-sucedida em um teste de Medicina CD 20 com um Kit Médico.</p></li><li><p>Uma criatura com ranks de Lacerado ganha um rank de Lacerado ao final de seus turnos.</p></li><li><p>Uma criatura imune à condição Sangrando é imune à condição Lacerado.</p></li><li><p>Fora de combate, a cada 10 minutos a criatura sofre os efeitos desta condição como se um turno de combate tivesse passado.</p></li></ul>",
+   "effects": {
+    "Uydv91vQ1g52vDiO": {
+     "name": "Lacerado",
+     "description": "<p><strong>Ranks Máximos</strong>: 100</p><hr><p>Uma criatura <strong>Lacerada</strong> sofreu um ferimento grave no corpo e começa a sangrar profusamente; o sangue jorrando faz a ferida piorar a cada segundo que passa.</p><ul><li><p>Uma criatura <strong>Lacerada</strong> conta como <strong>Sangrando</strong> para fins de interação com Características, Traços e Jutsus.</p></li><li><p>No início do turno de uma criatura <strong>Lacerada</strong>, ela sofre 1d6 de dano necrótico por rank de Lacerado que possuir.</p></li><li><p>Uma criatura <strong>Lacerada</strong> que ganharia ranks de Sangrando ganha ranks de Lacerado em vez disso.</p></li><li><p>Uma criatura <strong>Lacerada</strong> não pode receber os benefícios de um descanso.</p></li><li><p>Com uma Ação, uma criatura <strong>Lacerada</strong> pode tentar estancar a laceração sendo bem-sucedida em um teste de Medicina CD 20 com um Kit Médico.</p></li><li><p>Uma criatura com ranks de Lacerado ganha um rank de Lacerado ao final de seus turnos.</p></li><li><p>Uma criatura imune à condição Sangrando é imune à condição Lacerado.</p></li><li><p>Fora de combate, a cada 10 minutos a criatura sofre os efeitos desta condição como se um turno de combate tivesse passado.</p></li></ul>"
+    }
+   }
+  },
+  "2QOny7ErdFRizZ08": {
+   "name": "Queimado",
+   "description": "<p><strong>Ranks Máximos</strong>: 5</p><ul><li><p>Uma criatura ou objeto Queimado sofre 1d8 de dano de fogo para cada rank que possuir, no início de cada um de seus turnos.</p></li><li><p>Uma criatura Queimada sofre penalidade de -2 em testes de Concentração para cada rank que possuir.</p></li><li><p>Criaturas imunes a dano de fogo são imunes a esta condição.</p></li><li><p>Esta condição dura enquanto durar o efeito que a infligiu ou até 1 minuto se passar, o que ocorrer primeiro. Uma criatura pode gastar uma Ação para fazer um teste de Destreza (Sobrevivência) CD 15 para apagar as chamas. Em um sucesso, ou ao submergir completamente em um corpo d'água, a condição termina.</p></li></ul>",
+   "effects": {
+    "WJy8QaapVm2BHJxx": {
+     "name": "Queimado",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><ul><li><p>Uma criatura ou objeto Queimado sofre 1d8 de dano de fogo para cada rank que possuir, no início de cada um de seus turnos.</p></li><li><p>Uma criatura Queimada sofre penalidade de -2 em testes de Concentração para cada rank que possuir.</p></li><li><p>Criaturas imunes a dano de fogo são imunes a esta condição.</p></li><li><p>Esta condição dura enquanto durar o efeito que a infligiu ou até 1 minuto se passar, o que ocorrer primeiro. Uma criatura pode gastar uma Ação para fazer um teste de Destreza (Sobrevivência) CD 15 para apagar as chamas. Em um sucesso, ou ao submergir completamente em um corpo d'água, a condição termina.</p></li></ul>"
+    }
+   }
+  },
+  "2ZlT2bVDjxtVdYin": {
+   "name": "Morrendo",
+   "description": "<p>Uma criatura morrendo está incapacitada, inconsciente e em risco de morte até ser estabilizada ou curada.</p>",
+   "effects": {
+    "K8jYyogN9HP7kvAd": {
+     "name": "Morrendo",
+     "description": "<p>Uma criatura morrendo está incapacitada, inconsciente e em risco de morte até ser estabilizada ou curada.</p>"
+    }
+   }
+  },
+  "2qfV7Gdom5onXhUZ": {
+   "name": "Inconsciente",
+   "description": "<p>Uma criatura <strong>Inconsciente</strong> entrou em um estado de total apagamento mental, ou está dormindo.</p><ul><li><p>Uma criatura inconsciente está incapacitada (veja a condição), não pode se mover nem falar e não tem consciência do que está ao seu redor.</p></li><li><p>A criatura larga o que estiver segurando e cai no chão.</p></li><li><p>A criatura falha automaticamente em testes de resistência de Força e Destreza.</p></li><li><p>Jogadas de ataque contra a criatura têm vantagem.</p></li><li><p>Qualquer ataque que atinja a criatura é um acerto crítico se o atacante estiver a até 5 pés dela.</p></li></ul>",
+   "effects": {
+    "Tp7TFzWYOvtIjeO1": {
+     "name": "Inconsciente",
+     "description": "<p>Uma criatura <strong>Inconsciente</strong> entrou em um estado de total apagamento mental, ou está dormindo.</p><ul><li><p>Uma criatura inconsciente está incapacitada (veja a condição), não pode se mover nem falar e não tem consciência do que está ao seu redor.</p></li><li><p>A criatura larga o que estiver segurando e cai no chão.</p></li><li><p>A criatura falha automaticamente em testes de resistência de Força e Destreza.</p></li><li><p>Jogadas de ataque contra a criatura têm vantagem.</p></li><li><p>Qualquer ataque que atinja a criatura é um acerto crítico se o atacante estiver a até 5 pés dela.</p></li></ul>"
+    }
+   }
+  },
+  "6jTSe6avKTHv61xR": {
+   "name": "Contundido",
+   "description": "<p><strong>Ranks Máximos</strong>: 5</p><ul><li><p>Uma criatura Contundida sofre penalidade de -1 em todas as jogadas de ataque e testes baseados em Força, Destreza e Constituição para cada rank que possuir.</p></li><li><p>Uma criatura Contundida sofre +4 de dano adicional de todas as fontes de dano de concussão ou de terra para cada rank que possuir, uma vez por turno.</p></li><li><p>Criaturas imunes a dano de concussão ou de Terra são imunes a esta condição.</p></li><li><p>Uma criatura que ganharia o sexto rank (ou mais) da condição Contundido fica imediatamente Cambaleante, encerrando a condição Contundido.</p></li><li><p>Uma criatura pode gastar uma Ação para fazer um teste de Força (Medicina) CD 15 para encerrar esta condição, aplicando a pressão adequada sobre o ferimento.</p></li></ul>",
+   "effects": {
+    "E8EMTtQE84gz6Kjy": {
+     "name": "Contundido",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><ul><li><p>Uma criatura Contundida sofre penalidade de -1 em todas as jogadas de ataque e testes baseados em Força, Destreza e Constituição para cada rank que possuir.</p></li><li><p>Uma criatura Contundida sofre +4 de dano adicional de todas as fontes de dano de concussão ou de terra para cada rank que possuir, uma vez por turno.</p></li><li><p>Criaturas imunes a dano de concussão ou de Terra são imunes a esta condição.</p></li><li><p>Uma criatura que ganharia o sexto rank (ou mais) da condição Contundido fica imediatamente Cambaleante, encerrando a condição Contundido.</p></li><li><p>Uma criatura pode gastar uma Ação para fazer um teste de Força (Medicina) CD 15 para encerrar esta condição, aplicando a pressão adequada sobre o ferimento.</p></li></ul>"
+    }
+   }
+  },
+  "7akNoMKyXsqOX25U": {
+   "name": "Desmoralizado",
+   "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Criaturas que ganhariam ranks de <strong>Medo</strong> (<strong>ou Amedrontado</strong>) ganham ranks de <strong>Desmoralizado</strong>. Uma criatura <strong>Desmoralizada</strong> está perturbada por um alvo específico de alguma forma, o que a faz evitar interagir com ele sempre que possível. Esse estresse elevado enfraquece as defesas do alvo Desmoralizado.</p><ul><li><p>Uma criatura <strong>Desmoralizada</strong> sofre penalidade de -1 em seus testes de resistência para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Desmoralizada</strong> deve fazer testes de concentração no início de cada um de seus turnos para manter a concentração em seus jutsus.</p></li><li><p>Ao final do turno de uma criatura <strong>Desmoralizada</strong>, ela faz um teste de Carisma CD 13. Em um sucesso, remove 1 rank de <strong>Desmoralizado</strong>. Após 10 minutos, uma criatura que ainda tenha ranks de <strong>Desmoralizado</strong> perde todos os ranks de <strong>Desmoralizado</strong> restantes.</p></li><li><p>Com uma ação, uma criatura <strong>Desmoralizada</strong> pode fazer um teste de Carisma CD 20 para remover todos os ranks de <strong>Desmoralizado</strong> que possuir.</p></li></ul>",
+   "effects": {
+    "Pv2eAiGjrXpfqDdC": {
+     "name": "Desmoralizado",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Criaturas que ganhariam ranks de <strong>Medo</strong> (<strong>ou Amedrontado</strong>) ganham ranks de <strong>Desmoralizado</strong>. Uma criatura <strong>Desmoralizada</strong> está perturbada por um alvo específico de alguma forma, o que a faz evitar interagir com ele sempre que possível. Esse estresse elevado enfraquece as defesas do alvo Desmoralizado.</p><ul><li><p>Uma criatura <strong>Desmoralizada</strong> sofre penalidade de -1 em seus testes de resistência para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Desmoralizada</strong> deve fazer testes de concentração no início de cada um de seus turnos para manter a concentração em seus jutsus.</p></li><li><p>Ao final do turno de uma criatura <strong>Desmoralizada</strong>, ela faz um teste de Carisma CD 13. Em um sucesso, remove 1 rank de <strong>Desmoralizado</strong>. Após 10 minutos, uma criatura que ainda tenha ranks de <strong>Desmoralizado</strong> perde todos os ranks de <strong>Desmoralizado</strong> restantes.</p></li><li><p>Com uma ação, uma criatura <strong>Desmoralizada</strong> pode fazer um teste de Carisma CD 20 para remover todos os ranks de <strong>Desmoralizado</strong> que possuir.</p></li></ul>"
+    }
+   }
+  },
+  "9XpYXI88GXI91NGQ": {
+   "name": "Caído",
+   "description": "<p>Uma criatura Caída está de bruços no chão, o que oferece mais proteção contra ataques à distância, mas uma enorme vulnerabilidade a ataques corpo a corpo.</p><ul><li><p>A única opção de movimento de uma criatura caída é rastejar, o que ela pode fazer até metade do seu deslocamento, sem poder receber bônus de deslocamento, a menos que se levante e, com isso, encerre a condição.</p></li><li><p>A criatura tem desvantagem em jogadas de ataque corpo a corpo.</p></li><li><p>A criatura tem desvantagem em jogadas de ataque à distância contra alvos a até 30 pés.</p></li><li><p>Uma jogada de ataque contra a criatura tem vantagem se o atacante estiver a até 5 pés dela ou se a arma usada tiver a propriedade alcance. Caso contrário, a jogada de ataque tem desvantagem.</p></li></ul>",
+   "effects": {
+    "5AUgZAgeKgGER409": {
+     "name": "Caído"
+    }
+   }
+  },
+  "Aa2bI0MeSmyi3eOJ": {
+   "name": "Ofuscado",
+   "description": "<p><strong>Ranks Máximos:</strong> 5</p><ul><li>Os olhos de uma criatura <strong>Ofuscada</strong> ficam sobrecarregados por clarões de cor, causando penalidade de -2 em testes que dependam da visão para cada rank que possuir.</li><li>Uma criatura Ofuscada sofre penalidade de -2 em jogadas de ataque para cada rank que possuir e não pode receber vantagem em jogadas de ataque à distância.</li><li>Uma criatura Ofuscada reduz o alcance dos jutsus que conjura e dos ataques à distância que faz em 15 pés para cada rank que possuir, até um mínimo de 5 pés.</li><li>Uma criatura Ofuscada pode fazer um teste de Constituição CD 15 com uma ação para remover todos os ranks desta condição.</li></ul>",
+   "effects": {
+    "rNLK6dZIg5pamybW": {
+     "name": "Ofuscado",
+     "description": "<p><strong>Ranks Máximos:</strong> 5</p><p>• Os olhos de uma criatura <strong>Ofuscada</strong> ficam sobrecarregados por clarões de cor, recebendo penalidade de -2 em todos os testes que dependam da visão para cada rank que possuir. • Uma criatura <strong>Ofuscada</strong> sofre penalidade de -2 em jogadas de ataque para cada rank que possuir e não pode receber vantagem em jogadas de ataque à Distância.</p><p>• Uma criatura <strong>Ofuscada</strong> reduz o alcance dos Jutsus conjurados e dos ataques à distância feitos em 15 pés para cada rank que possuir, até um mínimo de 5 pés.</p><p>• Uma criatura <strong>Ofuscada</strong> pode fazer um teste de Constituição CD 15 com uma ação para remover todos os ranks desta condição.</p>"
+    }
+   }
+  },
+  "AgEbkILgtlF5naAS": {
+   "name": "Empeçonhado",
+   "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura <strong>Empeçonhada</strong> (às vezes chamada de Envenenada) foi exposta a algum tipo de peçonha ou toxina, fazendo sua vitalidade e sua imunidade despencarem rapidamente.</p><ul><li><p>Uma criatura ou objeto <strong>Empeçonhado</strong> sofre 1d6 de dano de veneno para cada rank que possuir, no início de cada um de seus turnos, enquanto durar esta condição.</p></li><li><p>Uma criatura <strong>Empeçonhada</strong> sofre penalidade de -1 em sua CA para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Empeçonhada</strong> não pode receber os benefícios de um descanso.</p></li><li><p>Criaturas imunes a dano de veneno são imunes à condição Empeçonhado.</p></li><li><p>Fora de combate, a cada hora a criatura sofre os efeitos desta condição como se um turno de combate tivesse passado.</p></li></ul>",
+   "effects": {
+    "0Nf1yI2bA3D4Ftd8": {
+     "name": "Empeçonhado",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura <strong>Empeçonhada</strong> (às vezes chamada de Envenenada) foi exposta a algum tipo de peçonha ou toxina, fazendo sua vitalidade e sua imunidade despencarem rapidamente.</p><ul><li><p>Uma criatura ou objeto <strong>Empeçonhado</strong> sofre 1d6 de dano de veneno para cada rank que possuir, no início de cada um de seus turnos, enquanto durar esta condição.</p></li><li><p>Uma criatura <strong>Empeçonhada</strong> sofre penalidade de -1 em sua CA para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Empeçonhada</strong> não pode receber os benefícios de um descanso.</p></li><li><p>Criaturas imunes a dano de veneno são imunes à condição Empeçonhado.</p></li><li><p>Fora de combate, a cada hora a criatura sofre os efeitos desta condição como se um turno de combate tivesse passado.</p></li></ul>"
+    }
+   }
+  },
+  "DFjAW6o3pBiWJrCu": {
+   "name": "Enfraquecido",
+   "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura Enfraquecida não consegue empregar todo o seu vigor físico e esforço, pois ficou sem fôlego.</p><ul><li><p>Uma criatura <strong>Enfraquecida</strong> reduz em -4 o dano que causa com ataques e Jutsus para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Enfraquecida</strong> sofre penalidade de -1 em testes de resistência de Força.</p></li><li><p>A condição <strong>Enfraquecido</strong> dura enquanto durar seu efeito ou até 1 minuto se passar, o que ocorrer primeiro.</p></li></ul>",
+   "effects": {
+    "lmKCCwudyDvJoYtm": {
+     "name": "Enfraquecido",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura Enfraquecida não consegue empregar todo o seu vigor físico e esforço, pois ficou sem fôlego.</p><ul><li><p>Uma criatura <strong>Enfraquecida</strong> reduz em -4 o dano que causa com ataques e Jutsus para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Enfraquecida</strong> sofre penalidade de -1 em testes de resistência de Força.</p></li><li><p>A condição <strong>Enfraquecido</strong> dura enquanto durar seu efeito ou até 1 minuto se passar, o que ocorrer primeiro.</p></li></ul>"
+    }
+   }
+  },
+  "JNnzuuXPtG53TNVf": {
+   "name": "Contido",
+   "description": "<p>Uma criatura <strong>Contida</strong> foi completamente imobilizada, incapaz de sair do seu espaço.</p><ul><li><p>O deslocamento de uma criatura contida se torna 0, e ela não pode se beneficiar de nenhum bônus de deslocamento.</p></li><li><p>Jogadas de ataque contra a criatura têm vantagem, e as jogadas de ataque da criatura têm desvantagem.</p></li><li><p>A criatura tem desvantagem em testes de resistência de Destreza.</p></li></ul>",
+   "effects": {
+    "J3ccgXNOtDjjusUq": {
+     "name": "Contido",
+     "description": "<p>Uma criatura <strong>Contida</strong> foi completamente imobilizada, incapaz de sair do seu espaço.</p><ul><li><p>O deslocamento de uma criatura contida se torna 0, e ela não pode se beneficiar de nenhum bônus de deslocamento.</p></li><li><p>Jogadas de ataque contra a criatura têm vantagem, e as jogadas de ataque da criatura têm desvantagem.</p></li><li><p>A criatura tem desvantagem em testes de resistência de Destreza.</p></li></ul>"
+    }
+   }
+  },
+  "KZhkgzm0QOWCbyVx": {
+   "name": "Selado",
+   "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura Selada tem um limitador em sua rede de chakra, tornando seu chakra ineficiente e desperdiçado. Esta condição geralmente é resultado de um Fuinjutsu.</p><ul><li><p>Uma criatura <strong>Selada</strong> aumenta em +2 o custo base de chakra de Ninjutsus e Genjutsus para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Selada</strong> sofre penalidade de -1 em todas as suas CDs de Ninjutsu e Genjutsu para cada rank que possuir.</p></li><li><p>Uma criatura pode gastar sua ação para fazer um teste de Ninshou ou Ilusões CD 15 para remover 1 rank desta condição. Para cada +5 que o resultado exceder a CD, ela remove 1 rank adicional de <strong>Selado</strong>.</p></li></ul>",
+   "effects": {
+    "67Zr4SffTsSb5mM1": {
+     "name": "Selado",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura Selada tem um limitador em sua rede de chakra, tornando seu chakra ineficiente e desperdiçado. Esta condição geralmente é resultado de um Fuinjutsu.</p><ul><li><p>Uma criatura <strong>Selada</strong> aumenta em +2 o custo base de chakra de Ninjutsus e Genjutsus para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Selada</strong> sofre penalidade de -1 em todas as suas CDs de Ninjutsu e Genjutsu para cada rank que possuir.</p></li><li><p>Uma criatura pode gastar sua ação para fazer um teste de Ninshou ou Ilusões CD 15 para remover 1 rank desta condição. Para cada +5 que o resultado exceder a CD, ela remove 1 rank adicional de <strong>Selado</strong>.</p></li></ul>"
+    }
+   }
+  },
+  "KfqyjVTZEhRigxiO": {
+   "name": "Agarrado",
+   "description": "<ul><li>O deslocamento de uma criatura <strong>Agarrada</strong> se torna 0, e ela não pode se beneficiar de nenhum bônus de deslocamento.</li><li>A condição termina se quem a agarrou ficar incapacitado.</li><li>A condição também termina se um efeito remover a criatura agarrada do alcance de quem a agarrou ou do efeito de agarrar.</li></ul>",
+   "effects": {
+    "Eme0Y4daNNi3gpIR": {
+     "name": "Agarrado"
+    }
+   }
+  },
+  "LtF9jNCx9U6p4U6w": {
+   "name": "Surdo",
+   "description": "<ul><li>Uma criatura <strong>Surda</strong> não consegue ouvir e falha automaticamente em qualquer teste que dependa da audição.</li><li>Uma criatura Surda sofre penalidade de -10 em Percepção.</li><li>Criaturas atualmente escondidas de uma criatura Surda não precisam rolar novamente testes de Destreza (Furtividade) para permanecer furtivas contra ela.</li><li>Testes, ataques e testes de resistência baseados em Sabedoria são feitos com desvantagem.</li><li>Uma criatura pode, voluntariamente, tapar os ouvidos por um período prolongado com uma ação bônus. Fazer isso impõe esta condição e ocupa ambas as mãos até o início do seu próximo turno.</li></ul>",
+   "effects": {
+    "JD6YqfV0jNWOgoBJ": {
+     "name": "Surdo",
+     "description": "<p>• Uma criatura <strong>Surda</strong> não consegue ouvir e falha automaticamente em qualquer teste que dependa da audição.</p><p>• Uma criatura <strong>Surda</strong> sofre penalidade de -10 em sua Percepção.</p><p>• Criaturas atualmente Escondidas de uma criatura <strong>Surda</strong> não precisam rolar novamente testes de Destreza (Furtividade) para permanecer Furtivas contra ela.</p><p>• Testes, ataques e testes de resistência baseados em Sabedoria são feitos com desvantagem.</p><p>• Uma criatura pode, voluntariamente, tapar os ouvidos por um período prolongado com uma ação bônus. Fazer isso impõe esta Condição a ela e ocupa ambas as mãos até o início do seu próximo turno.</p>"
+    }
+   }
+  },
+  "R5TffwBlhJzos3Dr": {
+   "name": "Sangrando",
+   "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura Sangrando sofreu uma pequena escoriação na carne, causando uma lenta perda de sangue se não for tratada.</p><ul><li><p>No início do seu turno, uma criatura sangrando sofre 1d4 de dano necrótico para cada rank de Sangramento que possuir.</p></li><li><p>Uma criatura Sangrando não pode receber os benefícios de um descanso.</p></li><li><p>Com uma Ação, uma criatura Sangrando pode tentar estancar o sangramento sendo bem-sucedida em um teste de Medicina CD 15.</p></li><li><p>Uma criatura que ganharia o sexto rank (ou mais) da condição Sangrando ganha imediatamente 5 ranks da condição Lacerado, encerrando a condição Sangrando.</p><ul><li><p>Na primeira vez, por descanso, em que uma criatura Sangrando ganharia Lacerado dessa forma, ela deve ser bem-sucedida em um teste simples CD 11, sofrendo imediatamente o dano de seus ranks de Lacerado ao sofrer um grande ferimento.</p></li></ul></li><li><p>Fora de combate, a cada 10 minutos a criatura sofre os efeitos desta condição como se um turno de combate tivesse passado.</p></li></ul>",
+   "effects": {
+    "4qbOL9DebfIrn0PS": {
+     "name": "Sangrando",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura Sangrando sofreu uma pequena escoriação na carne, causando uma lenta perda de sangue se não for tratada.</p><ul><li><p>No início do seu turno, uma criatura sangrando sofre 1d4 de dano necrótico para cada rank de Sangramento que possuir.</p></li><li><p>Uma criatura Sangrando não pode receber os benefícios de um descanso.</p></li><li><p>Com uma Ação, uma criatura Sangrando pode tentar estancar o sangramento sendo bem-sucedida em um teste de Medicina CD 15.</p></li><li><p>Uma criatura que ganharia o sexto rank (ou mais) da condição Sangrando ganha imediatamente 5 ranks da condição Lacerado, encerrando a condição Sangrando.</p><ul><li><p>Na primeira vez, por descanso, em que uma criatura Sangrando ganharia Lacerado dessa forma, ela deve ser bem-sucedida em um teste simples CD 11, sofrendo imediatamente o dano de seus ranks de Lacerado ao sofrer um grande ferimento.</p></li></ul></li><li><p>Fora de combate, a cada 10 minutos a criatura sofre os efeitos desta condição como se um turno de combate tivesse passado.</p></li></ul>"
+    }
+   }
+  },
+  "T4ZSbPxGKQwZ0WRG": {
+   "name": "Confuso",
+   "description": "<p><strong>Ranks Máximos</strong>: 5</p><p>Uma criatura Confusa tem dificuldade em distinguir amigos de inimigos e sofre lapsos de julgamento.</p><ul><li><p>Uma criatura Confusa sofre penalidade de -1 em todos os testes, jogadas de ataque e testes de resistência baseados em Sabedoria para cada rank que possuir.</p></li><li><p>Uma criatura Confusa que for escolher como alvo uma criatura hostil ou amigável com um ataque, jutsu, característica ou traço (até ela mesma) deve primeiro fazer um teste simples CD 8. Em uma falha, ela deve escolher como alvo a criatura mais próxima, ignorando distinções entre aliados e hostis. Para cada rank de Confuso além do primeiro, aumente essa CD em +1 (CD máxima 12).</p></li><li><p>Uma criatura Confusa não pode escolher alvos quando um jutsu, característica ou traço permitiria que ela escolhesse. Todas as criaturas dentro do alcance se tornam alvos, ignorando distinções entre aliados e hostis.</p></li><li><p>Com uma Ação, uma criatura Confusa pode fazer um teste de Inteligência CD 15, encerrando esta condição em um sucesso.</p></li></ul>",
+   "effects": {
+    "TlQn0pODrzXO8IRz": {
+     "name": "Confuso",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><p>Uma criatura Confusa tem dificuldade em distinguir amigos de inimigos e sofre lapsos de julgamento.</p><ul><li><p>Uma criatura Confusa sofre penalidade de -1 em todos os testes, jogadas de ataque e testes de resistência baseados em Sabedoria para cada rank que possuir.</p></li><li><p>Uma criatura Confusa que for escolher como alvo uma criatura hostil ou amigável com um ataque, jutsu, característica ou traço (até ela mesma) deve primeiro fazer um teste simples CD 8. Em uma falha, ela deve escolher como alvo a criatura mais próxima, ignorando distinções entre aliados e hostis. Para cada rank de Confuso além do primeiro, aumente essa CD em +1 (CD máxima 12).</p></li><li><p>Uma criatura Confusa não pode escolher alvos quando um jutsu, característica ou traço permitiria que ela escolhesse. Todas as criaturas dentro do alcance se tornam alvos, ignorando distinções entre aliados e hostis.</p></li><li><p>Com uma Ação, uma criatura Confusa pode fazer um teste de Inteligência CD 15, encerrando esta condição em um sucesso.</p></li></ul>"
+    }
+   }
+  },
+  "TJkoBRRPODGhibDp": {
+   "name": "Corroído",
+   "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura <strong>Corroída</strong> foi exposta a algum tipo de composto ácido, fazendo sua carne e seu equipamento definharem e se deteriorarem se não forem tratados.</p><ul><li><p>Uma criatura <strong>Corroída</strong> recebe penalidade de -2 em sua RD (redução de dano) para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Corroída</strong> recebe penalidade de -1 em todos os testes e testes de resistência baseados em Constituição para cada rank que possuir.</p></li><li><p>Uma criatura pode encerrar a condição Corroído usando sua ação para fazer um teste de Destreza ou Constituição CD 15, ou submergindo completamente em um corpo d'água.</p></li></ul>",
+   "effects": {
+    "gXQCDxapEi50ixYD": {
+     "name": "Corroído",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura <strong>Corroída</strong> foi exposta a algum tipo de composto ácido, fazendo sua carne e seu equipamento definharem e se deteriorarem se não forem tratados.</p><ul><li><p>Uma criatura <strong>Corroída</strong> recebe penalidade de -2 em sua RD (redução de dano) para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Corroída</strong> recebe penalidade de -1 em todos os testes e testes de resistência baseados em Constituição para cada rank que possuir.</p></li><li><p>Uma criatura pode encerrar a condição Corroído usando sua ação para fazer um teste de Destreza ou Constituição CD 15, ou submergindo completamente em um corpo d'água.</p></li></ul>"
+    }
+   }
+  },
+  "W7xYf9O8awd8TITw": {
+   "name": "Enfeitiçado",
+   "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><ul><li><p>Uma criatura <strong>Enfeitiçada</strong> está parcialmente encantada por um alvo específico.</p></li><li><p>Uma criatura <strong>Enfeitiçada</strong> melhora sua atitude em relação a você em 1 rank para cada rank de Enfeitiçado que possuir.</p></li><li><p>Uma criatura <strong>Enfeitiçada</strong> sofre penalidade de -2 em testes de perícia baseados em Inteligência e Sabedoria feitos contra o alvo de seu encanto para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Enfeitiçada</strong> não pode realizar ações hostis contra a fonte de seu encanto. Se ela sofrer um efeito hostil ou dano da fonte de seu encanto ou de um dos aliados dessa fonte, remove todos os ranks desta condição.</p></li></ul>",
+   "effects": {
+    "q6BnBoFI5WGgWuGi": {
+     "name": "Enfeitiçado",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><ul><li><p>Uma criatura <strong>Enfeitiçada</strong> está parcialmente encantada por um alvo específico.</p></li><li><p>Uma criatura <strong>Enfeitiçada</strong> melhora sua atitude em relação a você em 1 rank para cada rank de Enfeitiçado que possuir.</p></li><li><p>Uma criatura <strong>Enfeitiçada</strong> sofre penalidade de -2 em testes de perícia baseados em Inteligência e Sabedoria feitos contra o alvo de seu encanto para cada rank que possuir.</p></li><li><p>Uma criatura <strong>Enfeitiçada</strong> não pode realizar ações hostis contra a fonte de seu encanto. Se ela sofrer um efeito hostil ou dano da fonte de seu encanto ou de um dos aliados dessa fonte, remove todos os ranks desta condição.</p></li></ul>"
+    }
+   }
+  },
+  "ZirT2bW02OqnAw4s": {
+   "name": "Concussão",
+   "description": "<p><strong>Ranks Máximos</strong>: 5</p><p>Uma criatura com Concussão sofreu um golpe traumático que reduz momentaneamente sua acuidade mental, fazendo-a ter dificuldade em usar técnicas complexas.</p><ul><li><p>Uma criatura com Concussão sofre penalidade de -1 em todas as suas CDs de resistência para cada rank que possuir.</p></li><li><p>Uma criatura com Concussão sofre penalidade de -1 em todos os testes, jogadas de ataque e testes de resistência baseados em Inteligência para cada rank que possuir.</p></li><li><p>Uma criatura com Concussão não pode receber os benefícios de um Descanso.</p></li><li><p>Uma criatura pode gastar sua Ação, se tiver um Kit Médico, para fazer um teste de Medicina CD 20, encerrando esta condição em um sucesso.</p></li></ul>",
+   "effects": {
+    "22NWi0T1qfEqIiml": {
+     "name": "Concussão",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><p>Uma criatura com Concussão sofreu um golpe traumático que reduz momentaneamente sua acuidade mental, fazendo-a ter dificuldade em usar técnicas complexas.</p><ul><li><p>Uma criatura com Concussão sofre penalidade de -1 em todas as suas CDs de resistência para cada rank que possuir.</p></li><li><p>Uma criatura com Concussão sofre penalidade de -1 em todos os testes, jogadas de ataque e testes de resistência baseados em Inteligência para cada rank que possuir.</p></li><li><p>Uma criatura com Concussão não pode receber os benefícios de um Descanso.</p></li><li><p>Uma criatura pode gastar sua Ação, se tiver um Kit Médico, para fazer um teste de Medicina CD 20, encerrando esta condição em um sucesso.</p></li></ul>"
+    }
+   }
+  },
+  "b8LfKNGV0pLh79i1": {
+   "name": "Invisível",
+   "description": "<ul><li>Uma criatura <strong>Invisível</strong> não pode ser vista sem a ajuda de poderes ou de um sentido especial. Para fins de se esconder, a criatura está em escuridão densa. A localização da criatura pode ser detectada por qualquer barulho que ela faça ou rastros que deixe.</li><li>Jogadas de ataque contra a criatura têm desvantagem, e as jogadas de ataque da criatura têm vantagem.</li></ul>",
+   "effects": {
+    "pN4zgazlsl6lboB8": {
+     "name": "Invisível",
+     "description": "<ul><li><p>Uma criatura invisível não pode ser vista sem a ajuda de poderes ou de um sentido especial. Para fins de se esconder, a criatura está em escuridão densa. A localização da criatura pode ser detectada por qualquer barulho que ela faça ou rastros que deixe.</p></li><li><p>Jogadas de ataque contra a criatura têm desvantagem, e as jogadas de ataque da criatura têm vantagem.</p></li></ul>"
+    }
+   }
+  },
+  "dA6M7Es85XogMEc6": {
+   "name": "Resfriado",
+   "description": "<p><strong>Ranks Máximos:</strong> 5 </p><p>• Uma criatura <strong>Resfriada</strong> tem o corpo e os nervos dominados pelo frio. Uma vez por turno, quando se mover voluntariamente qualquer quantidade de pés, ela sofre 1d6 de dano de frio para cada rank que possuir.</p><p> • O deslocamento de uma criatura <strong>Resfriada</strong> é reduzido em 5 pés para cada rank que possuir.</p><p> • A criatura sofre penalidade de -1 em todos os testes e testes de resistência baseados em Destreza para cada rank que possuir. </p><p>• Uma criatura resistente ou imune a dano de Frio também tem resistência ou imunidade a esta condição. Esta condição dura enquanto durar o efeito que a infligiu ou até 1 minuto se passar, o que ocorrer primeiro.</p>",
+   "effects": {
+    "nX1BXMe4KCK4ngMY": {
+     "name": "Resfriado"
+    }
+   }
+  },
+  "enO8CeLFBWknZZu0": {
+   "name": "Atordoado",
+   "description": "<ul><li>Uma criatura <strong>Atordoada</strong> está incapacitada, não pode se mover e só consegue falar de forma hesitante.</li><li>A criatura falha automaticamente em testes de resistência de Força e Destreza.</li><li>Jogadas de ataque contra a criatura têm vantagem.</li></ul>",
+   "effects": {
+    "N2v8XhCbxcqgpAKc": {
+     "name": "Atordoado",
+     "description": "<ul><li><p>Uma criatura atordoada está incapacitada (veja a condição), não pode se mover e só consegue falar de forma hesitante.</p></li><li><p>A criatura falha automaticamente em testes de resistência de Força e Destreza.</p></li><li><p>Jogadas de ataque contra a criatura têm vantagem.</p></li></ul>"
+    }
+   }
+  },
+  "hoVkhvYESiXwvBmT": {
+   "name": "Lento",
+   "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura Lenta sente-se como se estivesse em câmera lenta, como se andasse dentro d'água, o que a impede de lutar em seu ritmo de combate habitual.</p><ul><li><p>Uma criatura Lenta tem seu deslocamento reduzido em 10 para cada rank que possuir e não pode receber bônus de deslocamento enquanto durar a condição.</p></li><li><p>Uma criatura Lenta nunca pode fazer mais de um ataque, nem conjurar mais de 1 jutsu, por turno.</p></li><li><p>A condição Lento dura enquanto durar o jutsu original ou até 1 minuto se passar, o que ocorrer primeiro.</p></li></ul>",
+   "effects": {
+    "6OUagYTTSjghAeJW": {
+     "name": "Lento"
+    }
+   }
+  },
+  "lBcTvpDJ8Muk95PF": {
+   "name": "Aturdido",
+   "description": "<p>Uma criatura <strong>Aturdida</strong> está se recuperando de um golpe poderoso e não consegue realizar tantas ações quanto o normal.</p><ul><li><p>Uma criatura Aturdida pode apenas se mover ou realizar uma ação, não ambos.</p></li><li><p>Uma criatura Aturdida não pode realizar ações bônus.</p></li><li><p>A condição Aturdido dura até o final do próximo turno da criatura afetada.</p></li></ul>",
+   "effects": {
+    "DMk6sLu23lgNj7V4": {
+     "name": "Aturdido",
+     "description": "<p>Uma criatura <strong>Aturdida</strong> está se recuperando de um golpe poderoso e não consegue realizar tantas ações quanto o normal.</p><ul><li><p>Uma criatura Aturdida pode apenas se mover ou realizar uma ação, não ambos.</p></li><li><p>Uma criatura Aturdida não pode realizar ações bônus.</p></li><li><p>A condição Aturdido dura até o final do próximo turno da criatura afetada.</p></li></ul>"
+    }
+   }
+  },
+  "meY1x7prZ6rkNDTV": {
+   "name": "Petrificado",
+   "description": "<p>Uma criatura <strong>Petrificada</strong> é transformada, junto com qualquer objeto que esteja vestindo ou carregando, em uma substância sólida e inanimada (geralmente pedra). Seu peso aumenta dez vezes e ela para de envelhecer. É uma condição extremamente rara, normalmente associada a Liberação de Terra de alto nível, Kinjutsu ou magia sombria proibida.</p><ul><li><p>A criatura está incapacitada (veja a condição), não pode se mover nem falar e não tem consciência do que está ao seu redor.</p></li><li><p>Jogadas de ataque contra a criatura têm vantagem.</p></li><li><p>A criatura falha automaticamente em testes de resistência de Força e Destreza.</p></li><li><p>A criatura tem resistência a todo dano.</p></li><li><p>A criatura é imune a veneno e doença, embora um veneno ou doença já presente em seu organismo fique suspenso, e não neutralizado.</p></li></ul>",
+   "effects": {
+    "C8RoNFiuVf0osgMs": {
+     "name": "Petrificado",
+     "description": "<p>Uma criatura <strong>Petrificada</strong> é transformada, junto com qualquer objeto que esteja vestindo ou carregando, em uma substância sólida e inanimada (geralmente pedra). Seu peso aumenta dez vezes e ela para de envelhecer. É uma condição extremamente rara, normalmente associada a Liberação de Terra de alto nível, Kinjutsu ou magia sombria proibida.</p><ul><li><p>A criatura está incapacitada (veja a condição), não pode se mover nem falar e não tem consciência do que está ao seu redor.</p></li><li><p>Jogadas de ataque contra a criatura têm vantagem.</p></li><li><p>A criatura falha automaticamente em testes de resistência de Força e Destreza.</p></li><li><p>A criatura tem resistência a todo dano.</p></li><li><p>A criatura é imune a veneno e doença, embora um veneno ou doença já presente em seu organismo fique suspenso, e não neutralizado.</p></li></ul>"
+    }
+   }
+  },
+  "oPKLZHKQOBZsE7k5": {
+   "name": "Incapacitado",
+   "description": "<ul><li>Uma criatura <strong>Incapacitada</strong> não pode realizar ações nem reações.</li></ul>",
+   "effects": {
+    "4SS62Wm6W6fzv1z7": {
+     "name": "Incapacitado"
+    }
+   }
+  },
+  "owH6cQirjHUk1YUO": {
+   "name": "Cego",
+   "description": "<ul><li>Uma criatura <strong>Cega</strong> não pode escolher outra criatura como alvo de efeitos que exijam um alvo que ela possa ver, a menos que tenha um sentido especial que não dependa da visão, como Sentido Sísmico ou Sensor de Chakra.</li><li>Uma criatura Cega não consegue ver e falha automaticamente em qualquer teste que dependa da visão.</li><li>Uma criatura Cega tem desvantagem em testes de resistência de Destreza.</li><li>Jogadas de ataque contra uma criatura Cega têm vantagem, e as jogadas de ataque de uma criatura Cega têm desvantagem sem a ajuda de um sentido especial que não dependa da visão.</li><li>Uma criatura pode, voluntariamente, fechar os olhos por um período prolongado como uma ação livre. Fazer isso impõe esta condição a ela até o início do seu próximo turno.</li></ul>",
+   "effects": {
+    "HVI7Zl9jETjwR6v4": {
+     "name": "Cego",
+     "description": "<p>• Uma criatura <strong>Cega</strong> não pode escolher outra criatura como alvo de efeitos que exijam \"um alvo que ela possa ver\", a menos que tenha um sentido especial que não dependa da visão, como <strong>Sentido Sísmico</strong> ou <strong>Sensor de Chakra</strong>.</p><p>• Uma criatura cega não consegue ver e falha automaticamente em qualquer teste que dependa da visão.</p><p>• Uma criatura <strong>Cega</strong> tem desvantagem em testes de resistência de Destreza.</p><p>• Jogadas de ataque contra uma criatura <strong>Cega</strong> têm vantagem, e as jogadas de ataque de uma criatura <strong>Cega</strong> têm desvantagem sem a ajuda de um sentido especial que não dependa da visão, como <strong>Sentido Sísmico</strong> ou <strong>Sensor de Chakra</strong>.</p><p>• Uma criatura pode, voluntariamente, fechar os olhos por um período prolongado como uma ação livre. Fazer isso impõe esta Condição a ela até o início do seu próximo turno, e ela não pode reabrir os olhos até lá, a menos que seja forçada por algum outro meio.</p>"
+    }
+   }
+  },
+  "qAXtyj0uf1xsaU9G": {
+   "name": "Frenesi",
+   "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura em Frenesi sofreu uma perda temporária de sanidade, fazendo-a agir de forma raivosa em graus variados. Esta condição normalmente é resultado de um Genjutsu ou de um veneno que altera a mente.</p><ul><li><p>Uma criatura em Frenesi deve usar todas as suas ações e seu movimento para atacar/ferir a criatura mais próxima que consiga perceber, como se ela fosse uma inimiga mortal. Se houver várias criaturas possíveis como alvo, ela escolhe uma aleatoriamente.</p></li><li><p>Quando uma criatura sai do alcance de uma criatura em frenesi, ela provoca um ataque de oportunidade.</p></li><li><p>Uma criatura em Frenesi sofre penalidade de -1 em todos os ataques, testes e testes de resistência baseados em Carisma para cada rank que possuir.</p></li><li><p>Criaturas imunes à condição enfeitiçado também são imunes à condição frenesi. Um Jutsu que cure a condição enfeitiçado também cura esta Condição.</p></li><li><p>Uma criatura em Frenesi perde 1 rank de Frenesi ao final de cada um de seus turnos, conforme sua mente clareia aos poucos.</p></li></ul>",
+   "effects": {
+    "LK4NzyOAL92TbrYA": {
+     "name": "Frenesi",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>Uma criatura em Frenesi sofreu uma perda temporária de sanidade, fazendo-a agir de forma raivosa em graus variados. Esta condição normalmente é resultado de um Genjutsu ou de um veneno que altera a mente.</p><ul><li><p>Uma criatura em Frenesi deve usar todas as suas ações e seu movimento para atacar/ferir a criatura mais próxima que consiga perceber, como se ela fosse uma inimiga mortal. Se houver várias criaturas possíveis como alvo, ela escolhe uma aleatoriamente.</p></li><li><p>Quando uma criatura sai do alcance de uma criatura em frenesi, ela provoca um ataque de oportunidade.</p></li><li><p>Uma criatura em Frenesi sofre penalidade de -1 em todos os ataques, testes e testes de resistência baseados em Carisma para cada rank que possuir.</p></li><li><p>Criaturas imunes à condição enfeitiçado também são imunes à condição frenesi. Um Jutsu que cure a condição enfeitiçado também cura esta Condição.</p></li><li><p>Uma criatura em Frenesi perde 1 rank de Frenesi ao final de cada um de seus turnos, conforme sua mente clareia aos poucos.</p></li></ul>"
+    }
+   }
+  },
+  "uZorNyJB1OLmWYiq": {
+   "name": "Exaustão",
+   "description": "<p>Algumas habilidades especiais e perigos ambientais, como os efeitos prolongados de temperaturas congelantes ou escaldantes, podem levar a uma condição especial chamada exaustão.</p><p>Se uma criatura já exausta sofrer outro efeito que cause exaustão, seu nível atual de exaustão aumenta em 1 rank.</p><p>Um efeito que remove exaustão reduz seu rank em 1. Terminar um descanso longo reduz o nível de exaustão de uma criatura em 1, desde que ela também tenha ingerido comida e bebida. Quando uma criatura excede 10 ranks de exaustão, ela morre.</p><p>Para cada rank de exaustão, todas as estatísticas a seguir da criatura são reduzidas em 1, e a cada dois ranks de exaustão o deslocamento da criatura é reduzido em 5:</p><ul><li><p>Classe de Armadura</p></li><li><p>Testes de Atributo</p></li><li><p>Testes de Perícia</p></li><li><p>Testes de Resistência</p></li><li><p>Jogadas de Ataque</p></li><li><p>Jogadas de Dano</p></li><li><p>CDs de Resistência</p></li></ul>",
+   "effects": {
+    "JZF20dElgZ79eI8h": {
+     "name": "Exaustão",
+     "description": "<p>Algumas habilidades especiais e perigos ambientais, como os efeitos prolongados de temperaturas congelantes ou escaldantes, podem levar a uma condição especial chamada exaustão.</p><p>Se uma criatura já exausta sofrer outro efeito que cause exaustão, seu nível atual de exaustão aumenta em 1 rank.</p><p>Um efeito que remove exaustão reduz seu rank em 1. Terminar um descanso longo reduz o nível de exaustão de uma criatura em 1, desde que ela também tenha ingerido comida e bebida. Quando uma criatura excede 10 ranks de exaustão, ela morre.</p><p>Para cada rank de exaustão, todas as estatísticas a seguir da criatura são reduzidas em 1, e a cada dois ranks de exaustão o deslocamento da criatura é reduzido em 5:</p><ul><li><p>Classe de Armadura</p></li><li><p>Testes de Atributo</p></li><li><p>Testes de Perícia</p></li><li><p>Testes de Resistência</p></li><li><p>Jogadas de Ataque</p></li><li><p>Jogadas de Dano</p></li><li><p>CDs de Resistência</p></li></ul>"
+    }
+   }
+  },
+  "wgbuxnP6HRnrbF8l": {
+   "name": "Cambaleante",
+   "description": "<p><strong>Ranks Máximos</strong>: 1</p><hr><p>Uma criatura <strong>Cambaleante</strong> foi completamente dominada pela dor ou teve sua postura de combate abalada de alguma outra forma.</p><ul><li><p>Uma criatura <strong>Cambaleante</strong> conta como Contundida 5 para fins de interação com Características, Traços e Jutsus e não pode ganhar Ranks de Contundido enquanto durar a condição.</p></li><li><p>Uma criatura <strong>Cambaleante</strong> não pode realizar as Ações ou Reações de Desengajar, Disparada ou Esquivar.</p></li><li><p>Uma criatura <strong>Cambaleante</strong> sofre penalidade de -5 em todas as jogadas de Ataque e testes baseados em Força, Destreza e Constituição.</p></li><li><p>Uma criatura <strong>Cambaleante</strong> sofre +20 de dano adicional de todas as fontes de dano de concussão ou de terra, uma vez por turno.</p></li><li><p>Uma criatura <strong>Cambaleante</strong> permanece cambaleante até gastar uma Ação de Turno Completo se recompondo, perdendo a condição Cambaleante no início do turno seguinte a essa Ação de Turno Completo.</p></li></ul>",
+   "effects": {
+    "rgnmPqkNAj46ac09": {
+     "name": "Cambaleante",
+     "description": "<p><strong>Ranks Máximos</strong>: 1</p><hr><p>Uma criatura <strong>Cambaleante</strong> foi completamente dominada pela dor ou teve sua postura de combate abalada de alguma outra forma.</p><ul><li><p>Uma criatura <strong>Cambaleante</strong> conta como Contundida 5 para fins de interação com Características, Traços e Jutsus e não pode ganhar Ranks de Contundido enquanto durar a condição.</p></li><li><p>Uma criatura <strong>Cambaleante</strong> não pode realizar as Ações ou Reações de Desengajar, Disparada ou Esquivar.</p></li><li><p>Uma criatura <strong>Cambaleante</strong> sofre penalidade de -5 em todas as jogadas de Ataque e testes baseados em Força, Destreza e Constituição.</p></li><li><p>Uma criatura <strong>Cambaleante</strong> sofre +20 de dano adicional de todas as fontes de dano de concussão ou de terra, uma vez por turno.</p></li><li><p>Uma criatura <strong>Cambaleante</strong> permanece cambaleante até gastar uma Ação de Turno Completo se recompondo, perdendo a condição Cambaleante no início do turno seguinte a essa Ação de Turno Completo.</p></li></ul>"
+    }
+   }
+  },
+  "ykWxQwl41OnznbsF": {
+   "name": "Eletrocutado",
+   "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>O sistema nervoso de uma criatura Eletrocutada foi inundado por eletricidade, causando espasmos musculares e confusão mental.</p><ul><li><p>Uma criatura <strong>Eletrocutada</strong> que realizar uma reação sofre 1d6 de dano elétrico para cada rank que possuir, uma vez por turno.</p></li><li><p>Uma criatura <strong>Eletrocutada</strong> que realizar uma Reação para conjurar um jutsu deve primeiro fazer um teste simples CD 8. Em uma falha, ela dobra o custo do jutsu. Para cada rank de Eletrocutado além do primeiro, aumente essa CD em +1 (CD máxima 12).</p></li><li><p>Uma criatura resistente a dano elétrico faz seu teste simples com vantagem e também tem resistência a esta condição. Uma criatura imune a dano elétrico é imune a esta condição.</p></li><li><p>Uma criatura pode gastar uma Ação para fazer um teste de Constituição (Sobrevivência) CD 15 para se aterrar, dispersando a eletricidade em seu corpo e encerrando esta condição.</p></li></ul>",
+   "effects": {
+    "aBkvMKV34CVJUTIE": {
+     "name": "Eletrocutado",
+     "description": "<p><strong>Ranks Máximos</strong>: 5</p><hr><p>O sistema nervoso de uma criatura Eletrocutada foi inundado por eletricidade, causando espasmos musculares e confusão mental.</p><ul><li><p>Uma criatura <strong>Eletrocutada</strong> que realizar uma reação sofre 1d6 de dano elétrico para cada rank que possuir, uma vez por turno.</p></li><li><p>Uma criatura <strong>Eletrocutada</strong> que realizar uma Reação para conjurar um jutsu deve primeiro fazer um teste simples CD 8. Em uma falha, ela dobra o custo do jutsu. Para cada rank de Eletrocutado além do primeiro, aumente essa CD em +1 (CD máxima 12).</p></li><li><p>Uma criatura resistente a dano elétrico faz seu teste simples com vantagem e também tem resistência a esta condição. Uma criatura imune a dano elétrico é imune a esta condição.</p></li><li><p>Uma criatura pode gastar uma Ação para fazer um teste de Constituição (Sobrevivência) CD 15 para se aterrar, dispersando a eletricidade em seu corpo e encerrando esta condição.</p></li></ul>"
+    }
+   }
+  }
+ }
+}

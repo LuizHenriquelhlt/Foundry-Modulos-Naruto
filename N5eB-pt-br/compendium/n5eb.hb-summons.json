@@ -1,0 +1,136 @@
+{
+ "label": "Invocações HB",
+ "folders": {
+  "Corvid Tribe": "Tribo Corvídea",
+  "D-Rank": "Rank D",
+  "Tribe Features": "Características da Tribo",
+  "C-Rank": "Rank C",
+  "A-Rank": "Rank A",
+  "S-Rank": "Rank S",
+  "Tribe Weapons": "Armas da Tribo",
+  "B-Rank": "Rank B"
+ },
+ "entries": {
+  "AtoR0Kd1uTnBoBYo": {
+   "name": "III Presságio",
+   "description": "<p>Criaturas que ganhariam um rank de medo devido a um genjutsu que você conjura ganham um rank adicional.</p>"
+  },
+  "DjvItvCxwcVqHFg2": {
+   "name": "Espírito Vinculado",
+   "description": "<p>Quando seu invocador está concentrado em um genjutsu, ele pode optar por transferir o genjutsu para você. Ele para de se concentrar no jutsu e agora você deve manter a concentração nele.</p>"
+  },
+  "DoqmEic6ukdbk2zz": {
+   "name": "Assassínio",
+   "description": "<p>Você pode ocupar qualquer espaço que uma criatura esteja ocupando atualmente, e jogadas de ataque contra você são sempre feitas com desvantagem.</p>"
+  },
+  "IdoWaqZHqUa0BXWC": {
+   "name": "Brilhante",
+   "description": "<p>Jogadas de ataque que você faz contra criaturas usando armadura ou roupas de metal são feitas com vantagem.</p>"
+  },
+  "Jijce4dnqQVlW3LQ": {
+   "name": "Visão Única",
+   "description": "<p>Como uma ação, seu invocador pode ver através dos seus olhos e ouvir o que você ouve até o início do seu próximo turno, ganhando os benefícios de quaisquer sentidos especiais que você tenha. Durante esse período, ele fica surdo e cego quanto aos seus próprios sentidos.</p>"
+  },
+  "KH7H86ggqILAakXw": {
+   "description": "<p>Criaturas que falham em um teste de resistência contra um genjutsu com a palavra-chave Auditivo que você conjura caem e não podem se levantar durante a duração do jutsu.</p>"
+  },
+  "KSPzwKeGCjMuJbdN": {
+   "name": "Garras"
+  },
+  "LL81cnWVn4dhS5AX": {
+   "name": "Nunca Mais",
+   "description": "<p>Criaturas que falham em um teste de resistência contra um genjutsu que você conjura não podem repetir esse teste de resistência até sofrerem dano de outra fonte.</p>"
+  },
+  "PKZIdRirjEEvbotZ": {
+   "name": "Portador de Carniça",
+   "description": "<p>Uma vez por turno, quando uma criatura aliada a até 30 pés de você causa dano a uma criatura sob um genjutsu que você conjurou, ela causa dano máximo.</p>"
+  },
+  "RF3ovrPAgJHkSYSv": {
+   "name": "Mente Corvídea",
+   "description": "<p>Você ganha Vantagem em testes de resistência de Inteligência &amp; Sabedoria.</p>"
+  },
+  "TtmHt27hiYcqBD5p": {
+   "name": "Deslocamento",
+   "effects": {
+    "alfYncIlQgY8tnTV": {
+     "name": "Deslocamento"
+    }
+   }
+  },
+  "XHs1vWEp6ciehsEu": {
+   "name": "Corvídeo",
+   "description": "<p>Corvídeos são criaturas sociáveis e astutas, conhecidas por sua capacidade de formar vínculos e por sua natureza um tanto oportunista. Os Corvídeos seguem aqueles com a mente clara e cujos fins justificam os meios.</p><hr><p><strong>Tipo de Invocação</strong>: Aviário</p><p><strong>Resistência</strong>: 6</p><p><strong>Atributo Defensivo</strong>: Destreza</p><p><strong>Testes de Resistência</strong>: Inteligência, Sabedoria, Destreza</p><p><strong>Perícias da Criatura</strong>: Acrobacia, Intuição, Furtividade</p><p><strong>Sentidos da Criatura</strong>: Visão no Escuro (90 pés), Visão Aguçada</p><hr><h2 style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0px 0px 0.5rem;padding:0px;font-weight:normal;font-size:1.5em;border-bottom:1px solid var(--color-underline-header);color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\"><span style=\"font-family:Signika, sans-serif\">Papéis</span></h2><ul><li><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\"><strong>Controlador</strong>: Esta invocação ganha um bônus em sua CD de resistência igual ao seu rank quando invocada (Rank D/Rank C: +1, Rank B/Rank A: +2, Rank S: +3)</span></p></li><li><p><strong>Emboscador</strong>: <span style=\"font-family:Signika, sans-serif\">Esta invocação ganha o traço <strong style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track)\">Ataque Letal</strong>, podendo causar dano adicional quando acerta um ataque contra uma criatura surpresa. Tribos diferentes têm condições alternativas para ativar este efeito. Ativar este efeito custa um número de Espaços de Jutsu igual ao Rank da Invocação. (Rank D/Rank C: 1 Espaço, Rank B/Rank A: 2 Espaços, Rank S: 3 Espaços)</span></p></li></ul>",
+   "advancement": {
+    "62N9wGXE2JM0rhDa": {
+     "title": "Características de Rank D"
+    },
+    "UR47lMEOSJpvDrW6": {
+     "title": "Arma Natural"
+    },
+    "JcaLWxRXwIJZWcDN": {
+     "title": "Espaços de Jutsu"
+    },
+    "E71uvLesclSfrTIh": {
+     "title": "Características de Rank C"
+    },
+    "cMzamuc9SAHZuS3n": {
+     "title": "Rank B"
+    },
+    "6n62mqh4n81SIrVy": {
+     "title": "Características de Rank A"
+    },
+    "TtpNHp09QTV3M50F": {
+     "title": "Características de Rank S"
+    },
+    "EMgHyeIOADFGxhB4": {
+     "hint": "+6 Aumentos de Valor de Atributo até 20"
+    },
+    "gRQmrGkmZ35esqHZ": {
+     "hint": "+6 Aumentos de Valor de Atributo até 22"
+    },
+    "1X6exorCkeoyN0X8": {
+     "hint": "+6 Aumentos de Valor de Atributo até 24"
+    },
+    "hGhZGZTDAUPHjAkP": {
+     "hint": "+6 Aumentos de Valor de Atributo até 26"
+    },
+    "bkJ2Bcainvad4k4T": {
+     "title": "Deslocamento"
+    }
+   }
+  },
+  "YRP8rRzPoKKI86EW": {
+   "name": "Bênção Corvídea",
+   "description": "<p>Quando seu invocador for forçado a fazer um teste de resistência contra um genjutsu, como uma reação você pode redirecionar o genjutsu para si mesmo.</p>"
+  },
+  "ZKCAOfh5zBhQjKUd": {
+   "name": "Gralha",
+   "description": "<p>Como uma reação, quando você ou seu invocador for fazer um teste de resistência contra um genjutsu, você pode adicionar um bônus de 1d4 ao teste de resistência.</p>"
+  },
+  "lmsLpYjj3uMO7EZB": {
+   "name": "Corvo",
+   "description": "<p>Você ganha uma interação adicional com objetos em seu turno. Além disso, suas garras ganham a propriedade desarmar.</p>"
+  },
+  "nCuvhpe1JeQ8PdMb": {
+   "name": "Corvo-grande",
+   "description": "<p>Você aprende 1 genjutsu de rank E de sua escolha; você pode conjurar esse genjutsu sem custo.</p>"
+  },
+  "nHYIBIWRXqsGupXa": {
+   "name": "Sentidos Corvídeos",
+   "description": "<p><strong>Sentidos da Criatura</strong>: Visão no Escuro (90 pés), Visão Aguçada</p>",
+   "effects": {
+    "isbhcrMAIm6x4Mfu": {
+     "name": "Sentidos Corvídeos"
+    }
+   }
+  },
+  "o2i4f4ZIs6WnVeTG": {
+   "name": "Marcado por Corvídeo",
+   "description": "<p>Quando uma criatura que você pode ver a até 90 pés de você falha em um teste de resistência contra um genjutsu que você ou seu invocador conjura, essa criatura fica Marcada por Corvídeo por 1 minuto. Você só pode ter 1 criatura Marcada por Corvídeo por vez. Criaturas que você Marcou por Corvídeo reduzem em 1d4 os testes de resistência que fariam contra Genjutsu conjurados por você ou por seu invocador.</p>"
+  },
+  "pmXUgEn5ZbQVisi9": {
+   "name": "Asa Noturna",
+   "description": "<p>Criaturas sob luz difusa ou escuridão têm desvantagem em testes de resistência contra Genjutsu com a palavra-chave Visual que você conjura.</p>"
+  }
+ }
+}

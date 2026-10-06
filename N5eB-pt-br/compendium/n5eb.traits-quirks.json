@@ -1,0 +1,825 @@
+{
+ "label": "Traços / Peculiaridades",
+ "folders": {
+  "Starting Quirks": "Peculiaridades Iniciais",
+  "Rare Quirks": "Peculiaridades Raras"
+ },
+ "entries": {
+  "01PR056nAJklXhew": {
+   "name": "Banco de Dados Vivo",
+   "description": "<p><em>\"Só vivendo no Banco de Dados, aê!\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefício:</strong></h5><p>Sua memória é impecável, você se lembra de quase tudo que encontra pela frente. Sua mente é como um banco de dados. Sempre que você fizer um teste de Inteligência ou Sabedoria para recordar informações, tem vantagem nesse teste. Além disso, sua memória é tão complexa que você soma 1d4 aos testes de resistência para resistir a terem sua mente lida, ou sua memória alterada.</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo:</strong></h5><p>Às vezes, um pouco de informação demais fica armazenada em sua cabeça, e você quase esquece as coisas mais básicas. Você sofre -1 em todos os testes de atributo que envolvam Força ou Destreza, e tem desvantagem em testes de Prestidigitação.</p>"
+  },
+  "03zHpjQotnF8XeXu": {
+   "name": "Tocado por um Bijuu",
+   "description": "<p><em>\"Fique longe dele. Ele traz má sorte\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Ainda criança, você entrou em contato com o chakra de um demônio que o mudou para sempre. Uma vez por descanso longo, quando você ficar abaixo de 50% dos pontos de vida, pode usar qualquer quantidade dos seus dados de chakra. Ao fazer isso, uma aura de chakra o envolve e você ganha uma quantidade de PC temporários como se tivesse usado o dado de chakra durante um descanso curto. O chakra temporário desta característica se dissipa 1 minuto após o fim do combate atual. Você também aumenta seus pontos de chakra máximos em +1 ao ganhar esta característica. Esse aumento se repete a cada nível que você ganha depois disso.</p><h5 id=\"negative\">Negativo</h5><p>Você tem as marcas de um demônio. Você tem uma marca física claramente visível para todos. (orelhas de gato, marcas de bochecha como as de Naruto, ou pele azul) A marca faz com que a maioria tema e/ou não goste de você. Além disso, seu sistema de chakra nunca se recuperou completamente, causando diversos problemas em sua capacidade de controlar seu próprio chakra. O custo de chakra de todos os jutsus é aumentado em 1, até um máximo do dobro do custo do jutsu. Enquanto você tiver chakra temporário desta característica, tem desvantagem em todos os testes de resistência contra ganhar a condição frenesi.</p>"
+  },
+  "070uFyxljJnncVoN": {
+   "name": "Amante de Animais",
+   "description": "<p><em>\"Eu não gosto de crianças. Eu gosto de gatos. Tem gente demais neste planeta.\"</em></p><h5 id=\"benefit-\"><strong>Benefício:</strong></h5><p>Animais confiam naturalmente em você. Você soma 1d4 a todos os testes de Lidar com Animais</p><h5 id=\"negative-\"><strong>Negativo:</strong></h5><p>Causa-lhe sofrimento ferir qualquer animal. Você sofre -2 em todas as jogadas de ataque feitas contra criaturas da categoria bestas. Além disso, sua CD de resistência é reduzida em 2 quando você escolhe como alvo uma criatura da categoria bestas, se o efeito causar dano.</p>"
+  },
+  "0Wah0dA97id2YvQS": {
+   "description": "<p><em>\"When she banban skibidi zaza style on your pizza tower the ocky way in ohio, but u a uncanny rizz god\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você está desconectado da sociedade dominante há tanto tempo que desenvolveu quase uma nova língua para se comunicar com pessoas de mentalidade semelhante, chamada de neet cant. Apenas outra criatura que conheça o neet cant entende essas mensagens. Transmitir uma mensagem assim leva o dobro do tempo que levaria para falar a mesma ideia de forma direta. Além disso, você entende um conjunto de sinais e símbolos secretos usados para transmitir mensagens curtas e simples, como se uma área é perigosa ou amigável para os de sua espécie.</p>"
+  },
+  "0eO44hTLPDnPxc84": {
+   "name": "Complexo de Herói",
+   "description": "<p><em>\"Se minhas ações puderem salvar qualquer um deles… Então eu tenho que fazer algo\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefício:</strong></h5><p>Se há alguém em perigo, você precisa salvá-lo. Duas vezes por descanso longo, quando você vir uma criatura aliada ficar ensanguentada, você ganha 1 ponto de Vontade de Fogo. Além disso, uma vez por descanso longo, quando você vir uma criatura aliada cair a 0 pontos de vida, seu deslocamento é dobrado até o final do seu próximo turno.</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo:</strong></h5><p>Sua verdadeira força só aparece quando você precisa proteger aqueles que são preciosos para você. Você começa cada sessão com 0 pontos de Vontade de Fogo.</p>"
+  },
+  "0m3g8pB7JTqNrur5": {
+   "name": "Vidente",
+   "description": "<p><em>\"Eu consigo ver o futuro.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Como vidente, você é capaz de determinar se o futuro de alguém é promissor ou não. Um número de vezes igual ao seu bônus de proficiência por descanso longo, você pode ler a sorte de alguém como uma ação bônus. Ao fazer isso, role 1d4. Se o resultado for 1 ou 2, o futuro dessa pessoa é promissor. Essa criatura pode optar por ganhar vantagem em uma rolagem de d20 de sua escolha dentro de 24 horas. Se o resultado for 3 ou 4, o futuro dessa pessoa é ruim. O Mestre infligirá desvantagem em uma rolagem de d20 de sua escolha que a criatura fizer dentro de 24 horas.</p>"
+  },
+  "1vvPHkbBQpuWXKs3": {
+   "name": "O Homem Atrás da Máscara",
+   "description": "<p><em>\"Eu não sou ninguém. Eu não quero ser ninguém.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você abandonou sua identidade anterior, assumindo uma nova persona. Removendo de si suas fraquezas anteriores. Enquanto estiver com sua máscara, criaturas têm desvantagem em todos os testes relacionados a determinar sua identidade original, e você soma 1d4 a todos os testes de Enganação.</p><h5 id=\"negative\">Negativo</h5><p>Você odeia que sua identidade original seja mencionada.</p>"
+  },
+  "1xdwK7h3XaTcn8fu": {
+   "name": "Perceptivo",
+   "description": "<p><em>\"Estes meus olhos me mostram muitas coisas. Uma coisa que me mostraram…as limitações das pessoas são fixas, definidas e inalteráveis.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você percebe que é capaz de encontrar e ver coisas que aqueles ao seu redor não conseguem. Sua percepção passiva é aumentada em 3 e você soma 2 a todos os testes de Percepção e Investigação.</p><h5 id=\"negative\">Negativo</h5><p>Você é rápido para julgar e lento para mudar de opinião. Se você falhar em um teste de Intuição, sofre -5 nos próximos 3 testes relacionados ao assunto.</p>"
+  },
+  "2zvFVB4xswnOOA1s": {
+   "name": "Multilíngue",
+   "description": "<p><em>\"Espera, deixa eu pensar em francês\"</em></p><h5 id=\"requirement\">Requisito</h5><p>Você deve ser capaz de falar mais de 1 idioma ou ter um valor de Inteligência ou Sabedoria de 16 ou superior.</p><h5 id=\"benefit\">Benefício</h5><p>Duas vezes por descanso longo, quando for fazer um teste de Inteligência ou Sabedoria, você pode conceder vantagem a si mesmo ao pensar sobre o problema em múltiplos idiomas, dando a si mesmo diversas perspectivas sobre o assunto.</p>"
+  },
+  "2zzAigS44l3mZhuW": {
+   "name": "Estrutura Pequena",
+   "description": "<p><em>\"Você não é tão grande quanto as outras pessoas, mas isso nunca o atrasou.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Devido à sua estatura menor, você consegue se mover mais rápido que seus colegas. Você ganha +1 na iniciativa e seu deslocamento é aumentado em 5 pés.</p><h5 id=\"negative\">Negativo</h5><p>Seu volume base é 8 em vez de 10.</p>"
+  },
+  "31BBFopmFL5kFt7M": {
+   "name": "Ave Noturna",
+   "description": "<p><em>\"O sol se põe e a lua está bonita - é hora de vagar por aí.\"</em></p><h5 id=\"benefit-\"><strong>Benefício:</strong></h5><p>Você é uma pessoa da noite e, como tal, se adaptou para se adequar melhor à escuridão noturna. Você ganha Visão no Escuro. Você consegue ver em luz fraca a até 60 pés de você como se fosse luz plena, e na escuridão como se fosse luz fraca. Além disso, enquanto estiver na escuridão, você soma 1d4 aos testes de iniciativa e seu deslocamento é aumentado em 5.</p><h5 id=\"negative-\"><strong>Negativo:</strong></h5><p>Como uma criatura da noite, a luz do sol o deixa fora de forma. Enquanto estiver em luz plena ou fraca, seu deslocamento é reduzido em 5.</p>"
+  },
+  "34rKvgbTm6HsgGIV": {
+   "name": "Dez Passos Adiante",
+   "description": "<p><em>\"O Q.I. dele é mais de 200.. Ele é um gênio dos infernos!\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Ter a característica Explorar Fraqueza</p><h5 id=\"benefit\">Benefício</h5><p>Você possui um Q.I. de batalha anormalmente alto. Ao escolher como alvo uma criatura que está sob os efeitos da sua característica Explorar Fraqueza, você pode encerrar prematuramente esses efeitos para conceder a si mesmo um bônus de +3 em um único ataque contra a criatura que estava sob os efeitos da sua característica Explorar Fraqueza, ou para reduzir em 2 o próximo teste de resistência da criatura que estava sob os efeitos da sua característica Explorar Fraqueza.</p>"
+  },
+  "3C1vGeo8RHxiOZMl": {
+   "name": "Repleto de Ódio",
+   "description": "<p><em>\"Você VAI aprender a respeitar, e o sofrimento será seu professor!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você tem um poço ardente de ódio dentro de si que parece não ter fim. Duas vezes por descanso longo, quando for fazer uma jogada de ataque, você pode subtrair a metade do seu bônus de proficiência. Ao fazer isso, você soma seu nível ao dano do ataque. Além disso, na primeira vez que você causar dano a uma criatura após ficar ensanguentado, role o dano duas vezes e use o maior resultado.</p>"
+  },
+  "3MrCDycwVMYxJLg1": {
+   "name": "Tempo Emprestado",
+   "description": "<p><em>\"Em breve descansarei, sim, dormirei para sempre\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefício:</strong></h5><p>Devido à sua morte iminente, você luta como se não tivesse nada a perder, já que, de certa forma, não tem. Uma vez por descanso longo, quando você ficar ensanguentado, ganha 1 ponto de VdF.</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo:</strong></h5><p>Ao criar seu personagem, role 3d4, então registre o resultado. <br>Após um número de anos igual ao resultado, seu personagem morrerá, por uma causa de sua escolha. (Ex.: doença ou maldição)</p>"
+  },
+  "3ggxoV0TTLMd1jdC": {
+   "name": "Egomaníaco",
+   "description": "<p><em>\"Você pode ter invadido minha mente e meu corpo, mas há uma coisa que um Saiyajin sempre guarda: seu orgulho.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você pensa muito bem de si mesmo. Que você é o melhor que já existiu, porque você é você e eles não são você. Um número de vezes por descanso longo igual ao seu bônus de proficiência, você pode somar 1d4, 1d6 ou 1d8 a qualquer rolagem de 1d20. Ao fazer isso, você sofre dano igual ao resultado do dado somado. Se você usar esta característica múltiplas vezes em uma única rolagem de d20, soma o maior resultado à sua rolagem de d20 e sofre dano igual à metade do resultado total de todos os dados rolados. Além disso, você soma 1d4 a todos os testes de resistência para evitar ficar enfeitiçado, controlado ou possuído.</p>"
+  },
+  "4Z9zQXLO67Vt768S": {
+   "name": "Influenciador",
+   "description": "<p><em>\"Eu sou tão famoso.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você tem muitos inscritos. O máximo do seu valor de Carisma é aumentado em 2. Além disso, uma vez por descanso longo, você pode decidir que um NPC que você encontra já sabe quem você é.</p><h5 id=\"negative\">Negativo</h5><p>Como influenciador, você já se envolveu em boa parte de dramas. Quando você decidir que um NPC sabe quem você é, role 1d4. Se o resultado for 1 ou 2, o NPC não gosta de você. Se o resultado for 3 ou 4, o NPC gosta de você.</p>"
+  },
+  "4jRdANv9pbLHw16L": {
+   "name": "Altas Expectativas",
+   "description": "<p><em>\"Você está destinado a grandes feitos, feitos verdadeiramente grandes\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Você precisa ter pelo menos 16 em algum atributo</p><h5 id=\"benefit\">Benefício</h5><p>Aqueles ao seu redor, seja seu clã ou seus mestres, esperam que você sempre tenha sucesso. Que falhar é algo que você nunca poderia fazer. Como resultado, você se força além do limite. Você pode se infligir uma falha em teste de resistência contra a morte para conceder a si mesmo vantagem em uma rolagem de d20 de sua escolha. Se você se infligir 3 falhas em testes de resistência contra a morte desta forma, você não morre imediatamente; em vez disso, você morreria imediatamente se chegasse a 0 pv. Falhas em testes de resistência contra a morte ganhas desta forma permanecem até o seu próximo descanso curto.</p><h5 id=\"negative\">Negativo</h5><p>Você odeia admitir que tem limites e que há coisas que não consegue fazer.</p>"
+  },
+  "5aLVJpStS7v0cCGK": {
+   "name": "Sortudo de Nascença",
+   "description": "<p><em>\"Tudo sempre veio fácil.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você sempre teve sucesso em tudo. Sempre. No início de cada sessão, você começa com 2 pontos de Vontade de Fogo em vez de 1.</p><h5 id=\"negative\">Negativo</h5><p>Qualquer tipo de fracasso o desestabiliza. Sempre que você falhar em um teste, teste de resistência, ou errar um ataque, sofre -1 em todas as rolagens de d20 seguintes (isso se acumula até um máximo de 3) até seu próximo teste, teste de resistência ou ataque bem-sucedido.</p>"
+  },
+  "5yJ1Hvsmx1jraPNa": {
+   "name": "Talento Natural",
+   "description": "<p><em>\"Sempre veio fácil, <br>eu nunca precisei trabalhar por isso\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você reduz todos os custos de tempo de atividade para criação ou aprendizado de Jutsu por um número de semanas igual ao seu bônus de proficiência. (Mínimo de metade do tempo normal)</p><h5 id=\"negative\">Negativo</h5><p>Ao começar no nível um, reduza pela metade a quantidade de jutsus que você conhece.</p>"
+  },
+  "61QMnkKUAJp4Lj7q": {
+   "name": "Por um Preço",
+   "description": "<p><em>\"Sem ressentimentos. É só negócio.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você está disposto a deixar de lado toda a moral se for pago por isso. O máximo do seu valor de Destreza é aumentado em 2. Além disso, quando você escolhe como alvo uma criatura com a condição amedrontado, sua margem de ameaça crítica é aumentada em 1.</p><h5 id=\"negative\">Negativo</h5><p>Você valoriza o dinheiro acima de tudo. Quando uma criatura tenta suborná-lo, ela soma 1d8 ao seu teste de Persuasão. Isso não ocorre se o suborno for menor que um pagamento oferecido anteriormente.</p>"
+  },
+  "6GBek3F8nfh042zK": {
+   "name": "Inclinação ao Lado Sombrio",
+   "description": "<p><em>\"Não há volta. Mas esta pode ser nossa única chance. Não podemos deixar o medo nos impedir! Eu não tenho medo da escuridão!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Seu personagem naturalmente se inclina para escolhas malignas/sombrias. Você se esforça para ficar na frente de seus colegas. Durante a criação do personagem, você ganha 1 jutsu adicional até 1 rank acima do que normalmente poderia escolher. Além disso, você ganha 1 talento com requisito de nível de até 4. Independentemente do talento escolhido, você não ganha um aumento de valor de atributo de nenhum talento selecionado.</p><h5 id=\"negative\">Negativo</h5><p>Seu caminho rumo ao poder o prejudicou, pois você se concentra em materiais avançados, fazendo com que vacile nos fundamentos. Você não pode aprender Jutsus de Rank D através de Tempo de Atividade. Além disso, você não ganha um talento no 8º nível.</p>"
+  },
+  "6bC8aaVozSErCIml": {
+   "name": "Chakra Subdesenvolvido",
+   "description": "<p><em>\"Eu quero mostrar que também posso ser um ninja esplêndido, mesmo sem ter ninjutsu ou genjutsu… Eu quero provar isso para o mundo todo!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Disseram a você, a vida toda, que não deveria ser <br>um ninja, o que lhe deu uma vontade <br>inquebrável. Você ganha uma proficiência adicional em teste de resistência, começa com 4 pontos de AVA extras, e tem vantagem em testes de Intuição contra testes de Intimidação.</p><h5 id=\"negative\">Negativo</h5><p>Você é incapaz de moldar chakra. Você não pode aprender ou conjurar nenhum jutsu com o Componente CM. Além disso, seu chakra máximo é reduzido por uma quantidade igual ao seu nível de personagem. Sempre que você ganhar um nível depois disso, seu chakra máximo diminui em 1 ponto de chakra adicional.</p>"
+  },
+  "6iqDKeazJ9Zyw1wB": {
+   "name": "Voz de Rádio",
+   "description": "<p><em>\"Voz de um anjo, Rosto de um uhhh... Mangusto\"</em></p><h5 id=\"benefit-\"><strong>Benefício:</strong></h5><p>Sua voz faz com que aqueles ao seu redor o escutem mais do que fariam normalmente. Você soma 1d4 a todos os testes de Carisma, enquanto a(s) criatura(s) contra quem você está fazendo o teste conseguir(em) ouvir sua voz.</p><h5 id=\"negative-\"><strong>Negativo:</strong></h5><p>Se a(s) criatura(s) contra quem você está fazendo um teste de Carisma conseguir(em) ver seu rosto, você subtrai -1d4 de todos os testes de Carisma em vez disso.</p>"
+  },
+  "6zSCoQ7gKp77Nyft": {
+   "name": "Conspiracionista",
+   "description": "<p>\"Você não vê. Está tudo conectado, tudo. Os Uchiha causaram tudo isso\"</p><p>\" Cala a boca, Tobirama \"*</p><h5 id=\"benefit\">Benefício</h5><p>Você tem um talento para juntar os pontos. Você soma 1d4 a todos os testes de Intuição e Investigação</p><h5 id=\"negative\">Negativo</h5><p>Seu Mestre não lhe diz se você teve sucesso ou falhou em um teste de Intuição ou Investigação.</p>"
+  },
+  "7MYf0nChLuFcgip4": {
+   "name": "Apoiador Fiel",
+   "description": "<p><em>\"Ele é a luz, por isso todos nós podemos carregar flores de Esperança\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você dá tudo de si para promover os objetivos de uma certa pessoa. Você ganha a capacidade de gastar um dado de vida ou um dado de chakra para conjurar um jutsu em um rank mais alto. Usar dados de vida ou dados de chakra permite que você conjure o jutsu um rank acima do que normalmente poderia.</p><h5 id=\"negative\">Negativo</h5><p>Você sempre acredita nos ideais de sua pessoa especial. Sua pessoa especial tem vantagem em testes de Persuasão e Enganação contra você.</p>"
+  },
+  "7Zj9ZxyPPKxqEzcJ": {
+   "name": "Músico",
+   "description": "<p><em>\"Dance, Água! Dance!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Seu vínculo com sua música chegou a um ponto em que você consegue entrelaçar chakra através do seu instrumento como se fosse parte de você. Você pode substituir o componente HS pelo componente W (Instrumento) para jutsus que tenham 1 das seguintes palavras-chave. (Não elemental, Médico, Liberação de Fogo, Liberação de Água, Liberação de Terra, Liberação de Vento, Liberação de Raio, ou Genjutsu. )</p>"
+  },
+  "8MpD0DP6eJCKeZqs": {
+   "name": "Foco Marcial",
+   "description": "<p><em>\"Nunca Pule o Dia de Pernas.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Escolha Força ou Destreza; ela agora tem um valor máximo de 22. Você também começa em -1 de Exaustão em vez de 0 de Exaustão.</p><h5 id=\"negative\">Negativo</h5><p>Você não pode aprender Ninjutsu ou Genjutsu acima do Rank C por nenhum meio.</p>"
+  },
+  "8rClaCto2skrawxa": {
+   "name": "Jogador de Equipe",
+   "description": "<p><em>\"Onde quer que seja, quando quer que seja, se precisar de mim, saiba que estarei lá\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você é um jogador de equipe experiente. Seja dentro ou fora de combate, seus amigos sabem que você sempre os apoia. Uma vez por descanso longo, você pode usar sua reação para colidir com um jutsu que esteja tendo como alvo um de seus aliados. Você também ganha a capacidade de usar seu ponto de Vontade de Fogo para afetar as rolagens de seus aliados como se fossem suas próprias.</p><h5 id=\"negative\">Negativo</h5><p>Você foca demais nos outros, a ponto de, às vezes, esquecer de cuidar de si mesmo. Você também não pode usar VdFs para afetar suas próprias rolagens.</p>"
+  },
+  "93IYXunSRVy8LApc": {
+   "name": "Simplório",
+   "description": "<p><em>\"Cala a boca, dobe\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Para equilibrar seu QI abaixo da média, você nasceu com uma resistência física forte. O máximo do seu valor de Constituição é aumentado em 2 e você ignora os efeitos do primeiro rank de exaustão.</p><h5 id=\"negative\">Negativo</h5><p>Aumente em 1 o requisito de AVA para todos os jutsus que tenham um requisito de AVA.</p>"
+  },
+  "9AeogAXgEhbeLrfK": {
+   "name": "Comportamento Animalesco",
+   "description": "<ul><li>\"Você acabou de... latir para mim?\"*</li></ul><h5 id=\"prerequisite-\"><strong>Pré-requisito</strong>:</h5><p>Seu valor de atributo de Carisma deve ser menor que 10.</p><h5 id=\"benefit-\"><strong>Benefício:</strong></h5><p>Seu estado de espírito selvagem confunde seus oponentes. Duas vezes por descanso longo, você pode usar sua reação para conceder a si mesmo vantagem na sua próxima jogada de ataque, ou fazer com que seu alvo tenha desvantagem no próximo teste de resistência feito contra você. Além disso, você pode optar por viver como uma fera selvagem. Se optar por viver como uma fera selvagem, você não precisa gastar nenhum Ryo com despesas de estilo de vida.</p><h5 id=\"negative-\"><strong>Negativo:</strong></h5><p>Você tem dificuldade em viver na vida civilizada. Você subtrai 1d4 de todos os testes de Persuasão. Além disso, você é considerado um animal para todos os testes, talentos ou características relacionados a Lidar com Animais.</p>"
+  },
+  "9GSvm45ak8zxyThy": {
+   "name": "Médium Espiritual",
+   "description": "<p><em>\"Eu vejo gente morta.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você consegue ver os espíritos daqueles que já morreram. Isso lhe dá acesso a uma fonte de informação completamente única. Além disso, seu espírito é extraordinariamente forte. Duas vezes por descanso longo, você pode somar 1d4 a qualquer teste de resistência de Sabedoria.</p><h5 id=\"negative\">Negativo</h5><p>Nem todos os espíritos são bondosos. Sempre que você for a uma área onde um grande número de pessoas morreu ao mesmo tempo na história recente, você deve fazer um teste de resistência de Sabedoria CD 8 mais o dobro do seu bônus de proficiência, ganhando a condição amedrontado em uma falha.</p>"
+  },
+  "9It1KXR3tDZfI7NS": {
+   "name": "Progenitor de Clã",
+   "description": "<p><em>\"Todo ramo tem sua origem\"</em></p><h5 id=\"-strong-prerequisites-strong-\"><strong>Pré-requisitos</strong></h5><p>Você deve ser Sem Clã.</p><h5 id=\"-strong-benefit-strong-\"><strong>Benefício:</strong></h5><p>Você é o início de um clã totalmente novo. Ao alcançar o nível 2, você pode adicionar a palavra-chave hijutsu a um dos seus jutsus conhecidos. Depois disso, você adiciona a palavra-chave hijutsu a um dos seus jutsus conhecidos a cada dois níveis que ganhar. Além disso, ao criar Jutsus personalizados, você ganha a capacidade de adicionar a palavra-chave hijutsu.</p>"
+  },
+  "9gb2Oe6g4J1qy5UB": {
+   "name": "Masoquista",
+   "description": "<p><em>\"A dor que eu suporto me torna mais forte, mais resiliente.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você encontrou um certo prazer na dor. Seu valor máximo de Constituição é aumentado em 2. Além disso, duas vezes por descanso longo, quando você for sofrer dano causado por si mesmo, você pode reduzir à metade o dano sofrido. Além disso, sempre que você causar dano a si mesmo, você ganha 2 pontos de chakra temporários.</p>"
+  },
+  "9x4YPcehLUechgtH": {
+   "name": "A Bandida Cega",
+   "description": "<p><em>\"Eles não entendem. Sempre me trataram como se eu fosse indefesa\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Você deve ter a palavra-chave Liberação de Terra.</p><h5 id=\"benefit\">Benefício</h5><p>Em vez de ter visão normal, você possui Sentido Sísmico e pode detectar toda a terra em um raio de 500 pés de você. Além disso, para todas as outras criaturas, você parece ser fisicamente cego.</p><h5 id=\"negative\">Negativo</h5><p>Quando você não está tocando o solo com a pele descoberta, você ganha a condição Cego.</p>"
+  },
+  "AGilZX4uEIp7CuJb": {
+   "name": "Lutador Imprudente",
+   "description": "<p><em>\"O número um ninja cabeça-dura hiperativo.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Seu jeito de lutar é algo que as pessoas nunca viram antes. Você ganha +1 em todas as jogadas de ataque.</p><h5 id=\"negative\">Negativo</h5><p>Seu estilo de luta deixa muitas brechas para serem exploradas. Sua CA é reduzida em 1.</p>"
+  },
+  "AROTCqgYINyZudKB": {
+   "name": "Lutador Discreto",
+   "description": "<p><em>\"Trabalhe em silêncio, deixe seu sucesso falar por você.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você nunca gostou de ficar em evidência. Você pode realizar a ação Desengajar como uma Ação Bônus ou Reação, sem necessidade de um gatilho específico. Sempre que não houver nenhuma criatura a até 20 pés de você, você ganha +1 na sua margem de ameaça crítica com todos os ataques.</p><h5 id=\"negative\">Negativo</h5><p>Enquanto houver criaturas a até 20 pés de você, você não pode obter acertos críticos.</p>"
+  },
+  "ARji8IVNqbPakXHL": {
+   "name": "Usuário de Stand",
+   "description": "<p><em>\"Só um usuário de Stand pode derrotar um usuário de Stand\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você tem controle sobre um espírito feito de sua vontade. O espírito conta como o ponto de origem de todos os jutsus que você conjura. Você pode usar seu deslocamento para fazer o espírito se mover em seu lugar. Você e seu espírito não compartilham deslocamento. Uma vez que você ou seu espírito tenham se movido usando seu deslocamento, o outro não pode usar seu deslocamento pelo restante do turno. Você não pode conjurar jutsus com alcance pessoal, a menos que o espírito esteja a até 5 pés de você. Você pode chamar o espírito de volta para si como uma ação bônus a partir de qualquer alcance. Se o espírito estiver a até 5 pés de você, quando você se mover ele o seguirá para onde você for. Seu espírito não pode ser escolhido como alvo por nenhuma criatura ou efeito.</p>"
+  },
+  "AXVr9DRXP58qpNe3": {
+   "name": "Passado Trágico",
+   "description": "<p><em>\"Cara, eu tenho 12 anos, como minha vida já está tão ruim assim\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Devido a um momento traumático em sua vida, você mudou como e por que você luta. Você está mais disposto a se forçar além do que é seguro. Você pode entrar no Modo Hiper por 1 minuto com uma ação livre. Quando você entra no Modo Hiper, isso é evidente para todos ao seu redor. Enquanto estiver no Modo Hiper, seu bônus de proficiência é 1 ponto mais alto, você pode fazer upcast de Jutsu 1 rank além do que normalmente seria capaz, e ganha 1 ponto de Vontade do Fogo ao entrar na forma. Você pode entrar no Modo Hiper duas vezes por descanso longo.</p><h5 id=\"negative\">Negativo</h5><p>Depois que o Modo Hiper termina, você deve fazer um teste de resistência de Constituição CD 8 mais o dobro do seu bônus de proficiência. Em uma falha, você ganha 1 rank da condição Enfraquecido. Você só pode remover o Enfraquecido ganho desta forma com um descanso curto ou um descanso longo. Um descanso curto remove 1 instância e um descanso longo remove todas as instâncias.</p>"
+  },
+  "BgIF4E9BUEh4wVty": {
+   "name": "Melhor Ataque",
+   "description": "<p><em>...é uma boa defesa.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Reduza em -1 o custo de todos os jutsus que concedem um bônus à CA, redução de dano ou pontos de vida temporários. Para que um jutsu seja elegível para este traço, ele não pode causar dano.</p><h5 id=\"negative\">Negativo</h5><p>Todos os jutsus que você conjura que causam dano, ou que concederiam um bônus ao dano, aumentam seu custo de chakra em +1.</p>"
+  },
+  "BipIEZUHiCoMzsdD": {
+   "name": "Repleto de Honra",
+   "description": "<p><em>\"Não ouse desrespeitar o Clã Uchiha\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você tem muito orgulho de si mesmo, por ser tão bom. Duas vezes por dia você pode somar um d8 a qualquer rolagem de d20.</p><h5 id=\"negative\">Negativo</h5><p>Você odeia ter seu ego ferido. Se, depois de somar o d8 à rolagem de d20, você ainda falhar, sofre 1d10 de dano psíquico. Esse dano não pode ser reduzido de nenhuma forma.</p>"
+  },
+  "BrWnH0QTNaqRNpNm": {
+   "name": "Fora o Velho, Dentro o Novo",
+   "description": "<p><em>\"Sim, mas muitas vezes esses motivos estão desatualizados.\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Você não pode ser Sem Clã.</p><h5 id=\"benefit\">Benefício</h5><p>O custo de chakra de todas as características de classe é reduzido em 2, até um mínimo de 1, ou, se elas não tiverem custo de chakra, a quantidade de vezes que você pode usá-las por descanso longo/curto é aumentada em 1.</p><h5 id=\"negative\">Negativo</h5><p>O custo de todas as características de clã é aumentado em 2, ou, se elas não custarem chakra, a quantidade de vezes que você pode usá-las por descanso longo/curto é reduzida em 1 (mínimo de 1)</p>"
+  },
+  "CTinmSP3dGZTTz2o": {
+   "name": "Lutador Fundido",
+   "description": "<p><em>\"Eu não sou nem Goku nem Vegeta!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você é o resultado de dois seres separados que se fundiram permanentemente. Como tal, você possui o conhecimento e as habilidades de dois guerreiros. Escolha um antecedente adicional; você ganha todos os benefícios que ele oferece. Além disso, uma vez por descanso longo você pode realizar uma ação adicional.</p>"
+  },
+  "CcnBvZ3TUCPt2P1R": {
+   "name": "Treinamento de Clã",
+   "description": "<p><em>\"Você é um Akimichi de 16ª geração, aja como um!</em></p><h5 id=\"-strong-prerequisites-strong-\"><strong>Pré-requisitos</strong></h5><p>Você não pode ser Sem Clã.</p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefício:</strong></h5><p>Você troca um dos testes de resistência nos quais sua classe lhe daria proficiência pelo valor de atributo primário do seu clã. O valor de atributo primário do seu clã é o valor de atributo que seu clã aumenta em 2.</p>"
+  },
+  "ChiegB9CYuPWBZe5": {
+   "name": "Criança do Teatro",
+   "description": "<p><em>\"O mundo é um palco, e todos os homens e mulheres não passam de atores.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você está acostumado a se encaixar em qualquer papel necessário. Seu valor máximo de Carisma é aumentado em 2. Além disso, você pode usar Atuação no lugar de Enganação ou Persuasão.</p>"
+  },
+  "D0AqLeIcfily8KlI": {
+   "name": "Sempre Preparado",
+   "description": "<p><em>\"Sempre existe a ferramenta certa para o trabalho. Eu só garanto que sempre tenho essa ferramenta\"</em></p><h5 id=\"benefit-br-\">Benefício</h5><p>Uma vez por descanso longo você pode retirar 1 item comum qualquer do seu armazenamento, tratando o item como se você o tivesse comprado na última loja que visitou. Ao usar este traço, você ainda deve gastar uma quantidade de Ryo igual ao custo do item escolhido.</p>"
+  },
+  "D1m72Z23eeX1YiGw": {
+   "name": "Simplesmente Burro",
+   "description": "<p><em>\"Mamãe nunca disse que eu era o mais inteligente\"</em></p><p><strong>Pré-requisito</strong></p><p>Seu valor de Inteligência deve ser 8 ou menor.</p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefício:</strong></h5><p>Durante toda a sua vida você se endureceu tomando decisões burras. Decisões realmente burras. Você reduz a primeira instância de dano que sofreria em cada turno pelo seu bônus de proficiência.</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo:</strong></h5><p>Você não sabe ler e sofre -1d4 em testes de Investigação e Intuição. Além disso, o valor máximo de sua Inteligência é reduzido para 14.</p>"
+  },
+  "Dm6YbS8HXIGEstU2": {
+   "name": "Falsa Persona",
+   "description": "<p><em>\"Não se preocupe, eu não estou bêbado, só estou bem alcoolizado agora\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você finge um comportamento que faz com que as pessoas ao seu redor acreditem que você é muito mais fraco e mais burro do que realmente é. Se você encontrar alguém que acredite em sua falsa persona, você ganha vantagem na primeira rolagem de d20 feita contra ela, e ela tem desvantagem na primeira rolagem de d20 que envolva você.</p><h5 id=\"negative\">Negativo</h5><p>Seu ato se espalha por todos os lados. Algumas pessoas se recusarão a trabalhar com você, e algumas o tratarão com dureza por causa de sua persona. Se você tentar fazer um teste de Carisma contra uma dessas pessoas, você rola com desvantagem. Por outro lado, muitas pessoas conseguirão ver através da sua persona instantaneamente.</p>"
+  },
+  "DtutsAsChVvzmAPy": {
+   "name": "Prodígio de Clã",
+   "description": "<p><em>\"Graduado na academia aos 7, Anbu aos 9, terrorista global aos 11\"</em></p><h5 id=\"-strong-prerequisites-strong-\"><strong>Pré-requisitos</strong></h5><p>Você não pode ser Sem Clã.</p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefício:</strong></h5><p>Você é um talento único em sua geração. Incomparável dentro do seu clã. Você pode aprender e conjurar jutsus com a palavra-chave Hijutsu 1 rank mais alto do que normalmente seria capaz. Além disso, o valor máximo do atributo primário do seu clã é aumentado em 2. O atributo primário do seu clã é o valor de atributo que seu clã aumenta em 2.</p>"
+  },
+  "Dwppc3e4DFU8MVOj": {
+   "name": "Mão Invisível",
+   "description": "<p><em>\"Se você fizer o trabalho direito, eles nunca saberão que você fez alguma coisa.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você é um mestre em apoiar sutilmente seus aliados. Uma vez por descanso longo, quando você acertar um ataque contra uma criatura, você pode marcá-la. Na próxima vez que uma criatura aliada atacar a criatura marcada, ela ganha vantagem.</p><h5 id=\"negative\">Negativo</h5><p>Você não pode realizar a ação de ajudar.</p>"
+  },
+  "EYDWUIQid1viBRtw": {
+   "name": "Desperdício de Chakra",
+   "description": "<p><em>\"EXPLOOOOOOOOOOSSSSSSSSIIIIIOOOOONNNNNN\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Ao usar um jutsu que causa dano em área, se apenas uma pessoa for afetada pelo ataque, você causa 1,5 vezes o dano, arredondado para cima.</p><h5 id=\"negative\">Negativo</h5><p>Ao usar um jutsu que causa dano em área, se mais de 2 criaturas hostis forem afetadas, todas as criaturas hostis rolam seus testes de resistência com vantagem.</p>"
+  },
+  "FZ0hR6cygzFmFaab": {
+   "name": "Sem Emoções",
+   "description": "<p><em>\"O poço secou há muito tempo\"</em></p><h5 id=\"benefit-\"><strong>Benefício:</strong></h5><p>Sua falta de emoções permite que você mantenha a cabeça fria muito mais facilmente que os outros. Você soma 1d4 a todos os testes de resistência contra efeitos que causariam as seguintes condições. (Frenesi, Enfeitiçado, Medo e Surpreso)</p><h5 id=\"negative-\"><strong>Negativo:</strong></h5><p>Sua falta de emoções dificulta sua capacidade de entender os outros. Você subtrai -1d4 de todos os testes de Intuição.</p>"
+  },
+  "G17OqP46Ly8xPu9j": {
+   "name": "Assunto Inacabado",
+   "description": "<p><em>\"Tudo o que um fantasma é, é um assunto inacabado, nada mais. Nada menos.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você morreu, mas por algum motivo não consegue deixar o plano mortal. Há sinais evidentes de que você está morto. (Uma aura ou um leve efeito de transparência). Como você já está morto, seu corpo carece de muitas das fragilidades da vida. Você ganha 2 de RD e reduz em 1 o custo de chakra de todos os jutsus de Rank C ou superior.</p><h5 id=\"negative\">Negativo</h5><p>Você já está morto. Se morrer de novo, sua alma é destruída. Além disso, você deve escolher seu assunto inacabado. Quando tiver concluído seu assunto, você encontra paz e deixa o plano mortal.</p>"
+  },
+  "GLYkZzdSFuQ5M2lh": {
+   "name": "Sabe-Tudo",
+   "description": "<p><em>\"Você sabia\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você passa muito tempo lendo livros aleatórios de curiosidades. Seu valor máximo de Inteligência é aumentado em 2. Uma vez por descanso curto você pode usar História no lugar de qualquer outro teste de perícia.</p><h5 id=\"negative\">Negativo</h5><p>Você é muito irritante. Seu valor máximo de Carisma é reduzido em 4.</p>"
+  },
+  "GnzPY1cp2OUBRHRZ": {
+   "name": "Dualismo da Alma",
+   "description": "<p><em>\"Se duas cabeças pensam melhor que uma, então...\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Duas almas ocupam seu corpo, disputando influência e tempo no controle. Você mantém dois conjuntos diferentes de traços de personalidade, ideais, vínculos e defeitos. Suas almas têm nomes diferentes. Suas almas se comunicam telepaticamente entre si, mas apenas uma alma pode estar no controle do seu corpo a cada momento. A alma que não está no controle do seu corpo pode ver através dos seus olhos e ouvir através dos seus ouvidos. Quando você termina um descanso longo, role 1d20. Em um resultado ímpar, a alma no controle do seu corpo é trocada. As duas almas dentro de você têm antecedentes diferentes, que incluem diferentes proficiências em perícias e ferramentas, além do talento concedido pelo antecedente. Você só tem proficiência nessas perícias e ferramentas, e usa o talento adquirido pelo antecedente de uma alma enquanto ela estiver no controle. Além disso, você tem a capacidade de dar o controle de um único clone à alma que não está atualmente no controle do seu corpo. Esse clone que seu outro eu controla não exige uma ação bônus para ser controlado.</p><h5 id=\"negative\">Negativo</h5><p>Sempre que você ganharia Tempo de Atividade, ele é dividido igualmente entre as duas personalidades. Além disso, qualquer coisa obtida através do uso de Tempo de Atividade só pode ser usada pela alma que gastou aquele tempo de atividade.</p>"
+  },
+  "GzUuRT12k4RIOBtL": {
+   "name": "Alto Escalão",
+   "description": "<p><em>\"Um líder leva as pessoas aonde elas querem ir, e às vezes aonde elas não querem\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você é um líder nato. Um número de vezes igual à metade do seu bônus de proficiência por descanso longo, você pode usar a ação de ajudar em qualquer criatura, desde que ela esteja dentro do alcance da ação de ajudar de outra criatura aliada.</p>"
+  },
+  "HlnuO6L6eTSnvR9Y": {
+   "name": "Fácil de Irritar",
+   "description": "<p><em>\"O que você disse sobre o meu cabelo\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Ter um valor de Sabedoria ou Inteligência abaixo de 11</p><h5 id=\"benefit\">Benefício</h5><p>Quando você ganharia a condição Frenesi pela primeira vez, pode usar sua reação para se mover até seu deslocamento na direção de quem lhe causou a condição Frenesi. Além disso, você tem vantagem em todas as jogadas de ataque enquanto estiver sob a condição Frenesi.</p><h5 id=\"negative\">Negativo</h5><p>Você tem algo, seja seu cabelo ou seu peso, que, se ridicularizado, faz você enlouquecer de raiva. Quando seu gatilho é ridicularizado, você deve fazer um teste de resistência de Carisma CD 8 mais o dobro da sua proficiência, ganhando a condição Frenesi em uma falha.</p>"
+  },
+  "I2oZqFE7Unrdialv": {
+   "name": "Destino de Guerreiro",
+   "description": "<p><em>\"Eu quero que <strong>você</strong> me mate.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você passou a vida inteira procurando por alguém ou algo que seja seu igual. Algo que possa lhe conceder uma morte digna. Seu valor máximo de Força é aumentado em 2. Além disso, você pode se dar uma falha em teste de resistência contra a morte para fazer upcast de um jutsu em 2 ranks por 0 de chakra. Isso pode permitir que você faça upcast 1 rank além do que normalmente seria capaz. Você também pode se dar 2 falhas em testes de resistência contra a morte para ignorar os efeitos de qualquer jutsu ou característica que causaria morte instantânea.</p>"
+  },
+  "I8arXgSxfzaCvYj7": {
+   "name": "Antigo",
+   "description": "<p><em>\" Tempo é algo que eu tenho de sobra.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você é imortal e, portanto, não envelhece. Você viveu inúmeras vidas e já esqueceu mais do que a maioria jamais aprenderá. Duas vezes por descanso longo você pode recorrer ao seu conhecimento quase infinito para somar 1d6 a qualquer rolagem de d20.</p><h5 id=\"negative\">Negativo</h5><p>Embora você não seja afetado pelo tempo, ainda é possível morrer por outros meios tradicionais. Além disso, sua alma se debilitou ao longo dos milênios que você viveu. Você subtrai 1d4 de todos os testes de resistência para evitar efeitos de morte instantânea ou de ser selado. (exemplo, o hijutsu de Rank A dos Yamanaka TROCA DE MARIONETE MENTAL: SELO MALDITO)</p>"
+  },
+  "ICINkN46MEWtFu3A": {
+   "name": "Dojutsu Roubado",
+   "description": "<p><em>\"Então todos nós sabemos que não é assim que funciona; certo?\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefício:</strong></h5><p>Seus olhos não são seus. Você pode escolher substituir um, ou os dois olhos. Você ganha o dojutsu como se ele tivesse sido transplantado usando as regras de transplante do Time 7.</p>"
+  },
+  "Ip9i2k63WrAOSokV": {
+   "name": "Anatomia Alienígena",
+   "description": "<p><em>\"Krypton me gerou, mas foi a Terra que me deu tudo o que sou.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Sua anatomia estrangeira tanto dificulta que seus inimigos o compreendam quanto lhe concede benefícios únicos. Jutsus, Características e habilidades que concederiam a seus usuários informações sobre você, como pontos de vida máximos ou atuais, resistências, jutsus conhecidos etc., têm uma penalidade de -5 no teste necessário para descobrir essa informação. Se nenhum teste seria feito, eles devem, em vez disso, completar um teste CD 10 + seu nível, usando o valor de atributo ou perícia apropriado. Além disso, Ninjutsus e Genjutsus que você conjura não contam como Jutsu, mas sim como habilidades inatas.</p><h5 id=\"negative\">Negativo</h5><p>Sua anatomia única torna mais difícil para você aprender da mesma forma que seus colegas terráqueos. Você não pode reduzir o tempo necessário para aprender um jutsu sendo ensinado por um mestre, a menos que esse mestre seja um membro da mesma raça que você. Além disso, sua rede de chakra alienígena não é capaz de lidar com múltiplas Liberações de Natureza. Você só pode obter um máximo de 3 Liberações de Natureza.</p>"
+  },
+  "JC9ZMzBJFGagOyy8": {
+   "name": "Tradicionalista",
+   "description": "<p><em>\"Tradições muitas vezes são tradições por um motivo\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Você não pode ser Sem Clã.</p><h5 id=\"benefit\">Benefício</h5><p>O custo de todas as características de clã é reduzido em 2, ou, se elas não tiverem custo de chakra, a quantidade de vezes que você pode usá-las por descanso longo/curto é aumentada em 1.</p><h5 id=\"negative\">Negativo</h5><p>O custo de todas as características de classe é aumentado em 2, ou, se elas não custarem chakra, a quantidade de vezes que você pode usá-las por descanso longo/curto é reduzida em 1 (mínimo de 1).</p>"
+  },
+  "JH1S73qMqU1WVbFd": {
+   "name": "Verdadeiro Patriota",
+   "description": "<p>\"Quando as folhas da árvore dançarem, alguém encontrará as chamas. A sombra do fogo iluminará a vila, e uma vez mais as folhas da árvore brotarão de novo.\"</p><h5 id=\"benefit\">Benefício</h5><p>Sua lealdade à vila é mais forte que sua lealdade a seus amigos, família ou a si mesmo. Você se arriscará para completar a missão. Você pode entrar no Modo Vontade da Vila por 1 minuto com uma ação livre. Quando você entra no Modo Vontade da Vila, isso é evidente para todos ao seu redor. Enquanto estiver no Modo Vontade da Vila, você tem vantagem para acertar, pode fazer upcast de jutsus 1 rank além do que normalmente seria capaz, e ganha 1 ponto de Vontade do Fogo ao entrar na forma. Você pode entrar no Modo Vontade da Vila duas vezes por descanso longo.</p><h5 id=\"negative\">Negativo</h5><p>A missão vem primeiro; você está disposto a deixar seus companheiros de equipe sofrerem e até morrerem para completar a missão. Enquanto estiver no Modo Vontade da Vila, outras pessoas têm vantagem para acertar você. Depois que o Modo Vontade da Vila termina, você deve fazer um teste de resistência de Constituição CD 8 mais o dobro do seu bônus de proficiência. Em uma falha, você ganha 1 rank da condição Enfraquecido. Você só pode remover o Enfraquecido ganho desta forma com um descanso curto ou um descanso longo. Um descanso curto remove 1 instância e um descanso longo remove todas as instâncias.</p>"
+  },
+  "JreSwhQ2D9IvsjuQ": {
+   "name": "Especialista em Armas",
+   "description": "<p><em>\"Incrível… O brilho da lâmina… o design. São todas lindas! Eu quero levar todas para casa!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Toda vez que você sobe de nível, você ganha proficiência em um novo tipo de arma ou ferramenta. As armas que você carrega têm seu volume reduzido à metade. Além disso, um número de vezes igual à metade do seu bônus de proficiência por descanso longo, você pode trocar a arma que está empunhando por outra arma como uma ação livre.</p><h5 id=\"negative\">Negativo</h5><p>Você não pode obter jutsus elementais ao subir de nível, e o custo de tempo de atividade para aprender jutsus Elementais é aumentado em 1 semana por rank do jutsu. (Se o jutsu tiver a palavra-chave Médico, Taijutsu ou Bukijutsu junto com a palavra-chave Elemental, você pode escolhê-lo ao subir de nível.)</p>"
+  },
+  "KF8TdjqMSY6yDuso": {
+   "name": "Pobre",
+   "description": "<p><em>\"Eu me adapto\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefício:</strong></h5><p>Você já se adaptou há muito tempo a gastar o mínimo de dinheiro possível para sobreviver. Você pode pagar 25 ryo em vez de 50 ryo por semana para viver um estilo de vida modesto. Além disso, você soma 1d4 a todos os testes de perícia relacionados a pechinchar.</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo:</strong></h5><p>Seu Ryo inicial do seu antecedente é 50.</p>"
+  },
+  "KkXWi1PPcKHIURta": {
+   "name": "Rir Através da Dor",
+   "description": "<p><em>\"Você tá de palhaçada comigo?!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você descobriu que é mais fácil fazer piadas do que processar eventos traumáticos. Duas vezes por descanso longo, você pode fazer um teste de perícia de Atuação no lugar de um teste de resistência.</p>"
+  },
+  "KlQstq9NJARhivA8": {
+   "name": "Comilão",
+   "description": "<p><em>\"Eu não sou gordo. Eu sou agradavelmente rechonchudo!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você possui um corpo um pouco mais robusto que a média. O valor máximo da sua Força é aumentado para 22. Além disso, duas vezes por descanso longo, quando for fazer um teste de resistência ou teste de atributo de Força ou Constituição, você pode somar 1d4 à rolagem.</p><h5 id=\"negative\">Negativo</h5><p>Você precisa do dobro da quantidade &gt;de comida que um ninja normal precisaria.</p>"
+  },
+  "KrI2zfNEwThhY1Yd": {
+   "name": "Conhecedor de Teletransporte",
+   "description": "<p><em>\"Eu não fiz nada além de teletransportar ramen por 3 dias\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Sempre que conjurar um jutsu que o teletransporte ou que faça parecer que você se teletransportou, reduza o custo dele em 4 de chakra, até um mínimo de 1.</p><h5 id=\"negative\">Negativo</h5><p>Você ama tanto se teletransportar que às<br>vezes se teletransporta distâncias mais curtas<br>para poder se teletransportar mais vezes, reduzindo<br>o alcance que você pode se teletransportar à metade.</p>"
+  },
+  "KuttNTmZZYQJ7ugp": {
+   "name": "Pensador Improvisado",
+   "description": "<p><em>\"Eu estaria mentindo se dissesse que as coisas estão indo de acordo com meu plano… mas quem não tem cão, caça com gato, né?\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você tende a confundir ter um objetivo com ter um plano. O que o leva a se colocar em situações complicadas. Uma vez por descanso longo você pode conceder a si mesmo uma reação ou ação bônus adicional.</p><h5 id=\"negative\">Negativo</h5><p>Você acha fazer planos entediante.</p>"
+  },
+  "LHeOnoS7q09ZRFhb": {
+   "name": "Mentalidade de CEO",
+   "description": "<p><em>\"VOCÊ É TÃO CADELA\" \"AI MEU DEUS, EU SEI\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Quando você ganharia vantagem por receber a ação de ajudar, você rola 3d20 em vez de 2d20, e se você vir um inimigo receber a ação de ajudar, você ganha vantagem no seu próximo ataque contra ele.</p><h5 id=\"negative\">Negativo</h5><p>Você não pode realizar a ação de ajudar, e nenhum de seus aliados pode receber a ação de ajudar a até 15 pés de você.</p>"
+  },
+  "LsU2AAKwOKEbFDtp": {
+   "name": "Pelos Meus Amigos",
+   "description": "<p><em>\"Meus amigos são minha força, e eu sou a deles!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>O poder dos seus vínculos flui através de você. O valor máximo do seu Carisma é aumentado para 22. Além disso, duas vezes por descanso longo você pode somar seu modificador de Carisma a qualquer rolagem de d20.</p><h5 id=\"negative\">Negativo</h5><p>Quando você escolhe como alvo um oponente que não foi escolhido como alvo (alvo de um ataque, jutsu ou característica) por um de seus aliados desde o início do seu último turno, você rola 1d4 e subtrai o resultado de sua jogada de ataque ou de sua CD de resistência. Se você estiver lutando sem nenhum aliado, seu Mestre decidirá se sua luta atual é \"pelos seus amigos\" ou não. Se for \"pelos seus amigos\", você não sofre nenhuma penalidade, e se não for \"pelos seus amigos\" sua proficiência é contada como 1 ponto mais baixa para aquela luta.</p>"
+  },
+  "M3VzX3d1nJUvNmEV": {
+   "name": "Alma Rebelde",
+   "description": "<p><em>\"Você não vai se safar dessa...\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você tem um fogo interior que se recusa a se apagar. Uma vez por descanso longo, você pode marcar uma criatura como seu tirano. Você ganha uma quantidade de redução de dano igual à metade da sua proficiência contra todo dano que seu tirano causaria. Além disso, quando seu tirano cai para 50% dos pontos de vida, você ganha um segundo fôlego. Você ganha uma quantidade de pontos de vida temporários igual ao seu nível.</p>"
+  },
+  "M6m5DHfhXD8rfhb4": {
+   "name": "Viajante do Tempo",
+   "description": "<p><em>\"Black... eu não vou deixar você se safar dessa!.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Como você é do futuro, sabe como a história deveria ter acontecido. Uma vez por descanso longo, você pode fazer um teste de História CD 8 mais o dobro da sua proficiência. Em um sucesso, o Mestre lhe dá um resumo vago do que aconteceu na história original relacionado à sua situação atual. Além disso, seu conhecimento do futuro lhe concede o conhecimento necessário para derrotar seus inimigos. Uma vez por descanso longo você pode perguntar ao Mestre qual é o menor teste de resistência de uma criatura, ou se uma criatura possui alguma vulnerabilidade.</p><h5 id=\"negative\">Negativo</h5><p>Suas viagens pelo tempo enviaram ondulações através do tempo. Há diferenças entre a linha do tempo original e o presente.</p>"
+  },
+  "M9Oshtxz1mnblThi": {
+   "name": "Ganancioso",
+   "description": "<p><em>\"Só mais um dólar\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você gasta muito dinheiro nisso, então vai se garantir <br>de tirar todo o proveito disso. Todas as pílulas ganham um uso <br>adicional, mas o uso adicional rola a metade dos dados que a pílula normalmente faria você rolar. Você também soma 1d4 a todas as rolagens<br>para evitar que seu equipamento seja confiscado <br>ou destruído.</p><h5 id=\"negative\">Negativo</h5><p>Ver as coisas serem desperdiçadas machuca. Sempre que um dos seus itens é destruído, você sofre 1d4 de dano psíquico.</p>"
+  },
+  "MG3tWtaENJSr3Wzm": {
+   "name": "Doença de Linhagem",
+   "description": "<p><em>Manter a linhagem pura não valia a pena\"</em></p><h5 id=\"-strong-prerequisite-strong-\"><strong>Pré-requisito:</strong></h5><p>Você não pode ser Sem Clã</p><h5 id=\"benefit\">Benefício</h5><p>Sua linhagem é pura, o que a torna especialmente forte em você. Você ganha habilidades do seu clã 3 níveis antes. </p><p>Jutsus com a palavra-chave Hijutsu custam 1 chakra menos para conjurar.</p><h5 id=\"negative\">Negativo</h5><p>Sua árvore genealógica não tem ramos suficientes. Você reduz seus pontos de vida e pontos de chakra máximos em -2 e -1 respectivamente ao ganhar este traço. Essa redução se repete cada vez que você ganha um nível depois disso. Além disso, você sempre tem 1 teste de resistência contra a morte falho, que não pode ser removido. Por fim, sempre que você rolar um dado de vida ou de chakra para recuperar pontos de vida ou pontos de chakra respectivamente, reduza o resultado em -1, por dado gasto.</p>"
+  },
+  "MMARpIlBlROm5sNV": {
+   "name": "Perfeccionista",
+   "description": "<p><em>\"Nunca envie um garoto para fazer o trabalho de um homem de verdade.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você odeia ver as coisas feitas de forma incorreta. Isso te leva a mostrar a eles como fazer as coisas corretamente. Na primeira vez, por descanso longo, que você vê uma criatura aliada rolar um 1 natural, você ganha 1 ponto de Vontade de Fogo.</p>"
+  },
+  "NKNbmOl4Z8MvE4Cq": {
+   "description": "<p><em>\"Ah, por que se importar\"</em></p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefício:</strong></h5><p>Você tem um talento para acabar com o entusiasmo dos outros. Uma vez por descanso curto, quando você veria uma criatura ganhar vantagem, você pode impedir que essa criatura ganhe essa instância de vantagem.</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo:</strong></h5><p>Sua atitude negativa geralmente te impede de trabalhar com todo o seu potencial. No início de cada sessão, role um d20. Se você rolar 8 ou menos, você não começa a sessão com um ponto de Vontade de Fogo.</p>"
+  },
+  "NXNzFvfNmej4DgjP": {
+   "name": "Instinto Assassino",
+   "description": "<p><em>Como é a sensação de conhecer seu deus?\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Seus instintos são finamente ajustados. <br>Uma vez por descanso longo, quando você se tornaria o alvo de um jutsu, você pode, como reação, colidir contra esse jutsu usando qualquer jutsu de sua escolha, independentemente da categoria do jutsu.</p>"
+  },
+  "NbW7FJk2etjo6w2o": {
+   "name": "Caipira",
+   "description": "<p><em>\"Nossa, que coisa.\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefício:</strong></h5><p>Suas experiências no interior te deixaram mais resistente. Seu valor máximo de Constituição aumenta em 2. Além disso, você soma 1d4 a todos os testes de perícia de Sobrevivência.</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo:</strong></h5><p>Sua criação no interior te deixa ingênuo quanto aos costumes da vida moderna. Sua velocidade de viagem é reduzida à metade enquanto estiver em uma grande cidade. Além disso, você subtrai 1d4 de todos os testes de História.</p>"
+  },
+  "NlJZgtURmpDMzJam": {
+   "name": "Zilionário",
+   "description": "<p><em>\"Espírito Empreendedor\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você entende que, para ganhar dinheiro, é preciso gastar dinheiro. Você ganha a capacidade de entrar em dívida. Você pode ficar endividado em até (seu nível x 100) ryo. Enquanto estiver endividado, todo o ryo que você ganhar é imediatamente usado para pagar sua dívida.</p>"
+  },
+  "NuBeVJt1BxG1aLuh": {
+   "name": "Sensor de Chakra Natural",
+   "description": "<p><em>\"Cara, sua vibe tá péssima... você tá bem?\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Como uma ação, você pode trocar sua visão para Sensor de Chakra; enquanto estiver neste modo, você é capaz de sentir todas as criaturas a até 60 pés de você que tenham chakra. Você é capaz de sentir seu alinhamento, suas naturezas de chakra e seu estado emocional. Este modo dura até o fim do turno.</p><h5 id=\"negative\">Negativo</h5><p>Enquanto estiver no modo Sensor de Chakra, seu deslocamento é definido como 0 e você fica cego.</p>"
+  },
+  "O1C1GyeRN1JEDIxr": {
+   "name": "Armadura de Roteiro",
+   "description": "<p><em>\"Somos as únicas pessoas que importam.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>A própria realidade se dobra para favorecer seus objetivos. Quando você termina um descanso longo, role dois d20 e anote os números obtidos. Você pode substituir qualquer jogada de ataque, teste de resistência ou teste de atributo feito por você ou por uma criatura que você possa ver por uma dessas jogadas de roteiro. Você deve escolher fazer isso antes da rolagem, e você só pode substituir uma rolagem desta forma uma vez por turno.</p><p>Cada jogada premonitória só pode ser usada uma vez. Quando você termina um descanso longo, você perde quaisquer jogadas de roteiro não usadas.</p>"
+  },
+  "O2XI5Tuq5edLOSEA": {
+   "name": "Esperançoso",
+   "description": "<p>\"Se você não gosta do seu destino, não o aceite. Em vez disso, tenha a coragem de mudá-lo da forma que você quiser que ele seja.\"</p><h5 id=\"benefit\">Benefício</h5><p>Você tem o poder de crer em si mesmo, o que te concede a capacidade de impor sua vontade em direção ao sucesso. 3 vezes por descanso longo, você pode somar um d4 a qualquer rolagem de d20.</p>"
+  },
+  "OjGRSI4XbBvhsW9v": {
+   "name": "Tendências Sacrificiais",
+   "description": "<p><em>\"Eu daria minha vida de bom grado para protegê-lo.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Uma vez por descanso longo, você pode usar sua reação para interceptar um ataque ou jutsu direcionado a um aliado a até (seu deslocamento) pés de você. Fazer isso faz com que o ataque automaticamente acerte ou que você automaticamente falhe no teste de resistência. Todas as partes do ataque ou jutsu se ativam automaticamente, e se você sofresse dano deste jutsu, o atacante rola o dano duas vezes, usando o resultado mais alto.</p><h5 id=\"negative\">Negativo</h5><p>Você tende a se subestimar.</p>"
+  },
+  "OsF468f8i65AnQs2": {
+   "name": "Treinamento Externo",
+   "description": "<p><em>\"que diabos estão ensinando as crianças hoje em dia\"</em></p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefício:</strong></h5><p>Você troca um dos Aumentos de Valor de Atributo do seu Clã para um Valor de Atributo no qual sua classe te dá proficiência em teste de resistência.</p>"
+  },
+  "P2WpnYTbmrhacJq1": {
+   "name": "Covarde",
+   "description": "<p><em>\"Medo. É isso que vivemos. E vivemos com ele todos os dias. Só na morte estamos livres dele.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Medo não é necessariamente uma coisa má. Ele salva vidas. Na primeira vez em que você enfrenta um ataque ou jutsu que reduziria seus PV a 0, por descanso curto, você soma +2 à sua CA e a todos os testes de resistência até o início do seu próximo turno. Além disso, uma vez por descanso longo, você pode impor desvantagem a um ataque direcionado a você, ao começar a chorar e suplicar de forma imprevisível.</p><h5 id=\"negative\">Negativo</h5><p>Você tem desvantagem para resistir a ganhar o primeiro rank de Medo.</p>"
+  },
+  "PaZD24EqJMoqBday": {
+   "name": "Determinação Sombria",
+   "description": "<p><em>\"Os olhos dele são os olhos de um assassino. Ele está preparado para jogar tudo fora... até mesmo sua humanidade.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você é capaz de eliminar todos os pensamentos de dúvida e moralidade para realizar seus objetivos. Uma vez por descanso longo, você pode entrar no modo Determinação Sombria. Até o fim do seu próximo turno, seus PV não podem ser reduzidos, você não sofre nenhuma penalidade de condições, e você não pode rolar com desvantagem. Ao final do seu próximo turno, você sofre o dobro do dano que teria sofrido enquanto estava em Determinação Sombria e ganha 1 rank de exaustão.</p>"
+  },
+  "Q6Q7VkFfYeGqg02X": {
+   "name": "Pai Ausente",
+   "description": "<p><em>\"Ele saiu. Para comprar leite.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Sem um pai para te guiar corretamente, você foi pelo caminho errado. Duas vezes por descanso longo, você pode trazer à tona alguma gafe social [fô pá] para ganhar vantagem em qualquer teste de perícia de Carisma.</p>"
+  },
+  "QlTjhXedfalenGSr": {
+   "name": "Caçador de Adrenalina",
+   "description": "<p><em>\"Desde criança, eu sempre busquei a próxima grande emoção\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você ama a emoção da luta. A compreensão de que você pode morrer em qualquer momento. Sempre que você rolar um d20, você pode usar um de seus dados de vida e/ou de chakra e ganhar uma quantidade de PV e/ou PC igual ao valor rolado.</p><h5 id=\"negative\">Negativo</h5><p>Você não sabe quando parar. Se tiver a chance de parar de lutar uma batalha perdida ou de fazer uma pausa, você está muito menos propenso a isso do que o ninja médio.</p>"
+  },
+  "R1n7Yjx9lXsuKDAV": {
+   "name": "Não Por Ela",
+   "description": "<p><em>\"Não há nada que um pai ou mãe não faria pelo seu filho\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você tem uma pessoa especial pela qual luta. Duas vezes por descanso curto, você pode somar um d6 a qualquer rolagem de d20. Além disso, você soma um d4 a todos os testes de resistência contra a morte.</p><h5 id=\"negative\">Negativo</h5><p>O único motivo pelo qual você se levanta da cama de manhã é por essa pessoa especial. Todas as suas ações são feitas por essa pessoa especial; devido a isso, você é propenso a tomar decisões precipitadas e a não cuidar de si mesmo.</p>"
+  },
+  "RKqCJUVrGKTNrcSM": {
+   "name": "Teoria Acima da Prática",
+   "description": "<p><em>\"Alguns diriam que você deveria sair e viver um pouco, mas claramente eles nunca leram um bom livro.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você frequentemente se encontra em uma situação parecida com algo que leu em um livro. Seu valor máximo de Inteligência aumenta em 2, e duas vezes por descanso curto, você pode somar um d6 a qualquer rolagem de d20. Você também tem vantagem para encontrar informações em um livro.</p><h5 id=\"negative\">Negativo</h5><p>Você pode ter cortado um tempo de academia da sua agenda para ler mais. Você sofre uma penalidade de -1 em testes de resistência e testes de atributo de Força e Destreza.</p><p></p>"
+  },
+  "RbZqq5zTJSMqGHmC": {
+   "name": "Último da Sua Espécie",
+   "description": "<p><em>\"A sobrevivência pode ser uma questão de sorte ou habilidade. E você não pode contar com a sorte.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Como você é o último da sua espécie, as técnicas que foram transmitidas a você são muito raras. Uma vez por descanso longo, você pode conceder a si mesmo vantagem em uma jogada de ataque ou impor desvantagem ao teste de resistência do seu alvo quando você conjurar um jutsu com a palavra-chave Hijutsu.</p>"
+  },
+  "Rg85fEAsksOhV3cA": {
+   "name": "Existência Designada",
+   "description": "<p>\"Vocês, adultos, deveriam parar de me dizer o que fazer\"</p><h5 id=\"benefit\">Benefício</h5><p>Você foi projetado para ser mais forte do que o ninja médio. Você pode selecionar a linhagem Latente duas vezes, em troca de nunca poder selecionar Linhagem Realizada.</p>"
+  },
+  "SGvrMOHuMem3oDyd": {
+   "name": "Traços Deformados",
+   "description": "<p><em>\"Eu quase nem noto... sim, isso afasta as garotas.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Seu rosto é deformado, seja de nascença ou por lesão. Você pode usar isso a seu favor para reforçar um argumento. Duas vezes por descanso curto, você pode mencionar sua aparência para somar um d6 a qualquer teste de Carisma.</p><h5 id=\"negative\">Negativo</h5><p>Você tem um rosto marcante. Se alguém souber como você é, essa pessoa tem vantagem para te localizar em uma multidão, a menos que você tenha feito esforços para mudar sua aparência</p>"
+  },
+  "SeP5MstxQXqd2s2Q": {
+   "name": "Multitarefa",
+   "description": "<p><em>\" Fazer duas coisas ao mesmo tempo é muito maneiro\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você se tornou tão bom em fazer multitarefas que qualquer outra coisa pareceria antinatural. Enquanto estiver concentrado em 2 ou mais jutsus ao mesmo tempo, você pode somar 1d4 a todos os testes de Controle de Chakra para manter a concentração. Além disso, se você parar de pagar o custo de chakra de um jutsu no qual está concentrado, você mantém os efeitos do jutsu até o fim do seu turno atual, em vez de perder os efeitos imediatamente.</p><h5 id=\"negative\">Negativo</h5><p>Quando alguém multitarefa falha, falha completamente. Enquanto estiver concentrado em apenas um único jutsu, você subtrai 1d4 de todos os testes de Controle de Chakra para manter a concentração. Além disso, quando você falha em um teste de concentração, deve fazer um teste simples CD 10 para cada outro jutsu no qual estiver concentrado. Em uma falha, você para de se concentrar nesse jutsu.</p>"
+  },
+  "ShaiLdEBkdeSxc4O": {
+   "name": "Prodígio",
+   "description": "<p><em>\"Quanto piores você for, mais fácil é melhorar... Vai ser bem difícil para você melhorar\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Seu bônus de proficiência aumenta em 1.</p><h5 id=\"negative\">Negativo</h5><p>Você está acostumado a terminar uma luta rápido antes de se machucar, então não sabe como aguentar um golpe. Seus pontos de vida são reduzidos em uma quantidade igual ao seu nível. A cada nível seguinte, cada vez que você ganha um nível, reduza seu total de pontos de vida em 1.</p>"
+  },
+  "SzXcLQkOuuBexE4y": {
+   "name": "Morrer de Pé",
+   "description": "<p><em>\"É melhor morrer de pé do que viver de joelhos.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você não ganha a condição inconsciente até que seus pontos de vida atinjam um valor negativo igual ao seu nível de personagem.</p><h5 id=\"negative\">Negativo</h5><p>Você morre após 2 testes de resistência contra a morte falhos, e deve fazer testes de resistência contra a morte normalmente quando estiver em 0 PV ou menos. Você ainda precisa obter 3 sucessos em testes de resistência contra a morte para se estabilizar. (Você faz testes de resistência contra a morte ao final dos seus turnos)</p>"
+  },
+  "T8C1pLOUJ30JGHnP": {
+   "name": "Desperdício de Recursos",
+   "description": "<p><em>\"SENHOR, E O ORÇAMENTO?\" \"FILHO, QUE SE FODA O ORÇAMENTO\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Ao usar um consumível que causa dano em uma área, se apenas uma pessoa for atingida pelo ataque, você causa 1,5 vez o dano, arredondado para cima.</p><h5 id=\"negative\">Negativo</h5><p>Ao usar um consumível que causa dano em uma área, se mais de 2 criaturas hostis forem afetadas, todas as criaturas hostis rolam seus testes de resistência com vantagem.</p>"
+  },
+  "TDShk9AHv1i0pM4t": {
+   "name": "Aqui Para Servir",
+   "description": "<p><em>\"Você já pode ficar tranquilo agora.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você foi treinado para servir e seguir ordens desde jovem. Quando uma criatura aliada concederia a você um bônus que permitisse somar dados a uma rolagem de d20, você aumenta o tamanho do dado em 1 degrau. Você pode usar este traço um número de vezes igual ao seu bônus de proficiência por descanso longo.</p>"
+  },
+  "TeW2JnnrWOHLOSFd": {
+   "name": "Explicação das Peculiaridades Iniciais",
+   "description": "<p><strong>ISSO É APENAS UM PEQUENO GUIA, E NÃO UM TRAÇO PARA SER DADO AOS JOGADORES.</strong></p><p><strong>ALÉM DISSO, PECULIARIDADES INICIAIS É UMA REGRA HOMEBREW QUE DECIDIMOS ADICIONAR COMO UM BÔNUS.</strong></p><p><strong>Link:</strong></p><p><strong>https://homebrewery.naturalcrit.com/share/GohYm8VyafeF</strong></p><h2 id=\"traits\">Peculiaridades</h2><p>Traços são Características opcionais que um jogador pode escolher ter durante a criação de personagem. Traços oferecem benefícios únicos ao custo de uma desvantagem. Traços buscam dar aos jogadores características que mudam a forma como eles jogam seu personagem dentro e fora de combate. Traços variam drasticamente em poder e profundidade mecânica. Alguns Traços podem surgir com muita frequência em níveis baixos, e raramente em níveis altos. A escolha de um Traço deve ser discutida com o Mestre para ver se ela se encaixa nas regras ou no clima da mesa. Nem todos os Traços funcionam com todos os estilos de jogo. Alguns Traços são inerentemente desbalanceados, já que alguns Traços são mais focados em interpretação do que em combate. Muitos Traços dependem de um sistema de honra, o que significa que cabe ao jogador realmente interpretar o lado negativo da peculiaridade.</p><p></p><h3 id=\"how-traits-work-in-character-creation\">Como os Traços funcionam na Criação de Personagem</h3><p>Jogadores podem escolher até 2 Traços. Embora Mestres possam determinar que jogadores só podem escolher uma Peculiaridade. Os benefícios e desvantagens dos Traços têm precedência. Se um jogador tiver várias características que afetam todas a mesma coisa, então os efeitos dos Traços devem ser aplicados antes de qualquer outra coisa. Alguns Traços têm características que afetam como um jogador deve interpretar seu personagem. Cabe ao jogador e ao seu Mestre decidir quando e o quanto isso deve afetar o jogador. Alguns Traços têm requisitos que precisam ser atendidos para serem escolhidos. Alguns Traços exigem uma certa quantidade em um atributo específico, e alguns exigem certos alinhamentos. Alguns Traços têm requisitos únicos que podem não ser possíveis de alcançar dependendo do mundo em que sua campanha se passa.</p><p></p><h3 id=\"alternate-rules\">Regras Alternativas</h3><p>Jogadores escolhem apenas 1 peculiaridade na criação de personagem. Em pontos posteriores da campanha, como um salto temporal ou após um momento importante na vida do personagem, o jogador escolhe outra peculiaridade e/ou remove uma peculiaridade. Um exemplo disso seria ganhar a peculiaridade de passado trágico após um evento trágico em sua vida. Isso pode realmente agregar à história e ao crescimento de um personagem ao misturar narrativa e jogabilidade</p><p></p><img src=\"systems/n5eb/assets/content/cheat-sheets/quirks-rules-and-warnings.webp\"><p></p><h2 id=\"rare-traits\">Peculiaridades Raras</h2><p>Traços raros são, como o nome sugere, raros. Eles não se encaixam em toda campanha ou mundo e, portanto, os jogadores devem perguntar ao seu mestre antes de escolher um.</p>"
+  },
+  "TedYzh9nGKYFvEqW": {
+   "name": "Juramento do Médico",
+   "description": "<p><em>\"O Juramento de Hipócrates é cruel.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você pode usar a ação Esquivar como uma reação, sem gatilho específico. Além disso, você ganha +1 em todos os testes de resistência enquanto estiver sob os efeitos da ação Esquivar.</p><h5 id=\"negative\">Negativo</h5><p>Sempre que você rolar dano, reduza o tamanho do dado de dano em 1 degrau.</p>"
+  },
+  "ThPlacGpYn5RT8jH": {
+   "name": "Shinobi Padrão",
+   "description": "<p><em>\"Você é um shinobi comum, seguindo práticas e tradições padrão\"</em></p><h5 id=\"benefit\">Benefício</h5><p>N/A</p>"
+  },
+  "TmBC5qUcYwOMSn9I": {
+   "name": "Amigo de Todos",
+   "description": "<p><em>\"Todo mundo me ama, bebês, cachorros, sabe como é, garotas bonitas, mulheres mais velhas. Eu simplesmente tenho um apelo de massa inacreditável.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você tem uma personalidade magnética que quase todo mundo aprecia. Seu valor máximo de Carisma aumenta em 2. Além disso, quando uma criatura fizer um teste de resistência para evitar ficar enfeitiçada por você ou um teste de Intuição contra você, ela subtrai 1d4 da rolagem.</p>"
+  },
+  "U2DL8lE3tb57bAcU": {
+   "name": "Intolerância Firme",
+   "description": "<p><em>\"no meu tempo\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefício:</strong></h5><p>Existe um certo grupo que você simplesmente não suporta. Escolha 1 clã, vila ou organização. Uma vez por turno, quando você causar dano a um membro desse grupo, você pode somar 1d4 à jogada de dano.</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo:</strong></h5><p>Seu grupo escolhido também não gosta de você. Uma vez por turno, quando um membro do seu grupo escolhido causar dano a você, ele soma 1d4 à sua jogada de dano.</p>"
+  },
+  "URkG5qBzlNvnX6eW": {
+   "name": "Piromaníaco",
+   "description": "<p><em>\"O fogo parece te fascinar, a forma como ele aquece, o seu cheiro, a facilidade com que pode tirar a vida de alguém e, especialmente, a forma como você o molda\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Você tem a palavra-chave Liberação de Fogo</p><h5 id=\"benefit\">Benefício</h5><p>O número de ranks da condição Queimado que você pode infligir em uma criatura aumenta em 1, e a CD para apagar suas chamas aumenta em 1 + o número de ranks de Queimado que a criatura possui atualmente.</p><h5 id=\"negative\">Negativo</h5><p>Você olha para o fogo por mais tempo do que a maioria das pessoas e, às vezes, se mostra reticente em apagá-lo. <br>Você não pode se livrar voluntariamente da condição Queimado em si mesmo, a menos que seja bem-sucedido em um teste de resistência de Sabedoria CD 12 + proficiência.</p>"
+  },
+  "Ur8fmxlJXkcveZN4": {
+   "name": "Alto e Atrevido",
+   "description": "<p><em>\"Você está destinado a grandes coisas, coisas verdadeiramente grandiosas\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Ao atacar, você grita o nome do seu jutsu para fortalecê-lo e incutir medo nas mentes dos seus inimigos. Todos os jutsus ganham 1 dado de dano.</p><h5 id=\"negative\">Negativo</h5><p>Se uma criatura não puder te ouvir, ou se você não puder falar, você reduz a quantidade de dados de dano de todos os seus jutsus em 1 (mínimo de 1). Você também não ganha os benefícios deste traço</p>"
+  },
+  "V5qIDc9oj8La3k5t": {
+   "name": "Mestre Cego",
+   "description": "<p><em>\"Existem outras formas de ver.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Há muito tempo você superou a fraqueza de ser cego. Você ganha Visão Cega. Você só consegue ver objetos e criaturas a até 300 pés de você que tenham um corpo físico e/ou façam algum som. A Visão Cega permite que você veja criaturas invisíveis. Você ganha imunidade à condição cego.</p><h5 id=\"negative\">Negativo</h5><p>Como sua visão é baseada principalmente na audição, ficar surdo é especialmente debilitante. Além dos efeitos normais da condição surdo, você também ganha os seguintes efeitos. Uma criatura surda não consegue ver e falha automaticamente em qualquer teste de atributo que exija Visão Cega. Jogadas de ataque contra a criatura têm vantagem, e as jogadas de ataque da criatura têm desvantagem.</p>"
+  },
+  "VVSP2msLx9HjATZ6": {
+   "name": "Que Saco",
+   "description": "<p><em>\"A preguiça é a mãe de todos os maus hábitos. Mas, no fim das contas, ela é uma mãe e devemos respeitá-la.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Devido à sua natureza preguiçosa, você leva um momento para realmente começar. Após as primeiras 2 rodadas de combate, você aumenta seu bônus de proficiência em 1.</p><h5 id=\"negative\">Negativo</h5><p>Você é, de forma geral, só uma pessoa preguiçosa. Seu deslocamento é reduzido em 5 pés, e você sofre -2 em testes de iniciativa.</p>"
+  },
+  "VuMhZe0w4UicdGLo": {
+   "name": "Honra Acima de Tudo",
+   "description": "<p><em>\"Honra é simplesmente a moralidade dos homens superiores.\"</em></p><h5 id=\"benefit-\"><strong>Benefício:</strong></h5><p>Você acredita que a honra deve reger as ações de uma pessoa em todos os momentos, mesmo em combate. Por isso, você raramente ataca primeiro em uma luta. Uma vez por descanso longo, quando você rolaria iniciativa, você pode subtrair 5 da sua iniciativa. Quando você subtrai 5 da sua iniciativa, você ganha uma reação adicional em seu primeiro turno.</p><h5 id=\"negative-\"><strong>Negativo:</strong></h5><p>Outros tendem a tirar vantagem da sua honra. Você subtrai 1d6 de todos os testes de resistência feitos contra efeitos que te forçam a escolher como alvo uma criatura específica, como Duelo Compelido.</p>"
+  },
+  "W2CcJ0ejzwJsxBmJ": {
+   "name": "Legado de Lendas",
+   "description": "<p><em>\"É isso mesmo, eu sou o filho de Naruto Uzumaki\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Sua família se certificou de que você seria capaz de honrar o nome da família. Você é capaz de aprender e conjurar jutsus 1 rank acima do que você normalmente poderia fazer.</p><h5 id=\"negative\">Negativo</h5><p>O sucesso da sua família coloca muita pressão sobre você para que tenha sucesso. Sempre que você falhar em uma rolagem de d20 por mais de 5, você sofre 1 ponto de dano psíquico que não pode ser reduzido.</p>"
+  },
+  "WbFtjhZAA82QXs08": {
+   "name": "Estilo de Vida Estranho",
+   "description": "<p>\"HEHEHEHEHE Ei, Lois\"</p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefício:</strong></h5><p>Você vive um estilo de vida estranho que faz com que você tenha muitas informações obscuras. Uma vez por descanso longo, você pode trazer à tona um evento que aconteceu com você no passado e que se relaciona com sua situação atual. Depois disso, <br>você ganha proficiência em uma perícia ou ferramenta de sua escolha <br>pelo próximo minuto.</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo:</strong></h5><p>Sempre que você receberia tempo de descanso (downtime), <br>reduza a quantidade de tempo de descanso que você recebe em 10%.</p>"
+  },
+  "Wh5hjsyJFtAYyyca": {
+   "name": "O Mágico",
+   "description": "<p><em>\" Você não questiona a magia.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você sempre teve uma relação única com o chakra, sendo capaz de manipulá-lo de formas que ninguém mais consegue. Um número de vezes igual ao seu modificador de Inteligência por descanso longo, você pode alterar o tipo de dano de um ninjutsu para qualquer outro tipo de dano de sua escolha, exceto dano psíquico ou de energia.</p>"
+  },
+  "X1McIGZ04jTBSeR9": {
+   "name": "Nascido no Deserto",
+   "description": "<p><em>\"Você sabia que, na definição oficial de deserto, consta 'desprovido de vida'.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Por sobreviver no deserto hostil, você se adaptou a ele. Você precisa de apenas metade da água que um ninja normal precisaria para sobreviver e pode viajar o dobro da distância que um ninja normal conseguiria enquanto estiver em um deserto.</p><h5 id=\"negative\">Negativo</h5><p>Você não sabe nadar nem andar sobre a água. Isso te obriga a gastar 2 semanas de tempo de descanso (downtime) em cada uma dessas habilidades para aprendê-las.</p>"
+  },
+  "XAlZSSH6PifZNAaG": {
+   "name": "Estudante",
+   "description": "<p><em>\"Agora meu trabalho é ajudar a próxima geração e dar um bom exemplo para eles. E por isso, eu de bom grado daria minha vida, sorrindo o tempo todo. É isso que nos torna caras velhos descolados, sabe.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>O estilo do seu professor é evidente no seu próprio estilo de luta. Escolha entre Não Elemental, Medicina, Liberação de Fogo, Liberação de Água, Liberação de Terra, Liberação de Vento, Liberação de Raio, Taijutsu, Bukijutsu ou Genjutsu. Jutsus nessa categoria têm sua jogada de ataque e CD aumentadas em 1, e seu custo reduzido em 1.</p><h5 id=\"negative\">Negativo</h5><p>Você nunca diversificou seu método de luta. Todos os jutsus que não sejam da categoria que você escolheu têm sua jogada de ataque e CD reduzidas em 1.</p>"
+  },
+  "XRAbEmsqnQBMTrS7": {
+   "name": "Antigo Deus",
+   "description": "<p><em>\"Sim, o objeto de adoração da Ordem Religiosa de Axis: a deusa Aqua!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Como uma ex-divindade, você simplesmente é construído de forma diferente. Todos os seus atributos têm seu valor máximo aumentado em 2, até um novo máximo de 22. Além disso, você ganha 6 pontos de AVA.</p><h5 id=\"negative\">Negativo</h5><p>Seu bônus de proficiência é reduzido em 1. Além disso, ninguém acredita que você já foi um deus. Se você continuar afirmando seu status como um deus, as pessoas vão achar que você é louco.</p>"
+  },
+  "XwDRAbOXPBwg0S34": {
+   "name": "Fatos e Lógica",
+   "description": "<p><em>\"vamos dizer hipoteticamente que ...\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você é um verdadeiro cético. Uma pessoa que não deixa os sentimentos interferirem na lógica. Você é capaz de usar seu modificador de Inteligência em vez do seu modificador de Carisma para todos os testes de perícia de Persuasão, Enganação e Intimidação.</p><h5 id=\"negative\">Negativo</h5><p>Você é incapaz de compreender que seus preciosos fatos possam estar incorretos. Quando você falhar em um teste de perícia de Persuasão, Enganação ou Intimidação, você sofre 1 de dano psíquico e sofre -1d4 em seu próximo teste de perícia que use Inteligência.</p>"
+  },
+  "YB82iqJHTsSZLQJY": {
+   "name": "Apostador",
+   "description": "<p><em>\"Coração das Cartas\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você ama jogos de azar e a sensação de risco que eles proporcionam. Duas vezes por descanso longo, você pode criar uma jogada arriscada. Você pode criar uma jogada arriscada quando escolher uma criatura hostil como alvo de um ataque, jutsu ou característica. Quando você cria uma jogada arriscada, você força todas as criaturas que seriam afetadas pelo seu ataque, jutsu ou característica a entrar na jogada arriscada. Cada uma dessas criaturas deve fazer um teste simples CD 10 + o número de criaturas escolhidas como alvo. Se nenhuma das criaturas escolhidas como alvo passar, sua jogada arriscada é bem-sucedida. Se qualquer uma das criaturas escolhidas como alvo passar, sua jogada arriscada é malsucedida. Em uma jogada arriscada bem-sucedida, seu ataque, jutsu ou característica afeta com sucesso todos os seus alvos, como se você tivesse vencido contra eles em um confronto. Em uma jogada arriscada malsucedida, seu ataque, jutsu ou característica falha e não afeta nenhum dos seus alvos.</p>"
+  },
+  "YMbnjwUY2L5R5BNq": {
+   "name": "Idoso",
+   "description": "<p><em>\"Posso ter perdido o poder concedido pela juventude, mas ganhei a sabedoria concedida pela idade\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Ter mais de 50 anos.</p><h5 id=\"benefit\">Benefício</h5><p>Você começa com 3 jutsus extras até Rank D, que são tratados como tendo sido aprendidos com tempo de descanso (downtime). Você também ganha um antecedente adicional.</p><h5 id=\"negative\">Negativo</h5><p>Sua idade avançada intensifica o estresse do combate. Você sofre 1d8 de dano de PV e PC no início de cada um dos seus turnos após 3 rodadas de combate terem transcorrido.</p>",
+   "condition": "após 3 rodadas de combate terem transcorrido."
+  },
+  "YUeDq49M1BBX9ATm": {
+   "name": "Sanguinário",
+   "description": "<p><em>\"Uma alma precisa de um propósito para viver... e assim concluí que meu propósito era matar todos, exceto eu mesmo. Eu me sentia vivo...\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Por algum motivo que faz sentido para você, a vida humana vale muito pouco, exceto por sua capacidade de te entreter. Você ganha a capacidade de <strong>reivindicar um alvo</strong> como uma ação livre. Seu primeiro ataque por turno contra seu alvo causa um dado de dano extra. Sua reivindicação dura apenas 1 minuto. Você só pode usar este traço uma vez por descanso curto.</p><h5 id=\"negative\">Negativo</h5><p>Seu alvo continuar vivo é um insulto às suas habilidades; você sofre 1 de dano psíquico, que não pode ser reduzido de forma alguma, por turno em que seu alvo ainda estiver vivo, e se seu alvo ainda estiver vivo ao final do minuto, você ganha 1 nível de exaustão conforme sua vontade de lutar se esvai.</p>"
+  },
+  "YXf6uQk9h2H28OTA": {
+   "name": "Pessoa-Gato",
+   "description": "<p><em>\"Não é fácil ser pur-feito.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você é o que alguns chamariam de Gatinha/Gatinho (Catgirl/boy). Você tem orelhas de gato no topo da cabeça e outras características visivelmente felinas. Seus reflexos e agilidade permitem que você se mova com uma explosão de velocidade. Quando você se move em seu turno em combate, pode dobrar seu deslocamento até o fim do turno. Depois de usar essa habilidade, você não pode usá-la de novo até se mover 0 pés em um dos seus turnos. Além disso, você ganha Visão no Escuro. Você consegue ver em penumbra a até 60 pés de você como se fosse luz plena, e no escuro como se fosse penumbra.</p>"
+  },
+  "YiSIZJy2NdhnBBTR": {
+   "name": "Lutador Sujo",
+   "description": "<p><em>\"Quer brigar, cara?\"</em></p><h5 id=\"-strong-benefits-strong-\"><strong>Benefícios</strong></h5><p>Você não tem medo de dar golpes baixos. Duas vezes por descanso curto, quando você rolar iniciativa, você pode fazer um ataque corpo a corpo como uma ação livre contra uma criatura dentro do alcance da sua arma.</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo</strong></h5><p>Quando você dá seu golpe de efeito, você se deixa totalmente exposto a ataques. Quando você usar o benefício deste traço, sua CA é reduzida em 2 até o início do seu primeiro turno.</p>"
+  },
+  "Z0TZtzltU9sYllvL": {
+   "name": "Sede de Batalha",
+   "description": "<p>\"Eu nunca tive uma luta tão divertida na minha vida!! Vamos continuar!!\"</p><h5 id=\"benefit\">Benefício</h5><p>Você tem um amor intenso por batalhas e por ver novas técnicas. Quando você rolar iniciativa, role um d20. Em um 11 ou mais, você ganha um ponto de Vontade de Fogo.</p><h5 id=\"negative\">Negativo</h5><p>Quando você luta contra alguém de nível mais baixo que o seu, você reduz seu bônus de proficiência para igualar ao bônus de proficiência do seu oponente.</p>"
+  },
+  "Z9FPaKMwh9GzUfds": {
+   "name": "Reflexos Felinos",
+   "description": "<p><em>\"Dizem que, com a idade, os reflexos ficam mais lentos. Eu nunca senti isso.\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefício:</strong></h5><p>Seus reflexos envergonham os outros em mais formas do que você consegue contar. Seu valor máximo de Destreza aumenta em 2. Uma vez por descanso longo, você pode tratar qualquer teste de resistência como um teste de resistência de Destreza. Além disso, você soma 1d4 a testes de resistência para evitar ganhar a condição surpreendido.</p>"
+  },
+  "ZL7lNvgV9uG034TZ": {
+   "name": "Artístico",
+   "description": "<p><em>\"Isso é belo, isso é arte verdadeira.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você vê todos os seus jutsus como arte e, como todos os grandes artistas, você consegue distinguir algo criado sem cuidado ou esforço de uma verdadeira obra-prima. Quando você conjura um jutsu que não tenha a palavra-chave Combinação e que cause dano, cure criaturas, ou imponha um teste de resistência.</p><p>Com jutsus como esses, você pode escolher reduzir o custo do jutsu em 3. Quando você reduz o custo do jutsu dessa forma, reduza seu bônus em jogadas de ataque e CD de resistência em -1. Você também pode, inversamente, aumentar o custo do jutsu em 3, para aumentar seu bônus de ataque e CD de resistência em +1. Características que reduziriam o custo de chakra de um jutsu não se aplicam quando este traço é usado para reduzir o custo de chakra.</p><h5 id=\"negative\">Negativo</h5><p>Você odeia quem zomba da sua arte. Se uma criatura zomba da sua arte, você tende a ficar violento.</p>"
+  },
+  "ZOwhg03pnXd8Cdm3": {
+   "name": "Sombra de Si Mesmo",
+   "description": "<p><em>\"Sabe, eu poderia ter me tornado profissional.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você costumava ser muito mais forte, mas desde o acidente você não tem conseguido ter o mesmo desempenho. Você começa com 25 semanas de tempo de descanso (downtime).</p><h5 id=\"negative\">Negativo</h5><p>Seu acidente ainda te afeta. Você sofre -1 em seus PV por nível, e -1 em chakra por nível. <br>A cada nível seguinte, cada vez que você ganha um nível, reduza seu total de pontos de vida em 1 e seus PC em 1. <br>Se você gastar 4 semanas de tempo de descanso (downtime) sendo curado (recebendo Regenerar conjurado em você todos os dias durante 4 semanas), você deixa de sofrer os efeitos desta desvantagem e recupera todo o PV e PC que perdeu por causa dela.</p>"
+  },
+  "ZQsKbllXMOxZzfXq": {
+   "name": "Veloz Como um Rio Impetuoso",
+   "description": "<p><em>\"Força de um grande Tufão\"</em></p><h5 id=\"benefit\">Benefício</h5><p>O valor máximo do seu atributo Força aumenta em 2, e você ganha a capacidade de converter qualquer teste de resistência que você faria em um teste de resistência de Força, uma vez por descanso longo.</p><h5 id=\"negative\">Negativo</h5><p>Você está constantemente se exercitando, o que te deixa em desvantagem quando se trata de testes de resistência contra exaustão. Sempre que você fizer um teste de resistência para evitar ganhar um rank de exaustão, você subtrai um d4 do teste.</p>"
+  },
+  "ZVRAs18Dt4Y6zS35": {
+   "name": "Descobrir na Prática",
+   "description": "<p><em>\"Ei, olha isso\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você descobriu que a melhor forma de aprender a se defender de algo é ser atingido por isso. Uma vez por descanso curto, você pode impor desvantagem a si mesmo em um teste de resistência. Depois disso, você soma 1d6 a testes de resistência contra aquele jutsu, característica ou efeito pelo resto do combate.</p>"
+  },
+  "ZYkKC30t3bMf7yW1": {
+   "name": "Vingança",
+   "description": "<p><em>\"Vou restaurar meu clã, e matar uma certa pessoa.\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Ter a característica Ataque Letal.</p><h5 id=\"benefit\">Benefício</h5><p>Você aperfeiçoou suas habilidades na arte da morte. Quando você ativaria a característica Ataque Letal, você pode usar sua reação para aumentar o tamanho do dado em 1.</p><h5 id=\"negative\">Negativo</h5><p>Você tende a focar puramente em aumentar as chances de que sua missão de vingança seja bem-sucedida, o que te leva a viver uma vida solitária.</p>"
+  },
+  "a4lPwDMSH60jB6gq": {
+   "name": "Aparência Andrógina",
+   "description": "<p><em>\"Ah, e... eu sou um garoto\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você pode facilmente assumir a aparência de um garoto ou de uma garota.</p><h5 id=\"negative\">Negativo</h5><p>As pessoas frequentemente te confundem com o gênero oposto.</p>"
+  },
+  "aIPrOZp4tPVjWcuy": {
+   "name": "Reencarnado",
+   "description": "<p><em>\"Você já conheceu alguém pela primeira vez, mas em seu coração sentiu como se já tivesse conhecido essa pessoa antes?\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você é a reencarnação de um antigo e poderoso ninja. Escolha 1 valor de atributo. Seu valor máximo aumenta em 2. Além disso, você pode possuir 2 tipos diferentes de Vontade ao mesmo tempo.</p>"
+  },
+  "aKcTgBkxx9VEV2Sx": {
+   "name": "Agradável aos Olhos",
+   "description": "<p><em>\"Ora, mas que bonito você é\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Durante toda a sua vida, as pessoas te trataram melhor do que aos outros ao seu redor por causa da sua aparência. Sempre que você usar as perícias Enganação, Atuação ou Persuasão, você soma um d4 à rolagem.</p><h5 id=\"negative\">Negativo</h5><p>Muitas pessoas têm dificuldade em te levar a sério. Quando você usa a perícia Intimidação, você subtrai um d8 da rolagem. Você pode ou não também ter um Clube de Fãs (a critério do Mestre).</p>"
+  },
+  "aMMpSlscIFQfIDnR": {
+   "name": "Adotado",
+   "description": "<p><em>\"Sangue não faz família, amor faz.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você ganha acesso à lista de jutsus de outro clã até Rank C. Se o clã escolhido não tiver Hijutsu, você ganha acesso à lista de talentos desse clã em vez disso.</p><h5 id=\"negative\">Negativo</h5><p>Como você não é um membro verdadeiro do seu clã original, você não pode aprender os jutsus de Rank A do seu clã. Jutsus com a palavra-chave Hijutsu são tratados como sendo 1 rank mais alto para fins de aprendizado e criação de Hijutsu.</p>"
+  },
+  "aaRM8DFRJ1qbzJGP": {
+   "name": "Quem Não Pode, Ensina",
+   "description": "<p><em>\"SIM! SIM! SIM! DEIXE-ME VIVER INDIRETAMENTE ATRAVÉS DAS SUAS CONQUISTAS!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Se você ajudar alguém a aprender/criar um jutsu, essa pessoa pode reduzir o tempo de descanso (downtime) necessário em 2 semanas por rank. Você deve gastar pelo menos os primeiros 25% do tempo necessário para criar/aprender o jutsu ajudando essa pessoa. Depois disso, ela mantém os benefícios e você pode deixá-la continuar trabalhando sozinha. Além disso, ao realizar a ação de ajudar, seu aliado soma um d6 adicional à sua rolagem.</p><h5 id=\"negative\">Negativo</h5><p>Você sofre -2 em todas as rolagens de d20 enquanto estiver em combate.</p>"
+  },
+  "arHq4p70v9Lpz8hN": {
+   "name": "Mestre de Um Só Ofício",
+   "description": "<p><em>\"Não temo o homem que praticou 10.000 jutsus uma vez, mas temo o homem que praticou um jutsu 10.000 vezes.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Escolha um único jutsu que você possua; esse jutsu e todas as suas variações custam 2 chakra menos para conjurar, e seu dado de dano e CD de resistência aumentam em 1.</p><h5 id=\"negative\">Negativo</h5><p>Todos os outros jutsus que você possui custam 1 chakra mais para conjurar e têm seu dado de dano e CD de resistência reduzidos em 1.</p>"
+  },
+  "bNnm6CvwymEijlAg": {
+   "name": "Inventivo",
+   "description": "<p><em>\"Eu tenho o Adesivo de Cafeína! É minha invenção. Você pode ficar acordado por dias sem efeitos colaterais.\"</em></p><h5 id=\"prerequisites\"><strong>Pré-requisitos</strong></h5><p>Seu valor de Inteligência deve ser 15 ou maior, e você deve ter proficiência em Criação.</p><h5 id=\"benefit-\"><strong>Benefício:</strong></h5><p>Com 10 minutos e os suprimentos adequados, você é capaz de inventar ferramentas que podem ajudar em praticamente qualquer situação. Quando você inventa uma ferramenta, escolha 1 perícia. Essa ferramenta concede vantagem ao fazer testes de perícia daquela perícia. Ferramentas que você inventa só podem ser usadas uma vez.</p><h5 id=\"negative-\"><strong>Negativo:</strong></h5><p>Quando você inventa uma ferramenta, você é forçado a usar parte do seu suprimento pessoal. Toda vez que você inventa uma ferramenta, você gasta 20 Ryo.</p>"
+  },
+  "bX8OJxD7HZZQYK8B": {
+   "name": "Visão Retroativa",
+   "description": "<p><em>\"Ah, caramba!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você tem a capacidade de ver vislumbres do passado. Quando você tiver sucesso em um teste de Investigação ou Intuição, além dos benefícios normais, você também recebe uma breve descrição de um evento passado relacionado ao seu teste. (Exemplo: ver quem matou a vítima de um assassinato em um teste de Investigação com um 20 natural)</p>"
+  },
+  "bbG62VydSIaqcgdo": {
+   "name": "Sem Vergonha",
+   "description": "<p><em>\"Você está enganado, eu tenho muita honra. A honra de te matar!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você cospe na cara da honra. A única coisa que importa para você é viver para ver outro dia. Duas vezes por descanso longo, você pode, como reação, usar um item. Além disso, você soma 1d4 a testes de resistência para evitar ser forçado a escolher uma criatura específica como alvo.</p>"
+  },
+  "beL7qTzdKyvk4edK": {
+   "name": "Amnésico",
+   "description": "<p><em>\"Meu nome é... Quem sou eu...? \"</em></p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefício:</strong></h5><p>Às vezes você consegue ter vislumbres de suas memórias perdidas. Duas vezes por descanso longo, você pode se conceder proficiência em qualquer perícia de sua escolha por 1 minuto.</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo:</strong></h5><p>Você não ganha nenhuma proficiência em perícia ou ferramenta do seu antecedente.</p>"
+  },
+  "c7iC70rvr1OVOP15": {
+   "name": "Divorciado da Morte",
+   "description": "<p><em>\" Um dia eu experimentarei a única bênção que me foi negada. O Nada\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Por algum motivo a critério seu e do seu Mestre, você é incapaz de morrer. Sempre que você morre, seu corpo começa a se curar lentamente, sendo capaz de restaurar membros inteiros. Após 24 horas, você volta à vida com metade dos PV. Além disso, seus aliados podem acelerar sua regeneração. Se seus aliados te curarem em uma quantidade igual à metade do seu PV máximo, você volta à vida com 1/10 do seu PV máximo.</p><h5 id=\"negative\">Negativo</h5><p>Você morre após 1 teste de resistência contra a morte falho. Efeitos que destruiriam sua alma são capazes de te matar permanentemente.</p>"
+  },
+  "cYckxQdAAPD7AAc6": {
+   "name": "O Shinobi \"Verdadeiro\"",
+   "description": "<p><em>\"Você é um verdadeiro shinobi que usa furtividade e táticas desonestas a seu favor\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você ganha +2 em testes de Furtividade e +2 para acertar ao atacar durante a noite ou a partir da furtividade. Além disso, o tempo de descanso (downtime) para fazer venenos e armadilhas é reduzido pela metade</p><h5 id=\"negative\">Negativo</h5><p>Sempre que você não estiver em furtividade e estiver sob luz solar direta, você sofre -1d6 em jogadas de ataque e testes de Percepção.</p>"
+  },
+  "cioHFYulRCHWiTIG": {
+   "name": "Rivalidade Doentia",
+   "description": "<p><em>\"No fim das contas, nós somos bons amigos\" \"Porque, para mim, ele é o amigo mais próximo que eu já tive\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você se esforça demais tentando superar seu(s) rival(is). Você pode gastar um dado de chakra ou um dado de vida para dar a si mesmo +2 em qualquer rolagem de d20 ou em sua CD de resistência.</p><h5 id=\"negative\">Negativo</h5><p>Você é propenso a tomar decisões precipitadas quando se trata da sua rivalidade.</p>"
+  },
+  "d6xlwiv3Sfa0h1jn": {
+   "name": "Beberrão",
+   "description": "<p><em>\"Não se preocupe, eu não estou bêbado, só estou bem alterado agora\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Enquanto estiver bêbado, você aumenta o tamanho de todos os dados de dano em 1.</p><h5 id=\"negative\">Negativo</h5><p>Enquanto estiver sóbrio, você sofre -2 em todos os testes de resistência e testes de perícia.</p>"
+  },
+  "dQDm2hvsvEO6sBBl": {
+   "name": "Falcão de Guerra",
+   "description": "<p><em>\"Para manter a paz, é necessária ação\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você é muito mais rápido para agir do que o ninja médio. Você ganha +3 em todos os testes de Iniciativa e, na primeira rodada de combate, seu deslocamento aumenta em 10.</p><h5 id=\"negative\">Negativo</h5><p>Você sofre -2 em todos os testes de resistência contra ganhar a condição frenesi e contra efeitos que te forçam a escolher como alvo uma criatura específica, como Duelo Compelido.</p>"
+  },
+  "dfQBNnJ2y1hoQ1mV": {
+   "name": "Mão Pesada",
+   "description": "<p><em>\"Como assim, estilo? É um graveto. Você balança com força e eles morrem; simples assim.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Todas as armas corpo a corpo têm o tamanho do seu dado de dano aumentado em um degrau</p><h5 id=\"negative\">Negativo</h5><p>Todos os ataques corpo a corpo e ataques de bukijutsu têm sua margem de crítico reduzida em 1.</p>"
+  },
+  "eEisztanPIwBgCox": {
+   "name": "Desancorado",
+   "description": "<p>\"Cara, isso é um saco\"*</p><h5 id=\"benefit\">Benefício</h5><p>Como você não está totalmente ancorado a este plano, você constantemente cintila entre existir e não existir. Sempre que uma criatura te atacar com sucesso, ela deve fazer um teste simples CD 4. Em uma falha, o ataque passa inofensivamente através de você. Além disso, uma vez por descanso longo, você pode considerar seu deslocamento normal como teleporte.</p><h5 id=\"negative\">Negativo</h5><p>Seus ataques também não estão totalmente ancorados a este plano. Sempre que você atacar outra criatura com sucesso, você deve fazer um teste simples CD 4. Em uma falha, o ataque passa inofensivamente através do seu alvo.</p>"
+  },
+  "eZosjmcZ3DA0yaAH": {
+   "name": "Grande Planejador",
+   "description": "<p><em>\"Você é apenas mais uma parte da história shinobi que eu criei! Um moleque como você não pode nem tocar alguém como eu.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Seus planos são tão detalhados e específicos que, às vezes, até você tem dificuldade em acompanhar tudo. Você ganha acesso a pontos de Mente Mestra (pontos MM). Toda vez que uma criatura aliada rolar um 20 natural, você afirma que isso faz parte do seu plano mestre e ganha 2 pontos MM. Toda vez que uma criatura hostil rolar um 1 natural, você afirma que isso faz parte do seu plano mestre e ganha 1 ponto MM. Você pode gastar 7 pontos MM para dar a você ou a <strong>um dos seus aliados</strong> 1 ponto de VdF. Seus pontos MM se esgotam ao final de cada sessão.</p>"
+  },
+  "fF3adpbQm7yFIm1K": {
+   "name": "Companheiro Helicóptero",
+   "description": "<p><em>\"Não, não, não, não é assim que se faz\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefício:</strong></h5><p>Você realmente quer que seus companheiros de equipe tenham sucesso. Mesmo que você precise forçá-los a ter sucesso. Quando você realizar a ação de ajudar, seu alvo rerrola todos os resultados 1 ou 2.</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo:</strong></h5><p>Você acredita que sabe o que é melhor para a equipe. Você nunca pode receber a ação de ajudar.</p>"
+  },
+  "fNbYrKsbBsk2etgg": {
+   "name": "Quebrador da Quarta Parede",
+   "description": "<p><em>\"Chimichanga. Chimichanga. Chimichanga. Chimichanga.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você possui um conhecimento que mais ninguém parece conseguir compreender: que o mundo que você habita é fictício. Antes, essa percepção te enlouquecia, mas agora você aprendeu a usá-la. Uma vez por descanso longo, quando você mover uma criatura, você pode decretar que ela atinge a 4ª parede. Você pode ambientar a 4ª parede da forma que quiser (ex.: um quadrinho ou uma tela de TV). A 4ª parede é inquebrável e interrompe todo o movimento, ou envia a criatura voando em qualquer direção de sua escolha. A distância que a criatura percorre após atingir a parede é igual ao recuo restante. Além disso, outros que espiam sua mente são incapazes de lidar com o conhecimento de que são fictícios. Quando uma criatura tentar acessar sua mente ou memórias de qualquer forma, ela deve fazer um teste de resistência de Sabedoria CD 15 + seu nível. Em um sucesso, ela consegue acessar normalmente. Em uma falha, ela ganha 1 rank de amedrontado, sofre dano psíquico igual ao dobro do seu nível, e reprime todas as informações que teria obtido da sua mente.</p>"
+  },
+  "fe0B2RKEZD9ulDhY": {
+   "name": "Quieto",
+   "description": "<p><em>\"Você aprende muito quando para e escuta\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Seu Carisma deve ser 13 ou menos</p><h5 id=\"benefit\">Benefício</h5><p>Até você falar em uma conversa, você tem vantagem em todos os testes de Intuição.</p><h5 id=\"negative\">Negativo</h5><p>As pessoas se sentem incomodadas com você; você tem desvantagem em testes de Persuasão contra pessoas que não te conhecem.</p>"
+  },
+  "gBcuflYeC0tg3hn6": {
+   "name": "Fonte de Má Sorte",
+   "description": "<p><em>\"É um poder que só aparece quando minha vida está em risco.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Sempre que você rolar um 1 natural, você pode impor desvantagem a outra criatura na primeira rolagem de d20 que ela fizer.</p>"
+  },
+  "gQkbQkVxjOndnfAB": {
+   "name": "Idiota Sábio",
+   "description": "<p><em>\"Eu não sou um homem inteligente, mas...\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você ignora todos os Requisitos de Valor de Atributo para todos os jutsus até Rank B. Além disso, você pode escolher 1 palavra-chave da lista a seguir para ignorar o requisito de valor de atributo até Rank A. (Liberação de Fogo, Liberação de Água, Liberação de Vento, Liberação de Terra, Liberação de Raio, Taijutsu, Bukijutsu, Fuinjutsu ou Genjutsu)</p><h5 id=\"negative\">Negativo</h5><p>O Requisito de Valor de Atributo para Ranks A aumenta para 18, e para 20 para Ranks S.</p><p></p>"
+  },
+  "hUBQh1RSB0oO6A80": {
+   "name": "Sangue Azul",
+   "description": "<p><em>\"Sua família não tem uma fritadeira elétrica?\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Sua quantia inicial de Ryo aumenta em 800.</p><h5 id=\"negative\">Negativo</h5><p>Você espera um certo nível de luxo. Você deve viver pelo menos em um nível de riqueza elevado ao determinar seus gastos de estilo de vida.</p>"
+  },
+  "iBFPYS5Vaa6nIdTK": {
+   "name": "Marinheiro de Alto-Mar",
+   "description": "<p><em>\"O que faremos com um marinheiro bêbado?\"</em></p><h5 id=\"benefit-\"><strong>Benefício:</strong></h5><p>Sua vida em alto-mar te deu ótimas pernas de marinheiro. Você não precisa mais gastar chakra para andar sobre a água, e você ignora terreno difícil causado por causas naturais enquanto estiver andando sobre a água ou em um barco.</p><h5 id=\"negative-\"><strong>Negativo:</strong></h5><p>O custo de chakra para andar em paredes é dobrado.</p>"
+  },
+  "iIXIkO5CLdw6fr4e": {
+   "name": "Fracasso do Clã",
+   "description": "<p><em>\"Você traz vergonha para a família.\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Você não pode ser Sem Clã</p><h5 id=\"benefit\">Benefício</h5><p>Por não ter talento algum em relação ao seu clã, você teve que dobrar seus esforços fora dele. Você ganha características da sua classe 1 nível antes. Isso só se aplica à sua primeira classe; não se aplica a outras classes caso você faça multiclasse.</p><h5 id=\"negative\">Negativo</h5><p>Você é verdadeiramente ruim em tudo que seu clã faz. Você ganha características de clã 2 níveis depois.</p>"
+  },
+  "j0QuaqtKlo769iae": {
+   "name": "Especialista em Controle de Chakra",
+   "description": "<p><em>\"é fácil controlar seu chakra quando você não tem muito\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Proficiência em Controle de Chakra</p><h5 id=\"benefit\">Benefício</h5><p>Seu controle sobre seu chakra é melhor do que o da maioria que treinou por anos. O custo de chakra de todos os jutsus é reduzido em 2, até um mínimo de 1; você pode usar Inteligência em vez de Constituição para Controle de Chakra, e você pode somar 1d4 a todos os testes de concentração para continuar concentrado em um jutsu.</p><h5 id=\"negative\">Negativo</h5><p>Você reduz seus pontos de chakra máximos em -2 ao ganhar este traço. Essa redução se repete cada vez que você ganha um nível depois disso.</p>"
+  },
+  "j3ntXHePZ0hMK8pl": {
+   "name": "Potencial Oculto",
+   "description": "<p><em>\"É um poder que só aparece quando minha vida está em risco.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Quando encurralado, sua verdadeira força aparece. Uma vez por descanso longo, quando você for colocado abaixo de 50% dos PV, o próximo ataque que você fizer é considerado um acerto crítico, desde que acerte o alvo. Além disso, após a 3ª rodada de combate ou enquanto estiver abaixo de 50% dos PV, o custo de upcast de todos os jutsus é reduzido em 1.</p><h5 id=\"negative\">Negativo</h5><p>Você tem dificuldade em mostrar seu verdadeiro poder em circunstâncias normais. Pelas primeiras 2 rodadas de combate, ou até estar abaixo de 50% dos PV, você não consegue fazer upcast de jutsus.</p>"
+  },
+  "j7f7il1cOE14V0Sc": {
+   "name": "Indivíduo Indubitavelmente Desinteressante",
+   "description": "<p><em>\"Para mim, não é realmente sobre ganhar ou perder. Eu só quero sobreviver. Eu quero uma vida pacífica. \"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você gastou muito tempo e esforço para esconder suas habilidades e parecer o mais comum possível. Seu valor máximo de Inteligência aumenta em 2. Além disso, você pode usar seu modificador de Inteligência no lugar do seu modificador de Carisma em testes de Enganação.</p>"
+  },
+  "jmOUBJsyDYWcpOTF": {
+   "name": "Trabalho Sujo",
+   "description": "<p><em>\"Por que eu sempre acabo com os trabalhos nojentos?\"</em></p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefício:</strong></h5><p>Existem trabalhos que ninguém quer, mas você acha que, se alguém tem que fazê-los, deveria ser você. Uma vez por turno, quando você causar dano a uma criatura ensanguentada (bloodied), você pode somar 1d4 ao seu total de dano.</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo:</strong></h5><p>O trabalho que você faz não te torna popular. Outras pessoas na sua organização ou equipe não confiam totalmente em você e, por isso, estão menos dispostas a te ajudar ou a compartilhar informações privadas com você.</p>",
+   "condition": "Uma vez por turno"
+  },
+  "jnmtVVEUTfSrSQFh": {
+   "name": "Psicopata",
+   "description": "<p><em>\"Há uma falta surpreendente de nós na força.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Toda vez que você acertar um ataque com sucesso, você ganha +1 para acertar. (Isso se acumula) Errar um ataque remove todos os bônus para acertar obtidos com este traço.</p><h5 id=\"negative\">Negativo</h5><p>Você sofre -2 para acertar em todas as jogadas de ataque.</p>"
+  },
+  "joJEzcHhR2cOVccg": {
+   "name": "Ser Artificial",
+   "description": "<p><em>\"Que triste, trabalhar tanto por tão pouco.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você é um androide e, portanto, possui diversas melhorias que te colocam acima da maioria dos humanos. A mais importante sendo sua fonte de energia infinita. Devido a essa fonte de energia, você é incapaz de morrer por falta de sono ou comida. Ela também impede que você jamais tenha 0 chakra. A quantidade mínima de chakra que você pode ter é igual ao seu bônus de proficiência.</p><h5 id=\"negative\">Negativo</h5><p>Você leva muito mais tempo para regenerar seu chakra, devido à sua excessiva dependência da sua fonte de energia. Você não soma seu modificador de Constituição aos Dados de Chakra que usar. Além disso, você só soma metade do seu modificador de Constituição à sua quantidade máxima de chakra ao subir de nível.</p>"
+  },
+  "juChhbhQP68F5FW0": {
+   "name": "Um Com a Natureza",
+   "description": "<p><em>\"É um campo de energia criado por todos os seres vivos. Ele nos envolve e nos penetra.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você está em sintonia com a natureza de formas que poucos podem afirmar. Duas vezes por descanso longo, você pode fazer um teste de perícia de Natureza no lugar de qualquer outro teste de perícia. Além disso, plantas crescem duas vezes mais rápido perto de você.</p>"
+  },
+  "kqb6b7LPDJSqQKSd": {
+   "name": "Espírito Inabalável",
+   "description": "<p><em>\"Foda-se, bola pra frente\"</em></p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefício:</strong></h5><p>Quando enfrenta uma situação impossível de vencer, você ainda encontra a coragem para lutar. Você pode se dar 1 teste de resistência contra a morte falho para remover todos os ranks de 1 condição mental. Além disso, você pode gastar 1 dado de vida para remover até 3 ranks de qualquer condição física. Você pode gastar até 5 dados de vida em 1 turno.</p>"
+  },
+  "ktr1O71sQEGTmHyR": {
+   "name": "Bom Demais Para o Seu Próprio Bem",
+   "description": "<p><em>\"As pessoas sempre me disseram que eu não era talhado para esse tipo de trabalho. Que eu era muito mole.\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Ter níveis na classe Medic-Nin.</p><h5 id=\"benefit\">Benefício</h5><p>Durante um descanso curto, você pode usar seus dados de vida e de chakra em outros jogadores. Você reduz à metade a quantidade que eles ganhariam dos seus dados de Vida e Chakra. Você também aumenta o Descanso Revigorante de d6 para d8.</p><h5 id=\"negative\">Negativo</h5><p>Você não pode usar a característica Tirar Vida.</p>"
+  },
+  "lVLjNvJ8w0BfOdPZ": {
+   "name": "Bem Maior",
+   "description": "<p><em>\"Autossacrifício... Um shinobi sem nome que protege a paz dentro de sua sombra. Isso é um verdadeiro shinobi\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você se acredita uma força do bem e, por isso, está disposto a sacrificar qualquer coisa, até mesmo seus amigos, para alcançar seus objetivos. Quando você conjura um Jutsu, pode pagar um número de dados de vida igual ao seu rank para aumentar seu dado de dano em 1 degrau ou sua CD de resistência em 2 (D=1, C=1, B=1, A=2, S=2)</p><h5 id=\"negative\">Negativo</h5><p>Você é incapaz de causar dano não letal, e não pode usar habilidades ou efeitos que fariam criaturas não sofrerem dano, ou ficarem imunes a Jutsus que você conjura.</p>"
+  },
+  "lVPO4hVCLs3KVffl": {
+   "name": "Velho Mestre",
+   "description": "<p><em>\"Quer trocar golpes com um velho como eu?\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Ter mais de 50 anos.</p><h5 id=\"benefit\">Benefício</h5><p>Você vem praticando sua arte por mais tempo do que a maioria dos seus oponentes está viva. Por isso, você frequentemente consegue dominar seus oponentes com suas habilidades superiores. Seu valor máximo de Sabedoria aumenta para 22. Além disso, duas vezes por descanso longo, você pode usar seu modificador de Sabedoria no lugar de qualquer outro valor de atributo ao conjurar um jutsu ou fazer um teste de resistência.</p><h5 id=\"negative\">Negativo</h5><p>Sua idade avançada afetou seu físico. <br>Os valores máximos dos seus atributos Força e Constituição são reduzidos em 2.</p>"
+  },
+  "lsWUelkGI07iHhWu": {
+   "name": "Emoção da Luta",
+   "description": "<p><em>\"ALGUMA COISA INTELIGENTE!\" \"TODO MUNDO VAI MORRER! TODO MUNDO!\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefício:</strong></h5><p>Quanto maior a luta, melhor. Para cada criatura hostil a até 10 pés de você, aumente suas jogadas de ataque em +1, até um máximo de +5.</p><h5 id=\"-strong-negative-strong-br-\"><strong>Negativo:</strong></h5><p>Você tende a se perder na luta. Toda vez que você reduzir os PV de uma criatura a 0, você deve rolar um d20 sem nenhum modificador. Se o resultado for 4 ou menos, você ganha a condição frenesi. Toda vez que você reduzir uma criatura a 0 PV após a primeira criatura, aumente a CD em 1, até um máximo de 11. Isso é reduzido em 3 ao final de cada combate, até um mínimo de 4.</p>"
+  },
+  "mD4f53Dq7BLKCUH1": {
+   "name": "Delirante",
+   "description": "<p><em>\"Vou resolver equações com a mão direita e escrever nomes com a esquerda. Vou pegar uma batatinha frita... E COMER!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você tem uma perspectiva distorcida do mundo e das pessoas nele. Isso permite que sua mente te proteja do estresse do mundo real. Duas vezes por descanso longo, você pode fazer um teste de perícia de Percepção no lugar de qualquer outro teste de perícia. Além disso, você soma 1d4 a todos os testes de resistência para determinar se você está sob um genjutsu ou se algo é uma ilusão, já que os outros são incapazes de recriar a forma como você vê o mundo.</p>"
+  },
+  "miLV4TYktEfwJ7TZ": {
+   "name": "Lutador Casca-Grossa",
+   "description": "<p><em>\"Eu não ouvi nenhum sino.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Não há nada mais vergonhoso do que perder uma luta sem acertar um único golpe. Uma vez por rodada, quando você sofreria dano de um ataque corpo a corpo, você pode imediatamente fazer um ataque desarmado ou com arma corpo a corpo contra a criatura que te causou dano. Você não pode somar nada ao dano deste ataque. Você realiza este ataque antes que o dano reduza seus PV.</p>"
+  },
+  "n33vjQCj26INmZEk": {
+   "name": "Mente Tática",
+   "description": "<p><em>\"Todo mundo cuidado! O Fogo está extremamente quente!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você é capaz de obter informações importantes rápido o suficiente para que os outros se beneficiem delas. Duas vezes por descanso longo, você pode ler um inimigo ou um jutsu que tenha sido conjurado. Quando você começa a ler seu alvo, seu Mestre faz, em segredo, um teste simples de Inteligência com CD 10 + metade do bônus de proficiência da criatura ou da criatura conjuradora, arredondado para baixo, por você. Em um sucesso, se você estava tentando ler um jutsu, o Mestre te dá uma breve descrição dos efeitos do jutsu, que geralmente deve incluir o tipo de dano, qual teste de resistência (se algum) ele exige, e seu alcance. Se você estava tentando ler uma criatura, o Mestre te dá uma breve descrição do histórico da criatura, que geralmente inclui quais elementos a criatura pode usar, quais aliados a criatura possui, e se a criatura tem alguma fraqueza ou resistência marcante, como um teste de resistência forte ou uma fraqueza a um tipo de dano. Em uma falha, o Mestre te dá informações incorretas.</p>"
+  },
+  "n5ebUzuFuinMast1": {
+   "name": "Mestre de Fuinjutsu",
+   "description": "<p>Também no 1º nível, os Uzumaki conseguem utilizar jutsus com a palavra-chave Fuinjutsu muito melhor que a maioria. Uma vez por descanso, você pode conjurar um jutsu que conhece com a palavra-chave Fuinjutsu que tenha um tempo de conjuração de 1 ação, como uma ação bônus. Isso aumenta para duas vezes por descanso no 11º nível e três vezes por descanso no 18º nível.</p>"
+  },
+  "n5ebUzuReserve01": {
+   "name": "Reservas de Chakra",
+   "description": "<p>Os Uzumaki possuem uma rede secundária especial de Chakra só sua, conhecida como suas reservas de Chakra. Esta reserva de Chakra pode ser invocada à vontade para revitalizar lentamente sua reserva normal de Chakra. </p><p>A partir do 1º nível, você manifesta essa segunda reserva de Chakra, conhecida como <em><strong>Células de Reserva</strong></em>. Essas células são um produto dessa rede secundária especial, que permite que você permaneça totalmente carregado e preparado para a batalha.</p><p>Você possui uma quantidade de <em><strong>Células de Reserva</strong></em> igual ao seu nível por descanso longo. Você pode gastar essas células para realizar qualquer uma das seguintes ações;</p><ul><li><p>Como uma ação bônus, você pode gastar qualquer número de células, recuperando 1d8 pontos de Chakra por célula gasta. Isso aumenta para um d10 no 11º nível.</p></li><li><p>Quando você for fazer um descanso, pode gastar até duas células para recuperar +2 de Chakra adicional por dado de chakra rolado.</p></li><li><p>A partir do 7º nível, quando você for sofrer dano de Chakra, pode, como uma reação, gastar até 3 células para reduzir o dano sofrido em uma quantidade igual a 1d10 + constituição, por célula gasta.</p></li></ul>"
+  },
+  "n5ebUzuWell00001": {
+   "name": "Nascente de Chakra",
+   "description": "<p>Os Uzumaki são conhecidos por suas reservas massivas de Chakra. A partir do nível 1, aumente seu total de pontos de Chakra em 2, e depois disso, a cada vez que você subir de nível, aumente seu total de pontos de Chakra em 2.</p>"
+  },
+  "nLp3u9rAtqEPmdyg": {
+   "name": "Tela Vazia",
+   "description": "<p><em>\"Eu não sou um pervertido... eu sou um super pervertido!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você acha muito fácil imitar os outros. Você soma 1d4 a todos os testes de Enganação, e a cada subida de nível você pode trocar dois jutsus conhecidos por jutsus diferentes de qualquer rank que você seja capaz de aprender ao subir de nível.</p><h5 id=\"negative\">Negativo</h5><p>Você tem dificuldade em formar sua própria identidade e densidade. O custo em tempo de descanso (downtime) de jutsus aumenta em 50% se você não estiver sendo ensinado por um mestre.</p>"
+  },
+  "nnLSnT0PjRvmJi6q": {
+   "name": "Melhor Defesa",
+   "description": "<p><em>\"...é um bom ataque.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Enquanto não estiver em combate, ou durante a primeira rodada de combate, você aumenta o tamanho do dado de dano de todos os jutsus que conjura em 1 degrau.</p><h5 id=\"negative\">Negativo</h5><p>Jutsus que você conjura e que te concederiam redução de dano, pontos de vida temporários, ou que fariam você rolar dados de vida, têm seu tamanho de dado reduzido em 1 degrau.</p>"
+  },
+  "nxaRooAHJ4ezEtxp": {
+   "name": "Adaptação de Um Braço Só",
+   "description": "<p><em>\"Eu não sou incapacitado,<br>eu sou capacitado-com-a-mão.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Seu valor máximo de Destreza aumenta em 22. Sua <br>percepção passiva aumenta em 1, e você pode usar <br>sua ação bônus para fazer um Ataque desarmado</p><h5 id=\"negative\">Negativo</h5><p>Você só tem 1 braço. Você não pode usar armas de duas mãos, e todos os jutsus com o componente HS exigem 2 chakra adicionais para você conjurar.</p>"
+  },
+  "oh1Uwq9y9zb8l1bK": {
+   "name": "Escorregadio",
+   "description": "<p><em>\"Eu tenho um mau pressentimento sobre isso\"</em></p><h5 id=\"-strong-benefit-strong-br-\"><strong>Benefício:</strong></h5><p>Você tem um olhar cauteloso, chegando à paranoia. Uma vez por descanso longo, quando você rolar iniciativa, você pode se mover até o seu deslocamento. Esse movimento acontece antes que a ordem de iniciativa seja determinada.</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo:</strong></h5><p>Seus movimentos rápidos te deixam instável e incapaz de se defender. Depois de usar o benefício deste traço, sua CA é reduzida em 2 até o início do seu primeiro turno.</p>"
+  },
+  "ozPUmCaJwHD4TZ1x": {
+   "name": "Palhaço da Turma",
+   "description": "<p><em>\"Eu perguntei a ela o que havia lá em cima, e ela respondeu: o céu.\"</em></p><h5 id=\"benefit-\"><strong>Benefício:</strong></h5><p>Você tem um jeito de transformar tudo em piada. Seu valor máximo de Carisma aumenta em 2. Além disso, uma vez por descanso curto, você pode usar Atuação em vez de Intimidação ou Persuasão ao fazer um teste de perícia.</p><h5 id=\"negative-\"><strong>Negativo:</strong></h5><p>Ninguém tem medo de um palhaço. Você subtrai -1d4 de todos os testes de Intimidação.</p>"
+  },
+  "q32JNmRe3GPDFtJC": {
+   "name": "Insone",
+   "description": "<p><em>\"Eu e meu travesseiro temos um relacionamento à distância\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você não pode mais ganhar exaustão por falta de sono.</p><h5 id=\"negative\">Negativo</h5><p>Descansos longos levam 12 horas em vez de 8 horas.</p>"
+  },
+  "qx58b8GSepdV0DA1": {
+   "name": "Sortudo de Ter Nascido",
+   "description": "<p><em>\"Toda a minha vida eu lutei\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Como você teve que trabalhar duro por tudo em sua vida, você se tornou um excelente generalista. Cinco vezes por descanso longo, você pode somar um d4 a qualquer rolagem de d20.</p><h5 id=\"negative\">Negativo</h5><p>Você nunca tem sucesso em nada na primeira, segunda ou terceira tentativa. No início de cada sessão, você começa com 0 pontos de VdF em vez de 1.</p>"
+  },
+  "qyEA34I7RPYJaQPZ": {
+   "name": "Espírito Dourado",
+   "description": "<p><em>\"A juventude desta cidade tem um espírito dourado. O mesmo espírito dourado brilhando com justiça que nós vimos... Enquanto ele estiver lá, eles vão ficar bem.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você é capaz de extrair poder dos seus aliados de forma bem literal. Seus aliados podem usar pontos de Vontade em você como se você fosse eles. Além disso, quando uma criatura aliada seria reduzida a 0 PV, ela pode te conceder seu poder restante. Você ganha uma quantidade de PV temporários e PC igual à metade do PC restante dela, e seu bônus de proficiência aumenta em 1 pelo próximo minuto. Quando uma criatura te concede seu poder restante, seu chakra é reduzido a 0 e ela ganha 1 rank de exaustão.</p>"
+  },
+  "r7JsXFpzNgypq8ip": {
+   "name": "Aprendiz Visual",
+   "description": "<p>\"Ah, continue sonhando, garoto! São necessários 50 anos de treinamento duro para aprender isso!\"</p><h5 id=\"benefit\">Benefício</h5><p>Você sempre foi muito bom em aprender coisas na hora. Uma vez por descanso longo, como uma Reação, você pode tentar copiar um Jutsu em uso que você possa ver, cujo rank seja igual ou menor que seu rank máximo normal de conjuração de jutsu. Para copiar o jutsu, ele precisa ser um jutsu que você seria capaz de aprender usando tempo de descanso (downtime). Para copiar o jutsu, você deve ser bem-sucedido em um teste (10 + Nível do Jutsu, Rank D: 1, Rank C: 2, Rank B: 3, Rank A: 4, Rank S: 5) usando o valor de atributo correspondente ao Jutsu (valor de atributo de Ninjutsu, Genjutsu ou Taijutsu). Em um sucesso, o jutsu é temporariamente adicionado à sua lista de Jutsus até que você copie outro jutsu ou faça um descanso curto ou longo. Em uma falha, você não o aprende. Em um sucesso crítico, você aprende o jutsu permanentemente.</p>"
+  },
+  "rXaAB8IZojl07kn1": {
+   "name": "Repetente",
+   "description": "<p><em>\"Essa é a sua 3ª vez fazendo os exames de genin, tem certeza de que quer ser um ninja? Tem demanda para padeiros\"</em></p><h5 id=\"prerequisites\">Pré-requisitos</h5><p>Ter pelo menos um atributo com valor abaixo de 10</p><h5 id=\"benefit\">Benefício</h5><p>Você teve muito mais tempo para treinar do que seus colegas, por ter repetido a 2ª série 3 vezes. Seu PV e PC máximos aumentam como se você tivesse um dado de vida e um dado de chakra extras. (Você não ganha um dado de vida ou de chakra extra) e você pode aprender 2 jutsus de Rank E extras.</p><h5 id=\"negative\">Negativo</h5><p>Seu bônus de proficiência é reduzido em 1, até você alcançar <br>o nível 8.</p>"
+  },
+  "rnn4BlSRA34dcI77": {
+   "name": "Fumante",
+   "description": "<p>\"É assim que funciona, certo?\"</p><h5 id=\"benefit-\">Benefício:</h5><p>Você sempre carrega consigo um pacote confiável de cigarros. Em situações estressantes, você pode usá-los para acalmar sua mente. Uma vez por descanso longo, você pode reduzir a duração de um descanso curto para 10 minutos.</p><h5 id=\"negative-\"><strong>Negativo:</strong></h5><p>Seus pulmões não são tão bons quanto os dos outros. Você consegue aguentar a respiração pela metade do tempo, e subtrai 1d6 de todos os testes de atributo, testes de perícia e testes de resistência contra, ou para interagir com, qualquer forma de efeito de Gás ou Inalação.</p>"
+  },
+  "rx8QmtyNnhm0wTVp": {
+   "name": "Brigão",
+   "description": "<p><em>\"Ha Ha\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você tem muita experiência em irritar os outros. Quando você usa a perícia Intimidação, você soma um d6 à rolagem. Além disso, você pode usar a ação de empurrar como uma ação bônus.</p><h5 id=\"negative\">Negativo</h5><p>Durante toda a sua vida, você tratou as pessoas como lixo, fazendo com que não gostem de você e não confiem em você. Sempre que você fizer um teste de perícia de Enganação, Atuação ou Persuasão, você subtrai um d4 da rolagem.</p>"
+  },
+  "sN9rYxN6ItT1cUrp": {
+   "name": "Profundamente Religioso",
+   "description": "<p><em>\"Eu sei que é irritante, mas é a minha religião!\"</em></p><h5 id=\"-strong-benefit-strong-\"><strong>Benefício:</strong></h5><p>Seu deus derrama seu favor sobre você. Uma vez por dia, você ganha a capacidade de canalizar a divindade do seu Deus. Quando você canaliza a divindade do seu Deus, você recupera 1 uso de qualquer característica de clã ou classe de uso limitado, ou reduz o custo de ação de uma característica de clã ou classe em 1 estágio. (Ação de Turno Completo &gt; Ação &gt; Ação Bônus/Reação)</p><h5 id=\"-strong-negative-strong-\"><strong>Negativo:</strong></h5><p>Você deve gastar pelo menos 10 minutos por dia honrando seu Deus através da realização de diversos rituais. Se você não fizer isso, você perde acesso aos benefícios deste traço, até honrar seu Deus por 1 hora.</p>"
+  },
+  "sc79YbuB4qHq5hIL": {
+   "name": "Cabeça Fria",
+   "description": "<p><em>\"Não há vantagem em se precipitar\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Seu valor máximo de Inteligência aumenta em 2, e você ganha resistência à condição frenesi.</p><h5 id=\"negative\">Negativo</h5><p>Em momentos de emergência, você se vê ficando atrás dos outros. Você sofre uma penalidade de -3 em rolagens de Iniciativa.</p>"
+  },
+  "tGaXtlcT2DcNsr8a": {
+   "name": "Esforçado Demais",
+   "description": "<p><em>\"Um fracote como você nunca poderia vencer!\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você está sempre tentando vencer, seja em uma luta até a morte ou em um jogo de cartas infantil. Você tem um número de d4s igual ao seu bônus de proficiência que pode somar a qualquer jogada de ataque ou teste de resistência.</p><h5 id=\"negative\">Negativo</h5><p>Quando você sente que vai perder, você começa a perder o equilíbrio e passa a ter um desempenho muito pior do que o normal. Quando você está abaixo de 50% dos PV, você rola um d4 e subtrai metade do resultado das suas jogadas de ataque e testes de resistência.</p>"
+  },
+  "tcefveldaIDC0DZZ": {
+   "name": "Corpo Protético",
+   "description": "<p><em>\"Queria ainda poder nadar\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Devido a algum ferimento ou evento em sua vida, partes do seu corpo foram substituídas por peças protéticas. Por causa do seu peso, você tem vantagem em testes de resistência para evitar ser movido, e você pode usar Força em vez de Destreza para calcular sua CA. Seu valor máximo de Força aumenta em 2.</p><h5 id=\"negative\">Negativo</h5><p>Devido ao quão pesado é seu corpo, seu deslocamento é reduzido em 10 pés, sua iniciativa é reduzida em 1, e sua corpulência é reduzida em 3. Além disso, você não consegue mais nadar, já que seu peso te faz afundar.</p>"
+  },
+  "tkoEKUX7HnafBBI0": {
+   "name": "Novo Nisso",
+   "description": "<p><em>\"Sabe, eu acho que não estava realmente preparado para isso\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você ganha proficiência em 2 perícias ou ferramentas de sua escolha.</p><h5 id=\"negative\">Negativo</h5><p>Você começa com 1 jutsu a menos.</p>"
+  },
+  "uDcoT4FB7a545Anp": {
+   "name": "Óculos Estilosos",
+   "description": "<p><em>Tira um novo par de óculos escuros depois que o primeiro quebrou \"Você estava dizendo\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você está sempre usando seus confiáveis óculos de sol. Você ganha 1d6 em testes de resistência para evitar ganhar a condição cego. Além disso, se seus óculos forem destruídos, você pode tirar outro par uma vez por descanso longo. Quando fizer isso, role 1d4. Se o resultado for 3 ou 4, você ganha 1 ponto de VdF. Se o resultado for 4, você ganha um uso adicional desta característica.</p><h5 id=\"negative\">Negativo</h5><p>Sempre que você sofreria metade do seu PV máximo em dano em um único turno, você deve fazer um teste simples CD 10.<br>Em uma falha, seus óculos são danificados a ponto de ficarem inutilizáveis. <br>Em um sucesso, nada acontece. <br>Você não pode compartilhar seus óculos com outras criaturas.</p>"
+  },
+  "uIvS0E5XLSSVU8S4": {
+   "name": "Não é Daqui",
+   "description": "<p><em>\"Isso se chama bom senso, de onde eu venho.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Seu valor máximo de Sabedoria aumenta em 2. Além disso, ao rolar iniciativa, em vez de usar Destreza, você pode usar Sabedoria.</p><h5 id=\"negative\">Negativo</h5><p>Você e sua família vêm de um lugar com tradições e costumes diferentes; por causa disso, você teve dificuldade em se adaptar. Você sofre -2 em todos os testes de Intuição e Persuasão.</p>"
+  },
+  "uoP7MEscHphY4dY8": {
+   "name": "Faça o Que Você Faz Bem",
+   "description": "<p><em>\"Você ama tanto a carreira que escolheu como shinobi que quer aprender tudo o que há para saber.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você ama seu trabalho e tudo o que ele envolve. Você ganha especialização em uma das perícias oferecidas pela sua classe e pode escolher um TALENTO DE CLASSE CONJURADORA ou um TALENTO DE CLASSE MARCIAL como seu talento de antecedente, tratando-se como de nível 4.</p><h5 id=\"negative\">Negativo</h5><p>Você não pode fazer multiclasse nem ganhar um TALENTO DE CLASSE ARQUÉTIPO</p>"
+  },
+  "us8R5grD8h65aspP": {
+   "name": "Cientista Louco",
+   "description": "<p><em>\"O verdadeiro crime seria não terminar o que começamos.\"</em></p><h5 id=\"-strong-prerequisite-strong-\"><strong>Pré-requisito:</strong></h5><p>Você deve ter um valor de Inteligência de 16 ou maior.</p><h5 id=\"-strong-benefit-strong-\"><strong>Benefício:</strong></h5><p>Você assumiu para si a missão de evoluir a arte do ninjutsu. Você acredita que há muito mais que pode ser feito para melhorar a eficácia das artes ninjas. Você ganha uma Moldagem Eficiente da classe Especialista em Ninjutsu. Além disso, você se trata como 1 tier de nível mais alto ao conjurar Jutsus de Rank E.</p>"
+  },
+  "vCNMUqCK2uSGug8A": {
+   "name": "Quatro-Olhos",
+   "description": "<p><em>\"Nossa\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Quando você está usando óculos, você soma 1d4 a todos os testes de Investigação e Intuição. Além disso, uma vez por sessão, enquanto estiver envolvido em um encontro social onde duas ou mais partes estão em conflito, você pode levantar seus óculos e revelar uma nova informação (essa informação não precisa ser verdadeira). <br>Quando você fizer isso, você ganha vantagem em seu próximo teste de Persuasão ou Enganação.</p><h5 id=\"negative\">Negativo</h5><p>Quando você não está usando óculos, você ganha a condição cego.</p>"
+  },
+  "wB9iiFy1VA75hfDd": {
+   "name": "Ingenuidade Inocente",
+   "description": "<p><em>\"Em outro mundo, nós poderíamos ter sido amigos\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você sempre consegue encontrar uma forma de resolver a situação com todos vivos. Ao persuadir alguém para tentar um desfecho pacífico, você rola um d6 adicional em todos os testes de Carisma. Você também pode escolher causar dano não letal com qualquer tipo de dano.</p><h5 id=\"negative\">Negativo</h5><p>Sempre que você vir alguém morrer, você deve rolar um d20 sem nenhum modificador. Se a pessoa era um inimigo sem nome, a CD é 6. Se a pessoa era um aliado sem nome, a CD é 10. Se a pessoa era um inimigo nomeado, a CD é 13. Se a pessoa era um aliado nomeado, a CD é 16. Se você rolar menos que a CD, você sofre 1d6 de dano psíquico. Esse dano não pode ser reduzido de forma alguma.</p>"
+  },
+  "wZ10p83Kc1GQkoPd": {
+   "name": "Mestre Preditor",
+   "description": "<p><em>\"Tsugi ni omae wa\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você ganha a opção de seu Mestre te dizer honestamente qual <br>será o próximo turno de uma criatura. Isso só pode ser feito uma vez por descanso longo.</p><h5 id=\"negative\">Negativo</h5><p>Devido à sua inteligência, você se superestima, mesmo que isso custe caro aos seus aliados.</p>"
+  },
+  "wuDhGkTcZS5OKvl6": {
+   "name": "Gaslighter de Genjutsu",
+   "description": "<p><em>\"Homens são mentirosos. Vamos mentir sobre mentir se for preciso. Eu sou um mentiroso de álgebra. Acho que duas boas mentiras formam um positivo.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você aprendeu a usar genjutsu no seu dia a dia para conseguir o que quer. Duas vezes por descanso longo, quando você fizer qualquer teste de perícia baseado em Carisma visando 1 criatura, você pode, em vez disso, forçar essa criatura a fazer um teste de resistência de Sabedoria contra sua CD de Genjutsu.</p>"
+  },
+  "x4cMJVZNUEATYwRJ": {
+   "name": "Anjo de Uma Ala",
+   "description": "<p><em>\"Então pelo que um anjo deveria lutar, Zack? Com o que os anjos sonham?! Os anjos sonham com uma única coisa... Ser humano.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você tem uma única ala brotando das suas costas. Seu valor máximo de Destreza aumenta em 2. Você ganha um deslocamento de voo plana (glide) igual ao seu deslocamento normal. Além disso, você pode usar sua ação bônus para ganhar um deslocamento de voo igual à metade do seu deslocamento normal.</p><h5 id=\"negative\">Negativo</h5><p>Você não pode usar armadura pesada.</p>"
+  },
+  "xCdmD8vrudR1BnSU": {
+   "name": "Separar Vida Profissional e Pessoal",
+   "description": "<p><em>\"Você deixa isso na porta; quando entra neste lugar, você é feliz, não importa o que aconteça\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você aprendeu a separar sua vida profissional da sua vida pessoal. Não importa o que aconteça no trabalho, você consegue deixar isso de lado e pensar em outras coisas. Seu valor máximo de Carisma agora é 22. Você pode marcar um inimigo usando sua ação bônus um número de vezes igual ao seu modificador de Carisma. Você soma seu modificador de Carisma à primeira instância de dano causado em cada turno contra Inimigos marcados. A marca dura 1 minuto. Você não pode marcar o mesmo inimigo mais de duas vezes.</p><h5 id=\"negative\">Negativo</h5><p>Quando você marca um inimigo, você perde a capacidade de usar Persuasão em qualquer criatura aliada a esse inimigo por 1d4 dias, e sofre -1 em todos os testes baseados em Carisma por 1 dia. Você também fica, de forma geral, menos sociável após marcar um inimigo pelo restante do dia.</p>"
+  },
+  "xVKGEdaYUtkf4pCH": {
+   "name": "Valor Roubado (Clã Danzo)",
+   "description": "<p><em>\"É, eu ajudei.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você sabe como é estar tão perto de alcançar a grandeza só para vê-la ser roubada por um aliado, e você descarrega essa fúria nos outros. Se um aliado rolar um 20 natural em qualquer rolagem enquanto você estiver a até 30 pés dele, você ganha um Ponto Roubado. Você só pode ter 2 pontos roubados por vez. Quando um inimigo faz um teste de resistência por causa de um jutsu que você conjurou, você pode escolher gastar 1 Ponto Roubado para fazer o alvo subtrair 1d4 do teste.</p><h5 id=\"negative\">Negativo</h5><p>Suas conquistas parecem ser ignoradas pelos outros, mesmo sendo tão grandes, ou até maiores, que as de seus aliados, mas seus fracassos são notados e criticados por muitos. Quando você rolar um 1 natural em qualquer rolagem, você ganha uma penalidade de -2 na sua próxima rolagem.</p>"
+  },
+  "yJSBAWnxD6CHKdCs": {
+   "name": "Buscador de Poder",
+   "description": "<p><em>\"Eu não vou parar, eu não vou descansar, eu vou alcançar meu objetivo ou morrer tentando\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você regularmente empurra seu corpo além dos seus limites em busca de poder. Seu valor máximo de Constituição aumenta em 2, e você ganha a capacidade de gastar Dados de Vida durante descansos para recuperar Pontos de Chakra.</p><h5 id=\"negative\">Negativo</h5><p>Você não pode usar tempo de descanso (downtime) para aprender jutsus de Rank D ou inferior.</p>"
+  },
+  "yo1e6zqqf6ptapzc": {
+   "name": "Só os Fortes",
+   "description": "<p><em>\" Força é a única coisa que importa neste mundo. Tudo o mais é apenas uma ilusão para os fracos.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você busca o verdadeiro poder, pois entende que a força está sempre certa. Seu valor máximo de Força aumenta em 2. Sempre que você conjurar um jutsu, você pode fazer upcast dele em 1 rank acima do seu rank máximo normal de conjuração.</p><h5 id=\"negative\">Negativo</h5><p>Todos os custos de upcast de chakra aumentam em 1.</p>"
+  },
+  "yxyAIqoS76dV5S24": {
+   "name": "Sangue Jovem",
+   "description": "<p><em>\"Sangue jovem deve seguir seu curso, garoto, e cada cão tem seu dia\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Como um novo promissor, você está extremamente ansioso para provar seu valor, mesmo que sua inexperiência seja claramente visível. Toda vez que você falha em um teste de perícia, teste de resistência ou jogada de ataque, você ganha um ponto de sangue jovem. Você pode ter até 5 pontos de sangue jovem por vez. Você pode usar um ponto de sangue jovem para somar 1 ao resultado de qualquer rolagem de d20. Pontos de sangue jovem são zerados durante qualquer descanso.</p>"
+  },
+  "zDtTNkXiYo3CStrv": {
+   "name": "Força Vital Forte",
+   "description": "<p><em>\"Minha mãe me chama de um grande feixe de energia.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Seu valor máximo de Constituição aumenta em 2. Você pode gastar 3 dados de vida para adicionar um sucesso a um teste de resistência contra a morte; você pode fazer isso uma vez por turno. Você também só rola testes de resistência contra a morte a cada dois turnos.</p><h5 id=\"negative\">Negativo</h5><p>Você precisa do dobro da quantidade de comida que um shinobi normal precisa para sobreviver, e tem dificuldade em ficar quieto.</p>"
+  },
+  "zaVqcLqSd94SQDqJ": {
+   "name": "Cruel Sem Necessidade",
+   "description": "<p><em>\"Dorme, criancinha, não diga nada / Mamãe vai matar o mundo todo por você.\"</em></p><h5 id=\"benefit\">Benefício</h5><p>Você tende a ir além do necessário quando se trata de liquidar seus inimigos. Duas vezes por descanso longo, você pode gastar sua ação bônus para maximizar o dano do seu próximo ataque ou jutsu que tenha como alvo uma criatura ensanguentada (bloodied). Você também ganha a capacidade de usar sua reação, quando atacar com sucesso uma criatura ensanguentada, para forçá-la a fazer um teste simples CD 10 ou ganhar a condição aturdido.</p>"
+  }
+ }
+}

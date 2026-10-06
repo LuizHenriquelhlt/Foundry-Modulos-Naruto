@@ -1,0 +1,373 @@
+{
+ "label": "HB NPC",
+ "folders": {},
+ "entries": {
+  "C5xvjt9OyQmHnj4r": {
+   "name": "Corcel Hyliano",
+   "items": {
+    "VfWWFj7XDQFNJpHh": {
+     "name": "Resistências a Condições",
+     "description": "<p>Agarrado, Incapacitado, Paralisado, Contido, Atordoado</p>"
+    },
+    "fTEpdLXKhdUUSzp7": {
+     "name": "Besta Sábia",
+     "description": "<p>Seu Corcel Hyliano recebe o dado de vida, as proficiências em perícias, as estatísticas e as características de invocação da <a href=\"https://homebrewery.naturalcrit.com/share/19qNYpTtJV0OFJoliy1pe-lrAkw6Xz4jRh76oE-t7ppvi\">Invocação de Cavalo</a> (esta invocação pode ser encontrada no Compêndio Team 7) da Técnica de Invocação. O rank do seu Corcel conta como seu rank de jutsu mais alto conhecido. Os aumentos de valor de atributo e as características de invocação que seu Corcel recebe não podem ser alterados depois de distribuídos. O tamanho do seu Corcel nunca pode ser maior que grande. O Corcel Hyliano começa com as 3 características de Rank D da Invocação de Cavalo, e ganha uma característica adicional baseada em rank cada vez que seu rank aumentar. O Corcel Hyliano não pode adquirir traços que lhe permitam causar dano ou atacar, já que ele não pode atacar por conta própria (porém, pode adquirir traços que permitam a um montador aumentar seu ataque ou sua jogada de dano).</p>"
+    },
+    "kuKXMRCKWjrzXhIP": {
+     "name": "Espírito Vinculado",
+     "description": "<p>Você e seu Corcel Hyliano podem se comunicar telepaticamente a uma distância de 1 milha. Embora o Corcel não possa falar, ele pode comunicar emoções. Além disso, jutsus que você conjura e que afetariam apenas você também afetam seu Corcel Hyliano.</p>"
+    },
+    "r5WkxzjOzP15KpC5": {
+     "name": "Montaria Leal",
+     "description": "<p>O Corcel Hyliano só obedece a você ou, na sua ausência, a seus aliados. O Corcel Hyliano não pode ser controlado ou montado contra sua vontade. Se uma criatura tentar montar o cavalo sem permissão, ela atravessa o cavalo e cai.</p>"
+    },
+    "um5tahWvvnmC1Q9p": {
+     "name": "Forma Etérea",
+     "description": "<p>O Corcel Hyliano pode carregar até 2 criaturas de tamanho médio, ou 1 criatura grande. O Corcel Hyliano protege a si mesmo e seus montadores dos primeiros 60 pés de dano de queda; depois disso, tanto o montador quanto o corcel sofrem dano de queda normalmente. Em combate, o Corcel Hyliano desaparece ao final do turno de seu invocador. O Corcel Hyliano também desaparece se você for desmontado dele e ele não conseguir vê-lo por um minuto inteiro. Quando o Corcel Hyliano desaparece, todos os montadores e objetos que ele estava carregando caem suavemente no chão.</p>"
+    },
+    "vs5DpcsZeqnLHyM8": {
+     "name": "Passo Corajoso",
+     "description": "<p>O Corcel Hyliano ignora terreno difícil, tem o dobro de sua altura de salto normal e possui um deslocamento de caminhada sobre a água igual ao seu deslocamento de movimento. Enquanto estiver montado no Corcel, o montador pode gastar sua ação bônus, um número de vezes igual ao seu modificador de Carisma (mínimo 1) por descanso longo, para dobrar o deslocamento do Corcel e conceder a ele os benefícios das ações Esquivar e Desengajar por 1 rodada.</p>"
+    }
+   }
+  },
+  "CRT4OFYubluNpWAA": {
+   "name": "Avatar Distorcido",
+   "items": {
+    "AkWZiWYx3HolhA3p": {
+     "name": "Poder Distorcido",
+     "description": "<p>Você ganha um bônus de +10 em Jogadas de Ataque, Jogadas de Dano e CD de Resistência. </p><p>Além disso, suas Artes e Ataques ignoram Redução de Dano e Resistência.</p>"
+    },
+    "HyPV0wxUl199UoMg": {
+     "name": "Arte Distorcida",
+     "description": "<p>Seu Avatar Distorcido pode conjurar suas Artes Vermelhas como se você mesmo as tivesse conjurado. </p><p>Você gasta Chakra Distorcido normalmente ao fazer isso, e também usa seus bônus de Ataque e sua CD de Resistência. </p><p>Além disso, você pode conjurar Técnicas de Arte Vermelha de Nível 5.</p>"
+    },
+    "i1VBTIiXCTod9IEn": {
+     "name": "Robustez Distorcida",
+     "description": "<p>Seu Avatar Distorcido ganha uma quantidade de Pontos de Vida Temporários igual ao Custo de Chakra Distorcido de qualquer Arte Distorcida que conjure, </p><p>recupera 50 Pontos de Vida no início de cada um de seus turnos, e ganha um bônus de +3 em Testes de Resistência.</p>"
+    },
+    "ifi2cdF7bY5VDkX8": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>Seu Manto de Besta Distorcida pode fazer 3 ataques de Arma Natural.</p>"
+    },
+    "o4N3KdK7c1FukgLC": {
+     "name": "Resistência Distorcida",
+     "description": "<p>Seu Avatar Distorcido usa sua Constituição + seu Bônus de Proficiência para todos os seus Testes de Resistência.</p>"
+    },
+    "oVSxbNOqVCipsrHD": {
+     "name": "Arma Natural"
+    }
+   }
+  },
+  "HDYfLXz7akNSDmnu": {
+   "name": "Guarda-costas Extravagante",
+   "items": {
+    "38IQAjHmnS3QZYf3": {
+     "name": "Presença Chamativa (Recarrega em 5-6)",
+     "description": "<p>O guarda-costas aprimora seu próprio corpo e figura com chakra, tornando-se ainda mais deslumbrante que o normal, impressionando todas as criaturas em sua presença.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:ScalySansRemake;font-size:12.0189px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(242, 229, 181);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Toda criatura dentro de 30 pés deve fazer um teste de resistência de Sabedoria ou ganhar um rank de enfeitiçado pelo guarda-costas.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:ScalySansRemake;font-size:12.0189px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(242, 229, 181);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Em uma falha, a criatura não pode realizar ações hostis contra ele ou a Gueixa e ganha 1 rank de ofuscado.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;margin-bottom:0px;color:rgb(0, 0, 0);font-family:ScalySansRemake;font-size:12.0189px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(242, 229, 181);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />As criaturas afetadas podem refazer o teste de resistência ao final de seu próximo turno.</p>"
+    },
+    "3U8lVC5AzLh4DCDz": {
+     "name": "Dependência Forçada",
+     "description": "<p>Devido ao selo especial que vincula o guarda-costas à Gueixa, ele é proibido de aprender ou usar jutsus de invocação ou qualquer jutsu que invoque outras criaturas.</p>"
+    },
+    "3s2Ul5v004UAB0tr": {
+     "name": "Trapaça Invisível",
+     "description": "<p>Se o guarda-costas for bem-sucedido em um teste de Prestidigitação contra a Percepção de um alvo, ele pode conjurar um Genjutsu sem ser visto. O alvo não pode reagir a este Genjutsu.</p>"
+    },
+    "AIQi6GzX5hIGFBBu": {
+     "name": "Armamento Ilusório",
+     "description": "<p>O guarda-costas pode criar uma versão de aparência roxa de qualquer arma simples. Esta arma é considerada potencializada por chakra, e seu dado de dano é aumentado para o próximo estágio (1d4 → 1d6 → 1d8 → 1d10 → 1d12). Se a arma for à distância ou de arremesso, o guarda-costas também cria um conjunto completo de munição para ela.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;margin-bottom:0px;color:rgb(0, 0, 0);font-family:ScalySansRemake;font-size:12.0189px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(242, 229, 181);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />O guarda-costas pode criar uma arma no início do combate ou criar outra como uma ação bônus. O dano causado por esta arma é considerado psíquico.</p>"
+    },
+    "Ky38vsLnwUZCaSND": {
+     "name": "Suporte",
+     "description": "<p>Como uma ação bônus, o Extravagante pode distrair um inimigo se estiver dentro de 15 pés da Gueixa, reduzindo sua jogada de ataque em 1d4.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;margin-bottom:0px;color:rgb(0, 0, 0);font-family:ScalySansRemake;font-size:12.0189px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(242, 229, 181);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Para CD, a redução é a metade do resultado rolado (arredondado para baixo, mínimo de 1), em vez disso.</p>"
+    },
+    "Vk09TPzSam5jeOHJ": {
+     "name": "Carisma Excepcional",
+     "description": "<p>Os Genjutsus do guarda-costas ganham um bônus de +1 em sua CD (isso se torna +2 no nível 10).</p>"
+    },
+    "Xple1pklbVJAXDi4": {
+     "name": "Fio da Vida",
+     "description": "<p>Um guarda-costas que cai em batalha não morre. Em vez disso, ele é transportado para Hanamachi (A Cidade das Flores), onde será curado e restaurado para continuar servindo sua Gueixa.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Após um descanso longo, a Gueixa pode invocar o guarda-costas de volta ao seu lado.</p>"
+    },
+    "fk6uRhjadRVcgAN1": {
+     "name": "Selo de Lealdade",
+     "description": "<p>O guarda-costas é proibido de ferir qualquer membro do clã Gueixa, especialmente sua própria Gueixa, seja de forma voluntária ou acidental. Caso a Gueixa permita, ela pode temporariamente autorizar seu guarda-costas a ferir outros membros do clã em casos de emergência.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Qualquer tentativa de ferir um membro do clã Gueixa ou sua própria Gueixa resulta em dor excruciante, deixando o guarda-costas incapaz de agir naquele turno, se forçado, ou por 1 minuto, se a ação foi uma hostilidade voluntária contra qualquer membro do clã Gueixa.</p>"
+    },
+    "nZFzd6XTXm1qpDl6": {
+     "name": "A Mais Importante",
+     "description": "<p>Jutsus com alcance \"pessoal\", possuídos pelo guarda-costas, que servem para proteger, curar ou reduzir dano (conceder CA, conceder bônus em testes de resistência, conceder PV temporários, conceder RD ou similar) podem ser aplicados na Gueixa (não em ambos) caso ela esteja dentro de 30 pés de seu guarda-costas, em vez disso.</p>"
+    },
+    "xezx0pUICFKzIasA": {
+     "name": "Chamado do Dever",
+     "description": "<p>Como uma reação, a Gueixa pode invocar ou teleportar seu guarda-costas para protegê-la de dano, desde que estejam dentro de 30 pés.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />O guarda-costas se interpõe entre a Gueixa e quaisquer ataques ou efeitos prejudiciais que estejam chegando, concedendo a ela cobertura total.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Até mesmo ataques em área (AoE) serão totalmente absorvidos pelo guarda-costas, e os efeitos ou o dano são recalculados usando as estatísticas do guarda-costas.</p>"
+    }
+   }
+  },
+  "K3FC9Ks5bRS1fhpN": {
+   "name": "Guarda-costas Cavalheiro",
+   "items": {
+    "1YwMjsmKeYVcDJvt": {
+     "name": "Raio de Chakra"
+    },
+    "2GYAZF43g3qFZEYq": {
+     "name": "Mente Sobre a Matéria",
+     "description": "<p>O guarda-costas possui uma reserva de pontos de vida temporários igual ao seu modificador de proficiência +1 + (2 * nível). Essa reserva se renova no início de cada combate.</p>"
+    },
+    "Bksi3GQo46DZCxFR": {
+     "name": "A Mais Importante",
+     "description": "<p>Jutsus com alcance \"pessoal\", possuídos pelo guarda-costas, que servem para proteger, curar ou reduzir dano (conceder CA, conceder bônus em testes de resistência, conceder PV temporários, conceder RD ou similar) podem ser aplicados na Gueixa (não em ambos) caso ela esteja dentro de 30 pés de seu guarda-costas, em vez disso.</p>"
+    },
+    "Nco8SfiBAzSjhMb4": {
+     "name": "Dependência Forçada",
+     "description": "<p>Devido ao selo especial que vincula o guarda-costas à Gueixa, ele é proibido de aprender ou usar jutsus de invocação ou qualquer jutsu que invoque outras criaturas.</p>"
+    },
+    "RRTgZwBCVUtVxG2i": {
+     "name": "Conexão de Chakra",
+     "description": "<p>Se o guarda-costas usar qualquer tipo de jutsu defensivo com alcance pessoal, tanto ele quanto a Gueixa ganham o benefício do jutsu, em vez de ter que escolher quem proteger.</p>"
+    },
+    "Ri7IxAmv2x7kTzLz": {
+     "name": "Chamado do Dever",
+     "description": "<p>Como uma reação, a Gueixa pode invocar ou teleportar seu guarda-costas para protegê-la de dano, desde que estejam dentro de 30 pés.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />O guarda-costas se interpõe entre a Gueixa e quaisquer ataques ou efeitos prejudiciais que estejam chegando, concedendo a ela cobertura total.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Até mesmo ataques em área (AoE) serão totalmente absorvidos pelo guarda-costas, e os efeitos ou o dano são recalculados usando as estatísticas do guarda-costas.</p>"
+    },
+    "UyVZ3FJtnPkPQy62": {
+     "name": "Selo de Lealdade",
+     "description": "<p>O guarda-costas é proibido de ferir qualquer membro do clã Gueixa, especialmente sua própria Gueixa, seja de forma voluntária ou acidental. Caso a Gueixa permita, ela pode temporariamente autorizar seu guarda-costas a ferir outros membros do clã em casos de emergência.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Qualquer tentativa de ferir um membro do clã Gueixa ou sua própria Gueixa resulta em dor excruciante, deixando o guarda-costas incapaz de agir naquele turno, se forçado, ou por 1 minuto, se a ação foi uma hostilidade voluntária contra qualquer membro do clã Gueixa.</p>"
+    },
+    "a47dJKlNDpNSTf2K": {
+     "name": "Carta na Manga",
+     "description": "<p>O guarda-costas, uma vez por combate, pode conjurar um jutsu sem gastar um espaço de jutsu.</p>"
+    },
+    "dOo4ool0oaftfMRB": {
+     "name": "Suporte",
+     "description": "<p>Como uma ação bônus, o Cavalheiro pode criar um pequeno escudo para a Gueixa se estiver dentro de 25 pés, reduzindo o dano sofrido por ela em uma quantidade igual ao seu modificador de proficiência.</p>"
+    },
+    "fwPrf2gHHpwobRJZ": {
+     "name": "Explosão de Chakra (Recarrega em 5-6)"
+    },
+    "uOFB9yG6l2D2otJ4": {
+     "name": "Fio da Vida",
+     "description": "<p>Um guarda-costas que cai em batalha não morre. Em vez disso, ele é transportado para Hanamachi (A Cidade das Flores), onde será curado e restaurado para continuar servindo sua Gueixa.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Após um descanso longo, a Gueixa pode invocar o guarda-costas de volta ao seu lado.</p>"
+    }
+   }
+  },
+  "Ki9kRsCDesM2LrLJ": {
+   "items": {
+    "QMMydDIyInucSIM4": {
+     "name": "Mordida"
+    },
+    "cWrnSTAoxGDGOO2G": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O urso faz dois ataques: um com sua mordida e um com suas garras.</p>"
+    },
+    "eBNnfJGeBwHwYNMK": {
+     "name": "Táticas Cruéis",
+     "description": "<p>O Ursari Grizzly tem vantagem em jogadas de ataque contra uma criatura que ele, ou um de seus aliados ursos, tenha agarrado.</p>"
+    },
+    "pJxOH1mEPWoZ3DRG": {
+     "name": "Garras"
+    },
+    "sxd54BKp0AMe2fIc": {
+     "name": "Rugido",
+     "description": "<p>Quando o urso for fazer um ataque de mordida, ele pode em vez disso rugir para um alvo que consiga vê-lo ou ouvi-lo dentro de 30 pés. Esse alvo deve ser bem-sucedido em um teste de resistência de Sabedoria contra CD 17. Em uma falha, ganha 1 rank de Medo.</p>",
+     "condition": "Quando o urso faz um ataque de mordida"
+    },
+    "xTMcUscQEaMlVv9b": {
+     "name": "Olfato Aguçado",
+     "description": "<p>O Ursari Grizzly tem vantagem em testes de Sabedoria (Percepção) que dependam do olfato.</p>"
+    }
+   }
+  },
+  "bnh024hkEaDbjxrc": {
+   "name": "Abelha Rainha",
+   "items": {
+    "6Roqz7xULkiCWzFQ": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>A Abelha Rainha pode atacar 3 vezes com qualquer combinação de seu <em>Ferrão</em> ou <em>Jato de Mel</em>.</p>"
+    },
+    "9Uk7iila8K23fGMQ": {
+     "name": "Monstro de Cerco",
+     "description": "<p>Você causa dano dobrado a objetos e estruturas.</p>"
+    },
+    "BGsmS8PdDXoFxk0k": {
+     "name": "Jato de Mel",
+     "description": "<p>A criatura afetada pode gastar imediatamente sua reação na tentativa de se libertar, fazendo um teste de resistência de Força para escapar. </p><p>Se optar por não gastar sua reação para escapar imediatamente, ela deve gastar sua ação nos turnos subsequentes para fazer o teste de resistência de Força e encerrar a condição contido.</p>"
+    },
+    "CjYg1i0R9FCxeBf7": {
+     "name": "Veneno Potente",
+     "description": "<p>Criaturas envenenadas por você que forem recuperar pontos de vida de qualquer tipo têm a quantidade recuperada reduzida à metade</p>"
+    },
+    "VMOwYqC9yfUUt53o": {
+     "name": "Embate",
+     "description": "<p>Se a Abelha Rainha voar em linha reta por pelo menos 10 pés, ela pode realizar o ataque de Investida. Todas as criaturas em linha reta após a abelha ter se movido pelo menos 10 pés devem ser bem-sucedidas em um teste de resistência de Destreza, sofrendo 6d8 de dano de concussão e sendo derrubadas caídas em um teste falho, ou metade do dano em um sucesso.</p>",
+     "condition": "Se a Abelha Rainha voar em linha reta por pelo menos 10 pés"
+    },
+    "mJaJLqBnPmHqwO4T": {
+     "name": "Indomável",
+     "description": "<p>Você é imune a quaisquer efeitos que alterariam sua mente ou vontade.</p>"
+    },
+    "x9FLKWm5M10TPb6n": {
+     "name": "Veneno Imutável",
+     "description": "<p>O dano de veneno causado por esta criatura não pode ser resistido, e ela trata imunidade como resistência.</p>"
+    },
+    "xcBMkt6jJajWYxTX": {
+     "name": "Ferrão",
+     "description": "<p>Criaturas que sofrerem dano deste ataque devem fazer um teste de resistência de Constituição, ganhando 1 rank de empeçonhado em um teste falho.</p>"
+    }
+   }
+  },
+  "t1jGst8rEVD6eEAU": {
+   "name": "Guarda-costas Guerreiro",
+   "items": {
+    "0Vqn0QFivr1sGeOx": {
+     "name": "Por Minha Senhora (Recarrega em 5-6)",
+     "description": "<p>O guarda-costas começa a girar com sua arma, tentando acertar qualquer um dentro de um raio de 10 pés, mais 5 pés adicionais para cada traço de alcance que a arma possuir.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;margin-bottom:0px;color:rgb(0, 0, 0);font-family:ScalySansRemake;font-size:12.0189px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(242, 229, 181);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Todos dentro desse raio devem fazer um teste de resistência de Destreza ou sofrer 3 vezes o dano da arma em uma falha e ganhar 1 rank de sangrando para dano cortante e perfurante ou contundido para dano de concussão, ou metade do dano em um sucesso.</p>"
+    },
+    "5B4E4aXFKC0PVrjF": {
+     "name": "Selo de Lealdade",
+     "description": "<p>O guarda-costas é proibido de ferir qualquer membro do clã Gueixa, especialmente sua própria Gueixa, seja de forma voluntária ou acidental. Caso a Gueixa permita, ela pode temporariamente autorizar seu guarda-costas a ferir outros membros do clã em casos de emergência.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Qualquer tentativa de ferir um membro do clã Gueixa ou sua própria Gueixa resulta em dor excruciante, deixando o guarda-costas incapaz de agir naquele turno, se forçado, ou por 1 minuto, se a ação foi uma hostilidade voluntária contra qualquer membro do clã Gueixa.</p>"
+    },
+    "6jMsFjtGqR2RKb6j": {
+     "name": "Rápido como um Raio",
+     "description": "<p>O guarda-costas pode fazer um ataque como reação se o alvo se mover em direção à Gueixa ou fizer um ataque contra ela.</p>"
+    },
+    "J0PI0wEt9sc95RH4": {
+     "name": "Dependência Forçada",
+     "description": "<p>Devido ao selo especial que vincula o guarda-costas à Gueixa, ele é proibido de aprender ou usar jutsus de invocação ou qualquer jutsu que invoque outras criaturas.</p>"
+    },
+    "PPg3u1JyWzGyaYcu": {
+     "name": "Mestre Eficiente de Armas",
+     "description": "<p>O guarda-costas pode empunhar uma variedade de armas de maneira especializada. Com base em sua configuração, ele ganha certos benefícios:</p><ul style=\"border:0px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:inherit;font-variant-east-asian:inherit;font-variant-alternates:inherit;font-variant-position:inherit;font-variant-emoji:inherit;font-weight:400;font-stretch:inherit;font-size:12.0189px;line-height:1.2em;font-family:ScalySansRemake;font-optical-sizing:inherit;font-size-adjust:inherit;font-kerning:inherit;font-feature-settings:inherit;font-variation-settings:inherit;vertical-align:baseline;margin:0.325cm 0px 0.8em;padding:0px 0px 0px 1em;list-style:outside disc;box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\"><li style=\"border:0px;font:inherit;vertical-align:baseline;margin:0px;padding:0px;box-sizing:border-box;-webkit-print-color-adjust:exact;break-inside:avoid\">Se estiver empunhando duas armas (incluindo escudos), ele ganha +1 de CA.</li><li style=\"border:0px;font:inherit;vertical-align:baseline;margin:0px;padding:0px;box-sizing:border-box;-webkit-print-color-adjust:exact;break-inside:avoid\">Se estiver usando uma arma de uma mão, o dado de dano da arma aumenta um estágio (1d4 -&gt; 1d6 -&gt; 1d8 -&gt; 1d10 -&gt; 1d12).</li><li style=\"border:0px;font:inherit;vertical-align:baseline;margin:0px;padding:0px;box-sizing:border-box;-webkit-print-color-adjust:exact;break-inside:avoid\">Se estiver usando uma arma de duas mãos, some metade do modificador de Destreza (mínimo de 1) ao seu dano.</li><li style=\"border:0px;font:inherit;vertical-align:baseline;margin:0px;padding:0px;box-sizing:border-box;-webkit-print-color-adjust:exact;break-inside:avoid\">Se estiver usando uma arma à distância, o alcance da arma aumenta em metade de seus valores atuais.</li></ul>"
+    },
+    "Qd94hSLopT5kOeNP": {
+     "name": "A Mais Importante",
+     "description": "<p>Jutsus com alcance \"pessoal\", possuídos pelo guarda-costas, que servem para proteger, curar ou reduzir dano (conceder CA, conceder bônus em testes de resistência, conceder PV temporários, conceder RD ou similar) podem ser aplicados na Gueixa (não em ambos) caso ela esteja dentro de 30 pés de seu guarda-costas, em vez disso.</p>"
+    },
+    "dZdoBmI8e607ncsE": {
+     "name": "Suporte",
+     "description": "<p>Como uma ação bônus, o guerreiro se prepara para defletir ataques direcionados à Gueixa, aumentando a CA dela em 1 se estiver dentro de 5 pés dela.</p>"
+    },
+    "evUFOea3NFzqLrsl": {
+     "name": "Troca Rápida",
+     "description": "<p>Se o guarda-costas tiver acesso a mais de uma arma, ele pode, como uma ação livre uma vez por turno, trocar para a arma que desejar.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;margin-bottom:0px;color:rgb(0, 0, 0);font-family:ScalySansRemake;font-size:12.0189px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(242, 229, 181);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />No nível 5, ele também pode criar armas feitas de chakra para usar conforme a necessidade, e essas armas são consideradas potencializadas por chakra.</p>"
+    },
+    "mdV1b183h5SG9OBH": {
+     "name": "Fio da Vida",
+     "description": "<p>Um guarda-costas que cai em batalha não morre. Em vez disso, ele é transportado para Hanamachi (A Cidade das Flores), onde será curado e restaurado para continuar servindo sua Gueixa.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Após um descanso longo, a Gueixa pode invocar o guarda-costas de volta ao seu lado.</p>"
+    },
+    "zZWZ8jmA1OvrPS98": {
+     "name": "Chamado do Dever",
+     "description": "<p>Como uma reação, a Gueixa pode invocar ou teleportar seu guarda-costas para protegê-la de dano, desde que estejam dentro de 30 pés.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />O guarda-costas se interpõe entre a Gueixa e quaisquer ataques ou efeitos prejudiciais que estejam chegando, concedendo a ela cobertura total.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Até mesmo ataques em área (AoE) serão totalmente absorvidos pelo guarda-costas, e os efeitos ou o dano são recalculados usando as estatísticas do guarda-costas.</p>"
+    }
+   }
+  },
+  "v3yPVqhJgrThnju3": {
+   "items": {
+    "3M2eGsSwKhDxWW25": {
+     "name": "Senciência de Baixo Nível",
+     "description": "<p><span style=\"font-family:Times New Roman\">Se não for comandado em seu turno, ele automaticamente realiza a ação Esquivar e, se ainda não estiver lá, move-se até o aliado mais ferido mais próximo que conseguir alcançar com seu deslocamento.</span></p>"
+    },
+    "78gbcDzYvAoBskvX": {
+     "name": "Cinto de Palhaço",
+     "description": "<p><span style=\"font-family:Times New Roman\">Crown Clown possui uma arma natural conhecida como cinto de palhaço, que tem as seguintes estatísticas: Cinto de Palhaço, 2d6, Perfurante, Alcance X (X= seu bônus de proficiência), Desarmar, Derrubar, Agarrar, Enrolar, Tático, Lâmina. Ataques de arma e bukijutsu que usem esta arma podem usar constituição para os cálculos de ataque, dano e CD de resistência. Além disso, esta arma ganha todos os benefícios de quaisquer selos que Innocence(Cross) esteja recebendo os benefícios.</span></p>"
+    },
+    "DtdW4ZJRDHSGyPi7": {
+     "name": "Salvador",
+     "description": "<p><span style=\"font-family:Times New Roman\">Crown Clown não sofre penalidades de movimento ao carregar duas ou menos criaturas aliadas morrendo ou inconscientes.</span></p>"
+    },
+    "Htn2vIXr0rU8YYnb": {
+     "name": "Movimento do Cinto de Palhaço",
+     "description": "<p><span style=\"font-family:Times New Roman\">Crown Clown pode escalar e se mover em qualquer superfície sólida, como paredes ou tetos, desde que tenha um local estável para fincar um Cinto de Palhaço. Usando este movimento, ele também pode se manter a uma distância em pés dessa superfície enquanto se move, igual à distância da qual pode atacar usando um Cinto de Palhaço. Qua</span>ndo usa este movimento, ele ignora terreno difícil.</p>"
+    },
+    "MPHk9pgXlMsL8yAc": {
+     "name": "Cinto da Coroa",
+     "description": "<p><span style=\"font-family:Times New Roman\">Ataques de arma e bukijutsu que usem esta arma podem usar constituição para os cálculos de ataque, dano e CD de resistência. Além disso, esta arma ganha todos os benefícios de quaisquer selos que Innocence(Cross) esteja recebendo os benefícios.</span></p>"
+    },
+    "c6XTKS9H1FgsI2NA": {
+     "name": "Defensor da Coroa",
+     "description": "<p><span style=\"font-family:Times New Roman\">Crown Clown concede a todas as criaturas aliadas dentro de 10 pés dele um bônus de +1 em CA e em testes de resistência de destreza. No nível 15, isso se torna +2.</span></p>"
+    },
+    "fGUtOer5hb7u1En2": {
+     "name": "Cross Grave (Escudo da Coroa)",
+     "description": "<p><span style=\"font-family:Times New Roman\">Como uma reação a Crown Clown ou um aliado dentro de 10 pés dele sendo atacado, Crown Clown se move para se defender ou defender o aliado, concedendo à criatura afetada um bônus em sua CA igual ao seu modificador de constituição e RD igual ao seu modificador de constituição até o início do seu próximo turno (esta reação não se acumula com os efeitos de Defensor da Coroa). Você pode usar esta reação um número de vezes por descanso longo igual ao seu modificador de constituição.</span></p>"
+    },
+    "sujgMs3N1VFcDS2P": {
+     "name": "Ataque do Cinto de Palhaço",
+     "description": "<p><span style=\"font-family:Times New Roman\">Como uma ação, Crown Clown fará um ataque de arma contra qualquer criatura hostil dentro do alcance. No nível 15, isso se torna dois ataques.</span></p>"
+    },
+    "wZ9bhHIcfEQQE9ka": {
+     "name": "Cross Grave (Guarda da Coroa)",
+     "description": "<p><span style=\"font-family:Times New Roman\">Como uma reação a Crown Clown ou um aliado dentro de 10 pés dele sendo atacado, Crown Clown se move para se defender ou defender o aliado, concedendo à criatura afetada um bônus em sua CA igual ao seu modificador de constituição e RD igual ao seu modificador de constituição contra o ataque (esta reação não se acumula com os efeitos de Defensor da Coroa).</span></p>"
+    }
+   }
+  },
+  "vQjg3eGwjHsGhnBM": {
+   "name": "Larva Gigante",
+   "items": {
+    "gWCtQTlKq7qDZ3f2": {
+     "name": "Indomável",
+     "description": "<p>Você é imune a quaisquer efeitos que alterariam sua mente ou vontade.</p>"
+    },
+    "vAQgwzLcORMOypKI": {
+     "name": "Mordida",
+     "description": "<p>Criaturas que sofrerem dano deste ataque devem fazer um teste de resistência de Constituição, sofrendo metade do dano como dano de chakra em um teste falho.</p>"
+    },
+    "vm6DWJzBm3SYSheK": {
+     "name": "Predadores de Chakra",
+     "description": "<p>Enquanto uma criatura permanecer dentro da Colmeia de Pedra, a Larva Gigante ganha Visão de Chakra (30 pés) direcionada a essa criatura.</p>"
+    },
+    "wWLmWPdEiJeHKMnf": {
+     "name": "Jato de Veneno"
+    }
+   }
+  },
+  "x1D8VAe2rfyWoWt4": {
+   "name": "Guarda-costas Brutamontes",
+   "items": {
+    "1eSzgZrkWb1DWogK": {
+     "name": "Onda de Choque Furiosa (Recarrega em 5-6)",
+     "description": "<p>O guarda-costas golpeia o chão com fúria, liberando uma poderosa onda de choque. Todos dentro de um cone de 25 pés devem fazer um teste de resistência de Destreza ou sofrer 3d12 de dano de energia e 1 rank de contundido em uma falha, ou metade do dano em um sucesso.</p>"
+    },
+    "6aYg7vtWscllF0Bt": {
+     "name": "Robusto",
+     "description": "<p>O guarda-costas ganha 2 PV adicionais por nível (já incluídos no cálculo).</p>"
+    },
+    "FCZz5UklA229fEPI": {
+     "name": "Golpe Pesado"
+    },
+    "Le92q9nGViSui3Vp": {
+     "name": "Suco Muscular",
+     "description": "<p>Se o guarda-costas iniciar o combate sem espaços de Chakra, ele recupera um espaço de Chakra. Isso aumenta para dois espaços de Chakra no nível 5, três espaços de Chakra no nível 10, quatro espaços de Chakra no nível 15, e cinco espaços de Chakra no nível 20.</p>"
+    },
+    "S3tm2rV4jwL4fFXM": {
+     "name": "Dependência Forçada",
+     "description": "<p>Devido ao selo especial que vincula o guarda-costas à Gueixa, ele é proibido de aprender ou usar jutsus de invocação ou qualquer jutsu que invoque outras criaturas.</p>"
+    },
+    "VGVoF6hk8mgjtjx2": {
+     "name": "Frenesi",
+     "description": "<p>Se o guarda-costas ficar ensanguentado (pontos de vida menores ou iguais à metade do máximo), ele começa a entrar em fúria.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:ScalySansRemake;font-size:12.0189px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:12.0189px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(242, 229, 181);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Ele ganha vantagem em todos os seus ataques, mas isso também concede vantagem a todos os seus inimigos contra ele, já que ele abandona todas as formas de defesa.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;margin-bottom:0px;color:rgb(0, 0, 0);font-family:ScalySansRemake;font-size:12.0189px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:12.0189px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(242, 229, 181);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Durante esta fúria, o guarda-costas ganha uma redução de dano igual ao seu modificador de proficiência +1 contra todos os tipos de dano, exceto psíquico.</p>"
+    },
+    "d0hs5JfTDsRsNgZy": {
+     "name": "Suporte",
+     "description": "<p>Como uma ação bônus, o Brutamontes pode se preparar para receber o dano no lugar da Gueixa, caso esteja dentro de 10 pés dela.</p>"
+    },
+    "eygmUroRstmF3Qqi": {
+     "name": "Chamado do Dever",
+     "description": "<p>Como uma reação, a Gueixa pode invocar ou teleportar seu guarda-costas para protegê-la de dano, desde que estejam dentro de 30 pés.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />O guarda-costas se interpõe entre a Gueixa e quaisquer ataques ou efeitos prejudiciais que estejam chegando, concedendo a ela cobertura total.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Até mesmo ataques em área (AoE) serão totalmente absorvidos pelo guarda-costas, e os efeitos ou o dano são recalculados usando as estatísticas do guarda-costas.</p>"
+    },
+    "nTGVYfseXUHBnIVV": {
+     "name": "Fio da Vida",
+     "description": "<p>Um guarda-costas que cai em batalha não morre. Em vez disso, ele é transportado para Hanamachi (A Cidade das Flores), onde será curado e restaurado para continuar servindo sua Gueixa.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Após um descanso longo, a Gueixa pode invocar o guarda-costas de volta ao seu lado.</p>"
+    },
+    "sjGkWdSsIPgtU00H": {
+     "name": "Selo de Lealdade",
+     "description": "<p>O guarda-costas é proibido de ferir qualquer membro do clã Gueixa, especialmente sua própria Gueixa, seja de forma voluntária ou acidental. Caso a Gueixa permita, ela pode temporariamente autorizar seu guarda-costas a ferir outros membros do clã em casos de emergência.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Qualquer tentativa de ferir um membro do clã Gueixa ou sua própria Gueixa resulta em dor excruciante, deixando o guarda-costas incapaz de agir naquele turno, se forçado, ou por 1 minuto, se a ação foi uma hostilidade voluntária contra qualquer membro do clã Gueixa.</p>"
+    },
+    "xMrZPq3EAaNOmkWB": {
+     "name": "A Mais Importante",
+     "description": "<p>Jutsus com alcance \"pessoal\", possuídos pelo guarda-costas, que servem para proteger, curar ou reduzir dano (conceder CA, conceder bônus em testes de resistência, conceder PV temporários, conceder RD ou similar) podem ser aplicados na Gueixa (não em ambos) caso ela esteja dentro de 30 pés de seu guarda-costas, em vez disso.</p>"
+    }
+   }
+  }
+ }
+}

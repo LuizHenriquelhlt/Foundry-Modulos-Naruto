@@ -1,0 +1,682 @@
+{
+ "label": "T7 NPC",
+ "folders": {},
+ "entries": {
+  "4CUHxyXFeuTFuPIZ": {
+   "name": "Elefante",
+   "items": {
+    "85wRqQQkEgakAzVa": {
+     "name": "Chifrada",
+     "description": "<div class=\"rd__b rd__b--3\"><p><i>Jogada de Ataque Corpo a Corpo:</i> [[/r 1d20+8]]{+8}, alcance de 5 pés. <i>Acerto:</i> 15 ([[/damage 2d8 + 6 type=piercing]]) de dano. Se o elefante se moveu pelo menos 20 pés em linha reta na direção do alvo imediatamente antes do acerto, o alvo também fica com a condição &amp;Reference[condition=Prone].</p></div>"
+    },
+    "XGxvDnZ0XJzRTUmc": {
+     "name": "Capacidade de Carga do Elefante"
+    },
+    "hZjj9gdC8GhcgBRC": {
+     "name": "Múltiplos Ataques",
+     "description": "<div class=\"rd__b rd__b--3\"><p>O elefante faz dois ataques de Chifrada.</p></div>"
+    },
+    "yDIBFXJeRKOPLclO": {
+     "name": "Pisoteio",
+     "description": "<div class=\"rd__b rd__b--3\"><p><i>Teste de Resistência de Destreza:</i> CD <span class=\"rd__dc\">16</span>, uma criatura dentro de 5 pés que possua a condição &amp;Reference[condition=Prone]. <i>Falha:</i> 17 ([[/damage 2d10 + 6 type=bludgeoning]]) de dano. <i>Sucesso:</i> Metade do dano.</p></div>"
+    }
+   }
+  },
+  "4TBYIPCsgNEQey20": {
+   "name": "Serpente de Chamas",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/actors/t7-flame-serpent-p6ht2cjjfis3mca1.webp\">",
+   "items": {
+    "V5BAKxVuoQ794JI3": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>A Serpente de Chamas faz dois ataques com sua Mordida. </p><p>Ela pode trocar um destes ataques por seu Constringir.</p>"
+    },
+    "aTUdK2ubLm1yyzSp": {
+     "name": "Fornalha",
+     "description": "<p>Dano de fogo que seria causado à Serpente de Chamas a cura, em vez disso, pela metade da quantidade.</p>"
+    },
+    "hbOnBws82WT463FU": {
+     "name": "Constrição",
+     "description": "<p>O alvo fica agarrado, CD de fuga igual à CD de resistência de ninjutsu do conjurador.</p><p> Até que este agarrão termine, a criatura fica contida, e a Serpente de Chamas não pode constringir outro alvo.</p><p> A Serpente de Chamas tem vantagem em ataques de Mordida contra uma criatura que tenha agarrado.</p><p></p>"
+    },
+    "wHXtVOMxf2ZiiyY5": {
+     "name": "Iluminação",
+     "description": "<p>A Serpente de Chamas emite luz forte em um alcance de 30 pés e luz fraca por mais 30 pés.</p>"
+    },
+    "xdy6PMYUZZu1BeEj": {
+     "name": "Corpo Elemental",
+     "description": "<p>Os ataques de arma da Serpente de Chamas são aprimorados por chakra.</p>"
+    },
+    "yJIW0YoqEHPEr2eF": {
+     "name": "Mordida"
+    }
+   }
+  },
+  "5V5LA2A0o86TyBhn": {
+   "name": "Besta da Estrela Cadente",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/actors/t7-falling-star-beast-gu9tnpyorl8r8ipv.webp\">",
+   "items": {
+    "02Zd3XuUvMbdb3Qk": {
+     "name": "Forma Imutável",
+     "description": "<p>A Besta da Estrela Cadente é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "OZGkAylSsBp3v3Pc": {
+     "name": "Armas Elementais",
+     "description": "<p>Os ataques da Besta da Estrela Cadente são aprimorados por chakra.</p>"
+    },
+    "SKc8uN317SRVRmMo": {
+     "name": "Inverter Gravidade",
+     "description": "<p>A velocidade da Besta se torna 0 até o início de seu próximo turno enquanto ela gera uma quantidade massiva de força gravitacional.</p><p> Cada criatura dentro de 30 pés da besta, à escolha desta, deve ser bem-sucedida em um teste de resistência de Constituição.</p><p> Se qualquer criatura que for fazer este teste de resistência tiver sido afetada por um Ninjutsu de Liberação de Terra com Gravition no nome durante a rodada anterior, ela faz este teste de resistência com uma penalidade de -1d6.</p><p> Em uma falha no teste, cada criatura é erguida 30 pés no ar e fica Atordoada até o final do turno da Besta.</p><p> Qualquer criatura que entrar ou iniciar seu turno nesta área antes do início do turno da besta também deve fazer este teste de resistência.</p><p> No início do próximo turno da besta, a gravidade reverte e as criaturas afetadas são jogadas de volta ao solo com força incrível, sofrendo 8d10 de dano de energia e caindo caídas.</p><p> Em um teste de resistência bem-sucedido, uma criatura pode se mover até metade de sua velocidade de movimento.</p><p></p>"
+    },
+    "ZKZAngHH5FIQoTH4": {
+     "name": "Anomalia Gravitacional",
+     "description": "<p>A Besta da Estrela Cadente ignora quaisquer efeitos que a fariam ser movida contra sua vontade.</p><p>Além disso, ela também ignora efeitos que impediriam criaturas de serem movidas por seus ataques ou jutsus.</p>"
+    },
+    "sVWervvhEIcRawRa": {
+     "name": "Mandíbula",
+     "description": "<p>Uma criatura atingida por este ataque deve fazer um teste de resistência de Força, sendo arremessada 15 pés em qualquer direção que a besta escolher em uma falha no teste.</p>"
+    },
+    "uLJ7HAZOx7sDhN3K": {
+     "name": "Espinhos Irrompentes",
+     "description": "<p>A Besta escolhe até 3 criaturas que possa ver no chão dentro de 90 pés dela.</p><p> Estas criaturas devem fazer um teste de resistência de Destreza, sofrendo 4d10 de dano de Terra e sendo derrubadas caídas em uma falha, ou metade disso em um sucesso, enquanto o solo abaixo delas explode para cima em espinhos cristalinos roxos.</p><p></p>"
+    },
+    "ueIiqP7FV2j2bu0Y": {
+     "name": "Cauda",
+     "description": "<p>Independentemente de a besta acertar ou errar, todas as criaturas de sua escolha dentro de um cone de 15 pés na frente da besta devem fazer um teste de resistência de Destreza enquanto sua cauda levanta um grande amontoado de destroços, sofrendo 15 de dano e ganhando um rank de Contundido.</p>"
+    },
+    "yAKf2xYdcZNSYUt2": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>A Besta da Estrela Cadente faz três ataques; dois com sua Mandíbula e um com sua cauda.</p>"
+    }
+   }
+  },
+  "8mRoX8XLkS2r1Dhz": {
+   "name": "Golem de Terra",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/actors/t7-earth-golem-ixlsufem4fhfloy4.webp\">",
+   "items": {
+    "05oxPiJzcs7IVZxc": {
+     "name": "Golpe Terreno"
+    },
+    "BXMb6ticVffBZ7k9": {
+     "name": "Encarnação da Terra",
+     "description": "<p>Usando seu chakra, o golem é capaz de conjurar qualquer jutsu com a palavra-chave Liberação de Terra de Rank A ou inferior que você conheça, pela metade de seu custo normal de chakra.</p>"
+    },
+    "KKye0AXmN3kkhxQ9": {
+     "name": "Defesa Crítica",
+     "description": "<p>Acertos críticos feitos contra o Golem de Terra contam como acertos normais, a menos que ele esteja com menos da metade de seus pontos de vida máximos.</p>"
+    },
+    "Kloz316UNhM04Rg6": {
+     "name": "Forma Imutável",
+     "description": "<p>O Golem de Terra é imune a qualquer jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "b9Qw2XLaxqnEpqRt": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Golem de Terra pode atacar 3 vezes com seu ataque de golpe terreno.</p>"
+    },
+    "hRUiwOVwhL7IDyyY": {
+     "name": "Armas Elementais",
+     "description": "<p>Os ataques do golem são aprimorados por chakra</p>"
+    }
+   }
+  },
+  "AP8X0t1ztEfFIrd8": {
+   "name": "Montaria Espiritual",
+   "description": "<img src=\"systems/n5eb/assets/content/actors/t7-spirit-steed-yrg4pm0e4y48ctvn.webp\"><p></p>",
+   "items": {
+    "1PlsY1EhNJGY3mOL": {
+     "name": "Passo Audaz",
+     "description": "<p>A Montaria Espiritual não pode ter sua velocidade de movimento dificultada ou reduzida por nenhum meio (exceto condições), tem sua altura máxima de salto dobrada, e tem uma velocidade de andar sobre a água igual à sua velocidade de movimento.</p><p>A Montaria Espiritual tem vantagem em testes de resistência de Destreza.</p><p> Fora de combate, os montados também ganham vantagem em testes de resistência de Destreza, enquanto em combate, eles ganham apenas um +2.</p><p> Por fim, em um teste de resistência de Destreza falho, a Montaria Espiritual sofre metade do dano.</p><p> Tanto para ela quanto para seus montados, em um teste de resistência de Destreza bem-sucedido, ambas as partes não sofrem dano nem efeitos.</p><p></p>"
+    },
+    "8uaSM7S1L6YgyJtJ": {
+     "name": "Capacidade de Carga"
+    },
+    "Aeh0gwWOeDsyF3ws": {
+     "name": "Capacidade Adaptável",
+     "description": "<p>A Montaria Espiritual pode carregar até 2 criaturas de tamanho médio, ou 1 criatura grande, e tem um peso máximo de 20.</p><p> Quando você invoca a Montaria Espiritual, pode gastar 5 de chakra para invocar a Montaria com uma carroça de sua descrição.</p><p> Esta carroça aumenta o peso que a Montaria pode carregar para 10 vezes seu bônus de proficiência, e a Montaria pode carregar uma quantidade adicional de criaturas igual ao seu bônus de proficiência.</p><p> Quando invocada com a Carroça, a velocidade de movimento da Montaria não é mais dobrada inatamente, e ela não concede mais aos montados nenhum bônus em testes de resistência enquanto em combate.</p><p></p>"
+    },
+    "YTHpFK4MleErAoEG": {
+     "name": "Montaria Leal",
+     "description": "<p>A Montaria Espiritual só obedece a você ou a seus aliados na eventualidade de sua ausência.</p><p> A Montaria Espiritual não pode ser controlada ou montada contra sua vontade.</p><p> Se uma criatura tentar montar o cavalo sem permissão, ela atravessa o cavalo e cai.</p><p></p>"
+    },
+    "ZayMESCSWQP8AaSK": {
+     "name": "Exploradora Adepta",
+     "description": "<p>Enquanto monta a Montaria Espiritual durante exploração ou viagem terrestre, você trata o ritmo normal de viagem como ritmo rápido de viagem, e dobra as distâncias do ritmo rápido de viagem.</p><p> Isso não afeta negativamente sua percepção passiva. (Veja o Capítulo 7 Regras).</p><p> A Montaria Espiritual também não sofre dano como resultado do ambiente natural, e protege seus montados desses efeitos (Uma tempestade de neve brutal, lava, etc)</p>"
+    },
+    "h7zmNW6370stUqR4": {
+     "name": "Atacante de Carga",
+     "description": "<p>Enquanto monta sua Montaria Espiritual, uma vez por turno, quando você se move pelo menos 30 pés em direção a uma criatura e realiza a ação de ataque, você tem vantagem no primeiro ataque.</p><p> Se você acertar com este ataque, pode imediatamente gastar sua ação bônus para derrubar a criatura, deixando-a caída.</p><p></p>"
+    },
+    "jBEPA82dKXMYo2K2": {
+     "name": "Espírito Vinculado",
+     "description": "<p>Você e sua Montaria Espiritual podem se comunicar através de uma distância de 500 pés.</p><p> Embora sua montaria não fale, vocês dois podem se comunicar várias emoções, como surpresa, ira, aflição, etc.</p><p> Jutsus que você conjurar, que normalmente só poderiam ter você como alvo, podem ter sua montaria como alvo em vez disso, se você estiver montado.</p><p></p>"
+    },
+    "l5iDE4sAGk5N81TV": {
+     "name": "Forma Etérea",
+     "description": "<p>A Montaria Espiritual protege a si mesma e seus montados de dano de queda pelos primeiros 80 pés de dano de queda, após os quais ela e seus montados sofrem dano de queda normalmente.</p><p> A Montaria Espiritual desaparece se você a desmontar e ela não puder vê-lo por um minuto inteiro.</p><p> Quando a Montaria Espiritual desaparece, todos os montados e objetos que ela estava carregando caem suavemente no chão.</p><p> Se a Montaria Espiritual morrer, você não pode mais invocá-la novamente até completar um descanso longo.</p><p> No 9º nível, você pode gastar 1 Frasco Carmesim para recuperar a habilidade de invocar a Montaria Espiritual como uma ação.</p><p></p>"
+    }
+   }
+  },
+  "BX0ECn0T5GUbJHLm": {
+   "name": "Biga",
+   "items": {
+    "ByomdB6ileLecJdQ": {
+     "name": "Capacidade de Carga da Biga"
+    },
+    "WdikDVCZVF4GOgDY": {
+     "name": "Preço: 250"
+    }
+   }
+  },
+  "CG82tURNrRRWJxt2": {
+   "name": "Gato das Sombras",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/actors/t7-shadow-cat-psui8k42eadmrwty.webp\">",
+   "items": {
+    "4FhB2RLPg6rLXFhE": {
+     "name": "Garras das Sombras",
+     "description": "<p>O alvo faz um Teste de Resistência de Sabedoria, ganhando 1 rank de Medo contra cada Gato das Sombras em uma falha.</p>"
+    },
+    "5PUM8nX5K2Cl7Yjs": {
+     "name": "Sombra Viva",
+     "description": "<p>Enquanto em luz fraca ou escuridão, ataques contra o Gato das Sombras têm desvantagem</p>"
+    },
+    "QTJAA9D4G3OIaPMY": {
+     "name": "Forma Imutável",
+     "description": "<p>O constructo é imune a qualquer jutsu hostil ou efeito que alteraria sua forma.</p>"
+    }
+   }
+  },
+  "CKskNrnoPdv6xfuM": {
+   "name": "Mula",
+   "items": {
+    "60CyNi1LykkeTMIS": {
+     "name": "Capacidade de Carga da Mula"
+    },
+    "DvCWEyU0uTifjdly": {
+     "name": "Animal de Carga",
+     "description": "<div class=\"rd__b rd__b--3\"><p>A mula conta como uma categoria de tamanho maior para fins de determinar sua capacidade de carga.</p></div>"
+    },
+    "ahR124wmbKEp311F": {
+     "name": "Cascos",
+     "description": "<div class=\"rd__b rd__b--3\"><p><i>Jogada de Ataque Corpo a Corpo:</i> [[/r 1d20+4]]{+4}, alcance de 5 pés. <i>Acerto:</i> 4 ([[/damage 1d4 + 2 type=bludgeoning]]) de dano.</p></div>"
+    }
+   }
+  },
+  "CuSyK08gKQtAk1cS": {
+   "name": "Água-Viva de Tinta",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/actors/t7-ink-jellyfish-jd9mctrblqbp4at4.webp\">",
+   "items": {
+    "Fitee5B6oYbqxuvh": {
+     "name": "Armas de Tinta",
+     "description": "<p>Os ataques dos Leões de Tinta são potencializados por chakra.</p>"
+    },
+    "lMpWdfZpmz6SVBDN": {
+     "name": "Balão de Água",
+     "description": "<p>A Água-Viva de Tinta acumula um excesso de Tinta por todo o seu corpo, concedendo-lhe maior defesa.</p><p> Até o início de seu próximo turno, a Água-Viva de Tinta reduz todo o dano que recebe pelo dobro do bônus de proficiência do invocador.</p><p></p>"
+    },
+    "nEYtLhcD2joAmIXC": {
+     "name": "Aura Intoxicante",
+     "description": "<p>Como parte do uso de seu ataque de Tinta Venenosa, a Água-Viva de Tinta pode usar sua reação para impor um teste de resistência de Carisma contra a CD de resistência de Ninjutsu do invocador.</p><p> Em uma falha no teste, a criatura deve, em seu próximo turno, atacar apenas a Água-Viva de Tinta.</p><p></p>"
+    },
+    "tgXZ6ksxUM6lWDAO": {
+     "name": "Tinta Venenosa"
+    },
+    "uJ0ZohgVeXj18GV7": {
+     "name": "Veneno Persistente",
+     "description": "<p>Se uma criatura tiver sido atingida pelo ataque de Tinta Venenosa da Água-Viva de Tinta 3 vezes durante o combate, ela deve imediatamente fazer um teste de resistência de Constituição contra a CD de resistência de Ninjutsu do invocador, ou ganhar 1 rank de empeçonhado por 1 minuto.</p><p> Este teste é feito com desvantagem se a criatura afetada não tiver recuperado nenhum ponto de vida entre o 1º e o 3º ataques de Tinta Venenosa.</p><p> Criaturas podem repetir este teste de resistência no início de cada um de seus turnos.</p><p></p>",
+     "condition": "Se uma criatura tiver sido atingida pelo ataque de Tinta Venenosa da Água-Viva de Tinta 3 vezes durante o combate"
+    },
+    "z1TpY1GWzgpptxrz": {
+     "name": "Forma Imutável",
+     "description": "<p>O Leão de Tinta é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    }
+   }
+  },
+  "EtH2vYv6tnuJzMYB": {
+   "name": "Golem Espiritual",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/actors/t7-spiritual-golem-afaiwvylcsdsqkdp.webp\">",
+   "items": {
+    "9PW5y1d5tLpUdm6l": {
+     "name": "Golpe Desarmado"
+    },
+    "LOvxsWiRVl5ejnv6": {
+     "name": "Arquitetura Espectral",
+     "description": "<p>Quando o Golem Espiritual é formado pela primeira vez, você escolhe uma das seguintes arquiteturas para o Golem, entre Lutador, Guardião ou Veloz.</p><p>O Golem escolhido determina algumas das estatísticas e habilidades do seu Golem.</p><p>Listado ao lado de cada Golem está um valor de atributo específico que eles usam para as jogadas de ataque e dano de seu ataque desarmado (Guardião é uma exceção).</p><p>Eles também ganham proficiência completa no teste de resistência daquele valor de atributo.</p><p></p><p>Lutador (Força): </p><p>Um Golem de tamanho médio, bem equilibrado, adequado para a maioria das batalhas.</p><p> Os ataques desarmados do Golem causam 1d10 de dano de concussão.</p><p> Seus valores e máximos de Força e Constituição aumentam em +4, e sua velocidade se torna 35 pés.</p><p> Além disso, seu Golem é criado com uma arma simples ou marcial de sua escolha, na qual ele é proficiente.</p><p> Ele ganha +1 em jogadas de ataque e dano com esta arma.</p><p> No 6º nível, os ataques desarmados/com arma do Golem causam um dado de dano extra e causam acerto crítico em 19-20.</p><p></p><p> Guardião (Constituição): </p><p>Um Golem de tamanho grande e robusto, habilidoso em Defesa.</p><p> Os ataques desarmados do Golem causam 1d12 de dano de concussão e usam Força para jogadas de ataque e dano desarmado.</p><p> Seu valor e máximo de Constituição aumentam em +8, e sua velocidade se torna 30 pés.</p><p> Criaturas aliadas dentro de 5 pés do Golem ganham os benefícios de cobertura parcial (Isso não se acumula com múltiplos Golems).</p><p> No 6º nível, quando o Golem é invocado, ele ganha uma quantidade de pontos de vida temporários igual a Xd4, onde X é igual à metade do seu nível de Médico-Nin.</p><p></p><p> Veloz (Destreza): </p><p>Um Golem leve e de tamanho pequeno, capaz de se mover pelo campo de batalha com incrível facilidade.</p><p> Os ataques desarmados do Golem causam 2d4 de dano perfurante.</p><p> Seu valor e máximo de Destreza aumentam em +6, e sua velocidade se torna 45 pés, ignora terreno difícil, e pode carregar uma criatura de tamanho médio ou menor sem nenhuma redução em sua velocidade de movimento.</p><p> No 6º nível, o Golem ganha uma velocidade de voo igual à sua velocidade de movimento e o cálculo de sua CA também passa a começar em 16.</p><p></p>"
+    },
+    "ULPiCOyXaXUxtUnT": {
+     "name": "Aprimoramento Progressivo",
+     "description": "<p>O Golem Espiritual ganha uma quantidade de pontos de Aumento de Valor de Atributo igual a 6 + metade do seu bônus de Proficiência.</p><p> Você pode distribuir estes pontos como desejar quando o Golem é formado pela primeira vez.</p><p> Você não pode aumentar um valor de atributo do Golem além de 20 desta forma, a menos que especificado de outra forma.</p><p></p>"
+    },
+    "wB6G4JRZYMZ9O5XR": {
+     "name": "Forma Imutável",
+     "description": "<p>O Golem Espiritual é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    }
+   }
+  },
+  "F6ixXGE6fxdNBJhJ": {
+   "name": "Cavalo de Montaria",
+   "items": {
+    "ayGMqCcOgePYm3Wu": {
+     "name": "Cavalo de Montaria"
+    },
+    "iRUspf3sKcQxXH13": {
+     "name": "Cascos",
+     "description": "<div class=\"rd__b rd__b--3\"><p><i>Jogada de Ataque Corpo a Corpo:</i> [[/r 1d20+5]]{+5}, alcance de 5 pés. <i>Acerto:</i> 7 ([[/damage 1d8 + 3 type=bludgeoning]]) de dano.</p></div>"
+    }
+   }
+  },
+  "H08HAuZwcsYvoQsz": {
+   "name": "Pônei",
+   "items": {
+    "gJEIaTyM25eAQL0k": {
+     "name": "Cascos",
+     "description": "<div class=\"rd__b rd__b--3\"><p><i>Jogada de Ataque Corpo a Corpo:</i> [[/r 1d20+4]]{+4}, alcance de 5 pés. <i>Acerto:</i> 4 ([[/damage 1d4 + 2 type=bludgeoning]]) de dano.</p></div>"
+    },
+    "kMMEw0u9Xh46dHgc": {
+     "name": "Capacidade de Carga do Pônei"
+    }
+   }
+  },
+  "Hkf5loWzfYpiDCJX": {
+   "name": "Sombra Menor",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/actors/t7-lesser-shade-4db82p7welsspqnl.webp\">",
+   "items": {
+    "DS2VvZSnYwGnVj4H": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>A Sombra faz dois ataques.</p>"
+    },
+    "R389SwNVnnkkq2tp": {
+     "name": "Uma Só Com o Vazio",
+     "description": "<p>Quando invocada durante o Entardecer/Crepúsculo, ganha 15 pontos de vida temporários. </p><p>Quando invocada durante a Noite, ganha 30 pontos de vida temporários e aumenta todos os valores de atributo em +2.</p>"
+    },
+    "ZH4ORCVmRi8siohW": {
+     "name": "Armas do Vazio",
+     "description": "<p>Os ataques da Sombra são aprimorados por chakra</p>"
+    },
+    "bTg1HsDxIqyVGVEY": {
+     "name": "Forma do Vazio",
+     "description": "<p>A Sombra Menor é imune a qualquer Jutsu ou efeito que alteraria sua forma, e não pode ser dissipada ou controlada por nenhum jutsu de rank inferior ao rank em que este jutsu foi conjurado.</p>"
+    },
+    "kOmLIS9ezEUzljpi": {
+     "name": "Golpe da Sombra",
+     "description": "<p>Em uma jogada de ataque de 16-20, o alvo é empurrado 10 pés para trás (a Sombra pode se mover junto com o alvo de graça).</p>"
+    }
+   }
+  },
+  "JE3aErlCGAXbnCQF": {
+   "name": "Marionete Amaldiçoada",
+   "description": "<img src=\"systems/n5eb/assets/content/actors/t7-cursed-puppet-oaex3vgrnpdx8xgd.webp\"><p></p>",
+   "items": {
+    "ThH74uR1F9r9EA7w": {
+     "name": "Forma Imutável",
+     "description": "<p>A Marionete Amaldiçoada é imune a qualquer jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "enQlgrI6NdU3PQzQ": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>No 5º nível, a Marionete Amaldiçoada ganha o traço Multiataque 2. </p><p>No 15º nível, isso se torna Multiataque 3. </p>"
+    },
+    "ffJNixJnjjZuRLW1": {
+     "name": "Golpe Desarmado",
+     "description": "<p>Ataque com Arma Corpo a Corpo: alcance de 5 pés, um alvo.</p><p>Acerto 2d4 + modificador de Força + metade da proficiência de dano de Concussão.</p>"
+    },
+    "hc6Se8wacpqvNbOM": {
+     "name": "Criação Amaldiçoada",
+     "description": "<p>Como uma Marionete Amaldiçoada, você tem acesso a todas as Técnicas Amaldiçoadas que seu mestre possui.</p>"
+    },
+    "k7SOcG11uSPHVSGV": {
+     "name": "Aprimorado por Chakra",
+     "description": "<p>Os ataques da Marionete Amaldiçoada contam como aprimorados por chakra.</p>"
+    }
+   }
+  },
+  "LpC2LZo2GD0FwxnM": {
+   "name": "Carruagem",
+   "items": {
+    "jyxwro8Hk3VvNQdi": {
+     "name": "Capacidade de Carga da Carruagem"
+    },
+    "vGB0BKXtNjV534JN": {
+     "name": "Preço: 100"
+    }
+   }
+  },
+  "ZToIj9OK5WhXycpi": {
+   "name": "Lobo de Tinta",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/actors/t7-ink-wolf-cxhaeqmlxbmebwub.webp\">",
+   "items": {
+    "LmQNhoj7KyeY4S3w": {
+     "name": "Forma Imutável",
+     "description": "<p>O Lobo de Tinta é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "Wq2gEd9HQ6rkBczo": {
+     "name": "Armas de Tinta",
+     "description": "<p>Os ataques do Lobo de Tinta são aprimorados por chakra.</p>"
+    },
+    "t9zp8pA10mEN88LT": {
+     "name": "Mordida e Agarrão",
+     "description": "<p><span style=\"font-family:Signika, sans-serif\">Se a criatura alvo for atingida por seu ataque de mordida, ela deve ser bem-sucedida em um teste de resistência de Força contra a CD de resistência de Ninjutsu do usuário. Em uma falha no teste, ela é derrubada caída.</span></p>"
+    }
+   }
+  },
+  "azdZgDAX0W9pfaEw": {
+   "name": "Caranguejo Gigante de Tinta",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/actors/t7-ink-giant-crab-zwostugt6jonbtyj.webp\">",
+   "items": {
+    "JZGG8brfVQNkYIdR": {
+     "name": "Garra",
+     "description": "<p>Independentemente de o ataque acertar ou errar, a força da Garra do Caranguejo Gigante de Tinta golpeando o solo cria uma pequena onda de choque de 5 pés, fazendo com que toda outra criatura dentro do alcance faça um teste de resistência de Destreza, sofrendo metade do dano em uma falha.</p><p></p>"
+    },
+    "O1y3xXuGLFYGV2gS": {
+     "name": "Armas de Tinta",
+     "description": "<p>Os ataques do Caranguejo Gigante de Tinta são aprimorados por chakra.</p>"
+    },
+    "OOvUG6FDrFioWzy1": {
+     "name": "Forma Imutável",
+     "description": "<p>O Caranguejo Gigante de Tinta é imune a qualquer Jutsu ou efeito que alteraria sua forma</p>"
+    },
+    "Pl4jjYJvyPj05i7D": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Caranguejo Gigante de Tinta pode fazer três ataques com sua Garra, ou dois ataques de Garra e um ataque de Garra Grande.</p>"
+    },
+    "XSuC7zMDVdoB02ej": {
+     "name": "Garra Grande",
+     "description": "<p>Em um acerto, a criatura afetada deve fazer um teste de Força (Atletismo) ou Destreza (Acrobacia) contra a jogada de ataque.</p><p> Se falhar neste teste, ela fica agarrada pelo Caranguejo e é erguida 20 pés no ar.</p><p> O caranguejo pode então usar sua ação bônus para arremessar a criatura a até 60 pés de distância e derrubá-la caída, ou cravar a criatura no solo, reduzindo a velocidade de movimento da criatura a 0 até o final de seu próximo turno.</p><p></p>"
+    },
+    "Zqpg8hDbplnt4V3q": {
+     "name": "Casco Duro",
+     "description": "<p>O Caranguejo Gigante de Tinta pode, como uma reação, endurecer seu casco com Tinta.</p><p> Até o início do próximo turno do invocador, o Caranguejo aumenta sua CA em +3 e ganha resistência a todo dano (exceto Psíquico).</p><p></p>"
+    },
+    "wCGQO33Xsshr1Jlh": {
+     "name": "Raio de Bolhas",
+     "description": "<p>O Caranguejo Gigante de Tinta gera uma grande quantidade de Bolhas de Tinta em sua boca e dispara um jato de Tinta em criaturas dentro de uma linha de 45 pés de comprimento por 10 pés de largura.</p><p> Cada criatura deve fazer um teste de resistência de Constituição, sofrendo 10d8 de dano de concussão e ganhando 1 rank de Lento.</p><p> Uma criatura lenta pode refazer seu teste de resistência ao final de cada um de seus turnos.</p><p></p>"
+    }
+   }
+  },
+  "dyuo3MY4eK22XftR": {
+   "name": "Presença Lunar",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/actors/t7-moon-presence-l3yz3vlulz7etsgy.webp\">",
+   "items": {
+    "6CLlzcN9bXkCpK4C": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>A Presença Lunar faz três ataques com seu Dilacerar ou usa seu Urro.</p>"
+    },
+    "A9ZlXB0ehlDwUFs3": {
+     "name": "Armas Abissais",
+     "description": "<p>Os ataques da Presença Lunar ignoram Resistência e até a metade do seu nível em RD.</p>"
+    },
+    "H83FZ24BBGKJ13RF": {
+     "name": "Urro",
+     "description": "<p>A Presença Lunar não tem boca, mas grita mesmo assim, semeando desespero e loucura nas mentes de todas as criaturas próximas o suficiente para sentir seu eco psíquico.</p><p> Cada criatura dentro de 30 pés da Presença Lunar deve fazer um teste de resistência de Carisma (CD de Genjutsu do conjurador), sofrendo 20d6 de dano Psíquico e 5 ranks da condição Sangrando em uma falha, ou metade do dano e 2 ranks da condição Sangrando em um sucesso.</p><p> Uma criatura que falhar neste teste por 5 ou mais entra em Frenesi até o início do próximo turno da Presença Lunar.</p><p></p>"
+    },
+    "Pj6FuduHhmBT9r5g": {
+     "name": "Forma Imutável",
+     "description": "<p>A Presença Lunar é imune a qualquer jutsu hostil ou efeito que alteraria sua forma.</p>"
+    },
+    "Z4WUsXC5VSyuIvP6": {
+     "name": "Existência Impossível",
+     "description": "<p>Criaturas que não Desviarem o Olhar da Presença Lunar no início de seu turno devem fazer um teste de resistência de Carisma contra sua CD de resistência de Genjutsu ou ganhar 2 ranks da condição Concussão.</p>"
+    },
+    "ZimMpy2GJZJTxv2B": {
+     "name": "Dilacerar",
+     "description": "<p>Em um acerto o alvo ganha 1 rank de Sangrando</p>"
+    },
+    "r9W6tvNzelddSTPj": {
+     "name": "Nascida da Lua de Sangue",
+     "description": "<p>Todas as criaturas dentro de 30 pés da Presença Lunar perdem sua Resistência e Imunidade às condições Sangrando e Lacerado, e aumentam o dano de ambas as condições em um passo.</p>"
+    }
+   }
+  },
+  "eTIoHNbXw1ihR6z4": {
+   "name": "Carroça",
+   "items": {
+    "WR6eJmCCOi0uop7D": {
+     "name": "Capacidade de Carga da Carroça"
+    },
+    "u73jCwH5e4yIglfm": {
+     "name": "Preço: 60"
+    }
+   }
+  },
+  "f2Wm9DFxLKQa0RZP": {
+   "name": "Dragão de Tinta",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/actors/t7-ink-dragon-jqwjbwbxv4gpweyw.webp\">",
+   "items": {
+    "5FJ41Y3FwplpWKBm": {
+     "name": "Forma Imutável",
+     "description": "<p>O Dragão de Tinta é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "87CSVt9twJ1Qv6JV": {
+     "name": "Armas de Tinta",
+     "description": "<p>Os ataques do Dragão de Tinta são aprimorados por chakra.</p>"
+    },
+    "Diw3rFOPyJsG8TU6": {
+     "name": "Explosão de Tinta",
+     "description": "<p>O Dragão de Tinta exala uma explosão de tinta em um cone de 30 pés.</p><p> Cada criatura naquela área deve fazer um teste de resistência de Destreza, sofrendo 82 (24d6) de dano de concussão e ficando cega em uma falha, ou metade do dano em um sucesso.</p><p> Uma criatura cega pode fazer um teste de resistência de Constituição ao final de seus turnos, encerrando a condição cego em um sucesso.</p><p></p>"
+    },
+    "JkxoDm2AqBSdvde7": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>O Dragão de Tinta faz três ataques: um com sua mordida e dois com suas garras.</p>"
+    },
+    "X0f6DpxqGTZ3zn5z": {
+     "name": "Garra"
+    },
+    "k3ZD0iLjzLIGfFSC": {
+     "name": "Berço da Arte",
+     "description": "<p>Como uma ação, o Dragão de Tinta expele parte de seu próprio corpo para criar obras de arte.</p><p> O Dragão de Tinta pode conjurar qualquer jutsu com \"Arte Imitando Bestas\" no nome, usando pontos de vida no lugar de chakra.</p><p> Se o Dragão de Tinta fosse criar uma criatura com pontos de vida, ele deve, em vez disso, gastar pontos de vida iguais aos pontos de vida da criatura.</p><p> Jutsus conjurados desta forma não exigem concentração, mas se transformam em poças de tinta quando o Dragão de Tinta é destruído ou desinvocado.</p><p> Comandar o Dragão de Tinta também comanda quaisquer criaturas que o Dragão de Tinta tenha invocado.</p><p> Criaturas invocadas desta forma podem se fundir novamente com o Dragão de Tinta, recuperando quaisquer pontos de vida restantes perdidos na criação.</p><p></p>"
+    },
+    "wE9AKahQ6sWKNHK0": {
+     "name": "Mordida"
+    }
+   }
+  },
+  "iSr9hWBORP9Oku85": {
+   "name": "Trenó",
+   "items": {
+    "EpU5k5d2wzDnm4cx": {
+     "name": "Preço: 20"
+    },
+    "TrpYl69eDVkAixvJ": {
+     "name": "Capacidade de Carga do Trenó"
+    }
+   }
+  },
+  "j4oE4zIMWMHC7bjA": {
+   "name": "Cavalo de Tração",
+   "items": {
+    "MNH8b5674QtpgL7i": {
+     "name": "Capacidade de Carga do Cavalo de Tração"
+    },
+    "mAOrCP8whYvL8Jif": {
+     "name": "Cascos",
+     "description": "<div class=\"rd__b rd__b--3\"><p><i>Jogada de Ataque Corpo a Corpo:</i> [[/r 1d20+6]]{+6}, alcance de 5 pés. <i>Acerto:</i> 6 ([[/damage 1d4 + 4 type=bludgeoning]]) de dano.</p></div>"
+    }
+   }
+  },
+  "lEVZx1aXTTL7SzCO": {
+   "name": "Coração de Diamante",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/actors/t7-diamond-heart-sssoa7xaw1tniiyu.webp\">",
+   "items": {
+    "ATAcJW4uWd5m1Qak": {
+     "name": "Forma Imutável",
+     "description": "<p>O Coração de Diamante é imune a qualquer Jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "DEyOBVJCRq1M9bh4": {
+     "name": "Golpe Desarmado"
+    },
+    "TiKfXWDZYTt77V6i": {
+     "name": "Inesgotável",
+     "description": "<p>O Coração de Diamante não pode conjurar jutsus ou usar efeitos que aumentariam seus próprios ranks de exaustão.</p>"
+    },
+    "i6OgyKUnkDPuz25o": {
+     "name": "Constructo de Chakra",
+     "description": "<p>Os ataques do Coração de Diamante são aprimorados por chakra.</p>"
+    }
+   }
+  },
+  "mvafnYwqYUPsreVP": {
+   "name": "Camelo",
+   "items": {
+    "CTen24SLg5XM94em": {
+     "name": "Mordida",
+     "description": "<div class=\"rd__b rd__b--3\"><p><i>Jogada de Ataque Corpo a Corpo:</i> [[/r 1d20+4]]{+4}, alcance de 5 pés. <i>Acerto:</i> 4 ([[/damage 1d4 + 2 type=bludgeoning]]) de dano.</p></div>"
+    },
+    "skITgx3kaCzO0Vkz": {
+     "name": "Capacidade de Carga do Camelo"
+    }
+   }
+  },
+  "pb6XPcubQ5NjZ5Ip": {
+   "name": "Alma de Metal",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/actors/t7-metal-soul-qqrsscoi290mpxui.webp\">",
+   "items": {
+    "3JLTRVCGP4kHIn44": {
+     "name": "Rockerboy Lendário",
+     "description": "<p>Quando você conjura um jutsu com a palavra-chave Auditivo enquanto a Alma de Metal está presente, aumente o jutsu em 1 rank de graça, ignorando limitações de rank.</p><p> Além disso, se for um Hijutsu Silverhand, dobre sua área de efeito.</p><p></p>"
+    },
+    "6y9tSp54Bm0DUaqn": {
+     "name": "Ataques de Metal",
+     "description": "<p>Os ataques da Alma de Metal são aprimorados por chakra</p>"
+    },
+    "9VrNnEOWS5xhNpdC": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>A Alma de Metal pode atacar três vezes, duas com suas Garras Fantasmagóricas, e uma com sua Cauda Fantasmagórica.</p>"
+    },
+    "LOIH62MLQZwLi8ix": {
+     "name": "Garras Fantasmagóricas"
+    },
+    "Q1NecMfpT2mhpKPC": {
+     "name": "Cauda Fantasmagórica",
+     "description": "<p>A criatura golpeia sua cauda em um raio de 20 pés ao seu redor.</p><p> Cada criatura de sua escolha deve fazer um teste de resistência de Destreza.</p><p> Em uma falha no teste, ela é derrubada caída e sofre 3d12 de dano de energia.</p><p> Ou metade do dano e nenhum efeito em um sucesso.</p><p></p>"
+    },
+    "eAeI8WycTJCGmJwh": {
+     "name": "Alma de Metal",
+     "description": "<p>A Alma de Metal pode conjurar qualquer jutsu que você conheça com a palavra-chave Auditivo que não tenha alcance de si mesmo.</p><p> Para conjurar um jutsu, ela gasta uma quantidade de cargas baseada no rank do jutsu conjurado (Rank D: 1, Rank C: 2, Rank B: 3, Rank A: 4, Rank S: 5)</p>"
+    },
+    "wEWFNDzFYVOFAySt": {
+     "name": "Forma Imutável",
+     "description": "<p>A Alma de Metal é imune a qualquer Jutsu ou efeito que mudaria sua forma.</p>"
+    }
+   }
+  },
+  "w48OOy4PpC1EvVe2": {
+   "name": "Companheiro Espiritual",
+   "description": "<p></p><img src=\"systems/n5eb/assets/content/actors/t7-spirit-companion-aozmvlwqfctrzmkc.webp\">",
+   "items": {
+    "2KagjmqxwQNV3BBF": {
+     "name": "Memórias de Ninguém",
+     "description": "<p>Quando você ativa Manifestação Física pela primeira vez, escolha um tipo de jutsu da lista a seguir: </p><p>Ninjutsu sem palavras-chave de Liberação de Natureza; </p><p>Ninjutsu com uma palavra-chave de Liberação de Natureza (escolha uma), </p><p>Genjutsu, </p><p>Taijutsu, </p><p>Bukijutsu.</p><p></p><p>Uma vez escolhida, esta opção não pode ser alterada depois.</p><p>Enquanto Manifestação Física estiver ativa, seu Companheiro Espiritual pode conjurar qualquer jutsu do tipo de jutsu selecionado que você conheça, assim como qualquer Hijutsu Seol que você conheça.</p><p></p>"
+    },
+    "3gQWDr9hrTtehDkh": {
+     "description": "<p>O Companheiro Espiritual pode interagir com o mundo de maneiras semelhantes às listadas dentro dos efeitos do Ninjutsu Mãos de Chakra.</p><p> A quantidade de libras que ele pode levantar é aumentada, sendo multiplicada pela metade do seu Bônus de Proficiência.</p><p></p>"
+    },
+    "BhuveQcVPelYHhkk": {
+     "name": "Manifestação Física",
+     "description": "<p>Enquanto esta característica estiver ativa, seu Companheiro Espiritual se torna capaz de interagir com o mundo físico como se fosse você.</p><p> Você deve, em vez disso, usar suas Ações, Ações Bônus e Reações para comandá-lo a realizar uma determinada tarefa.</p><p> O alcance que ele pode percorrer a partir de você antes de se dissipar dobra, e sua velocidade de voo é substituída por velocidade de andar.</p><p></p>"
+    },
+    "ExOO7ozoF1OrYQeL": {
+     "name": "Conexão Espiritual",
+     "description": "<p>Enquanto Manifestação Física estiver ativa, você pode escolher ter um jutsu que você ou seu Companheiro Espiritual conjure se originar de qualquer um de seus espaços.</p><p> Além disso, se você ou seu Companheiro Espiritual conjurar um jutsu que faça pelo menos uma jogada de ataque ou force pelo menos um teste de resistência, ambos se tornam elegíveis para escolher como alvo uma criatura que foi atingida ou falhou em seu teste de resistência com um jutsu com a palavra-chave Finalizador, independentemente do alcance, uma vez por turno, como uma Ação, Ação Bônus ou Reação, ignorando seu tempo de conjuração listado.</p><p> Você ainda só pode conjurar um jutsu como Finalizador por turno.</p><p></p>"
+    },
+    "juAFyzcBbvNng0W4": {
+     "name": "Forma Imutável",
+     "description": "<p>O Companheiro Espiritual é imune a qualquer jutsu ou efeito que alteraria sua forma, e não pode conjurar jutsus ou usar efeitos que infligiriam prejuízos a si mesmo como parte dos efeitos daquele jutsu ou como consequência de sua conclusão.</p><p> Isso inclui jutsus e efeitos que aumentariam seus ranks de Exaustão, e efeitos que resultariam em morte instantânea.</p><p></p>"
+    },
+    "ktV5GKEPTrKoCDEC": {
+     "name": "Alma Inabalável",
+     "description": "<p>O Companheiro Espiritual não sofre dano adicional de jutsus, características ou traços que se beneficiariam dele ser um Constructo ou Morto-Vivo.</p>"
+    },
+    "rhcga8CiP3JqteqY": {
+     "name": "Recuperação Imaterial",
+     "description": "<p>O Espírito recupera metade do total de seus pontos de vida com um Descanso Curto, e todos os seus pontos de vida com um Descanso Longo.</p>"
+    },
+    "sqYqLzkupxYGwm8X": {
+     "name": "Separação Temporária",
+     "description": "<p>Se o Companheiro Espiritual for reduzido a 0 pontos de vida ou morto, ele não realmente \"morre\", mas retorna ao seu mundo.</p><p> Quando isso acontece, ele perde contato com você e se torna incapaz de ser usado de qualquer forma até você terminar um Descanso Longo, ao final do qual ele retorna com todos os seus pontos de vida e se torna disponível para uso novamente.</p><p></p>"
+    },
+    "wkDaXmPA58gvI2ak": {
+     "name": "Natureza Etérea",
+     "description": "<p>O Companheiro Espiritual geralmente é incorpóreo, a menos que se queira o contrário.</p><p> Enquanto a Manifestação Física não estiver ativa, eles não podem interagir com o mundo físico nem ser interagidos por ele, não podem ser vistos por criaturas sem visão de chakra ou visão verdadeira, têm uma velocidade de voo de 30 pés e podem planar no lugar, podem passar por até 5 pés de obstrução e pelos espaços de outras criaturas como se elas não estivessem lá.</p><p> Se terminarem seu turno em um espaço ocupado, são deslocados para o espaço desocupado mais próximo.</p><p></p>"
+    }
+   }
+  },
+  "wwY8zZktvNDyOtSf": {
+   "name": "Mastim",
+   "items": {
+    "6eumf00CQQvqbnYJ": {
+     "name": "Mordida",
+     "description": "<div class=\"rd__b rd__b--3\"><p><i>Jogada de Ataque Corpo a Corpo:</i> [[/r 1d20+3]]{+3}, alcance de 5 pés. <i>Acerto:</i> 4 ([[/damage 1d6 + 1 type=piercing]]) de dano, e o alvo fica com a condição &amp;Reference[condition=Prone] se for Grande ou menor.</p></div>"
+    },
+    "EyaUAZVwDIlW0a8x": {
+     "name": "Capacidade de Carga do Mastim"
+    }
+   }
+  },
+  "xu2DQaT4nB1AZ3jl": {
+   "name": "Velho Amigo",
+   "description": "<img src=\"systems/n5eb/assets/content/npcs/old-friend.webp\"><img src=\"systems/n5eb/assets/content/npcs/old-friend-token.webp\"><p></p>",
+   "items": {
+    "DydcLscDHxumOQZk": {
+     "name": "Fala Amaldiçoada",
+     "description": "<p>Todas as criaturas dentro de 15 pés de seu Velho Amigo devem fazer um teste de resistência de Sabedoria contra sua CD de resistência mais alta.</p><p> Em uma falha no teste, as criaturas sofrem 8d6 de dano psíquico e de energia, ganham 1 rank de Medo por 1d4 turnos contra seu Velho Amigo, e ganham a condição Amaldiçoado em uma falha no teste, ou metade do dano e nenhum efeito adicional em um sucesso.</p><p> Criaturas aliadas são imunes a este efeito.</p><p></p>"
+    },
+    "G3RrvQVxda1C2ia0": {
+     "name": "Amarra Amaldiçoada",
+     "description": "<p>Seu Velho Amigo não pode ficar a mais de 150 pés de distância de você antes de se dispensar sozinho. </p><p>Seu Velho Amigo compartilha seus pontos de vida e pontos de chakra. </p><p>Se você ou seu Velho Amigo algum dia fizerem um teste de resistência para resistir ao mesmo efeito, em vez disso vocês fazem apenas um teste usando o maior bônus entre os dois, sofrendo os efeitos de uma falha ou sucesso apenas uma vez.</p>"
+    },
+    "LNh0Qwttyj1B59lR": {
+     "name": "Um Corpo, Uma Alma",
+     "description": "<p>Você comanda seu Velho Amigo usando sua ação, ação bônus e reação normalmente. </p><p>Seu Velho Amigo possui as mesmas características da Classe Feiticeiro Jujutsu que você possui (excluindo características de subclasse) e pode conjurar qualquer jutsu que você conheça como se você estivesse em seu espaço (Jutsus que você conjura através de seu Velho Amigo ainda exigem que você use suas ações normalmente).</p>"
+    },
+    "gE0IkvI8rmARKNWa": {
+     "name": "Espírito Guardião",
+     "description": "<p>Seu Velho Amigo ganha uma quantidade de pontos de vida temporários igual a 5 vezes seu modificador de Constituição no início de cada um de seus turnos. </p><p>Isso não se acumula com si mesmo.</p>"
+    },
+    "sXMcVJD53SojmeTr": {
+     "name": "Constructo Amaldiçoado",
+     "description": "<p>Os ataques de seu Velho Amigo contam como aprimorados por chakra. </p><p>Quando seu Velho Amigo fizer um teste de resistência, trate quaisquer modificadores negativos como +0.</p>"
+    },
+    "szIJX0QfmNIy8t6C": {
+     "name": "Consumir",
+     "description": "<p>Quando seu Velho Amigo reduz os PV de uma criatura a 0, você pode tentar copiar o último jutsu que a criatura conjurou.</p>"
+    },
+    "w9Qh9rTgkoD6Qso8": {
+     "name": "Múltiplos Ataques",
+     "description": "<p>Seu Velho Amigo pode fazer dois ataques desarmados.</p>"
+    },
+    "wyqhfQ767aYL6kgZ": {
+     "name": "Inesgotável",
+     "description": "<p>Seu Velho Amigo não pode conjurar jutsus ou usar efeitos que aumentariam seus próprios ranks de exaustão</p>"
+    },
+    "xvtXDOb54wxkHbOU": {
+     "name": "Forma Imutável",
+     "description": "<p>Seu Velho Amigo é imune a qualquer jutsu ou efeito que alteraria sua forma.</p>"
+    },
+    "xwD90n7pcTnzXDer": {
+     "name": "Golpe Desarmado",
+     "description": "<p>Ataque com Arma Corpo a Corpo: Força + Proficiência para acertar, Alcance de 10 pés, um alvo.</p><p>Acerto: 2d8 + Força em dano cortante e de energia.</p>"
+    }
+   }
+  },
+  "y30JASjgdLFEHfGP": {
+   "name": "Vagão",
+   "items": {
+    "k2QbQ5fCkIz7H0Hv": {
+     "name": "Capacidade de Carga do Vagão"
+    },
+    "mWVdIvEd7w8UcnaL": {
+     "name": "Preço: 35"
+    }
+   }
+  },
+  "yLo2U7Av0wld8IBK": {
+   "name": "Cavalo de Guerra",
+   "items": {
+    "Dl5k8zeQngtx5Jpp": {
+     "name": "Cascos",
+     "description": "<div class=\"rd__b rd__b--3\"><p><i>Jogada de Ataque Corpo a Corpo:</i> [[/r 1d20+6]]{+6}, alcance de 5 pés. <i>Acerto:</i> 9 ([[/damage 2d4 + 4 type=bludgeoning]]) de dano. Se o cavalo se moveu pelo menos 20 pés em linha reta na direção do alvo imediatamente antes do acerto, o alvo sofre 5 ([[/damage 2d4 type=bludgeoning]]) de dano adicional e, se for Enorme ou menor, fica com a condição &amp;Reference[condition=Prone].</p></div>"
+    },
+    "FYjSptzMbJGCvJEj": {
+     "name": "Capacidade de Carga do Cavalo de Guerra"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,1021 @@
+{
+ "label": "Itens T7",
+ "folders": {
+  "Seals": "Selos",
+  "Created Items": "Itens Criados",
+  "Catalysts": "Catalisadores",
+  "B Rank": "Rank B",
+  "Kits": "Kits",
+  "Consumables": "Consumíveis",
+  "Weapons": "Armas",
+  "Scrolls/Tools": "Pergaminhos/Ferramentas",
+  "Rings": "Anéis",
+  "C Rank": "Rank C",
+  "Pills/Potions": "Pílulas/Poções",
+  "D Rank": "Rank D",
+  "Cases": "Estojos",
+  "Magic Items": "Itens Mágicos",
+  "Armors": "Armaduras",
+  "Mundane": "Mundano",
+  "Storage": "Armazenamento",
+  "S Rank": "Rank S",
+  "Packs": "Pacotes",
+  "Traps": "Armadilhas",
+  "Armor": "Armadura",
+  "A Rank": "Rank A"
+ },
+ "entries": {
+  "03TDcNzkZEyUeiFS": {
+   "name": "Espada de Apollyon"
+  },
+  "0N5YEYMauDhk5kec": {
+   "name": "Pó de Espirrar e Sufocar",
+   "description": "<p>Encontrado em um pequeno recipiente, esse pó se parece com areia muito fina.</p><p> Ele aparenta ser pó de desaparecimento, e um jutsu de identificação revela que é isso.</p><p> Há o suficiente para um uso.</p><p> Quando você usa uma ação para lançar um punhado do pó no ar, você e cada criatura que precise respirar a até 30 pés de você devem ser bem-sucedidas em um teste de resistência de Constituição CD 15 ou ficam incapazes de respirar, espirrando descontroladamente.</p><p> Uma criatura afetada dessa forma está incapacitada e sufocando.</p><p> Enquanto estiver consciente, uma criatura pode repetir o teste de resistência ao final de cada um de seus turnos, encerrando o efeito sobre ela em um sucesso.</p><p> O jutsu de restauração também pode encerrar o efeito em uma criatura.</p><p></p>"
+  },
+  "0b8NZQO8ovEK0j19": {
+   "name": "Anel da Akatsuki Dedo Anelar Direito Vermelho/Escarlate",
+   "description": "<p>Os Anéis da Akatsuki são feitos de um material desconhecido, porém indestrutível.</p><p>Cada um deles é único em sua criação.</p><p>Existem apenas 10 anéis em existência, e cada um tem uma propriedade especial além de poder se comunicar com qualquer outra pessoa que tenha um anel, desde que estejam no mesmo plano de existência.</p><p>Uma vez usados, esses anéis não podem ser retirados por nenhum meio, exceto por desmembramento ou morte.</p><p>Se você tiver tanto o anel quanto o manto da Akatsuki, isso conta como apenas um slot de sintonia.</p><p></p><p>Dedo anelar direito: \"vermelho\", \"escarlate\" Um anel com coloração vermelha.</p><p>Enquanto estiver usando este anel, você ganha +3 em sua CD de Genjutsu e tem +5 em testes de concentração em Genjutsu.</p>"
+  },
+  "0fPHvGDTr0QajGd2": {
+   "name": "Pergaminho",
+   "description": "<p>Pergaminhos são pedaços de papel que foram aprimorados com Fuinjutsu. </p><p>Pergaminhos têm uma grande variedade de usos, que podem ser encontrados no Capítulo 5 do livro base.</p>"
+  },
+  "0hY0RzZNPaj96e4A": {
+   "name": "Bolsa",
+   "description": "<p>Uma bolsa de tecido ou couro pode conter até 20 balas de funda ou 50 agulhas de zarabatana, entre outras coisas. </p><p>Uma bolsa compartimentada para guardar componentes de jutsu é chamada de bolsa de componentes (descrita anteriormente nesta seção). </p><p>Material Qualificado: Dardos, Balas, Componentes de Jutsu</p>"
+  },
+  "0jV4EQuxbusLeXp4": {
+   "name": "Selo de Armadura de Manipulação de Massa",
+   "description": "<p>Este é um selo que pode ser colocado em qualquer armadura, concedendo à pessoa que usa a armadura um benefício único.</p><p>Este selo permite que o usuário obtenha controle sobre seu peso.</p><p>Como uma ação livre, o usuário deste selo pode aumentar seu peso dez vezes ou diminuir seu peso dez vezes até o início de seu próximo turno, ganhando os benefícios listados abaixo.</p><p>Isso tem 5 usos por dia.</p><p></p><p>Peso Aumentado: </p><p>Enquanto seu peso estiver aumentado, todos os ataques corpo a corpo aumentam seu dado de dano em 1 e você ganha proficiência em testes de resistência de Força.</p><p> Se você já for proficiente, tem vantagem em testes de resistência de Força.</p><p> Você também ganha desvantagem em testes de resistência de Destreza.</p><p></p><p> Peso Diminuído: </p><p>Enquanto seu peso estiver diminuído, sua CA aumenta em 2, sua velocidade de deslocamento aumenta em 30 pés, e você ganha proficiência em testes de resistência de Destreza, se você já for proficiente, tem vantagem em testes de resistência de Destreza.</p><p> Você também ganha desvantagem em testes de resistência de Força</p>"
+  },
+  "0jkGbWMwirOOFcFO": {
+   "name": "Espada do Deus do Trovão",
+   "description": "<p>Tipo de Arma: Katana Este item parece ser o punho de uma Katana.</p><p>Enquanto empunha o punho, você pode usar uma ação bônus para fazer surgir uma lâmina de raios amarelos crepitantes, ou fazer a lâmina desaparecer.</p><p>Enquanto a lâmina está recolhida, este item tem a propriedade Oculto.</p><p>Você ganha um bônus de +3 em jogadas de ataque e dano feitas com esta arma, que causa dano elétrico em vez de dano cortante.</p><p>Quando esta arma causa um acerto crítico contra uma criatura, esse alvo ganha 2 ranks de Eletrocutado.</p><p>A lâmina luminosa da espada emite luz plena em um raio de 15 pés e luz fraca por mais 15 pés.</p><p>Enquanto a lâmina persistir, você pode usar uma ação para expandir ou reduzir seu raio de luz plena e fraca em 5 pés cada, até um máximo de 30 pés cada ou um mínimo de 10 pés cada.</p><p>Esta espada tem 3 cargas.</p><p>Você recupera cargas gastas após um descanso longo.</p><p>Você pode gastar uma carga desta arma enquanto ela estiver ativa para produzir um dos seguintes efeitos: Como uma reação, quando você for o alvo de um ataque ou jutsu, aumente sua CA em 3 e role 5d8, reduzindo qualquer dano recebido pelo resultado.</p><p>Isso dura até o início do seu próximo turno.</p><p>Quando você faz um ataque com esta arma, você causa 5d8 de dano elétrico adicional.</p><p>Como uma ação, um alvo a seu alcance deve fazer um teste de resistência de Força usando sua CD de resistência de Taijutsu + 3, ficando Agarrado pelo campo elétrico da espada em uma falha.</p><p>Enquanto uma criatura estiver agarrada dessa forma, ela também é considerada Atordoada.</p><p>Enquanto você tiver um alvo agarrado, não pode fazer ataques com esta arma.</p><p>Uma criatura Agarrada pode repetir o teste de resistência ao final de cada um de seus turnos para se soltar.</p><p></p>"
+  },
+  "14VyeLnmwSa3F96q": {
+   "name": "Selo de Destruição (Maior)",
+   "description": "<p>CD de Criação: +2</p><p>Armas imbuídas com este selo causam dano necrótico em vez do dano listado.</p><p> Esta arma causa +1 de dano necrótico adicional.</p><p> Objetos não aprimorados por chakra, e objetos de rank inferior a esta arma que chegarem a 0 PV devido a dano desta arma são destruídos.</p><p> Criaturas que chegarem a 0 PV devido a dano desta arma morrem instantaneamente, pois seu corpo é completamente destruído.</p><p></p>"
+  },
+  "1Dm29RjA1YtyV4Gg": {
+   "name": "Bandana Não-Elemental",
+   "description": "<p>Enquanto estiver usando esta bandana, você pode tratar seu valor de atributo de conjuração para jutsus não-elementais como sendo 18, reduz o custo de todo ninjutsu não-elemental em 2, e aprende 5 ninjutsus não-elementais de Rank C ou inferior.</p><p> Além disso, uma vez por descanso longo, você pode reduzir à metade o custo de um ninjutsu não-elemental.</p><p></p>"
+  },
+  "1RfjfspB7Kx5zvpj": {
+   "name": "Antitoxina",
+   "description": "<p>Uma criatura que bebe este frasco de líquido ganha vantagem em testes de resistência contra veneno por 1 hora. </p><p>Não confere nenhum benefício a mortos-vivos ou constructos.</p>"
+  },
+  "1VqaDMIxaodPpSWr": {
+   "name": "Selo Explosivo (Maior)",
+   "description": "<p>Armas imbuídas com este selo causam dano de energia em vez do dano listado. </p><p>Quando você causa 10 ou mais de dano em um único acerto, a criatura alvo é empurrada 15 pés.</p>"
+  },
+  "1uZSwgAuUVk2TGhK": {
+   "name": "Vela"
+  },
+  "20rnDBFRhSxAcl4b": {
+   "name": "Selo de Armadura de Invencibilidade Momentânea",
+   "description": "<p>Este é um selo que pode ser colocado em qualquer armadura, concedendo à pessoa que usa a armadura uma reação única.</p><p> Em reação a ser o alvo de um ataque/jutsu ou ao sofrer dano, você se transforma em uma estátua de aço que é imune a todas as condições e danos.</p><p> Ao final do seu próximo turno, você volta ao normal.</p><p> Isso tem dois usos por dia.</p><p></p>",
+   "condition": "Em reação a ser o alvo de um ataque/jutsu ou ao sofrer dano"
+  },
+  "2G05TbXnAxIw2AZ9": {
+   "name": "Selo de Destruição (Menor)",
+   "description": "<p>CD de Criação: +1</p><p>Armas imbuídas com este selo causam dano necrótico em vez do dano listado.</p><p>Objetos não aprimorados por chakra que chegarem a 0 PV devido a dano desta arma são destruídos.</p><p>Criaturas que chegarem a 0 PV devido a dano desta arma perdem o uso de um braço ou perna (sua escolha) até completarem um descanso curto ou longo.</p><p></p>"
+  },
+  "32Ebpq0XtCkVNGtp": {
+   "name": "Anel da Akatsuki Dedo Médio Direito Branco",
+   "description": "<p>Os Anéis da Akatsuki são feitos de um material desconhecido, porém indestrutível.</p><p>Cada um deles é único em sua criação.</p><p>Existem apenas 10 anéis em existência, e cada um tem uma propriedade especial além de poder se comunicar com qualquer outra pessoa que tenha um anel, desde que estejam no mesmo plano de existência.</p><p>Uma vez usados, esses anéis não podem ser retirados por nenhum meio, exceto por desmembramento ou morte.</p><p>Se você tiver tanto o anel quanto o manto da Akatsuki, isso conta como apenas um slot de sintonia.</p><p></p><p>Dedo médio direito: \"branco\" Um anel com coloração branca.</p><p>Enquanto estiver usando este anel, todas as ferramentas ninja explosivas ganham uma quantidade adicional de dado de dano e um bônus na CD com base em seu Rank, e você pode, como uma ação livre, transformar qualquer pedaço de papel em um shuriken totalmente funcional.</p><p>(Rank D = 1, Rank C = 2, Rank B = 3, Rank A = 4, Rank S = 5)</p>"
+  },
+  "3RBDD6e13pyctyEd": {
+   "name": "Vela",
+   "description": "<p>Por 1 hora, uma vela emite luz plena em um raio de 5 pés e luz fraca por mais 5 pés.</p>"
+  },
+  "4Bq6f33JLIknUQFg": {
+   "name": "Pé de Cabra",
+   "description": "<p>Usar um pé de cabra concede vantagem em testes de Força em que a alavanca do pé de cabra possa ser aplicada.</p>"
+  },
+  "4NEeWLBg97Y6KuMA": {
+   "name": "Espadão da Luz da Lua",
+   "description": "<p>Tipo de Arma: Arma Marcial Corpo a Corpo</p><p>Um espadão massivo imbuído com o poder da luz da lua.</p><p>Sua lâmina cristalina foi criada com chakra místico, por isso sua aparência opaca e seu estranho poder mágico.</p><p>Diz-se que aqueles que empunham esta lâmina desenvolvem uma paixão inabalável por ela.</p><p>O dano desta arma é 2d6 + seu modificador X em dano de energia, onde X é seu modificador de Inteligência ou Sabedoria.</p><p>Você escolhe qual modificador usar ao adquirir esta arma pela primeira vez (Sua escolha não pode ser alterada).</p><p>Esta arma tem as propriedades Acuidade (Você pode usar o modificador escolhido para jogadas de ataque e dano), Leve, Alcance(1), e Versátil (2d10).</p><p>Se você escolher Inteligência, ao conjurar um Ninjutsu, você pode optar por usar esta arma como componente em seu jutsu.</p><p>Quando o fizer, você adiciona o dano de sua arma ao dano causado, se o jutsu exigir uma jogada de ataque, ou aumenta a CD de resistência em +2 se seu jutsu não exigir uma jogada de ataque, mas impuser um teste de resistência.</p><p>Se você escolheu Sabedoria, pode fazer o mesmo, mas para Genjutsu.</p><p>Além disso, o Espadão da Luz da Lua possui as seguintes habilidades.</p><p>Cada habilidade usa 1 carga do seu Espadão da Luz da Lua.</p><p>O Espadão da Luz da Lua tem um número de cargas igual à metade do seu bônus de proficiência, arredondado para cima.</p><p>As cargas podem ser repostas banhando a arma na luz da lua por 5 minutos.</p><p>Se você usar uma das habilidades listadas com 0 cargas restantes, a habilidade é ativada normalmente, mas o Espadão da Luz da Lua se despedaça.</p><p></p><p>Corte da Luz da Lua: Como uma ação, você lança uma linha horizontal (45 pés de comprimento, 10 pés de largura) ou vertical (75 pés de comprimento, 5 pés de largura) de energia lunar.</p><p>Faça um ataque com arma à distância e compare o resultado com a CA de cada criatura afetada.</p><p>Se o resultado exceder a CA de uma criatura, ela sofre o dano de sua arma + seu bônus de proficiência em dano de energia e é derrubada.</p><p></p><p>Vórtice da Luz da Lua: Como uma ação, você segura a espada firmemente e canaliza energia lunar dentro dela antes de empurrá-la para frente, liberando uma torrente de energia lunar.</p><p>Todas as criaturas em um cone de 15 pés devem fazer um teste de resistência de Destreza contra a CD relevante do modificador de sua arma, sofrendo o dano de sua arma + seu bônus de proficiência em dano de energia, ficando Aturdidas, e sendo empurradas 20 pés para trás.</p><p></p><p>Antiga Luz da Lua: Como uma ação bônus, você concentra sua lâmina à sua frente, carregando uma quantidade massiva de energia lunar.</p><p>Na próxima vez que você causar o dano de sua arma, o resultado final é dobrado e ignora tanto resistência quanto imunidade.</p><p>Além disso, tanto o Corte da Luz da Lua quanto o Vórtice da Luz da Lua têm seus alcances de área de efeito dobrados.</p><p></p>"
+  },
+  "4cqsoCJhXPH1Ctbg": {
+   "name": "Anel do Líder do Clã",
+   "description": "<p>Um anel concedido àqueles que lideram seu clã. </p><p>Enquanto estiver usando este anel, você ganha um uso extra de todas as características de clã com uso limitado, todas as características com custo de chakra têm seu custo reduzido em 2 (mín. 1), e todos os Hijutsu têm seu custo reduzido em 1</p>"
+  },
+  "52GYMdMHuMdy5Ofj": {
+   "name": "Veneno Básico",
+   "description": "<p>Você pode usar o veneno deste frasco para untar uma arma cortante ou perfurante ou até três unidades de munição.</p><p> Aplicar o veneno leva uma ação.</p><p> Uma criatura atingida pela arma ou munição envenenada deve fazer um teste de resistência de Constituição CD 10 ou sofrer 1d4 de dano de veneno.</p><p> Uma vez aplicado, o veneno mantém sua potência por 1 minuto antes de secar.</p><p></p>"
+  },
+  "5EU3IFeVN11AzKRE": {
+   "name": "Pílula da Velocidade",
+   "description": "<p>Quando você come esta pílula, ganha o efeito do jutsu Liberação de Vento: Estilhaçamento por Fricção do Vento por 1 minuto (sem necessidade de concentração).</p>"
+  },
+  "5UxmGy2JXsP8BK75": {
+   "name": "Espada Dançante",
+   "description": "<p>Você pode usar uma ação bônus para lançar esta espada aprimorada por chakra ao ar e falar a palavra de comando.</p><p> Quando o fizer, a espada começa a flutuar, voa até 30 pés, e ataca uma criatura de sua escolha a até 5 pés dela.</p><p> A espada usa sua jogada de ataque e modificador de atributo para as jogadas de dano.</p><p> Enquanto a espada flutua, você pode usar uma ação bônus para fazê-la voar até 30 pés para outro ponto a até 30 pés de você.</p><p> Como parte da mesma ação bônus, você pode fazer a espada atacar uma criatura a até 5 pés dela.</p><p> Depois que a espada flutuante atacar pela quarta vez, ela voa até 30 pés e tenta retornar à sua mão.</p><p> Se você não tiver uma mão livre, ela cai ao chão a seus pés.</p><p> Se a espada não tiver um caminho desobstruído até você, ela se move o mais próximo possível de você e então cai ao chão.</p><p> Ela também deixa de flutuar se você a agarrar ou se mover mais de 30 pés de distância dela.</p><p></p>"
+  },
+  "5g6SJ3aocRb2pBIh": {
+   "name": "Água Benta",
+   "description": "<p>Como uma ação, você pode espalhar o conteúdo deste frasco sobre uma criatura a até 5 pés de você, ou arremessá-lo a até 20 pés, quebrando-o no impacto.</p><p> Em qualquer caso, faça um ataque à distância contra uma criatura alvo, tratando a água benta como uma arma improvisada.</p><p> Se o alvo for um morto-vivo ou um demônio, ele sofre 2d6 de dano de energia.</p><p> Água Benta pode ser encontrada no mundo ou vendida por monges.</p><p></p>"
+  },
+  "6TybUqz7HXTxrUC0": {
+   "name": "Pílula da Escalada",
+   "description": "<p>Quando você come esta pílula, ganha um deslocamento de escalada igual ao seu deslocamento de caminhada por 1 hora. </p><p>Durante esse tempo, você tem vantagem em testes de Força (Atletismo) feitos para escalar.</p>"
+  },
+  "6p4KKIfqOlkntARF": {
+   "name": "Baralho de Cartas"
+  },
+  "6rGZdOkN3GETpE03": {
+   "name": "Pergaminho de Gravação",
+   "description": "<p>Um Pergaminho de Gravação é um único pergaminho projetado para capturar e armazenar informações de áudio e vídeo fornecidas a ele a até 15 pés.</p><p> A informação é transcrita em texto simples no idioma de escolha do proprietário, e pode armazenar até 2000 Palavras ou 5 minutos de Áudio.</p><p></p>"
+  },
+  "70mYNGTqKY2pJgRB": {
+   "name": "Freio e Cabresto"
+  },
+  "7XCZEo0vyKedACaI": {
+   "name": "Curry da Vida",
+   "description": "<p>Um curry especial e muito picante, exclusivo de uma Loja da Terra dos Rios.</p><p> Quando dado a uma criatura inconsciente ou morrendo, ela deve ser bem-sucedida em um teste de resistência de Constituição vs.</p><p> CD 15, encerrando as condições morrendo e Inconsciente e recuperando 1 ponto de vida em um sucesso, ou falhando em um teste de resistência contra a morte em uma falha.</p><p> Se o curry for comido por uma criatura consciente, ela deve ser bem-sucedida em um teste de resistência de Constituição vs.</p><p> CD 15, ganhando 3d8 pontos de vida em um sucesso, ou perdendo uma quantidade de pontos de vida igual à quantidade que teria curado em uma falha.</p><p></p>"
+  },
+  "7eqFxGNWPxCY9y38": {
+   "name": "Bandana de Hijutsu de Elite",
+   "description": "<p>Enquanto estiver usando esta bandana, você ganha a capacidade de conjurar o Hijutsu de um único clã até Rank B, e seu valor de atributo de conjuração para os jutsus de Hijutsu daquele clã é tratado como sendo 22, e você reduz o custo de todos os jutsus de Hijutsu daquele clã em 3, e aprende 5 Hijutsus de Rank A ou inferior daquele clã.</p><p> Além disso, duas vezes por descanso longo, você pode reduzir à metade o custo de um dos Hijutsu daquele clã.</p><p></p>"
+  },
+  "7xWD1LlikmXlQZA8": {
+   "name": "Lanterna Olho-de-boi",
+   "description": "<p>Uma lanterna olho-de-boi projeta luz plena em um cone de 60 pés e luz fraca por mais 60 pés. </p><p>Uma vez aceso, ela queima por 6 horas com um frasco (1 pint) de óleo.</p>"
+  },
+  "8EEoqORFB7HfzRSR": {
+   "name": "Pergaminho do Corpo",
+   "description": "<p>Este pergaminho contém dicas de saúde e dieta, e suas palavras estão carregadas de chakra .</p><p> Se você gastar 4 semanas de tempo de inatividade estudando o conteúdo do pergaminho e praticando suas orientações, seu valor de Constituição aumenta em 2, assim como seu máximo para esse valor.</p><p> O pergaminho então perde seu chakra, para nunca mais retornar.</p><p></p>"
+  },
+  "8etyM1FklekGHdzn": {
+   "name": "Cetro do Devoto",
+   "description": "<p>Esta arma tem +1 em jogadas de ataque e dano feitas com ela.</p><p> Além disso, enquanto empunha esta arma, você pode usar uma Ação Bônus para transformar esta arma em qualquer outra arma de seu Arsenal Real, mesmo que ela já tenha sido usada neste período de descanso.</p><p></p>"
+  },
+  "8f0QVN052VeMQz1T": {
+   "name": "Panela de Ferro",
+   "description": "<p>Capacidade: 1 galão de líquido</p>"
+  },
+  "8uCRWupEoTDsgqdW": {
+   "name": "Selo Veloz (Maior)",
+   "description": "<p>Armas imbuídas com este selo causam dano de Vento em vez do dano listado. </p><p>Esta arma ganha a propriedade Multiataque.</p>"
+  },
+  "8x1UII8F0idjJtpB": {
+   "name": "Roupa Selada de Elite",
+   "description": "<p>Este conjunto de roupas comuns tem uma série de selos que parecem ter sido criados por um mestre de Fuinjutsu sobre ele.</p><p> Uma pessoa usando esta roupa ganha um cálculo de CA de 15 + Destreza ou Inteligência (Escolha uma) + Metade do seu Bônus de Proficiência (Arredondado para Baixo).</p><p></p>"
+  },
+  "9XF0IkxdBeUunO6Q": {
+   "name": "Vela"
+  },
+  "9ke8Mns0pp3bv3do": {
+   "name": "Kit de Veneno",
+   "description": "<p>Um kit de envenenador inclui frascos, produtos químicos e outros equipamentos necessários para a criação de venenos, e possui 5 Cargas.</p><p>Proficiência com este kit permite que você adicione seu bônus de proficiência a qualquer teste de perícia feito para criar ou usar venenos.</p><p>Os venenos a seguir não podem ser comprados por meios normais e, em vez disso, devem ser criados ou comprados de vendedores do mercado negro, já que seu uso não é totalmente aprovado pela maioria das vilas, embora também não seja completamente proibido.</p><p>Esses venenos geralmente são aplicáveis em uma variedade de situações, podendo ser tanto ingeridos quanto aplicados por meio de um ataque com arma.</p><p>Veneno aplicado em armas exige uma ação bônus, e só é consumido quando atinge uma criatura.</p><p>Uma vez consumido dessa forma, o veneno não pode mais ser aplicado pela arma sem ser reaplicado.</p><p>Ao longo de um descanso curto, quando você tentar fazer um Veneno, gaste uma quantidade de Cargas igual ao Rank efetivo do Veneno que está sendo feito, e faça um teste de Inteligência ou Sabedoria (Kit de Veneno) contra a CD de Criação do veneno.</p><p>Em um sucesso, você cria o veneno; em uma falha, você desperdiça todos os recursos usados na tentativa de fazer o veneno.</p><hr><p><strong>Sangue de Assassino:</strong></p><p>Uma criatura submetida a este veneno deve fazer um teste de resistência de Constituição CD 12.</p><p>Em uma falha, ela sofre 2d6 de dano de veneno e fica Envenenada por 24 horas.</p><p>Em um sucesso, a criatura sofre metade do dano e não fica Envenenada.</p><hr><p><strong>Veneno de Serpente:</strong></p><p>Este veneno é criado extraindo-o de uma cobra venenosa morta ou incapacitada.</p><p>Uma criatura submetida a este veneno deve ser bem-sucedida em um teste de resistência de Constituição CD 13.</p><p>Em uma falha, ela sofre 4d6 de dano de Veneno e fica Envenenada por 24 horas.</p><hr><p><strong>Lágrimas da Meia-Noite:</strong></p><p>Uma criatura submetida a este veneno não sofre nenhum efeito até a meia-noite.</p><p>Se o veneno não tiver sido neutralizado até então, a criatura deve ser bem-sucedida em um teste de resistência de Constituição CD 15, sofrendo 6d6 de dano de veneno em uma falha, ou metade desse valor em um sucesso.</p><hr><p><strong>Éter:</strong></p><p>Este veneno não é usado diretamente em combate, sendo mais utilizado em espionagem e manipulação política.</p><p>Uma criatura submetida a este veneno deve ser bem-sucedida em um teste de resistência de Constituição CD 16, ou fica Enfeitiçada pela primeira criatura que vir, que lhe dá uma ordem, por 24 horas.</p><hr><p><strong>Mata-Lobo:</strong></p><p>Este é um veneno melhor ingerido, mas pode ser aplicado em uma arma com menor potência.</p><p>Uma criatura que ingerir este veneno deve ser bem-sucedida em um teste de resistência de Constituição CD 17, ou fica Envenenada por 72 horas, sofrendo 10d4 de dano de veneno, e fica Lenta pela duração do veneno, ou sofre metade do dano em um sucesso.</p><p>Uma criatura submetida a este veneno por meio de um ataque com arma deve ser bem-sucedida em um teste de resistência de Constituição CD 16, sofrendo 5d6 de dano de veneno em uma falha, ou metade desse valor em um sucesso.</p><hr><p><strong>Beijo do Diabo:</strong></p><p>Este veneno é melhor ingerido, mas pode ser aplicado em uma arma com menor potência.</p><p>Uma criatura que ingerir este veneno deve ser bem-sucedida em um teste de resistência de Constituição CD 20, pois o veneno incendeia o ácido estomacal dentro da criatura, causando 8d8 de dano de fogo que ignora resistências em uma falha, ou metade desse valor em um sucesso.</p><p>A criatura deve ser bem-sucedida em um teste de resistência de Constituição CD 18 a cada rodada até ser bem-sucedida, encerrando este efeito, sofrendo 3d8 de dano de fogo em uma falha.</p><hr><p><strong>Veneno Kamizuru:</strong></p><p>Este veneno é extraído da Floresta das Abelhas de Kamizu.</p><p>Uma criatura submetida a este veneno deve ser bem-sucedida em um teste de resistência de Constituição CD 19, sofrendo 6d8 de dano de veneno, ficando Envenenada e Empeçonhada por 1 hora em uma falha, ou sofrendo metade do dano e nenhum efeito adicional em um sucesso.</p><hr><p><strong>Cogumelo Mofado:</strong></p><p>Este veneno é extraído da Floresta de Fungos Mofados.</p><p>Este veneno só faz efeito se for ingerido.</p><p>Uma criatura que ingerir este veneno deve ser bem-sucedida em um teste de resistência de Constituição CD 19, ou fica Paralisada por 1 hora em uma falha.</p><hr><p><strong>Respiro de Anjo:</strong></p><p>Este veneno é uma mistura feita a partir de Beijo do Diabo, Cogumelo Mofado e Sangue de Assassino.</p><p>Uma criatura submetida a este veneno deve ser bem-sucedida em um teste de resistência de Constituição CD 20, ou fica Inconsciente por 96 horas (4 dias) em uma falha, ou fica Lenta e Enfraquecida por 24 horas em um sucesso.</p><hr><p><strong>Pétalas de Zetsubo:</strong></p><p>Este veneno é desenvolvido usando uma flor extremamente rara encontrada apenas na terra do Ferro.</p><p>Uma criatura submetida a este veneno deve ser bem-sucedida em um teste de resistência de Constituição CD 21, ou ganha 5 ranks de Empeçonhado e a condição Frenesi pela próxima hora em uma falha, ou fica Envenenada por 1 hora em um sucesso.</p><hr><p><strong>Torpor:</strong></p><p>Este veneno recebe um nome enganosamente simples, considerando que é conhecido como uma das 3 misturas venenosas mais poderosas do mundo shinobi.</p><p>Uma criatura submetida a este veneno deve ser bem-sucedida em um teste de resistência de Constituição CD 22, ou fica Envenenada por 1 semana; quando recuperaria pontos de vida por qualquer meio, em vez disso recupera apenas 1/4 da quantidade que recuperaria, e sofre 10d8 de dano de veneno a cada 24 horas.</p><p>Este veneno não pode ser neutralizado por um Jutsu ou efeito de Rank inferior a A, em uma falha, ou metade desse dano em um sucesso.</p><hr><p><strong>Lírio Negro:</strong></p><p>Este veneno é feito a partir do misterioso Lírio de Lótus Negro.</p><p>Esta flor é tão venenosa que, ao crescer, geralmente mata toda a vida selvagem a até 1 milha dela.</p><p>Esta flor é conhecida por crescer uma vez por ano na Floresta Negra, na terra do fogo.</p><p>Uma criatura submetida a este veneno deve ser bem-sucedida em um teste de resistência de Constituição CD 23, sofrendo 15d8 de dano de veneno a cada hora pelas próximas 5 horas e ganhando a condição Envenenado.</p><p>Se uma criatura estiver a até 5 pés de outra criatura enquanto esta respira, a criatura não afetada deve ser bem-sucedida em um teste de resistência CD 18 ou sofre os mesmos efeitos da criatura original.</p><p>Este veneno pode ser neutralizado por um Jutsu ou efeito de Rank não inferior a S.</p><hr><p><strong>Malícia:</strong></p><p>Este veneno foi criado por um shinobi chamado Sasori e há muito tempo é banido por todas as vilas.</p><p>Este veneno é de uma letalidade legendária.</p><p>Uma criatura submetida a este veneno deve ser bem-sucedida em um teste de resistência de Constituição CD 25, ignorando resistência ou Imunidade.</p><p>Em uma falha, a criatura afetada fica Inconsciente por 72 horas, e morre imediatamente ao final dessa duração.</p><p>Este veneno pode ser neutralizado por um Jutsu ou efeito de Rank não inferior a S.</p><img src=\"systems/n5eb/assets/content/pages/qssz8ohlycvdcvzv-pages-shgz8jw1vdvlhmca-poisons-ledjt2xisou6kzve.webp\">"
+  },
+  "9kvAe8zKNyQM3e4S": {
+   "name": "Bandana de Fogo de Elite",
+   "description": "<p>Enquanto estiver usando esta bandana, você pode tratar seu valor de atributo de conjuração para jutsus de fogo como sendo 22, reduz o custo de todo ninjutsu de fogo em 3, e aprende 8 ninjutsus de fogo de Rank A ou inferior.</p><p>Além disso, duas vezes por descanso longo, você pode reduzir à metade o custo de um ninjutsu de fogo.</p><p></p>"
+  },
+  "9p2bKmKACAXOVTpm": {
+   "name": "Caderno"
+  },
+  "9qyv3c6JUl6XyiZ0": {
+   "name": "Lâmina Kusanagi \"Dançante\"",
+   "description": "<p>Tipo de Arma: Qualquer espada Uma Lâmina Kusanagi, também conhecida como Lâmina Dançante, é uma arma infundida com poderoso Chakra de Liberação de Vento que permite que ela levite sob seu comando.</p><p> Você pode usar uma ação bônus para lançar esta espada ao ar e realizar os selos manuais necessários.</p><p> Quando o fizer, a espada começa a flutuar, voa até 30 pés, e ataca uma criatura de sua escolha a até 5 pés dela.</p><p> A espada usa sua jogada de ataque e modificador de atributo para as jogadas de dano.</p><p> Enquanto a espada flutua, você pode usar uma ação bônus para fazê-la voar até 30 pés para outro ponto a até 30 pés de você.</p><p> Como parte da mesma ação bônus, você pode fazer a espada atacar uma criatura a até 5 pés dela.</p><p> Depois que a espada flutuante atacar pela quarta vez, ela voa até 30 pés e tenta retornar à sua mão.</p><p> Se você não tiver uma mão livre, ela cai ao chão a seus pés.</p><p> Se a espada não tiver um caminho desobstruído até você, ela se move o mais próximo possível de você e então cai ao chão.</p><p> Ela também deixa de flutuar se você a agarrar ou se mover mais de 30 pés de distância dela.</p><p></p>"
+  },
+  "A24S3AkXqRtwPqBz": {
+   "name": "Utensílios de Escrita",
+   "description": "<p>Utensílios necessários para escrever e fazer anotações.</p>"
+  },
+  "A4BwivdZZpviccB2": {
+   "name": "Jarro/Jarra",
+   "description": "<p>Capacidade: 1 galão de líquido</p>"
+  },
+  "A843a3ELERM8KUSm": {
+   "name": "Luvas de Drenagem de Chakra",
+   "description": "<p>Além disso, quando você faz um ataque desarmado enquanto usa as luvas, causa 2d6 de dano de chakra adicional ao seu alvo e recupera pontos de chakra iguais à metade do dano de chakra causado.</p><p> Alternativamente, em vez de recuperar pontos de chakra, você pode optar por ganhar vantagem em uma jogada de ataque, teste de atributo, ou teste de resistência que fizer antes do final do seu próximo turno.</p><p></p>"
+  },
+  "A9TFH3oMrAvpWHIl": {
+   "name": "Lançador Automático de Kunai",
+   "description": "<p>Esta ferramenta se fixa ao seu pulso, encaixando-se bem com um formato similar a uma besta, com a extremidade chegando até sua mão; este é maior e tem múltiplos pontos de disparo. Este item causa 2d8 de dano perfurante com um alcance de 80/240 pés, e pode conter até 10 kunai de uma vez.</p><p> Você pode gastar uma ação para disparar um kunai ou disparar todos os 10 kunai (se estiverem todos carregados) em uma área de 20 pés que possa ver; cada alvo na área deve fazer um teste de resistência de Destreza CD 18 ou sofrer dano normal.</p><p></p>"
+  },
+  "AHeU0p7JA2eIQyP2": {
+   "name": "Ração de Campo",
+   "description": "<p>Rações necessárias para sobreviver um dia inteiro.</p>"
+  },
+  "AbgoB3xISN4V6Mfl": {
+   "name": "Utensílios de Escrita",
+   "description": "<p>Utensílios necessários para escrever e fazer anotações.</p>"
+  },
+  "ApUxSIz0UNuN9f6M": {
+   "name": "Manto de Ashura",
+   "description": "<p>Você tem vantagem em testes de resistência contra jutsus não-elementais enquanto usa este manto.</p>"
+  },
+  "B8xdxaJCWA1WpOAy": {
+   "name": "Jogo de Tabuleiro",
+   "description": "<p>Este item abrange uma grande variedade de peças de jogo, incluindo dados e baralhos de cartas (para jogos como Aposta dos Três Dragões), além de outros tipos de pequenos jogos.</p>"
+  },
+  "BF22cYyZtJeJRexf": {
+   "name": "Ração de Campo",
+   "description": "<p>Rações necessárias para sobreviver um dia inteiro.</p>"
+  },
+  "BVsxYRMLR36IHOxl": {
+   "name": "Garra do Diabo",
+   "description": "<p>Alcance 2 Mortal 1</p><p>Seu dano desarmado + 2d10</p>"
+  },
+  "BqzISdIUuIF72FtQ": {
+   "name": "Bandana de Hijutsu",
+   "description": "<p>Enquanto estiver usando esta bandana, você ganha a capacidade de conjurar o Hijutsu de um único clã até Rank C, e seu valor de atributo de conjuração para os jutsus de Hijutsu daquele clã é tratado como sendo 18, e você reduz o custo de todos os jutsus de Hijutsu daquele clã em 2, e aprende 5 Hijutsus de Rank C ou inferior daquele clã.</p><p> Além disso, uma vez por descanso longo, você pode reduzir à metade o custo de um dos Hijutsu daquele clã.</p>"
+  },
+  "C69qSKhDrKDjPiFh": {
+   "name": "Lâmina Incomparável",
+   "description": "<p>Tipo de Arma: Katana</p><p>Esta katana tem uma lâmina branca pura e o revestimento de tecido é feito de seda preta e roxa.</p><p>Você tem um bônus de +1 em jogadas de ataque e dano feitas com esta arma aprimorada por chakra.</p><p>Esta arma tem as propriedades arremessável e retornável com alcance ilimitado</p>"
+  },
+  "CAuC3OSDJY0Qckm2": {
+   "name": "Pesos de Treinamento",
+   "description": "<p>Estes Pesos ajudam a treinar um Ninja nos caminhos de se tornar um mestre de Taijutsu.</p><p> A lenda diz que eles são imbuídos com o chakra residual de um Shinobi que incorporou o espírito da juventude. Enquanto estiver usando estes pesos, seu deslocamento é reduzido pela metade, você tem desvantagem em testes de resistência de Destreza, e sua chance de acertar com ataques corpo a corpo é reduzida em 2.</p><p> Se você tiver usado os Pesos por mais de 1 dia quando for retirá-los, ganha os seguintes benefícios pelo próximo minuto.</p><p> Você adiciona um d4 a todas as jogadas de ataque, testes de resistência de Força, Destreza e Constituição, e sua CA é aumentada em 2.</p><p></p>"
+  },
+  "CH1krv6xeTTkSn1v": {
+   "name": "Lança Raijin",
+   "description": "<p>Tipo de Arma: Lança </p><p>Você ganha um bônus de +2 em jogadas de ataque e dano feitas com esta arma infundida com chakra.</p><p>Além disso, uma vez por dia você pode usar sua ação para invocar um poderoso raio sobre seus inimigos.</p><p>Escolha um alvo a até 120 pés de você; o alvo deve fazer um teste de resistência de Destreza CD 25 ou sua CD de Ninjutsu, o que for maior.</p><p>Em uma falha, a criatura sofre 20d10 de dano elétrico e ganha a condição eletrocutado por 1 minuto.</p><p>Em um sucesso, a criatura alvo ainda sofre metade do dano.</p><p></p>"
+  },
+  "ChvgtBfAEVBjWpfQ": {
+   "name": "Poção de Cura",
+   "description": "<p>Um personagem que bebe o fluido mágico vermelho deste frasco recupera 50 pontos de vida. </p><p>Beber ou administrar uma poção leva uma ação.</p>"
+  },
+  "CiIGOFVX0SbEx2Nm": {
+   "name": "Anel do Carneiro",
+   "description": "<p>Este anel tem 3 cargas, e recupera 1d3 cargas gastas diariamente ao amanhecer.</p><p> Enquanto estiver usando o anel, você pode usar uma ação para gastar 1 a 3 de suas cargas para atacar uma criatura que você possa ver a pés de você.</p><p> O anel produz uma cabeça espectral de carneiro e faz sua jogada de ataque com um bônus de +10.</p><p> Em um acerto, para cada carga que você gastar, o alvo sofre 2d10 de dano de energia e é empurrado 5 pés para longe de você.</p><p> Alternativamente, você pode gastar 1 a 3 cargas do anel como uma ação para tentar quebrar um objeto que possa ver a até 60 pés de você que não esteja sendo usado ou carregado.</p><p> O anel faz um teste de Força com um bônus de +5 para cada carga que você gastar.</p><p></p>"
+  },
+  "DBNHvqzY9Ws7ihDv": {
+   "name": "Anel da Akatsuki Polegar Esquerdo Joia/Esfera",
+   "description": "<p>Os Anéis da Akatsuki são feitos de um material desconhecido, porém indestrutível.</p><p>Cada um deles é único em sua criação.</p><p>Existem apenas 10 anéis em existência, e cada um tem uma propriedade especial além de poder se comunicar com qualquer outra pessoa que tenha um anel, desde que estejam no mesmo plano de existência.</p><p>Uma vez usados, esses anéis não podem ser retirados por nenhum meio, exceto por desmembramento ou morte.</p><p>Se você tiver tanto o anel quanto o manto da Akatsuki, isso conta como apenas um slot de sintonia.</p><p></p><p>Polegar esquerdo: \"joia\", \"esfera\" Um anel com coloração roxa.</p><p>Enquanto estiver usando este anel, um número de vezes igual ao seu bônus de proficiência por descanso longo, você pode fazer com que qualquer jogada de ataque contra você seja feita com desvantagem, ou conceder a si mesmo vantagem em um teste de resistência.</p><p></p>"
+  },
+  "DVnyTxQPjrBy6UWU": {
+   "name": "Selo da Tempestade (Obra-Prima)",
+   "description": "<p>CD de Criação: +1</p><p>Armas imbuídas com este selo causam dano elétrico em vez do dano listado.</p><p>Esta arma ganha a propriedade oculto.</p><p>Dano elétrico desta arma ignora resistência e imunidade.</p>"
+  },
+  "DWqLdn5nQ34OmF5Q": {
+   "name": "Pacote de Marinheiro"
+  },
+  "Dk4GLqAPAkvXxbDv": {
+   "name": "Fósforos"
+  },
+  "DkVe6f6fsz6hm3lj": {
+   "name": "Baixo de Prata",
+   "description": "<p><strong>Mestre Solo.</strong> Reduza o custo de todo jutsu em que você usar esta arma como componente em -1 (ou -2, se for um Hijutsu de Silverhand).</p><p>Alcance 1, Desarmar, Bloqueio</p>"
+  },
+  "DxgAaD5WQiGhSZcB": {
+   "name": "Grilhões",
+   "description": "<p>Estas restrições de metal podem prender uma criatura Pequena ou Média.</p><p> Escapar dos grilhões exige um teste de Destreza CD 20 bem-sucedido.</p><p> Quebrá-los exige um teste de Força CD 20 bem-sucedido.</p><p> Cada conjunto de grilhões vem com uma chave.</p><p> Sem a chave, uma criatura proficiente com ferramentas de ladrão pode arrombar a fechadura dos grilhões com um teste de Destreza CD 15 bem-sucedido.</p><p> Os grilhões têm 15 pontos de vida.</p><p></p>"
+  },
+  "E9ZWKagkmqWu84nk": {
+   "name": "Kabutowari \"Divisora de Elmos\"",
+   "description": "<p>Tipo de Arma: Machado Grande</p><p>Um poderoso machado grande ligado por uma corrente a um martelo massivo forjado pelo Sábio dos Seis Caminhos.</p><p>Você ganha um bônus de +3 em jogadas de ataque e dano feitas com esta arma.</p><p>Além de suas propriedades normais de arma, Kabutowari também tem as propriedades Arremessável, Retornável e Multiataque, e quando você realiza a ação de ataque, pode escolher causar dano de Concussão ou Cortante por ataque.</p><p>Enquanto empunha Kabutowari, o usuário ganha os seguintes benefícios; </p><p></p><p>Aumente o alcance de todo Bukijutsu que você conjurar usando Kabutowari em 1 nível, (Toque&gt;15 pés&gt;30 pés).</p><p></p><p>Esta arma pode ser usada para conjurar Bukijutsu que causem dano de concussão ou cortante.</p><p>Além disso, alvos que precisem fazer um teste de resistência de Força ou Constituição como resultado do seu jutsu conjurado subtraem -1d4 de sua rolagem.</p><p></p><p>Ataques feitos usando Kabutowari causam dano dobrado contra constructos, objetos e estruturas.</p><p>Além disso, ataques de jutsu feitos usando esta arma causam dano adicional em uma quantidade baseada na categoria de tamanho do alvo.</p><p>(Enorme+ = 1d4, Grande = 1d6, Médio = 1d8, Pequeno = 1d10).</p><p></p>"
+  },
+  "EF3yCYUhcRTyM0ih": {
+   "name": "Lanterna de Negação de Chakra",
+   "description": "<p>Esta Lanterna exige que um usuário com a palavra-chave liberação de fogo gaste 15 de chakra para ativá-la.</p><p> Uma vez ativa, ela emite uma luz em uma esfera de raio de 20 10 pés por 1 minuto.</p><p> Tudo dentro da luz está sob os efeitos do Jutsu Campo de Distorção de Chakra.</p><p></p>"
+  },
+  "EakXHwLEblGRqn86": {
+   "name": "Selo da Tempestade (Menor)",
+   "description": "<p>Armas imbuídas com este selo causam dano elétrico em vez do dano listado. </p><p>Esta arma ganha a propriedade oculto.</p>"
+  },
+  "FB88RLUMbDVIczSX": {
+   "name": "Mochila",
+   "description": "<p>Capacidade: 1 pé cúbico</p>"
+  },
+  "FBaByIHJDnO5FgT0": {
+   "name": "Braço de Propulsão de Chakra",
+   "description": "<p>Este dispositivo aprimorado por chakra é tão eficaz como arma quanto como prótese para personagens jogadores que não têm uma mão, braço, ou outro apêndice adequado.</p><p> Pode ser feito de metal ou madeira e só pode ser removido por você, levando uma ação bônus para colocar ou retirar.</p><p> Este dispositivo pode ser usado no lugar de um ataque desarmado a cada turno.</p><p> O Braço de Propulsão de Chakra tem as propriedades Desarmado, Bloqueio e Arremessável com um alcance de 20/60 pés.</p><p>, e causa o dobro do seu dado de dano desarmado (ou 2d6 de concussão, o que for maior).</p><p></p>",
+   "condition": "Requer Sintonia por uma criatura que não tenha uma mão ou um braço"
+  },
+  "FI39SbZzKPdsQ5OK": {
+   "name": "Pergaminho da Mente",
+   "description": "<p>Este pergaminho contém dicas de saúde e dieta, e suas palavras estão carregadas de chakra .</p><p> Se você gastar 4 semanas de tempo de inatividade estudando o conteúdo do pergaminho e praticando suas orientações, seu valor de Inteligência aumenta em 2, assim como seu máximo para esse valor.</p><p> O pergaminho então perde seu chakra, para nunca mais retornar.</p><p></p>"
+  },
+  "Fj6StMN6KNOUs77V": {
+   "name": "Lanterna com Capuz",
+   "description": "<p>Uma lanterna com capuz projeta luz plena em um raio de 30 pés e luz fraca por mais 30 pés.</p><p> Uma vez acesa, ela queima por 6 horas com um frasco (1 pint) de óleo.</p><p> Como uma ação, você pode baixar o capuz, reduzindo a luz para luz fraca em um raio de 5 pés.</p><p></p>"
+  },
+  "Fphe36R1rO707tfB": {
+   "name": "Link de Rádio",
+   "description": "<p><span id=\"page193R_mcid12\" class=\"markedContent\"><span dir=\"ltr\">Links de Rádio são dispositivos de comunicação</span> <span dir=\"ltr\"></span><span dir=\"ltr\">portáteis padrão, </span><span dir=\"ltr\">equipados com microfones e receptores.</span> <br><span dir=\"ltr\">Um </span><span dir=\"ltr\">link de rádio pessoal e padrão</span> <span dir=\"ltr\"></span><span dir=\"ltr\">tem um alcance de até 1 milha, </span><span dir=\"ltr\"></span><span dir=\"ltr\">mas é reduzido em até a metade </span><span dir=\"ltr\">em áreas urbanas densas ou </span><span dir=\"ltr\">áreas de interferência de alto</span><span dir=\"ltr\">-</span><span dir=\"ltr\">nível.</span></span></p>"
+  },
+  "FreXYQaW8IXOs3XZ": {
+   "name": "Mapa"
+  },
+  "GGissn6bvlkMqFNb": {
+   "name": "Lupa",
+   "description": "<p>Esta lente permite observar de perto objetos pequenos.</p><p> Também é útil como substituto de pederneira e aço ao iniciar fogueiras.</p><p> Acender um fogo com uma lupa exige luz tão intensa quanto a luz solar para focalizar, isca para incendiar, e cerca de 5 minutos para o fogo se iniciar.</p><p> Uma lupa concede vantagem em qualquer teste de atributo feito para avaliar ou inspecionar um item que seja pequeno ou altamente detalhado.</p><p></p>"
+  },
+  "GzLPM2fnnnoCarpG": {
+   "name": "Sniper de Tiro de Injeção",
+   "description": "<p>Tipo de Arma: Zarabatana </p><p>Esta é uma das ferramentas usadas pelos nin-médicos de Konohagakure.</p><p> Lembra um rifle sniper rudimentar, usado para disparar projéteis em forma de tiros de injeção, .</p><p> Consiste em um tubo de metal com aproximadamente o tamanho de uma régua, com uma abertura em cada extremidade como uma zarabatana, e é equipado com uma mira no topo e um apontador a laser na base.</p><p> A arma é projetada para lançar seringas a longo alcance depois que o usuário bate na extremidade com a palma da mão.</p><p></p>"
+  },
+  "H4jm0NEL9PzqlO6i": {
+   "name": "Livro Vazio"
+  },
+  "HrUMj9isTsDgOsSl": {
+   "name": "Ácido",
+   "description": "<p>Como uma ação, você pode espalhar o conteúdo deste frasco sobre uma criatura a até 5 pés de você, ou arremessar o frasco a até 20 pés, quebrando-o no impacto.</p><p> Em qualquer caso, faça um ataque à distância contra uma criatura ou objeto, tratando o ácido como uma arma improvisada.</p><p> Em um acerto, o alvo sofre 2d6 de dano ácido.</p><p></p>"
+  },
+  "IK4R7aARvf3pmOMu": {
+   "name": "Selo da Tempestade (Maior)",
+   "description": "<p>CD de Criação: +1 </p><p>Armas imbuídas com este selo causam dano elétrico em vez do dano listado.</p><p> Esta arma ganha a propriedade oculto.</p><p> Dano elétrico desta arma ignora resistência.</p><p></p>"
+  },
+  "IOGPLt9MBmkSF99E": {
+   "name": "Lâmina do Místico",
+   "description": "<p>Esta arma tem +1 em jogadas de ataque e dano feitas com ela.</p><p> Além disso, no lugar de sua ação de ataque, você pode atacar com outra arma de seu Arsenal Real que ainda não tenha usado.</p><p> Concedendo a ela um alcance de arremesso de 20/60 se ainda não tiver um.</p><p></p>"
+  },
+  "IdS46FKRDMCRtkLW": {
+   "name": "Lâmpada",
+   "description": "<p>Uma lâmpada projeta luz plena em um raio de 15 pés e luz fraca por mais 30 pés. </p><p>Uma vez acesa, ela queima por 6 horas com um frasco (1 pint) de óleo.</p>"
+  },
+  "IhnLOK5buF7qXT31": {
+   "name": "Anéis da Amizade",
+   "description": "<p>Este é um conjunto de X anéis.</p><p> Quem usa um destes anéis ganha a capacidade de usar sua ação para teleportar-se até outro anel, desde que estejam a até 3 milhas um do outro.</p><p> Cada anel tem um uso por dia.</p><p></p>"
+  },
+  "J6W72fZwn2aPEC8x": {
+   "name": "Selo de Apresentação de Invocação",
+   "description": "<p>Este selo foi criado para determinar qual invocação se encaixaria melhor com o usuário do selo.</p><p>Usando sua Ação e 4 pontos de chakra, você é teleportado para o reino da invocação à qual é mais adequado.</p><p>A invocação à qual você seria mais adequado é determinada por uma rolagem de d20 para determinar aleatoriamente sua afinidade de invocação através da tabela abaixo, ou por seu Mestre.</p><p>Depois disso, cabe a você convencer as invocações a aceitá-lo como um invocador.</p><p></p><img src=\"systems/n5eb/assets/content/items/t7-summon-introduction-seal-cvu3mbcudou9l0is.webp\">"
+  },
+  "JUdGBuEc3knxKe5u": {
+   "name": "Luneta",
+   "description": "<p>Objetos vistos através de uma luneta são ampliados ao dobro de seu tamanho.</p>"
+  },
+  "JcuMLZeCwnl17UDE": {
+   "name": "Espada de Diamante",
+   "description": "<p>Tipo de Arma: Tanto ou Espada Larga </p><p>Uma lâmina de um reino estrangeiro, forjada a partir de diamante antigo.</p><p> Diz-se que esta arma acompanhou um dos criadores originais enquanto se esforçavam para criar o mundo antigo.</p><p> Através de muitas dificuldades e muitas batalhas, esta espada nunca deixou seu lado.</p><p> Inscrita na lâmina está uma língua antiga usada pelo criador.</p><p> Diz-se que as palavras deste dialeto estão imbuídas de poder ancestral.</p><p> Mesmo quando escrita, essa força ainda está presente.</p><p> Esta lâmina forjada de minério de diamante tem um dano de arma igual a 2d10 Cortante Aprimorado por Chakra, e tem a propriedade Pesada além de suas propriedades listadas.</p><p> Se esta espada for perdida ou destruída, o proprietário a encontra de volta ao seu lado ao despertar de uma boa noite de descanso.</p><p></p><p> Palavras Encantadas do Criador.</p><p> Como uma ação livre durante o combate, você pode gastar 5 de chakra para rolar 1d6.</p><p> Quando o fizer, a arma começa a irradiar 10 pés de luz plena prismática e ganha uma das seguintes habilidades.</p><p> Usar esta habilidade múltiplas vezes em combate reinicia as habilidades obtidas.</p><p> Nos níveis 10 e 19, você pode rolar um 1d6 adicional, ganhando outra habilidade separada para cada 1d6 rolado.</p><p> Tudo isso é tratado como uma única ativação desta habilidade.</p><p> Se você rolar o mesmo número duas vezes, role novamente até obter um resultado diferente.</p><p> Estas habilidades duram até o final do combate, e você pode encantar esta lâmina um número de vezes igual à metade do seu bônus de proficiência, por descanso longo.</p><p></p><p> [1] Flagelo dos Artrópodes I (II, III, IV, V): Quando há um adversário Aberração, Besta, Mutante ou Monstruosidade presente em combate que esteja acima de 0 pontos de vida, esta arma causa um dado de dano adicional e ignora resistência.</p><p> Em níveis posteriores: Nos níveis 7, 11, 15 e 18, este encantamento aumenta em 1 rank, conforme indicado acima.</p><p> No rank II, esta arma ignora tanto resistência quanto imunidade, e no rank IV, o dano desta arma não pode ser reduzido.</p><p> Nos ranks III e V, a faixa de ameaça crítica da arma aumenta em +1.</p><p></p><p> [2] Aspecto do Fogo I (II): Cada acerto que você causar com esta arma em uma criatura impõe um teste de resistência de Constituição contra sua maior CD de resistência.</p><p> Em uma falha, a criatura fica Queimada.</p><p> Quando uma criatura queimada desta forma sofre dano da condição, ela também sofre uma quantidade igual de dano de chakra.</p><p> Uma criatura só pode ser queimada por esta habilidade uma vez por turno.</p><p> Em níveis posteriores: No nível 11, este encantamento aumenta em 1 rank conforme indicado acima.</p><p> Criaturas queimadas por esta habilidade têm seu dano de queimadura aumentado em 1 dado de dano.</p><p></p><p> [3] Repulsão I (II): Cada acerto que você causar com sua arma em uma criatura impõe um teste de resistência de Destreza contra sua maior CD de resistência.</p><p> Em uma falha, você armazena 5 pés de repulsão na criatura, que entra em efeito ao final do seu turno.</p><p> Em níveis posteriores: No nível 11, este encantamento aumenta em 1 rank conforme indicado acima.</p><p> Quando você repele uma criatura com esta habilidade, se uma criatura repelida por este jutsu colidir com um objeto sólido, seu movimento é interrompido, sofrendo dano de queda como se tivesse caído uma distância equivalente.</p><p> Sua arma também ignora imunidade à repulsão e efeitos que impediriam a repulsão.</p><p></p><p> [4] Afiamento I (II, III, IV, V): Ataques com arma que acertam com sucesso causam +2 de dano adicional.</p><p> Em níveis posteriores: Nos níveis 7, 11, 15 e 18, este encantamento aumenta em 1 rank, conforme indicado acima.</p><p> Para cada rank após o primeiro, o dano aumenta em +1.</p><p> No Afiamento III, você pode adicionar metade deste bônus a ataques de Taijutsu feitos com esta arma.</p><p></p><p> [5] Castigo I (II, III, IV, V): Quando há um adversário Cultista (Jashinistas também), Celestial, Demônio ou Morto-Vivo presente em combate que esteja acima de 0 pontos de vida, esta arma causa um dado de dano adicional e ganha +1 em jogadas de ataque.</p><p> Em níveis posteriores: Nos níveis 7, 11, 15 e 18, este encantamento aumenta em 1 rank, conforme indicado acima.</p><p> No rank II, esta arma ganha +1 em jogadas de ataque, e no rank IV, uma vez por turno, você pode gastar 3 de chakra para conceder a si mesmo vantagem em uma jogada de ataque.</p><p> Nos ranks III e V, a faixa de ameaça crítica da arma aumenta em +1.</p><p></p><p> [6] Corte Varredor I (II, III): Quando você realiza a ação de ataque, em cada acerto contra uma criatura, criaturas hostis a até 5 pés do alvo devem fazer um teste de resistência de Destreza contra sua maior CD de resistência, sofrendo metade do dano que você causou à criatura em uma falha.</p><p> Em níveis posteriores: Nos níveis 11 e 15, este encantamento aumenta em 1 rank, conforme indicado acima.</p><p> No rank II, em vez de um teste de resistência de Destreza, seu ataque com arma contra a criatura que acionou o efeito agora conta como uma tentativa de igualar ou superar a CA de cada criatura hostil a até 5 pés.</p><p> No rank III, todas as criaturas afetadas agora sofrem o dano completo do seu ataque com arma em um acerto bem-sucedido.</p><p></p>"
+  },
+  "JdTs4RfmyDK7Nm5t": {
+   "name": "Kit de Disfarce",
+   "description": "<p>Esta bolsa de cosméticos, tintura de cabelo e pequenos acessórios permite que você crie disfarces que mudam sua aparência física sem o uso do Jutsu de Transformação.</p><p>Proficiência com este kit permite que você some seu bônus de proficiência a qualquer teste de perícia que fizer para criar um disfarce.</p><p>Enquanto tiver proficiência e acesso a este Kit, você pode fazer o seguinte: Criar um Disfarce de complexidade variável.</p><p>Ao criar um disfarce de qualquer tipo, você gasta uma carga deste kit e cria uma pequena bolsa ou coleção de roupas, materiais e o que mais for necessário para vestir o disfarce.</p><p>Você não pode vestir seu disfarce e sua armadura, a menos que a armadura seja parte do disfarce.</p><p>Quando você for vestir qualquer disfarce que já tenha feito, leva 30 minutos de preparação e trabalho para aplicar o disfarce.</p><p>Criar um disfarce coloca quem o veste em uma variedade de situações em que sua identidade pode ser comprometida.</p><p>Uma criatura suspeita de um indivíduo ou grupo disfarçado pode fazer um teste de Sabedoria (Intuição) contra o teste de Inteligência ou Carisma (Kit de Disfarce) de quem criou os disfarces para ver através do disfarce.</p><p>Uma criatura que falha em seu teste de intuição pode diminuir suas suspeitas por hora, mas isso não torna quem está usando o disfarce imune a testes posteriores.</p><hr><p><strong>Disfarce Simples (1 Carga).</strong></p><p>Uma mudança simples, como uma cicatriz superficial, uma troca de roupa ou aplicar uma pequena tatuagem temporária.</p><p>Estes são rápidos de fazer e levam apenas 10 minutos para desenvolver o disfarce.</p><hr><p><strong>Disfarce Elaborado (2 Cargas).</strong></p><p>Algo entre ser muito rápido e demorado para montar.</p><p>Em 1 hora, ou durante um descanso curto, você pode criar uma grande tatuagem, tingir seu cabelo ou vestir roupas complexas como aqueles enormes vestidos de baile, ou fabricar cópias extremamente convincentes de artigos de vestuário aparentemente exclusivos.</p><p>Dobrar o tempo necessário para fazer este tipo de disfarce dá desvantagem a todos os testes de Intuição feitos para ver através dele.</p><hr><p><strong>Disfarce Primoroso (3 Cargas).</strong></p><p>Exigindo o máximo de trabalho, levando seu criador a no mínimo 4 horas para criar.</p><p>Estes disfarces incluem coisas como usar maquiagem para dar a si mesmo um rosto totalmente novo, criar fantasias totalmente novas ou criar uma nova persona para uma apresentação.</p><p>Dobrar o tempo necessário para fazer este tipo de disfarce dá desvantagem a todos os testes de Intuição feitos para ver através dele.</p><p></p>"
+  },
+  "Jvqm7uQ0hv1Qh0Fp": {
+   "name": "Baú",
+   "description": "<p>Capacidade: 12 pés cúbicos</p>"
+  },
+  "KZpu62W3SbuIZwtm": {
+   "description": "<p>Tipo de Arma: Odachi Uma arma outrora empunhada por um shinobi enlouquecido pela sede de sangue, sua fúria ainda ecoa por aqueles que empunham o Doomslayer.</p><p> Você ganha um bônus de +3 em jogadas de ataque e dano feitas com esta arma, que causa 2d6 de dano de energia adicional em cada acerto.</p><p> Esta arma imbui seu portador com força e vigor incríveis.</p><p> Enquanto sintonizado com esta arma, aumente seus valores atuais e máximos de Força e Constituição em +2 (até um máximo de 22).</p><p> Você adiciona 1d6 a todos os testes e testes de resistência de Força e Constituição.</p><p> Ataques feitos com esta arma contra Demônios, Mortos-Vivos e Celestiais são todos feitos com vantagem e causam 4d6 de dano de energia adicional.</p><p></p>"
+  },
+  "KhnEj6pODZS4ahsi": {
+   "name": "Pacote de Artista Marcial"
+  },
+  "LEEC6Yze2Xm6DjRn": {
+   "description": "<p>Tipo de Arma: Qualquer Arma Pesada, de Duas Mãos, com Alcance(1) </p><p></p><p>O Gunbai Uchiwa ganha um +2 inerente em jogadas de ataque e dano e causa 1d10+Mod. de Taijutsu de Dano Cortante.</p><p>Gunbai Uchiwa é um leque não dobrável, esculpido de uma árvore espiritual única da qual apenas instrumentos ritualísticos são feitos.</p><p>Este Gunbai tem sido transmitido entre os membros do clã Uchiha por gerações.</p><p>é um leque largo com tomoe nele e tem um cabo longo com bandagens enroladas na base, além de ter uma longa corrente presa a ele.</p><p>Tem a habilidade de converter chakra recebido em transformação de natureza de vento, refletindo o ataque de um oponente de volta contra ele.</p><p>Como uma reação a ser alvo de um ataque corpo a corpo ou Tai/Ninjutsu de Rank B ou inferior, faça uma Jogada de Ataque Corpo a Corpo.</p><p>Se sua rolagem for maior que a do alvo e maior que sua CA, o alvo sofreria dano igual ao dano do ataque, ignorando quaisquer efeitos adicionais do ataque que o acionou.</p><p>Caso contrário, o ataque é realizado normalmente. Eles também devem fazer um Teste de Resistência de Destreza ou serem empurrados 15 pés para trás.</p><p></p>",
+   "condition": "Requer Sintonia por um Uchiha"
+  },
+  "LOV16S49YJZALRGC": {
+   "name": "Cesto",
+   "description": "<p>Capacidade: 2 pés cúbicos</p>"
+  },
+  "Lk4Z6zp8cLFhbte3": {
+   "name": "Selo Explosivo (Menor)",
+   "description": "<p>Armas imbuídas com este selo causam dano de energia em vez do dano listado.</p><p> Quando você causa o dano de sua arma, o alvo deve ser bem-sucedido em um teste de resistência de Constituição contra sua CD de taijutsu ou ser empurrado 5 pés.</p><p></p>"
+  },
+  "M4LDUu3eDyw2H0en": {
+   "name": "Pílula da Clarividência",
+   "description": "<p>Quando você come esta pílula, ganha o efeito do jutsu olho da mente de Kagura.</p>"
+  },
+  "MCnKV2DPxrx5eupD": {
+   "name": "Moitão",
+   "description": "<p>Um conjunto de roldanas com um cabo passado por elas e um gancho para fixar em objetos, um moitão permite que você levante até quatro vezes o peso que normalmente conseguiria erguer.</p>"
+  },
+  "MM7EBC7ZBjPOJijm": {
+   "name": "Bandana Não-Elemental de Elite",
+   "description": "<p>Enquanto estiver usando esta bandana, você pode tratar seu valor de atributo de conjuração para jutsus não-elementais como sendo 22, reduz o custo de todo ninjutsu não-elemental em 3, e aprende 8 ninjutsus não-elementais de Rank A ou inferior.</p><p> Além disso, duas vezes por descanso longo, você pode reduzir à metade o custo de um ninjutsu não-elemental.</p><p></p>"
+  },
+  "MO4oT5SzfwX0gOWE": {
+   "name": "Bolsa de Perna Shinobi",
+   "description": "<p>Bolsa de perna confortável usada por shinobi em toda a terra.</p><p>Ela dá +2 à Carga.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span><br></p><p><span style=\"font-family:Signika, sans-serif\">Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</span></p>"
+  },
+  "MV8paKSI7oxESz17": {
+   "name": "Ração de Campo",
+   "description": "<p>Rações necessárias para sobreviver um dia inteiro.</p>"
+  },
+  "MkfPQePMujuWEKMY": {
+   "name": "Fósforos"
+  },
+  "MmkAUe3xMzoY4Ow2": {
+   "name": "Caixa de Isca",
+   "description": "<p>Este pequeno recipiente contém pederneira, aço de fogo e isca (geralmente pano seco embebido em óleo leve) usados para iniciar um fogo. Usá-lo para acender uma tocha—ou qualquer outra coisa com combustível abundante e exposto—leva uma ação.</p><p>Acender qualquer outro fogo leva 1 minuto.</p><p>Material Qualificado: Materiais de Criação para iniciar fogueiras</p>"
+  },
+  "NXlA4q3FYkawMjJl": {
+   "name": "Anel da Akatsuki Dedo Médio Esquerdo Norte",
+   "description": "<p>Os Anéis da Akatsuki são feitos de um material desconhecido, porém indestrutível.</p><p>Cada um deles é único em sua criação.</p><p>Existem apenas 10 anéis em existência, e cada um tem uma propriedade especial além de poder se comunicar com qualquer outra pessoa que tenha um anel, desde que estejam no mesmo plano de existência.</p><p>Uma vez usados, esses anéis não podem ser retirados por nenhum meio, exceto por desmembramento ou morte.</p><p>Se você tiver tanto o anel quanto o manto da Akatsuki, isso conta como apenas um slot de sintonia.</p><p></p><p>Dedo médio esquerdo: \"norte\" Um anel com coloração laranja.</p><p>Enquanto estiver usando este anel, quando você for reduzido a 0 pontos de vida mas não for morto instantaneamente, você pode ficar com 1 ponto de vida em vez disso, uma vez por descanso longo.</p><p>Você pode gastar 20 de chakra para ganhar outro uso.</p>",
+   "condition": "Quando você é reduzido a 0 pontos de vida mas não é morto instantaneamente"
+  },
+  "Ni8MzdZYhgNzqTir": {
+   "name": "Guitarra Elétrica de Prata",
+   "description": "<p><strong>Guitar Hero.</strong> Quando você se concentra em um Jutsu Auditivo usando esta arma como componente em combate por pelo menos 2 rodadas, e gasta pelo menos 3 <strong>Pontos de Vício</strong> neste combate, sua guitarra irradia eletricidade. O próximo jutsu que você conjurar usando esta guitarra como componente que causa dano, causa dano elétrico em vez disso e ignora a RD e os PV temporários que o alvo possa ter.</p><p>Alcance 1, Derrubar, Letal</p>"
+  },
+  "O0oCuczqBklhAq6l": {
+   "name": "Armadilha de Caça",
+   "description": "<p>Quando você usa sua ação para armá-la, esta armadilha forma um anel de aço serrilhado que se fecha quando uma criatura pisa em uma placa de pressão no centro.</p><p> A armadilha é fixada por uma corrente pesada a um objeto imóvel, como uma árvore ou uma estaca fincada no solo.</p><p> Uma criatura que pisa na placa deve ser bem-sucedida em um teste de resistência de Destreza CD 13 ou sofre 1d4 de dano perfurante e para de se mover.</p><p> Depois disso, até que a criatura se liberte da armadilha, seu movimento é limitado pelo comprimento da corrente (normalmente 3 pés de comprimento).</p><p> Uma criatura pode usar sua ação para fazer um teste de Força CD 13, libertando-se ou a outra criatura a seu alcance em um sucesso.</p><p> Cada teste falho causa 1 de dano perfurante à criatura presa.</p><p></p>"
+  },
+  "O6lreysRkfaWbJcb": {
+   "name": "Selo Veloz (Menor)",
+   "description": "<p>CD de Criação: +1</p><p>Armas imbuídas com este selo causam dano de Vento em vez do dano listado.</p><p>Se você acertar um ataque com arma corpo a corpo usando esta arma, pode fazer outro ataque com arma corpo a corpo como uma ação bônus; você não adiciona seu modificador de atributo à jogada de dano deste ataque.</p><p></p>"
+  },
+  "O7gyJZ2bxO2KZVNS": {
+   "name": "Frasco",
+   "description": "<p>Capacidade: 4 onças de líquido</p>"
+  },
+  "OJjAtK3GcWw4Gziq": {
+   "name": "Sabre do Raio Branco",
+   "description": "<p>Tipo de Arma: Tanto</p><p>Este Tanto tem uma lâmina de chakra branco puro. Ele tem um +1 inerente em jogadas de ataque e dano.</p><p>Como uma Ação Bônus, você pode gastar 2 de Chakra Branco. </p><p>No próximo minuto, este Tanto causa 2d8 de dano Elétrico adicional.</p><p>Quando você conjura um Bukijutsu com este Tanto, ele ganha a Palavra-Chave Liberação de Raio.</p>",
+   "condition": "Requer Sintonia por um Hatake"
+  },
+  "OO3LtGZ8h0TYrvoU": {
+   "name": "Aríete Portátil",
+   "description": "<p>Você pode usar um aríete portátil para arrombar portas. </p><p>Ao fazer isso, você ganha um bônus de +4 no teste de Força. </p><p>Outro personagem pode ajudá-lo a usar o aríete, concedendo-lhe vantagem neste teste.</p>"
+  },
+  "OT6WpkojVjKA2r0L": {
+   "name": "Kubikiribōchō \"Lâmina do Executor\"",
+   "description": "<p>Tipo de Arma: Odachi Um Odachi de tamanho intimidador forjado pelo Sábio dos Seis Caminhos, capaz de se reparar infinitamente ao consumir o ferro no sangue daqueles mortos por seu fio.</p><p>Você ganha um bônus de +3 em jogadas de ataque e dano feitas com esta arma.</p><p>Além de suas propriedades normais de arma, Kubikiribōchō também tem as propriedades Mortal e Alcance.</p><p>Enquanto empunha Kubikiribōchō, o usuário ganha os seguintes benefícios; </p><p></p><p>Quando você causaria dano a uma criatura que esteja abaixo da metade de seus pontos de vida máximos usando Kubikiribōchō, você pode rerrolar seus dados de dano da arma, usando o resultado total maior.</p><p></p><p>Quando você aplica ranks de Sangrando a uma criatura como resultado de um Bukijutsu que você conjura, isso adiciona 1 rank adicional de sangramento.</p><p></p><p>Quando você causa dano a uma criatura abaixo de 1/4 de seus pontos de vida máximos com um acerto crítico usando Kubikiribōchō, você decapita essa criatura, matando-a instantaneamente.</p><p>Uma criatura é imune a este efeito se for imune a dano Cortante, não tiver ou não precisar de uma cabeça, for um Adversário Solo, ou se o Mestre decidir que a criatura é grande demais para que sua cabeça seja cortada com esta arma.</p><p>Tal criatura sofre, em vez disso, 6d8 de dano Cortante adicional do ataque.</p><p></p><p>Se o dano de Kubikiribōchō for penalizado ou se ela for danificada, você pode repará-la completamente cobrindo-a ou deixando-a imersa em pelo menos 1 litro de sangue.</p><p></p>"
+  },
+  "OTwcQ0kAf9tSLHeZ": {
+   "name": "Rifle Exterminador"
+  },
+  "OyyhSbZPffjlP8h2": {
+   "name": "Machado do Conquistador",
+   "description": "<p>Esta arma tem +1 em jogadas de ataque e dano feitas com ela.</p><p> Além disso, ela só pode ser usada para Bukijutsu que façam um ataque.</p><p> Mas quando causa dano, aumente o dado de dano em 2, e uma vez por turno, você pode forçar todas as criaturas de sua escolha a até 30 pés de você a fazer um teste de resistência de Sabedoria contra sua CD de resistência de Taijutsu (ou Ninjutsu).</p><p> Ganhando um rank de Medo em uma falha que dura um minuto.</p><p></p>"
+  },
+  "P5JzR9G4mtHfhktc": {
+   "name": "Símbolo de Clã/Vila",
+   "description": "<p>Um símbolo que representa um clã ou vila. </p><p>Pode ser um amuleto retratando um símbolo que representa o grupo, o mesmo símbolo cuidadosamente gravado ou embutido como um emblema em um escudo, ou uma pequena caixa contendo um fragmento de um rito sagrado.</p>"
+  },
+  "P9mkCz8YNzplwUN6": {
+   "name": "Lâmina Quebra-Vento",
+   "description": "<p>Tipo de Arma: Qualquer Cortante O conjunto de armas Quebra-Vento é um tipo de arma criado na terra do vento, usado pelos locais para ajudar a criar um conjunto de habilidades mais variado para os usuários de sua liberação de natureza mais comum.</p><p> Quando você conjura um Ninjutsu com a palavra-chave liberação de vento que causa dano enquanto empunha uma Lâmina Quebra-Vento, você pode gastar 3 de chakra para substituir os componentes HS por M e W (Quebra-Vento); além disso, ao fazer isso, você substitui as palavras-chave ninjutsu e liberação de vento pela palavra-chave Bukijutsu, e seu dano se torna dano cortante.</p><p></p>"
+  },
+  "PT83VEfLqxo3Z1Pn": {
+   "name": "Lâmina Desgastada",
+   "description": "<p>Tipo de Arma: Katana Uma katana marcada pela maldição da escuridão.</p><p>Esta lâmina outrora valorosa representava o poder dos dragões, mas agora permanece em pedaços, apodrecida e desgastada no punho.</p><p>A escuridão agora alimenta esta lâmina, mas é apenas uma questão de tempo até que ela se desfaça em nada.</p><p>O dano desta katana negra é 3d4 de dano Necrótico, que ignora tanto resistência quanto imunidade, e pontos de vida temporários.</p><p>Esta katana possui as propriedades Crítico, Acuidade, Oculto e Leve.</p><p>A Lâmina Desgastada não pode ser usada com Força para seus ataques com arma, dano e jutsu.</p><p></p><p>Remanescentes Abissais.</p><p>Para utilizar a Lâmina Desgastada em todo seu poder, é preciso potencializar a lâmina com a própria força vital.</p><p>Usando uma combinação de seus pontos de vida e chakra, você pode realizar as seguintes habilidades especiais com a Lâmina Desgastada.</p><p>O conhecimento de como utilizar estas habilidades é intrinsecamente conhecido por todos os usuários desta arma, como se a arma possuísse um espírito próprio.</p><p>Será que esse espírito é a memória dracônica do passado? Ou será que a escuridão dentro da lâmina está lhe concedendo esse conhecimento em um esforço para se libertar? </p><p></p><p>Onda do Dragão Abissal: Como uma ação, você pode gastar 5 pontos de vida e pontos de chakra para assumir uma postura de contenção com a katana, fazendo a energia escura em seu interior aflorar.</p><p>Você então faz um grande corte em direção ao solo, liberando uma linha de energia abissal de 10 pés de largura, 60 pés de largura.</p><p>Todas as criaturas dentro do alcance devem fazer um teste de resistência de Destreza contra sua CD de resistência de taijutsu, sofrendo o dano de sua arma + 8d4 e ficando Enfraquecidas até o final do seu próximo turno em uma falha, ou metade do dano em um sucesso.</p><p>Uma criatura a até 5 pés de você na direção em que você lança esta onda de energia que falhar no teste de resistência de Destreza sofre o dano de sua arma, além do dano da onda.</p><p>Criaturas afetadas por este jutsu que recuperem pontos de vida antes do final do seu próximo turno recuperam metade da quantidade.</p><p></p><p>Avalanche do Abismo: </p><p>Como uma ação bônus, você pode gastar 10 pontos de vida e pontos de chakra para assumir uma postura de contenção e começar a se aproximar lentamente de seu alvo.</p><p>Sua espada brevemente reluz com chakra escuro enquanto você começa a desferir uma sucessão de cortes na criatura.</p><p>Faça um número de ataques com arma igual a 1d4 + metade do seu bônus de proficiência, causando o dano de sua arma em cada acerto.</p><p>Para cada 2 acertos que você conseguir com esta habilidade, a criatura deve fazer um teste de resistência de Constituição, ganhando 1 rank de sangramento em uma falha.</p><p>Criaturas que ganharem a condição de sangramento desta forma aumentam seu dano de sangramento em 1 nível.</p><p>Esta característica não pode acionar a condição Lacerado.</p><p></p>"
+  },
+  "PY9V4ZsvSE12Qplk": {
+   "description": "<p>Livros Bingo são livros negros usados por ninjas que contêm todas e quaisquer informações sobre ninjas da lista negra que devem ser seus alvos.</p><p>Existem múltiplas versões dos Livros Bingo, sendo a mais comum aquelas baseadas nas Vilas Ocultas.</p><p>Decisões Relacionadas: Veja o Capítulo 8 para uma explicação mais detalhada e um guia sobre os Livros Bingo.</p>"
+  },
+  "PnEzDRUkl5yWpUNn": {
+   "name": "Balde",
+   "description": "<p>Capacidade: 3 galões de líquido, 1/2 pé cúbico de sólido</p>"
+  },
+  "Q028G2DPFLjWZzqw": {
+   "name": "Papel de Indução de Chakra",
+   "description": "<p>Este pedaço de papel vem de uma árvore única que é alimentada com chakra e pode revelar a afinidade passiva de alguém com uma Liberação de Natureza, caso ela não a conheça.</p><p>Usando sua ação e 4 pontos de chakra, o papel é destruído de uma de 5 formas diferentes.</p><p>A forma como ele foi destruído determina sua afinidade passiva, e se você já possui uma liberação de natureza, ele será destruído da forma como aquele elemento o destruiria.</p><p>Caso contrário, a liberação é determinada pelo jogador, pelo mestre, ou você pode rolar um d6 para determinar aleatoriamente sua liberação através da tabela abaixo.</p><p>Uma vez que você saiba a qual elemento está sintonizado, fica mais fácil aprender aquele elemento e os jutsus relacionados a ele.</p><p>Uma vez descoberta sua afinidade, aprender o talento Liberação de Natureza para obter aquele elemento tem seu requisito de Tempo Livre reduzido à metade.</p><p></p><img src=\"systems/n5eb/assets/content/items/t7-chakra-induction-paper-lrgkv2ipbsqi5fpi.webp\">"
+  },
+  "QJ4RzXWwe66B2eD7": {
+   "name": "Kit de Hacker",
+   "description": "<p>Hackers são uma nova profissão no mundo de Naruto, que usam Pergaminhos de computador especializados, construídos pelos próprios hackers, para sobreviver no mundo digital emergente.</p><p>Esses pergaminhos de computador eram cuidadosamente guardados e constantemente modificados e aprimorados pelo hacker, que raramente discutia suas especificações, exceto com indivíduos de mentalidade semelhante.</p><p>Códigos de acesso complexos costumam ser usados para impedir que o pergaminho de um hacker caia em mãos erradas.</p><p>A proficiência com este kit permite que você some seu bônus de proficiência a qualquer teste de perícia que fizer para invadir computadores, desativar redes de computadores, encontrar sistemas de segurança ou até mesmo instalar armadilhas cibernéticas em uma rede.</p><hr><p><strong>Hack Rápido (X Carga).</strong></p><p>Como uma Ação de Turno Completo, gastando pelo menos 1 carga, você pode tentar fazer um teste de Inteligência (Kit de Hacker) contra a CD de Segurança do computador ou sistema com o qual está interagindo.</p><p>Em um sucesso, você obtém acesso temporário a um sistema, durando no máximo 1 minuto, após o qual você deve sair da rede para evitar ser notado e ativar quaisquer medidas de segurança.</p><p>Para cada carga gasta ao completar esta tarefa, você ganha um bônus de +2 no teste.</p><hr><p><strong>Hack Completo (3+ Cargas).</strong></p><p>No decorrer de 1 hora de tempo livre ou de um descanso curto, enquanto estiver a até 120 pés de uma rede de segurança ou de computadores, você pode tentar um Hack Completo, custando no mínimo 3 Cargas.</p><p>Quando o fizer, você faz um teste de Inteligência (Kit de Hacker) contra a CD de Segurança do sistema de computador.</p><p>Você pode gastar cargas adicionais, ganhando um bônus de +2 em seu teste.</p><p>Em um sucesso, você consegue obter acesso ao sistema pela próxima hora, já que dedicou tempo para invadir e obter determinadas credenciais.</p><p>Enquanto estiver acessando a rede, a cada dez minutos você pode tentar obter acesso a quaisquer arquivos disponíveis na rede.</p><p>Se você for desafiado por um Contra-Hack, faz um teste de Inteligência (Kit de Hacker) contra a CD.</p><p>Em um sucesso, você mantém o acesso ao sistema e pode roubar o arquivo de dados escolhido.</p><p>Em uma falha, você perde o acesso ao sistema e a localização do seu Kit de Hacker é comprometida.</p><p>Arquivos roubados podem então ser armazenados em um Pergaminho de Dados, retirando o arquivo da rede.</p><p>Alternativamente, enquanto tiver acesso à rede, a cada 10 minutos você pode, em vez disso, selecionar e desativar diferentes computadores da rede temporariamente pela próxima hora, após a qual eles se reconectam automaticamente à rede.</p><p>Fazer isso reduz em -2 a CD do próximo contra-hack.</p><p>Um computador só pode ser removido de uma rede desta forma uma vez por hack de rede.</p><p>Alternativamente, a cada 10 minutos você pode tomar conhecimento de um sistema de segurança alternativo que possa estar conectado às redes deste sistema.</p><p>(Ex. placas de pressão, câmeras, sensores térmicos, ninjas sensores etc.)</p><hr><p><strong>Armadilha Cibernética (1 Carga).</strong></p><p>Enquanto estiver em uma rede amiga, você pode optar por gastar uma carga para instalar uma Armadilha Cibernética, representada por um d6.</p><p>Uma armadilha cibernética em uma rede só é acionada quando uma entidade hostil ou estranha acessa a rede.</p><p>Quando tal evento ocorre, sempre que a entidade hostil fizer um teste de Contra-Hack como resultado desta rede, você rola um d6, somando o resultado à CD.</p><p>Quando isso acontece, a entidade hostil toma conhecimento e pode optar por gastar 2 cargas de seu Kit de Hacker para anular a Armadilha.</p><p></p>"
+  },
+  "QKauAqD1xts3Wsdz": {
+   "name": "Conjunto de Dados"
+  },
+  "QXeOdvpkgE7AZgw7": {
+   "name": "Pílula do Heroísmo",
+   "description": "<p>Por 1 hora após comê-la, você ganha 15 pontos de vida temporários que duram 1 hora. </p><p>Pela mesma duração, você fica sob o efeito do jutsu bênção.</p>"
+  },
+  "QePJEAynOewNVHNR": {
+   "name": "Pílula do Crescimento",
+   "description": "<p>Quando você come esta pílula, seu tamanho aumenta uma categoria de tamanho por 1d4 horas.</p><p> Enquanto seu tamanho estiver aumentado desta forma, você tem vantagem em testes de Força e testes de resistência de Força, e sempre que causar dano com um ataque de arma corpo a corpo, role um 1d4 adicional e adicione o resultado à jogada de dano.</p><p></p>"
+  },
+  "QwZTBD1QGhGKgoDp": {
+   "description": "<p>Tipo de Arma: Martelo de Guerra (Arma Simples) </p><p>\"Quem quer que detenha este martelo, se for digno, possuirá o poder de Thor.\" </p><p>O dano desta arma é 2d8 de Concussão Aprimorada por Chakra, que também conta como dano de Raio para fins de superar resistência e imunidade.</p><p>Mjolnir possui as propriedades Crítico, Mortal, Retornável e Arremessável(60/180).</p><p>Você ganha um bônus de +3 em jogadas de ataque e dano feitas com esta arma aprimorada por chakra.</p><p>Além disso, você sempre pode fazer Mjolnir retornar a você, desde que esteja no mesmo plano de existência.</p><p>Mjolnir é uma arma consciente com valor de atributo 22 em Inteligência, Sabedoria e Carisma.</p><p>Mjolnir também possui audição e visão no escuro em um alcance de 120 pés.</p><p>Embora não possa falar, ela entende todos os idiomas.</p><p></p><p>Dignidade.</p><p>Mjolnir decide por si só quem é considerado digno de empunhá-la.</p><p>Normalmente, uma criatura digna é aquela pura de coração, livre de vanidade, heroica, humilde, ou que possua traços semelhantes.</p><p>Uma criatura indigna de levantar Mjolnir deve ser bem-sucedida em um teste de Força CD 40 para conseguir fazê-lo.</p><p>Em um sucesso, ela consegue segurar Mjolnir até o final de seu turno, mas não pode usar nenhuma de suas habilidades, e ao final de cada um de seus turnos deve refazer e continuar sendo bem-sucedida em testes de Força CD 40 para continuar segurando-a.</p><p></p><p>Poder de Thor.</p><p>Enquanto empunha esta arma, você pode gastar uma quantidade de cargas para conjurar o seguinte jutsu de liberação de raio sem gastar chakra.</p><p>Se o jutsu exigir concentração, o jutsu ocupa um de seus slots de concentração normalmente, mas você não precisa pagar o custo de chakra.</p><p>Você pode escolher usar seu modificador de habilidade de Ninjutsu ou o de Mjolnir para conjurar este jutsu.</p><p>Mjolnir possui 10 cargas .</p><p>Ela recupera 1d4 + 2 cargas gastas diariamente ao amanhecer.</p><p>1 Carga: Absorver Raio, Marca de Thor</p><p>2 Cargas: Sobrecarga, Arma Estática, Surto</p><p>3 Cargas: Raio Encadeado, Lança de Raio</p><p>4 Cargas: Tempestade Afiada, Quebra-Tempestades</p>"
+  },
+  "QzQE5tBySsqCxt1T": {
+   "name": "Instrumento Musical",
+   "description": "<p>Vários dos tipos mais comuns de instrumentos musicais são mostrados na tabela como exemplos.</p><p> Se você tiver proficiência com um determinado instrumento musical, pode adicionar seu bônus de proficiência a qualquer teste de atributo que fizer para tocar música com o instrumento.</p><p></p>"
+  },
+  "RHqUc03MHtwVGgse": {
+   "description": "<p>Tipo de Arma: Katana</p><p>Uma das várias espadas feitas para encerrar um período de guerra, infundida com poder místico, Enten tem acesso a múltiplas técnicas, todas representadas de alguma forma por peixes dourados que se formam a partir do chakra em excesso.</p><p>Enten causa 2d6 de dano cortante, e possui as propriedades Crítico 1, Mortal 1 e Precisão.</p><p>Uma vez que alguém se sintoniza com Enten, mais nenhuma outra pessoa pode empunhá-la enquanto o proprietário estiver vivo.</p><p></p><p>Compreensão.</p><p>As lâminas místicas não estão limitadas pelas técnicas gravadas nelas, mas sim por aqueles que as empunham.</p><p>Usar as lâminas e inovar com elas é o caminho que se deve seguir para se fortalecer, a si mesmo e à lâmina.</p><p>Usuários de Enten ganham acesso a Liberação, Kuro, Aka e Nishiki ao se sintonizarem com a lâmina.</p><p>Ao subir de nível, se o usuário vem usando Enten ativamente, ele consegue aprofundar sua compreensão da lâmina e de suas técnicas.</p><p>Ele pode escolher entre uma destas quatro opções por subida de nível; Reduzir as Gotas associadas a uma técnica em -2.</p><p>Aprender uma nova técnica que ainda não possua.</p><p>Poder usar uma técnica de sua escolha sem desembainhar Enten.</p><p>Porém, ele ainda precisa ter Enten consigo.</p><p>Criar uma nova técnica baseada nas técnicas anteriores conhecidas.</p><p></p><p>Liberação.</p><p>Para usar Enten, é preciso dizer seu nome em voz alta ao desembainhar a lâmina, o que faz a espada começar a extrair o poder latente do usuário.</p><p>Como uma Ação Bônus, o usuário pode dizer seu nome ou palavra de comando, e pelo próximo minuto o usuário ganha uma quantidade de pontos de vida e pontos de chakra igual ao seu nível.</p><p>Se isso fizer você ganhar mais do que sua quantidade máxima de pontos de chakra, cada ponto de chakra além do máximo se transforma em uma gota de água negra que flutua ao seu redor.</p><p>Você pode criar uma quantidade adicional de Gotas por 5 de chakra cada, em seu turno.</p><p>Você pode encerrar este efeito antecipadamente embainhando Enten, mas não pode usar nenhuma técnica enquanto Enten estiver embainhada.</p><p></p><p>Kuro.</p><p>Uma vez por turno, sempre que fizer um ataque corpo a corpo, você pode cobrir seu braço e Enten com tinta negra enquanto um Peixe Dourado Negro começa a nadar ao seu redor e você diz \"Kuro\".</p><p>Este peixe dourado permanece ao seu redor até você embainhar sua lâmina ou usar outra habilidade da katana.</p><p>Antes de fazer sua jogada de ataque, você pode gastar uma Gota para aumentar o alcance de seu ataque em 5 em uma direção de sua escolha, podendo gastar até 10 Gotas por turno desta forma.</p><p>Além disso, se Kuro foi a última técnica usada, então Enten ganhou um rank adicional de Crítico.</p><p>Para cada Gota que você gastar para aumentar o alcance de seu ataque, você pode gastar uma Gota adicional para aumentar o dado de dano ou a margem de crítico de Enten em +1, até um máximo de +3 no dado de dano ou uma margem de crítico de 17-20.</p><p></p><p>Aka.</p><p>Como uma reação, ao sofrer dano, você invoca um Peixe Dourado Vermelho e diz \"Aka\", seguido do nome do ataque.</p><p>Se o ataque for algo genérico como um corte, dizer a direção em que foi feito e então \"corte\" seria suficiente.</p><p>O Peixe Dourado Vermelho então absorve uma quantidade de dano igual a 10 vezes a quantidade de Gotas que você gastar.</p><p>Se quaisquer condições ou efeitos adicionais fossem acionados pela fonte do dano, mas você absorveu todo o dano no Peixe Dourado Vermelho, essas condições ou efeitos também são absorvidos.</p><p>Além disso, se seu Peixe Dourado Vermelho conseguir absorver mais dano após a fonte de dano que acionou o efeito, ele continua absorvendo dano pelo restante do turno.</p><p>Adicionalmente, se Aka foi a última técnica que você usou, Enten ganha um rank adicional de Bloqueio.</p><p></p><p>Nishiki.</p><p>Como uma Ação, você diz \"Nishiki\" e invoca um Peixe Dourado Tricolor.</p><p>As cores ficam a sua escolha.</p><p>Seu Peixe Dourado Tricolor então cobre todo o seu corpo com suas cores, tornando-se um manto, e fazendo com que riscos coloridos acompanhem todas as suas ações.</p><p>Para manter Nishiki ativa você deve gastar 5 Gotas no início de cada um de seus turnos.</p><p>Enquanto Nishiki está ativa, você aumenta seus valores atuais de Força e Destreza em +2, dobra sua velocidade de movimento, e ganha uma Ação ou Ação Bônus adicional em seu turno, a qual você escolhe no início de seu turno.</p><p>Se seu valor de Força fosse exceder seu máximo por causa deste efeito, você em vez disso adiciona seu modificador de Força a todas as suas jogadas de dano.</p><p>Se seu valor de Destreza fosse exceder seu máximo, então você pode, uma quantidade de vezes igual ao dobro de seu modificador de Destreza, rolar um d20 adicional ao fazer uma jogada de ataque ou teste de resistência e manter o resultado mais alto.</p><p></p><p>Nishiki: Suporte.</p><p>Alternativamente, você pode usar o lado mais passivo de Nishiki.</p><p>Em vez dos efeitos normais, você paga 3 Gotas no início de cada um de seus turnos pelos efeitos de suporte, e não pode ter os efeitos normais e de suporte ativos ao mesmo tempo.</p><p>Você pode mudar qual deles está se beneficiando após embainhar Enten.</p><p>Durante esse período você ignora todas as condições físicas e mentais sob as quais estava antes, e ganha resistência a essas condições.</p><p>Adicionalmente, você restaura seus Valores de Atributo ao normal caso tenham sido alterados negativamente, e ignora penalidades passivas em suas jogadas de ataque, jogadas de dano, deslocamento e testes de resistência que você não tenha causado.</p><p></p>"
+  },
+  "RWPPamITv2k7yQ1o": {
+   "name": "Bandana do Raio",
+   "description": "<p>Enquanto veste esta bandana, você pode tratar seu valor de atributo de Conjuração para jutsus de raio como sendo 18, reduz o custo de todos os ninjutsus de raio em 2, e aprende 5 ninjutsus de raio de Rank C ou inferior.</p><p>Além disso, uma vez por descanso longo você pode reduzir à metade o custo de um ninjutsu de raio.</p><p></p>"
+  },
+  "RlnVpfpFO89BLyN2": {
+   "name": "Fogo de Alquimista",
+   "description": "<p>Este fluido pegajoso e adesivo incendeia quando exposto ao ar.</p><p> Como uma ação, você pode arremessar este frasco a até 20 pés, estilhaçando-o ao impacto.</p><p> Faça um ataque à distância contra uma criatura ou objeto, tratando o fogo de alquimista como uma arma improvisada.</p><p> Em um acerto, o alvo sofre 1d4 de dano de fogo no início de cada um de seus turnos.</p><p> Uma criatura pode encerrar este dano usando sua ação para fazer um teste de Destreza CD 10 para apagar as chamas.</p><p></p>"
+  },
+  "RqG46Vf0zUhFq6uD": {
+   "description": "<p>Como uma Ação, você balança o leque. </p><p>Quando o balança, você pode conjurar qualquer Jutsu Elemental que não tenha como alvo a si mesmo, não seja de clone, e não exija CS, NT, W ou M, independentemente de ser conhecido ou não, com um custo de chakra adicional baseado no rank do jutsu,</p><p>(Rank D = 3, Rank C = 6, Rank B = 9, Rank A = 12, Rank S = 15)</p>"
+  },
+  "RzLrys040trGyc2w": {
+   "name": "Frasco/Caneca",
+   "description": "<p>Capacidade: 1 pint de líquido</p>"
+  },
+  "S1Kst8pRP2gKiLT9": {
+   "name": "Kunai do Teletransportador",
+   "description": "<p>Tipo de Arma: Kunai</p><p>Você ganha um bônus de +1 em jogadas de ataque e dano feitas com esta arma infundida com chakra. </p><p>Esta Kunai sempre é considerada como estando sob os efeitos de Marca de Chakra.</p>"
+  },
+  "SR9l8vKkSrf3dexW": {
+   "name": "Roupa Selada",
+   "description": "<p>Este conjunto de roupas comuns possui uma série de selos sobre ele. </p><p>Uma pessoa vestindo esta roupa está sempre sob os efeitos do jutsu Pele de Chakra.</p>"
+  },
+  "SVpbXc2kCUj44ApV": {
+   "name": "Selo Veloz (Obra-Prima)",
+   "description": "<p>CD de Criação: +2</p><p>Armas imbuídas com este selo causam dano de Vento em vez de seu dano listado. </p><p>Esta arma ganha a propriedade Multiataque(2).</p>"
+  },
+  "SqqTkjMSWtg8Kvim": {
+   "name": "Estojo de Munição",
+   "description": "<p>Este estojo metálico retangular pode conter até 3 pilhas de munição qualificável.</p><p>Munição Qualificada: Balas, Bestas, Virotes</p>"
+  },
+  "SvXKoqvtNKaisoND": {
+   "name": "Anel da Akatsuki Dedo Mindinho Direito Sinal do Javali",
+   "description": "<p>Os Anéis da Akatsuki são feitos de um material desconhecido, porém indestrutível.</p><p>Cada um é único em sua criação.</p><p>Existem apenas 10 anéis em existência e cada um possui uma propriedade especial além de poder se comunicar com qualquer outra pessoa que também tenha um anel, desde que estejam no mesmo plano de existência.</p><p>Uma vez vestidos, estes anéis não podem ser retirados por nenhum meio, exceto desmembramento ou morte.</p><p>Se você tiver tanto o anel quanto o manto da Akatsuki, eles contam como apenas um slot de sintonia.</p><p></p><p>Dedo mindinho direito: \"sinal do javali\" Um anel com coloração verde.</p><p>Enquanto veste este anel, você tem telepatia com qualquer criatura que possa ver dentro de 30 pés e ganha um deslocamento de escavação de 30 pés.</p><p>Além disso, você não perturba o solo ao escavar.</p>"
+  },
+  "T12Fao0nw5J1mKr3": {
+   "name": "Ferramenta de Foco de Jutsu",
+   "description": "<p>Um foco de Jutsu é um item especial — um orbe, um cristal, um bastão, um cajado especialmente construído, um pedaço de madeira em forma de varinha, ou algum item semelhante — projetado para canalizar o poder de Jutsus.</p><p> Um Ninja pode usar um destes para potencializar seus jutsus ou para obter a capacidade de conjurar jutsus que de outra forma seria incapaz de conjurar.</p><p></p>"
+  },
+  "T1uWmgpz0oefc0BV": {
+   "name": "Pergaminho dos Músculos",
+   "description": "<p>Este pergaminho contém dicas de saúde e dieta, e suas palavras estão carregadas de chakra .</p><p> Se você gastar 4 semanas de Tempo Livre estudando o conteúdo do pergaminho e praticando suas diretrizes, seu valor de Força aumenta em 2, assim como seu máximo para esse valor.</p><p> O pergaminho então perde seu chakra, para nunca mais retornar.</p><p></p>"
+  },
+  "T9QIja2mlSoUflke": {
+   "name": "Martelo"
+  },
+  "TrUNHfbV1odtLocP": {
+   "name": "Corda (50 pés)",
+   "description": "<p>Corda vem em uma das seguintes duas formas:</p><p>Corda de Cânhamo (50 pés):** Corda feita de cânhamo, tem 2 pontos de vida e pode ser rompida com um teste de Força CD 17.</p><p>Corda de Seda (50 pés). Corda feita de seda, tem 2 pontos de vida e pode ser rompida com um teste de Força CD 17.</p>"
+  },
+  "U6HyxlICb9d4H2ER": {
+   "name": "Anéis da Akatsuki (Todos)",
+   "description": "<p>Os Anéis da Akatsuki são feitos de um material desconhecido, porém indestrutível.</p><p>Cada um é único em sua criação.</p><p>Existem apenas 10 anéis em existência e cada um possui uma propriedade especial além de poder se comunicar com qualquer outra pessoa que também tenha um anel, desde que estejam no mesmo plano de existência.</p><p>Uma vez vestidos, estes anéis não podem ser retirados por nenhum meio, exceto desmembramento ou morte.</p><p>Se você tiver tanto o anel quanto o manto da Akatsuki, eles contam como apenas um slot de sintonia.</p><p></p><p>Polegar direito: \"zero\" Um anel com coloração cinza-arroxeada.</p><p>Enquanto veste este anel você ganha uma quantidade adicional de chakra igual ao seu nível e tem vantagem em todos os testes de confronto.</p><p></p><p>Dedo indicador direito: \"azul\", \"verde\" Um anel com coloração azul-petróleo.</p><p>Enquanto veste este anel você tem vantagem em testes de resistência contra genjutsus com a palavra-chave visual e todos os jutsus com uma Área de Efeito têm sua Área de Efeito aumentada em 10 pés.</p><p></p><p>Dedo médio direito: \"branco\" Um anel com coloração branca.</p><p>Enquanto veste este anel, todas as Ferramentas Ninja Explosivas ganham uma quantidade adicional de dado de dano e um bônus na CD baseado em seu Rank, e você pode, como uma ação livre, transformar qualquer pedaço de papel em um shuriken totalmente funcional.</p><p>(Rank D = 1, Rank C = 2, Rank B = 3, Rank A = 4, Rank S = 5) </p><p></p><p>Dedo anelar direito: \"vermelhão\", \"escarlate\" Um anel com coloração vermelha.</p><p>Enquanto veste este anel você ganha +3 em sua CD de Genjutsu e um bônus de +5 em testes de concentração em Genjutsu.</p><p></p><p>Dedo mindinho direito: \"sinal do javali\" Um anel com coloração verde.</p><p>Enquanto veste este anel, você tem telepatia com qualquer criatura que possa ver dentro de 30 pés e ganha um deslocamento de escavação de 30 pés.</p><p>Além disso, você não perturba o solo ao escavar.</p><p></p><p>Dedo mindinho esquerdo: \"céu\", \"vazio\" Um anel com coloração azul.</p><p>Enquanto veste este anel você adiciona um d4 a todos os testes de resistência.</p><p>Além disso, uma vez por descanso longo você pode gastar 30 de chakra para recuperar 100 pv, podendo fazer isso como uma reação ao sofrer dano.</p><p></p><p>Dedo anelar esquerdo: \"sul\" Um anel com coloração amarela.</p><p>Enquanto veste este anel você ganha uma quantidade de Pv e Pc igual ao seu nível de jogador e pode pagar 3 de chakra adicional ao conjurar um Jutsu de Liberação de Água para tratar o jutsu como se tivesse sido conjurado a partir de uma fonte de água.</p><p></p><p>Dedo médio esquerdo: \"norte\" Um anel com coloração laranja.</p><p>Enquanto veste este anel, quando você for reduzido a 0 pontos de vida mas não morto instantaneamente, pode cair para 1 ponto de vida em vez disso, uma vez por descanso longo.</p><p>Você pode gastar 20 de chakra para ganhar outro uso.</p><p></p><p>Dedo indicador esquerdo: \"três\" Um anel com coloração laranja.</p><p>Enquanto veste este anel você ganha todas as 5 liberações de natureza.</p><p></p><p>Polegar esquerdo: \"joia\", \"bola\" Um anel com coloração roxa.</p><p>Enquanto veste este anel, uma quantidade de vezes igual ao seu bônus de proficiência por descanso longo, você pode fazer com que uma jogada de ataque contra você seja feita com desvantagem ou conceder a si mesmo vantagem em um teste de resistência.</p><p></p>"
+  },
+  "UYer1bFsvEYYKuNf": {
+   "name": "Pílula da Diminuição",
+   "description": "<p>Quando você come esta pílula, seu tamanho é reduzido em uma categoria de tamanho por 1d4 horas.</p><p> Enquanto seu tamanho estiver reduzido desta forma, você tem desvantagem em testes de Força e testes de resistência de Força, e sempre que causar dano com um ataque de arma corpo a corpo, role um 1d4 adicional e subtraia o resultado da jogada de dano.</p><p></p>"
+  },
+  "Uj7J3viz7JSGUSpZ": {
+   "name": "Equipamento de Investigador"
+  },
+  "UpoJlSnFncnUvP10": {
+   "name": "Anel da Akatsuki Polegar Direito Zero",
+   "description": "<p>Os Anéis da Akatsuki são feitos de um material desconhecido, porém indestrutível.</p><p>Cada um é único em sua criação.</p><p>Existem apenas 10 anéis em existência e cada um possui uma propriedade especial além de poder se comunicar com qualquer outra pessoa que também tenha um anel, desde que estejam no mesmo plano de existência.</p><p>Uma vez vestidos, estes anéis não podem ser retirados por nenhum meio, exceto desmembramento ou morte.</p><p>Se você tiver tanto o anel quanto o manto da Akatsuki, eles contam como apenas um slot de sintonia.</p><p></p><p>Polegar direito: \"zero\" Um anel com coloração cinza-arroxeada.</p><p>Enquanto veste este anel você ganha uma quantidade adicional de chakra igual ao seu nível e tem vantagem em todos os testes de confronto.</p>"
+  },
+  "Uz9qfOJeoUwTyhj5": {
+   "name": "Fruta de Chakra",
+   "description": "<p>Esta fruta mística está repleta de chakra potente, de forma que muda sua rede de chakra para sempre.</p><p> Seu máximo de pontos de chakra aumenta em uma quantidade igual ao dobro de seu nível quando você come esta fruta.</p><p> Sempre que ganhar um nível depois disso, seu máximo de pontos de chakra aumenta em 2 pontos de chakra adicionais.</p><p> Seu chakra não pode ser reduzido por efeitos hostis e você recupera todos os seus dados de chakra em um descanso longo.</p><p></p>"
+  },
+  "VKwRH9q05fmPhPMw": {
+   "name": "Pergaminho de Detecção de Chakra",
+   "description": "<p>Este pergaminho possui 3 cargas. </p><p>Enquanto o segura, você pode gastar 1 carga como uma ação para conjurar o jutsu técnica sensorial a partir dele. </p><p>O pergaminho recupera 1d3 cargas gastas diariamente ao amanhecer.</p>"
+  },
+  "VewKYkwZNtzCOm8I": {
+   "name": "Saco",
+   "description": "<p>Capacidade: 1 pé cúbico</p>"
+  },
+  "Vxa5wrdTGghttBuk": {
+   "name": "Manto da Akatsuki",
+   "description": "<p>O Manto da Akatsuki é preto e possui nuvens vermelhas contornadas em branco cobrindo-o.</p><p> O manto possui uma gola que pode ser levantada para cobrir seu rosto, tornando impossível para qualquer pessoa descobrir sua verdadeira identidade.</p><p> Este manto pode ser vestido junto com outra armadura.</p><p> Enquanto veste este manto, você ganha proficiência em Intimidação, e especialização caso já a possua.</p><p> Além disso, cada aliado que esteja dentro de 60 pés de você e esteja vestindo o manto quando você usar um jutsu combinado adiciona mais 1 ao teste por pessoa.</p><p> Se você e a pessoa com quem está conjurando o jutsu tiverem o manto e o anel, vocês também ganham vantagem neste teste, além do +1 por pessoa.</p><p> Se você tiver tanto o anel quanto o manto da Akatsuki, eles contam como apenas um slot de sintonia.</p><p></p>"
+  },
+  "WB2OEK3QJ3POkujA": {
+   "name": "Luvas de Drenagem de Alma",
+   "description": "<p>Além disso, quando você faz um ataque desarmado enquanto veste as luvas, causa 2d6 de dano necrótico adicional ao seu alvo e recupera pontos de vida iguais à metade do dano necrótico causado.</p><p> Alternativamente, em vez de recuperar pontos de vida, você pode escolher ganhar vantagem em uma jogada de ataque, teste de atributo ou teste de resistência que fizer antes do final de seu próximo turno.</p><p></p>"
+  },
+  "WKmCE7R8ECbUuUJ5": {
+   "name": "Selo de Armadura de Cura Bendita",
+   "description": "<p>Este é um selo que pode ser colocado em qualquer armadura, concedendo à pessoa que a usa benefícios únicos.</p><p> Na primeira vez em que você seria reduzido a 0 pontos de vida ou menos, sua armadura bombeia chakra curativo por todo o seu corpo em uma tentativa de mantê-lo vivo.</p><p> Uma vez por dia, quando você chegaria a 0 pv, você imediatamente ganha uma quantidade de pv igual ao seu nível vezes 2.</p><p></p>",
+   "condition": "A primeira vez em que você seria reduzido a 0 pontos de vida ou menos"
+  },
+  "WRp14tJlf3qfiFzD": {
+   "name": "Pílula da Invulnerabilidade",
+   "description": "<p>Por 1 minuto após comer esta pílula, você tem resistência a todo dano</p>"
+  },
+  "WTt1ZnSW4WVrA6We": {
+   "name": "Pílula de Ração Militar",
+   "description": "<p><span id=\"page201R_mcid9\" class=\"markedContent\"><span dir=\"ltr\">Uma pílula comestível que contém uma droga projetada para superacelerar a </span><span dir=\"ltr\">velocidade de</span> <span dir=\"ltr\">regeneração corporal de </span><span dir=\"ltr\">quem a consome.</span> </span></p> <p><span id=\"page201R_mcid9\" class=\"markedContent\"><span dir=\"ltr\">Consumir uma pílula de ração militar </span><span dir=\"ltr\">custa uma ação bônus.</span> </span></p> <p><span id=\"page201R_mcid9\" class=\"markedContent\"><span dir=\"ltr\">U</span> <span dir=\"ltr\">m</span><span dir=\"ltr\">a criatura que toma esta pílula ganha </span><span dir=\"ltr\">Pontos de Vida</span> <span dir=\"ltr\">Temporários</span> <span dir=\"ltr\">&amp; de Chakra</span> <span dir=\"ltr\">iguais à</span> <span dir=\"ltr\">qualidade da pílula </span><span dir=\"ltr\">tomada</span> <span dir=\"ltr\">, por 1 hora.</span></span></p> <p><span id=\"page201R_mcid9\" class=\"markedContent\"> <span dir=\"ltr\">Tomar outra dose deste item não </span><span dir=\"ltr\">acumula</span> <span dir=\"ltr\">com a anterior.</span> <br><span dir=\"ltr\">E</span><span dir=\"ltr\">m vez disso, substituirá a quantidade que você </span><span dir=\"ltr\">originalmente tinha. </span></span></p> <p><span id=\"page201R_mcid9\" class=\"markedContent\"><span dir=\"ltr\">Você não pode ganhar o benefício desta Pílula </span><span dir=\"ltr\">mais de duas vezes em um único período de 24</span><span dir=\"ltr\">-</span><span dir=\"ltr\">hora</span><span dir=\"ltr\">s.</span></span></p>"
+  },
+  "WvrEXsrZKCvQscHc": {
+   "name": "Armadura de Batalha Lendária do Uchiha",
+   "description": "<p>Uma armadura que pertenceu a um antigo e poderoso Chefe do Clã Uchiha.</p><p> Esta Armadura Pesada concede um bônus de armadura de +10, tem um bônus máximo de Destreza de 2, reduz todo o dano em 10, e tem um peso de 9.</p><p> Além disso, se quem veste esta armadura for do Clã Uchiha, ele ganha usos ilimitados de sua característica Sharingan.</p><p></p>"
+  },
+  "X4yUjaDvUEkAs7HP": {
+   "name": "Kit de Pesca",
+   "description": "<p>Este kit inclui uma vara de madeira, linha de seda, boias de cortiça, anzóis de aço, chumbadas de prumo, iscas de veludo e uma rede estreita.</p>"
+  },
+  "Xg3dMKZctwDUjs5P": {
+   "name": "Espada de Kusanagi",
+   "description": "<p>Tipo de Arma: Katana </p><p>Arma (Katana), Lendária, Requer Sintonia. Você ganha um bônus de +3 em jogadas de ataque e dano feitas com esta arma infundida com chakra.</p><p>Ela também ganha a propriedade Alcance 3.</p><p>A Espada de Kusanagi é uma arma poderosa que corta quase qualquer coisa, sua lâmina pode se estender para alcançar alvos impossíveis para outras armas corpo a corpo.</p><p>A Katana possui 4 cargas, você pode gastar essas cargas como uma ação bônus para conjurar arma viva na espada, aumentada para Rank S, sem custo nenhum.</p><p>A espada recupera 1d4+1 cargas ao amanhecer.</p><p></p>"
+  },
+  "XvHAZpLZWv8D2Cnu": {
+   "name": "Garrafa Térmica",
+   "description": "<p>Contém líquido suficiente para 1 pessoa, por 1 dia.</p>"
+  },
+  "YBPcMdUd814gK5Cr": {
+   "name": "Sela",
+   "description": "<p>Uma sela militar apoia o cavaleiro, ajudando você a se manter montado em uma montaria ativa em batalha. </p><p>Ela concede vantagem em qualquer teste que você fizer para permanecer montado. </p><p>Uma sela exótica é necessária para montar em qualquer montaria aquática ou voadora.</p>"
+  },
+  "YNtt4j5wV9Wu8eJE": {
+   "name": "Equipamento de Artista"
+  },
+  "YXS8dpTPJWuFHeuL": {
+   "name": "Bandana de Terra de Elite",
+   "description": "<p>Enquanto veste esta bandana, você pode tratar seu valor de atributo de Conjuração para jutsus de terra como sendo 22, reduz o custo de todos os ninjutsus de terra em 3, e aprende 8 ninjutsus de terra de Rank A ou inferior.</p><p>Além disso, duas vezes por descanso longo você pode reduzir à metade o custo de um ninjutsu de terra.</p><p></p>"
+  },
+  "Z8ybcLzOoBpJQI5O": {
+   "name": "Pergaminho das Pernas",
+   "description": "<p>Este pergaminho contém dicas de saúde e dieta, e suas palavras estão carregadas de chakra .</p><p> Se você gastar 4 semanas de Tempo Livre estudando o conteúdo do pergaminho e praticando suas diretrizes, seu valor de Destreza aumenta em 2, assim como seu máximo para esse valor.</p><p> O pergaminho então perde seu chakra, para nunca mais retornar.</p><p></p>"
+  },
+  "ZAqnkF0zETLhL81L": {
+   "name": "Bandana Médica de Elite",
+   "description": "<p>Enquanto veste esta bandana, você pode tratar seu valor de atributo de Conjuração para jutsus médicos como sendo 22, reduz o custo de todos os ninjutsus médicos em 3, e aprende 8 ninjutsus médicos de Rank A ou inferior.</p><p>Além disso, duas vezes por descanso longo você pode reduzir à metade o custo de um ninjutsu médico.</p><p></p>"
+  },
+  "ZQtgsvLug3he7Gy9": {
+   "name": "Conjunto de Dados"
+  },
+  "ZRIuX2BuMothW3cO": {
+   "name": "Esferas de Metal",
+   "description": "<p>Como uma ação, você pode derramar estas pequenas esferas metálicas de sua bolsa para cobrir uma área nivelada e quadrada de 10 pés de lado.</p><p> Uma criatura que se mover pela área coberta deve ser bem-sucedida em um teste de resistência de Destreza CD 10 ou cair caída.</p><p> Uma criatura que se mover pela área em metade da velocidade não precisa fazer este teste.</p><p></p>"
+  },
+  "ZjkVBx8cvry9VJGO": {
+   "description": "<p>Tipo de Arma: Katana</p><p>Você ganha um bônus de +2 em jogadas de ataque e dano com esta arma aprimorada por chakra.</p><p>Além disso, a arma ignora resistência a dano cortante.</p><p>Yamato também tem acesso às seguintes habilidades.</p><p></p><p>Espada Demoníaca.</p><p>Enquanto empunha esta arma, você pode gastar 5 de chakra no início de seu turno para aumentar o alcance desta arma para 25 pés.</p><p>Se você acertar uma criatura dentro deste alcance estendido, todo o seu dano é convertido em dano de energia.</p><p>Enquanto a arma tiver este alcance estendido, você pode fazer um ataque de oportunidade contra qualquer criatura que se mova 5 pés ou mais enquanto estiver dentro de 25 pés de você.</p><p></p><p>Corte Dimensional.</p><p>Esta espada possui 10 cargas, e recupera todas as cargas a cada amanhecer.</p><p>Você pode usar estas cargas para usar as seguintes características: Você pode gastar 1 carga como uma ação bônus para se teleportar até 30 pés para um espaço desocupado que possa ver.</p><p>Você pode gastar 1 carga como uma ação para usar a habilidade chamada Corte Dimensional.</p><p>Escolha um ponto que você possa ver dentro de 60 pés de você.</p><p>Qualquer criatura dentro de uma esfera de raio de 15 pés centrada naquele ponto deve fazer um teste de resistência de Destreza CD 20, sofrendo 12d8 de dano cortante em uma falha, e metade desse dano em um sucesso.</p><p>Este dano ignora resistência a dano cortante.</p><p>Você pode gastar 14 de chakra para aprimorar esta habilidade para Corte do Julgamento, que causa o mesmo dano, mas também ignora imunidade a dano cortante.</p><p>Você pode gastar 2 cargas como uma ação para criar dois portais de teleporte conectados.</p><p>Estes portais podem permanecer abertos por até 10 minutos, e podem ser fechados quando você desejar (nenhuma ação necessária).</p><p>Escolha um ponto que você possa ver dentro de 5 pés de você e outro ponto dentro de 1.000 pés de você.</p><p>Você não precisa conseguir ver o segundo ponto; ele pode ser um que você consiga visualizar, ou um que consiga descrever informando distância e direção, como \"200 pés diretamente para baixo\" ou \"para cima, a noroeste, em um ângulo de 45 graus, 300 pés.</p><p>\" Se você tentar abrir um portal em um espaço ocupado por uma criatura, a habilidade falha, e as cargas são perdidas.</p><p>Enquanto estes portais estiverem abertos, qualquer criatura ou objeto que entrar em um portal sai pelo outro.</p><p>Você pode gastar 5 cargas como uma ação para abrir um portal dentro de 5 pés de você para qualquer local que você conheça no mesmo plano de existência que você.</p><p>O portal permanece aberto por 1 rodada, e então se fecha imediatamente.</p><p>Qualquer criatura ou objeto que entrar no portal é imediatamente teleportado para o local escolhido.</p><p>Você pode gastar 6 cargas e 20 de chakra para abrir um grande portal dentro de 5 pés de você para qualquer local que você conheça em qualquer plano de existência.</p><p>Este portal permanece aberto por até 1 minuto.</p><p>Qualquer criatura que passar por ele é imediatamente teleportada para o local escolhido.</p><p></p><p>Separação de Espírito.</p><p>Como uma ação, você pode fazer um ataque de arma corpo a corpo com esta arma contra uma criatura.</p><p>Em um acerto, a criatura deve fazer um teste de resistência de Constituição CD 30, ficando incapaz de acessar seu chakra pelo próximo minuto em uma falha.</p><p>Se a criatura falhar neste teste por 5 ou mais, ela não pode moldar chakra pelos próximos 1d4 dias.</p><p>Apenas um jutsu Restaurativo conjurado em Rank S pode encerrar este efeito antecipadamente.</p><p>Se uma criatura falhar neste teste por 20 ou mais, seu chakra é reduzido a 0 permanentemente.</p><p>Remover este efeito requer pelo menos 3 ninjas conjurando Restaurativo em Rank S ou superior.</p><p>Uma vez que você utilize esta característica de Yamato, não pode fazê-lo novamente até o próximo amanhecer.</p><p></p>"
+  },
+  "ZqUWPyRJHCKZDbzi": {
+   "name": "Tambores de Prata e Baquetas de Ouro",
+   "description": "<p><strong>Fundamental.</strong> Quando você conjura um jutsu com o componente NT (Instrumento) que tem múltiplos alvos em seu rank, aumente o número de alvos em +1. Você pode gastar 1 <strong>Ponto de Vício</strong> para escolher como alvo uma criatura adicional.</p><p>Tático, Leve, Desarmado, Multiataque</p>"
+  },
+  "a95U7EDGs0Beurtv": {
+   "name": "Samehada \"Pele de Tubarão\"",
+   "description": "<p>Tipo de Arma: Odachi. Uma grande espadona que estremece sinistramente sob uma camada de bandagens, forjada pelo Sábio dos Seis Caminhos, a fome única desta arma por chakra lhe concede consciência.</p><p>Você ganha um bônus de +3 em jogadas de ataque e dano feitas com esta arma.</p><p>Além de suas propriedades normais de arma, Samehada também possui as propriedades Mortal e Agarrar.</p><p>Enquanto empunha Samehada, o usuário ganha os seguintes benefícios;</p><p></p><p>Ao final de cada descanso longo, você deve gastar 20 de chakra para continuar sintonizado com a lâmina.</p><p></p><p>Enquanto empunha Samehada, você pode falar com ela telepaticamente, e ela consegue entendê-lo.</p><p>Samehada possui tendência neutro-má e tem Inteligência 20, Sabedoria 18 e Carisma 12.</p><p></p><p>Quando você causa dano a uma criatura usando Samehada, você causa 2d4 de dano de chakra adicional, e recupera chakra igual à metade do dano de chakra causado.</p><p>Se você causar dano a uma criatura que possua uma forma única de chakra, em vez disso você recupera chakra igual à quantidade total de dano causado.</p><p>Além disso, seu total de pontos de chakra aumenta em uma quantidade igual ao dobro de seu nível, e cada vez que você ganha um nível enquanto sintonizado com esta arma, aumenta seu total de pontos de chakra em 2.</p><p></p><p>Devido à natureza única de Samehada como arma, ela pode ser usada na conjuração de qualquer Bukijutsu corpo a corpo.</p><p></p><p>Como uma reação a se tornar alvo de um jutsu à distância com a palavra-chave Ninjutsu, você pode apontar Samehada entre você e o jutsu.</p><p>Você então faz um teste de Artes Marciais contra a CD do jutsu.</p><p>Em um sucesso, o jutsu é absorvido por Samehada.</p><p>Você então ganha uma quantidade de chakra igual à metade da quantidade usada para conjurar o jutsu.</p><p></p>",
+   "condition": "Como uma reação a se tornar alvo de um jutsu à distância com a palavra-chave Ninjutsu,"
+  },
+  "aTaD2kA8cdo0PkvX": {
+   "name": "Manto do Deslocamento",
+   "description": "<p>Este manto pode ser vestido com armadura Leve ou Média.</p><p> Enquanto você veste este manto, ele projeta uma ilusão que faz você parecer estar em um lugar próximo à sua localização real, fazendo com que qualquer criatura faça um teste de resistência de Sabedoria quando o escolher como alvo de um ataque, tendo desvantagem em jogadas de ataque contra você em uma falha até o final de seu turno.</p><p> Se você sofrer dano, a propriedade deixa de funcionar até o início de seu próximo turno.</p><p> Esta propriedade é suprimida enquanto você estiver incapacitado, contido, ou de outra forma incapaz de se mover.</p><p></p>"
+  },
+  "aWhMDw7nlkD92d4q": {
+   "name": "Bandana de Terra",
+   "description": "<p>Enquanto veste esta bandana, você pode tratar seu valor de atributo de Conjuração para jutsus de terra como sendo 18, reduz o custo de todos os ninjutsus de terra em 2, e aprende 5 ninjutsus de terra de Rank C ou inferior.</p><p>Além disso, uma vez por descanso longo você pode reduzir à metade o custo de um ninjutsu de terra.</p><p></p>"
+  },
+  "awMCiovKXcs9sZOp": {
+   "name": "Pandeiro de Prata e Triângulo de Bronze",
+   "description": "<p><strong>Reverberar.</strong> Jutsus conjurados usando a propriedade Evocação ganham a palavra-chave Auditivo de graça</p><p>Leve, Evocação (somente Genjutsu)</p>"
+  },
+  "ax4KNsq3yTm82iW0": {
+   "name": "Maça do Feroz",
+   "description": "<p>Esta arma tem +1 em jogadas de ataque e dano feitas com ela.</p><p> Além disso, você nunca pode fazer mais de um ataque por rodada com esta arma.</p><p> Porém, ela adiciona dados de dano adicionais iguais à metade de seu bônus de proficiência.</p><p></p>"
+  },
+  "bMS16UuNQV0o6BXz": {
+   "name": "Equipamento de Cientista"
+  },
+  "c58R2TOsdfNUWgcw": {
+   "name": "Pergaminho da Língua",
+   "description": "<p>Este pergaminho contém dicas de saúde e dieta, e suas palavras estão carregadas de chakra .</p><p> Se você gastar 4 semanas de Tempo Livre estudando o conteúdo do pergaminho e praticando suas diretrizes, seu valor de carisma aumenta em 2, assim como seu máximo para esse valor.</p><p> O pergaminho então perde seu chakra, para nunca mais retornar.</p><p></p>"
+  },
+  "cLkZrULASy1rfFH2": {
+   "name": "Lançador de Kunai",
+   "description": "<p>Tipo de Arma: Arma de Fogo à Distância</p><p>Os ninjas da Terra do Céu usam este tipo de arma de projétil.</p><p>Ao usar esta arma, uma rajada de kunais é disparada em alta velocidade, de forma semelhante a uma metralhadora.</p><p>Esta arma possui as propriedades Duas Mãos, Precisão, Recarga e Munição (sua munição deve ser 1 pilha de kunais).</p><p>Quando você realiza a ação de ataque usando esta arma, todas as criaturas em um cone de 30 pés partindo de você devem fazer um teste de resistência de Destreza contra sua CD de resistência de Taijutsu, sofrendo 8d4 + seu modificador de atributo de dano perfurante em uma falha, ou metade disso em um sucesso.</p><p></p>"
+  },
+  "cnGYQheyWg1JblYf": {
+   "name": "Puas",
+   "description": "<p>Como uma ação, você pode gastar um saco de puas para cobrir uma área quadrada de 5 pés de lado.</p><p> Qualquer criatura que entrar na área deve ser bem-sucedida em um teste de resistência de Destreza CD 15 ou parar de se mover neste turno e sofrer 1 de dano perfurante.</p><p> Sofrer este dano reduz o deslocamento de caminhada da criatura em 10 pés até que ela recupere pelo menos 1 ponto de vida.</p><p> Uma criatura que se mover pela área em metade da velocidade não precisa fazer o teste.</p><p></p>"
+  },
+  "coRzRriCZuhLGt2X": {
+   "name": "Barril",
+   "description": "<p>Capacidade: 40 galões de líquido, 4 pés cúbicos de sólido</p>"
+  },
+  "d0q68lsefOrm9TH9": {
+   "name": "Skate"
+  },
+  "d9r4p2QxrlWUO6Vn": {
+   "name": "Ração de Campo",
+   "description": "<p>Rações necessárias para sobreviver um dia inteiro.</p>"
+  },
+  "dQAygsdplyEy3Niw": {
+   "name": "Anel de Proteção",
+   "description": "<p>Você ganha um bônus de +2 em testes de resistência enquanto veste este anel.</p>"
+  },
+  "dXhWbOzLuvmL8EKu": {
+   "name": "Luneta",
+   "description": "<p>Objetos vistos através de uma luneta são ampliados ao dobro de seu tamanho.</p>"
+  },
+  "eM6KrabIq0FFGcQz": {
+   "name": "Ração de Campo",
+   "description": "<p>Rações necessárias para sobreviver um dia inteiro.</p>"
+  },
+  "eVN7Epi12JQ0K8Zh": {
+   "name": "Equipamento de Erudito"
+  },
+  "emYRV6rbTUj3t6Me": {
+   "name": "Pergaminho dos Olhos",
+   "description": "<p>Este pergaminho contém dicas de saúde e dieta, e suas palavras estão carregadas de chakra .</p><p> Se você gastar 4 semanas de Tempo Livre estudando o conteúdo do pergaminho e praticando suas diretrizes, seu valor de Sabedoria aumenta em 2, assim como seu máximo para esse valor.</p><p> O pergaminho então perde seu chakra, para nunca mais retornar.</p><p></p>"
+  },
+  "eqfBS2Spx5q5ps8L": {
+   "name": "Tridente do Oráculo",
+   "description": "<p>Esta arma tem +1 em jogadas de ataque e dano feitas com ela.</p><p> Além disso, como uma Ação Bônus enquanto empunha esta arma, você pode invocar um holograma para espelhar seus ataques com arma, isso dura por um minuto.</p><p> Enquanto este holograma está ativo, quando você causar dano com um ataque de arma, pode rolar outro ataque como parte da mesma ação que causa metade do dano em um acerto bem-sucedido.</p><p> Duas vezes por turno.</p><p></p>"
+  },
+  "f3qJK0rOuhYJc5q8": {
+   "name": "Lâminas da Retribuição"
+  },
+  "f8M8vtY0DA6R1c4w": {
+   "name": "Colar de Cristal Senju",
+   "description": "<p>Um colar que foi infundido com o chakra de um antigo chefe do Clã Senju. </p><p>Enquanto veste este colar você ganha 1 Ponto de Vontade de Fogo adicional ao final de cada descanso.</p>"
+  },
+  "fO7WIW7lw48SyH8K": {
+   "name": "Óleo",
+   "description": "<p>O óleo normalmente vem em um frasco de argila que contém 1 pint.</p><p> Como uma ação, você pode derramar o óleo deste frasco sobre uma criatura dentro de 5 pés de você ou arremessá-lo a até 20 pés, estilhaçando-o ao impacto.</p><p> Faça um ataque à distância contra uma criatura ou objeto alvo, tratando o óleo como uma arma improvisada.</p><p> Em um acerto, o alvo fica coberto de óleo.</p><p> Se o alvo sofrer qualquer dano de fogo antes que o óleo seque (após 1 minuto), o alvo sofre 5 de dano de fogo adicional proveniente do óleo em chamas.</p><p> Você também pode derramar um frasco de óleo no chão para cobrir uma área de 5 pés quadrados, desde que a superfície seja nivelada.</p><p> Se aceso, o óleo queima por 2 rodadas e causa 5 de dano de fogo a qualquer criatura que entrar na área ou terminar seu turno nela.</p><p> Uma criatura só pode sofrer este dano uma vez por turno.</p><p></p>"
+  },
+  "fumW693ETEpmq7Jh": {
+   "name": "Escudo do Justo",
+   "description": "<p>Você ganha +1 na CA e em testes de resistência enquanto empunha este Escudo.</p><p> Além disso, como uma ação, você pode se colocar entre aliados e inimigos.</p><p> Criando uma barreira de 20 pés de comprimento, que tem PV igual ao dobro de sua CD de Taijutsu (ou Ninjutsu).</p><p></p>"
+  },
+  "fxQDcTcS3XESG9lv": {
+   "name": "Anel da Invisibilidade",
+   "description": "<p>Enquanto veste este anel, você pode ficar invisível como uma ação.</p><p>Qualquer coisa que você esteja vestindo ou carregando fica invisível junto com você.</p><p>Você permanece invisível até que o anel seja removido, até atacar ou conjurar um jutsu, ou até usar uma ação bônus para ficar visível novamente.</p>"
+  },
+  "g7vioAmoc8lCNKGc": {
+   "name": "Mapa"
+  },
+  "gCVZJvxr0L5DFf17": {
+   "name": "Garra Demoníaca (Autoimolação)",
+   "description": "<p>Alcance 2, Mortal 1, Multiataque</p><p>Seu dano desarmado + 2d10</p>"
+  },
+  "gKmhIQUrXoQsjRsd": {
+   "name": "Selo de Armadura de Evasão Instintiva",
+   "description": "<p>Este é um selo que pode ser colocado em qualquer armadura, concedendo à pessoa que a usa uma reação única.</p><p> Sua Armadura assume o controle de seus movimentos por um breve momento.</p><p> Como uma ação livre você ganha os efeitos do Jutsu \"Liberação Veloz: Fase\".</p><p> Isto tem dois usos por dia.</p><p></p>"
+  },
+  "ganl3xWEZSdSGDkS": {
+   "name": "Garrafa",
+   "description": "<p>Capacidade: 1½ pints de líquido</p>"
+  },
+  "gjRN5nUlVitdjPLN": {
+   "name": "Bandana de Vento",
+   "description": "<p>Enquanto veste esta bandana, você pode tratar seu valor de atributo de Conjuração para jutsus de vento como sendo 18, reduz o custo de todos os ninjutsus de vento em 2, e aprende 5 ninjutsus de vento de Rank C ou inferior.</p><p>Além disso, uma vez por descanso longo você pode reduzir à metade o custo de um ninjutsu de vento.</p><p></p>"
+  },
+  "gsn5texK2pRQEbhy": {
+   "name": "Luva do Piromaníaco",
+   "description": "<p>Estas luvas feitas de um material especial desconhecido auxiliam shinobis que pensam com as mãos, não com a cabeça.</p><p> Enquanto veste estas luvas, você ganha um bônus de +3 em jogadas de ataque de ninjutsu e nas CDs de teste de resistência de ninjutsus com a palavra-chave liberação de fogo.</p><p></p>"
+  },
+  "h5weKP6poAXUynFv": {
+   "name": "Kit de Perícia Forense",
+   "description": "<p>Este kit inclui todos os instrumentos necessários para coletar evidências, DNA e outros vestígios de qualquer local que você investigue.</p><p>Proficiência com este kit permite que você adicione seu bônus de proficiência a qualquer teste de perícia que você fizer para identificar DNA, impressões digitais, drogas, pílulas, químicos, venenos e doenças.</p><p>Enquanto você tiver proficiência e acesso a este Kit você pode fazer o seguinte; Analisar Drogas, Químicos, Venenos e Doenças, coletar DNA &amp; Impressões Digitais e comparar descobertas.</p><hr><p><strong>Analisar (1 carga).</strong></p><p>Ao gastar 1 hora examinando uma área não maior que 10 x 10 pés, você é capaz de tentar encontrar e coletar toda evidência material na área.</p><p>Primeiro, faça um teste de Inteligência (Investigação) CD 15.</p><p>Em um sucesso, você é capaz de encontrar uma única peça de evidência.</p><p>Para cada +5 que você obtiver acima da CD listada, você encontra uma peça adicional de evidência material (se houver).</p><p>Evidências encontradas desta forma contam como resíduos de droga inteiros ou parciais, químicos ou resíduos químicos, venenos ou até substâncias biológicas misteriosas.</p><p>Depois, você gasta mais uma hora analisando a evidência.</p><p>Quando você está analisando algo você deve fazer um teste de Inteligência (Perícia Forense) CD 10 + 1 para cada dia que passou desde que a peça de evidência que você está examinando foi deixada.</p><p>Esta CD nunca pode ser maior que 30.</p><p>Se você tentar Analisar algo que foi deixado em qualquer ambiente hostil, você em vez disso aumenta a CD em +1 para cada hora que passa, em vez de cada dia.</p><p>Se você tentar analisar algo que foi deixado em um ambiente contido, pressurizado ou esterilizado, você em vez disso aumenta a CD em +1 para cada semana que passa.</p><p>Se você passar o segundo teste, você se torna consciente da composição, idade e propósito da evidência.</p><p>Você registra esses dados em um livro de sua escolha encontrado dentro do kit forense.</p><p>No futuro, quando você vir, interagir com ou encontrar a fonte da evidência ou algo similar (uma droga ou químico similar), como parte de se tornar consciente dessa nova fonte, faça um teste de Inteligência (Perícia Forense) contra uma CD 15.</p><p>Em um sucesso, você é capaz de ligar a evidência anterior encontrada e esta nova fonte e formar uma conexão (se houver).</p><p>(Ex. Você encontra uma faca ensanguentada, e analisa a arma descartada, registrando o DNA, impressões digitais, mão usada e tamanho da mão.</p><p>Se você posteriormente encontrar alguém cujo tamanho de mão e aperto seja similar ao do suposto portador da faca, você faz seu teste de perícia forense; em um sucesso, você se torna consciente se o alvo é o proprietário original ou o portador da faca em questão.)</p>"
+  },
+  "hFQ3ioklG4GwoWjU": {
+   "name": "Caderno"
+  },
+  "iAX4sutaXV9UAsqI": {
+   "name": "Kit de Perícia Forense",
+   "description": "<p>Este kit inclui todos os instrumentos necessários para coletar evidências, DNA e outros vestígios de qualquer local que você investigue.</p><p>Proficiência com este kit permite que você adicione seu bônus de proficiência a qualquer teste de perícia que você fizer para identificar DNA, impressões digitais, drogas, pílulas, químicos, venenos e doenças.</p><p>Enquanto você tiver proficiência e acesso a este Kit você pode fazer o seguinte; Analisar Drogas, Químicos, Venenos e Doenças, coletar DNA &amp; Impressões Digitais e comparar descobertas.</p><hr><p><strong>Analisar (1 carga).</strong></p><p>Ao gastar 1 hora examinando uma área não maior que 10 x 10 pés, você é capaz de tentar encontrar e coletar toda evidência material na área.</p><p>Primeiro, faça um teste de Inteligência (Investigação) CD 15.</p><p>Em um sucesso, você é capaz de encontrar uma única peça de evidência.</p><p>Para cada +5 que você obtiver acima da CD listada, você encontra uma peça adicional de evidência material (se houver).</p><p>Evidências encontradas desta forma contam como resíduos de droga inteiros ou parciais, químicos ou resíduos químicos, venenos ou até substâncias biológicas misteriosas.</p><p>Depois, você gasta mais uma hora analisando a evidência.</p><p>Quando você está analisando algo você deve fazer um teste de Inteligência (Perícia Forense) CD 10 + 1 para cada dia que passou desde que a peça de evidência que você está examinando foi deixada.</p><p>Esta CD nunca pode ser maior que 30.</p><p>Se você tentar Analisar algo que foi deixado em qualquer ambiente hostil, você em vez disso aumenta a CD em +1 para cada hora que passa, em vez de cada dia.</p><p>Se você tentar analisar algo que foi deixado em um ambiente contido, pressurizado ou esterilizado, você em vez disso aumenta a CD em +1 para cada semana que passa.</p><p>Se você passar o segundo teste, você se torna consciente da composição, idade e propósito da evidência.</p><p>Você registra esses dados em um livro de sua escolha encontrado dentro do kit forense.</p><p>No futuro, quando você vir, interagir com ou encontrar a fonte da evidência ou algo similar (uma droga ou químico similar), como parte de se tornar consciente dessa nova fonte, faça um teste de Inteligência (Perícia Forense) contra uma CD 15.</p><p>Em um sucesso, você é capaz de ligar a evidência anterior encontrada e esta nova fonte e formar uma conexão (se houver).</p><p>(Ex. Você encontra uma faca ensanguentada, e analisa a arma descartada, registrando o DNA, impressões digitais, mão usada e tamanho da mão.</p><p>Se você posteriormente encontrar alguém cujo tamanho de mão e aperto seja similar ao do suposto portador da faca, você faz seu teste de perícia forense; em um sucesso, você se torna consciente se o alvo é o proprietário original ou o portador da faca em questão.)</p>"
+  },
+  "iEtEAySpblgSVu4i": {
+   "name": "Grilhões do Espaço-Tempo",
+   "description": "<p>Você pode usar uma ação para colocar estes grilhões em uma criatura incapacitada.</p><p> Os grilhões se ajustam para caber em uma criatura de tamanho Pequeno a Grande.</p><p> Além de servirem como algemas comuns, os grilhões impedem uma criatura presa por eles de usar qualquer método de movimento extradimensional, incluindo teleporte ou viagem para um plano de existência diferente.</p><p> Eles não impedem a criatura de passar por um portal interdimensional.</p><p> Você e qualquer criatura que você designar ao usar os grilhões pode usar uma ação para removê-los.</p><p> Uma vez a cada 30 dias, a criatura presa pode fazer um teste de Força (Atletismo) CD 30.</p><p> Em um sucesso, a criatura se liberta e destrói os grilhões.</p><p></p>"
+  },
+  "iRwefkh4S4CW99SU": {
+   "name": "Bandana de Água",
+   "description": "<p>Enquanto veste esta bandana, você pode tratar seu valor de atributo de Conjuração para jutsus de água como sendo 18, reduz o custo de todos os ninjutsus de água em 2, e aprende 5 ninjutsus de água de Rank C ou inferior.</p><p>Além disso, uma vez por descanso longo você pode reduzir à metade o custo de um ninjutsu de água.</p><p></p>"
+  },
+  "iWfynDT1X5j9G9rQ": {
+   "name": "Livro Vazio"
+  },
+  "jCRDQFRnisReBV85": {
+   "name": "Anel da Akatsuki Dedo Mindinho Esquerdo Céu/Vazio",
+   "description": "<p>Os Anéis da Akatsuki são feitos de um material desconhecido, porém indestrutível.</p><p>Cada um é único em sua criação.</p><p>Existem apenas 10 anéis em existência e cada um possui uma propriedade especial além de poder se comunicar com qualquer outra pessoa que também tenha um anel, desde que estejam no mesmo plano de existência.</p><p>Uma vez vestidos, estes anéis não podem ser retirados por nenhum meio, exceto desmembramento ou morte.</p><p>Se você tiver tanto o anel quanto o manto da Akatsuki, eles contam como apenas um slot de sintonia.</p><p></p><p>Dedo mindinho esquerdo: \"céu\", \"vazio\" Um anel com coloração azul.</p><p>Enquanto veste este anel você adiciona um d4 a todos os testes de resistência.</p><p>Além disso, uma vez por descanso longo você pode gastar 30 de chakra para recuperar 100 pv, podendo fazer isso como uma reação ao sofrer dano.</p><p></p>",
+   "condition": "Sofrer Dano"
+  },
+  "jKkNvUTq7tEN1Nrq": {
+   "name": "Garras Felinas",
+   "description": "<p>Suas garras afiadas servem como armas naturais com as propriedades Oculto e Desarmado, que você pode usar no lugar de ataques desarmados. Estas garras causam 1d6 de dano cortante, e você pode usar Destreza para suas jogadas de ataque e dano, assim como para jogadas de ataque de Taijutsu do Clã Ninneko e cálculos de CD de resistência. Este dano aumenta para 1d8 no 7º nível, 1d10 no 11º nível, e 1d12 no 18º nível.</p>"
+  },
+  "jN0V5FcCGiAD4E8r": {
+   "name": "Óculos da Noite",
+   "description": "<p>Enquanto veste estas lentes escuras, você tem visão no escuro em um alcance de 60 pés.</p><p> Se você já tem visão no escuro, vestir os óculos aumenta seu alcance em 60 pés.</p>"
+  },
+  "jQkhH4P15Jzh6XP5": {
+   "name": "Corrente",
+   "description": "<p>Uma simples corrente de elos metálicos. </p><p>Uma corrente pode ser arrebentada com um teste de Força CD 20 bem-sucedido, ou causando dano adequado.</p>"
+  },
+  "jSKiTC6W8Hxfb2lv": {
+   "name": "Roupas de Plebeu",
+   "description": "<p>Roupas comuns feitas por meio de alfaiataria básica.</p><p> A maioria dos conjuntos de roupas é considerada Roupas de Plebeu, mas pode ser dividida em diferentes categorias com base na qualidade dessas roupas.</p><p> Embora ainda conte como desarmado para fins de cálculo de CA, roupas de qualidade melhor podem conceder benefícios com base em quem você interage enquanto as veste.</p><p></p>"
+  },
+  "jtRVFdfnJUmaoJJb": {
+   "name": "Água do Herói",
+   "description": "<p>A água mágica é extraída da árvore do herói uma vez a cada 100 anos.</p><p> Normalmente usada como último recurso, a água aumenta enormemente o chakra do usuário em troca de sua longevidade.</p><p> Como uma ação bônus, você pode tomar um gole da Água do Herói.</p><p> Os seguintes benefícios e consequências são obtidos por uso consecutivo: </p><p></p><p>Primeiro Gole: Por um minuto você ganha: 100 de chakra temporário, você pode conjurar jutsus em um rank acima do normal, e seu valor de Constituição aumenta em 2.</p><p> Em troca, você perde permanentemente 1 dado de vida + seu modificador de Constituição de seu PV máximo (e o dado de vida correspondente), e ganha um rank de exaustão ao final da duração.</p><p></p><p> Segundo Gole: Por um minuto adicional você ganha: 200 de chakra temporário e seu valor de Constituição aumenta em mais 2.</p><p> Em troca, você perde permanentemente 2 dados de vida + seu modificador de Constituição de seu PV máximo (e o dado de vida correspondente), e ganha dois ranks adicionais de exaustão ao final da duração.</p><p></p><p>Terceiro Gole: Por um minuto adicional você ganha: 300 de chakra temporário e seu valor de Constituição aumenta em mais 2.</p><p> Em troca, você perde permanentemente 2 dados de vida + seu modificador de Constituição de seu PV máximo (e o dado de vida correspondente), e ganha dois ranks adicionais de exaustão ao final da duração.</p><p></p><p> Último Gole: Por um minuto adicional você ganha: 500 de chakra temporário e seu valor de Constituição aumenta em mais 2.</p><p> Em troca, você morre ao final da duração.</p><p></p>"
+  },
+  "jvaX9WbuYPl2i7Fs": {
+   "name": "Equipamento de Jogador"
+  },
+  "jxRMaOXdABNrEbWb": {
+   "name": "Estrela do Vilão",
+   "description": "<p>Esta arma tem +1 em jogadas de ataque e dano feitas com ela.</p><p> Além disso, ao fazer um ataque com esta arma, gastando sua Ação Bônus, você pode dividir a arma em múltiplos pedaços.</p><p> Forçando todas as criaturas de sua escolha dentro de 60 pés a fazer um teste de resistência de Destreza.</p><p> Sofrendo 4d6 de dano cortante, e três ranks de Sangrando em uma falha.</p><p> Metade do dano em um sucesso.</p><p></p>"
+  },
+  "k1rz4u6czhfwbSBF": {
+   "name": "Bandana de Água de Elite",
+   "description": "<p>Enquanto veste esta bandana, você pode tratar seu valor de atributo de Conjuração para jutsus de água como sendo 22, reduz o custo de todos os ninjutsus de água em 3, e aprende 8 ninjutsus de água de Rank A ou inferior.</p><p>Além disso, duas vezes por descanso longo você pode reduzir à metade o custo de um ninjutsu de água.</p><p></p>"
+  },
+  "kQB3BEPureIfguh9": {
+   "name": "Utensílios de Escrita",
+   "description": "<p>Utensílios necessários para escrever e fazer anotações.</p>"
+  },
+  "kejzL0WXddOnhPtS": {
+   "name": "Roupas de Viajante",
+   "description": "<p>Este conjunto de roupas pode consistir em botas, uma saia ou calças de lã, um cinto resistente, uma camisa (talvez com um colete ou jaqueta), e um manto amplo com capuz.</p>"
+  },
+  "kmrGciNPk83ycJ4c": {
+   "name": "Carcás",
+   "description": "<p>Este estojo cilíndrico de couro pode conter até 3 pilhas de munição qualificável ou armas de arremesso.</p><p>Material Qualificado: Flechas, Kunais, Shurikens </p>"
+  },
+  "koWIaRwqAs7Bnvam": {
+   "name": "Pergaminho de Detecção de Inimigos",
+   "description": "<p>Este pergaminho possui 7 cargas.</p><p> Enquanto o segura, você pode usar uma ação e gastar 1 carga para dizer sua palavra de comando.</p><p> Pelo próximo minuto, você conhece a direção da criatura hostil mais próxima dentro de 60 pés, mas não sua distância em relação a você.</p><p> O pergaminho consegue sentir a presença de criaturas hostis que estejam etéreas, invisíveis, disfarçadas ou escondidas, assim como aquelas à vista.</p><p> O efeito termina se você parar de segurar o pergaminho.</p><p> O pergaminho recupera 1d6+1 cargas gastas diariamente ao amanhecer.</p><p> Se você gastar a última carga do pergaminho, role um d20.</p><p> Em um 1, o pergaminho se desfaz em cinzas e é destruído.</p><p></p>"
+  },
+  "lDDui5k2tC3FJth4": {
+   "name": "Microfone de Prata",
+   "description": "<p><strong>Eco.</strong> Quando você conjura um jutsu com o componente V (Vocal) que possui uma área de efeito, a área de efeito do jutsu aumenta em +10 pés em todas as direções, e causa +2 dado de dano adicional a alvos dentro de 10 pés de você, uma vez por conjuração.</p><p>Leve, Alcance 3, Retornável, Arremessável, Agarrar</p>"
+  },
+  "lT42LP1ZM3HAurEd": {
+   "description": "<p>Nota: Deve ser usado apenas em jogos ambientados em Boruto e na Nova Era. Para usar, Cartuchos de Pergaminho que tiveram jutsus selados neles são carregados na câmara da Manopla.</p><p>Quando o usuário quer realizar um dos jutsus carregados, ele faz um selo de mão único correspondente à natureza do jutsu pretendido, usando a mão do braço em que a Manopla é usada.</p><p>Isso faz com que um sistema dentro da Manopla leia o Cartucho de Pergaminho e libere o Jutsu armazenado, disparando-o para onde a Manopla estiver apontada.</p><p>O chakra que alimenta estes jutsus é armazenado no condensador de chakra do dispositivo.</p><p>Você pode armazenar até 1 jutsu de cada um dos 5 elementos primários.</p><p>Como uma ação você pode conjurar aquele jutsu usando chakra da Kote.</p><p>Uma vez conjurado, o pergaminho é consumido.</p><p>Quando o chakra se esgota, um novo condensador deve ser trazido:</p><img src=\"systems/n5eb/assets/content/items/t7-kote-5iypuag8pzbkl94r.webp\">"
+  },
+  "lZoGz4emw4ujoCJX": {
+   "name": "Shibuki \"Respingo\"",
+   "description": "<p>Tipo de Arma: Espadão. Um espadão lendário forjado pelo Sábio dos Seis Caminhos, modificado para conter um suprimento infinito de etiquetas de papel explosivas.</p><p>Você ganha um bônus de +3 em jogadas de ataque e dano feitas com esta arma.</p><p>Além de suas propriedades normais de arma, Shibuki também possui a propriedade Mortal, e quando você realiza a ação de ataque pode escolher causar dano Cortante ou de Fogo por ataque.</p><p>Enquanto empunha Shibuki, o usuário ganha os seguintes benefícios; </p><p></p><p>O usuário é considerado como carregando uma quantidade ilimitada de Bombas de Papel de qualidade Rank C.</p><p>Você é imune a dano causado por suas próprias bombas de papel.</p><p></p><p>Quando for conjurar um jutsu com a palavra-chave Bukijutsu, você pode mudar seu tipo de dano para dano de Fogo.</p><p>Quando fizer isso, todas as criaturas dentro de 10 pés do alvo original, exceto você, devem ser bem-sucedidas em um teste de resistência de Constituição contra sua CD de resistência de Taijutsu ou sofrer metade do dano do jutsu.</p><p></p><p>Uma vez por turno, quando você acertar um ataque usando Shibuki, pode afetar o alvo com uma bomba de papel de qualidade Rank C como parte daquele ataque.</p><p></p>"
+  },
+  "lfDTzUUtAu49y8eh": {
+   "name": "Garrafa Térmica",
+   "description": "<p>Contém líquido suficiente para 1 pessoa, por 1 dia.</p>"
+  },
+  "lg7xY42SUi8PNuMD": {
+   "name": "Corda (30 pés)",
+   "description": "<p>Uma corda útil para diversas tarefas, tanto em áreas selvagens quanto na cidade.</p>"
+  },
+  "mannXVjS35HUCyv4": {
+   "name": "Kiba \"Presas\"",
+   "description": "<p>Tipo de Arma: Espadões Gêmeos. Espadões gêmeos cujas lâminas são compostas de metais condutores e carregadas com chakra de raio, forjadas pelo Sábio dos Seis Caminhos.</p><p>Você ganha um bônus de +3 em jogadas de ataque e dano feitas com esta arma.</p><p>Além de suas propriedades normais de arma, Kiba também possui as propriedades Crítico, Duas Mãos e Multiataque.</p><p>Quando você realiza a ação de ataque, pode escolher causar dano Cortante ou de Raio.</p><p>Enquanto empunha Kiba, o usuário ganha os seguintes benefícios; </p><p></p><p>Ataques feitos com Kiba ignoram resistência a dano Cortante e de Raio.</p><p></p><p>Quando for conjurar um jutsu com a palavra-chave Bukijutsu, você pode mudar seu tipo de dano para dano de Raio.</p><p>Quando fizer isso, todas as criaturas hostis dentro de 5 pés do alvo original, exceto você, devem ser bem-sucedidas em um teste de resistência de Destreza contra sua CD de resistência de Taijutsu ou sofrer metade do dano do jutsu.</p><p></p><p>Ao conjurar um jutsu com a palavra-chave Liberação de Raio com alcance de toque ou 5 pés, você ignora qualquer componente HS que ele tenha e pode usar suas jogadas de ataque e dano com Kiba no lugar do acerto.</p><p></p><p>Quando você causa um acerto crítico contra uma criatura, aquele alvo fica Atordoado até o final de seu próximo turno.</p><p></p>"
+  },
+  "mdUr5Me9AnvrR0mY": {
+   "name": "Droga da Besta Selada",
+   "description": "<p>Estas são pílulas em forma de cápsula criadas por cientistas tentando enriquecer com a guerra.</p><p> Após o consumo desta droga, o usuário ganha uma transformação intensificada semelhante a uma Besta Selada.</p><p> Como uma Ação de Turno Completo, esta pílula pode ser engolida.</p><p> Uma vez consumida, o chakra máximo do usuário é reduzido a 0 até que ele gaste pelo menos 2 semanas de Tempo Livre se Recuperando.</p><p> Ele então entra no Estágio 2 do Manto Distorcido da Modificação de Classe Besta Selada por uma quantidade de rodadas igual ao seu chakra máximo reduzido/20 (arredondado para cima).</p><p> Ao final destas rodadas, ele sofre os efeitos de sair da Fúria Desesperada.</p><p></p>"
+  },
+  "mzUewzjeoO0B1gkN": {
+   "name": "Estojo de Documentos",
+   "description": "<p>Este estojo retangular de couro rígido pode conter até dez folhas de papel enroladas ou cinco folhas de pergaminho enroladas.</p><p>Material Qualificado: Pergaminhos, Mapas, Papel</p>"
+  },
+  "n4iz8VIAlivK2UcU": {
+   "name": "Bússola",
+   "description": "<p><span id=\"page188R_mcid27\" class=\"markedContent\"><span dir=\"ltr\">Quando usada, enquanto o usuário não estiver subterrâneo ou em</span><br><span dir=\"ltr\">um local extremamente elevado em relação ao nível do mar, ele</span><br><span dir=\"ltr\">ganha um bônus de +2 em testes de Sobrevivência feitos para nave</span><span dir=\"ltr\">gar.</span></span></p>"
+  },
+  "nKzlkvH8885JVMU6": {
+   "name": "Livro",
+   "description": "<p>Um livro pode conter poesia, relatos históricos, informações relacionadas a um campo específico de conhecimento, diagramas e anotações sobre invenções gnômicas, ou praticamente qualquer outra coisa que possa ser representada usando texto ou imagens</p>"
+  },
+  "nMmHkccvYWYcx3VS": {
+   "name": "Balança de Mercador",
+   "description": "<p>Uma balança inclui uma pequena balança, bandejas e um conjunto adequado de pesos de até 2 libras.</p><p> Com ela, você pode medir o peso exato de objetos pequenos, como metais preciosos brutos ou mercadorias, para ajudar a determinar seu valor.</p><p></p>"
+  },
+  "nSallZU96Ue8HhZZ": {
+   "name": "Pergaminho do Caminho Criptografado",
+   "description": "<p>Este item parece um pergaminho comum qualquer. </p><p>Ao abri-lo, todos dentro de um raio de 30 pés ao redor do pergaminho ficam imediatamente aprisionados dentro de um Genjutsu criptografado. </p><p>Ele liberta a todos depois que o passado escrito neste pergaminho for resolvido.</p>"
+  },
+  "nX10XzYMjrbmggb2": {
+   "name": "Nuibari \"Agulha de Costura\"",
+   "description": "<p>Tipo de Arma: Fio de Batalha. Um fio de aço delicado, porém aterrorizante, conectado a uma espada fina em formato de agulha, forjada pelo Sábio dos Seis Caminhos.</p><p>Você ganha um bônus de +3 em jogadas de ataque e dano feitas com esta arma.</p><p>Além de suas propriedades normais de arma, Nuibari também possui as propriedades Crítico e Mortal.</p><p>Quando você realiza a ação de ataque usando Nuibari, ela causa dano perfurante.</p><p>Enquanto empunha Nuibari, o usuário ganha os seguintes benefícios;</p><p></p><p>Aumente o alcance de todos os Bukijutsus que você conjurar usando Nuibari em 1 passo, (Toque/5 pés&gt;15 pés&gt;30 pés) .</p><p></p><p>Quando você agarra uma criatura usando Nuibari, aquele alvo também é considerado contido.</p><p></p><p>Quando você acerta um ataque usando esta arma contra uma criatura, pode tentar escolher como alvo uma criatura adicional próxima.</p><p>Se aquela criatura estiver dentro de 10 pés do alvo anterior, você pode tentar uma jogada de ataque secundária contra aquela criatura.</p><p>Em um acerto, ela e o alvo original não podem se afastar um do outro além da distância que já estão.</p><p></p>"
+  },
+  "nfUIpk8TudMFuSd1": {
+   "name": "Alforje"
+  },
+  "o5tutf7hrQ6EUc1L": {
+   "name": "Arco do Astuto",
+   "description": "<p>Esta arma tem +1 em jogadas de ataque e dano feitas com ela.</p><p> Além disso, esta arma não precisa ser recarregada.</p><p> A munição se forma enquanto você a aponta para disparar.</p><p></p>"
+  },
+  "oXZnk1nw9x6CpdZo": {
+   "name": "Espada do Pai",
+   "description": "<p>Esta arma tem +1 em jogadas de ataque e dano feitas com ela.</p><p>Além disso, quando você acerta um inimigo com um combo bem-sucedido em um finalizador, aumenta seu bônus de ataque e dano de Taijutsu em +1. (Máximo de +5)</p>"
+  },
+  "orr0jNeIiaVl6Wu9": {
+   "name": "Bandana de Raio de Elite",
+   "description": "<p>Enquanto veste esta bandana, você pode tratar seu valor de atributo de Conjuração para jutsus de raio como sendo 22, reduz o custo de todos os ninjutsus de raio em 3, e aprende 8 ninjutsus de raio de Rank A ou inferior.</p><p>Além disso, duas vezes por descanso longo você pode reduzir à metade o custo de um ninjutsu de raio.</p><p></p>"
+  },
+  "pMhlgBAjNwF8woIC": {
+   "name": "Manto Elemental",
+   "description": "<p>Pré-requisitos: Você deve possuir uma ou mais afinidades de liberação de natureza para usar este manto.</p><p>Você tem vantagem em testes de resistência contra jutsus de um Elemento (Terra, Vento, Fogo, Água, Raio) enquanto veste este manto.</p>"
+  },
+  "pWpCM7e1XRhJgeuF": {
+   "name": "Anel da Akatsuki Dedo Indicador Esquerdo Três",
+   "description": "<p>Os Anéis da Akatsuki são feitos de um material desconhecido, porém indestrutível.</p><p>Cada um é único em sua criação.</p><p>Existem apenas 10 anéis em existência e cada um possui uma propriedade especial além de poder se comunicar com qualquer outra pessoa que também tenha um anel, desde que estejam no mesmo plano de existência.</p><p>Uma vez vestidos, estes anéis não podem ser retirados por nenhum meio, exceto desmembramento ou morte.</p><p>Se você tiver tanto o anel quanto o manto da Akatsuki, eles contam como apenas um slot de sintonia.</p><p></p><p>Dedo indicador esquerdo: \"três\" Um anel com coloração laranja.</p><p>Enquanto veste este anel você ganha todas as 5 liberações de natureza.</p><p></p>"
+  },
+  "pkQ5TfE45Hgaf1W0": {
+   "name": "Pílula da Morte",
+   "description": "<p>Esta pílula afeta apenas criaturas dispostas. </p><p>Imediatamente após comer esta pílula, você cai para 0 pontos de vida e falha em 3 testes de resistência contra a morte.</p>"
+  },
+  "ptn18Hhvx3sqJeFv": {
+   "description": "<p>Tipo de Arma: Katana</p><p>Uma das várias espadas feitas para encerrar um período de guerra, infundida com poder místico, Kuregumo tem acesso a múltiplas técnicas alimentadas por uma nuvem que você gera a partir do seu chakra.</p><p>Kuregumo causa 2d8 de dano de raio, e possui as propriedades Crítico 1, Mortal 1 e Precisão.</p><p>Uma vez que alguém se sintoniza com Kuregumo, mais nenhuma outra pessoa pode empunhá-la enquanto o proprietário estiver vivo.</p><p></p><p>Compreensão.</p><p>As lâminas místicas não estão limitadas pelas técnicas gravadas nelas, mas sim por aqueles que as empunham.</p><p>Usar as lâminas e inovar com elas é o caminho que se deve seguir para se fortalecer, a si mesmo e à lâmina.</p><p>Usuários de Kuregumo ganham acesso a Liberação, Mei, Yui e Kou ao se sintonizarem com a lâmina.</p><p>Ao subir de nível, se o usuário vem usando Kuregumo ativamente, ele consegue aprofundar sua compreensão da lâmina e de suas técnicas.</p><p>Ele pode escolher entre uma destas quatro opções por subida de nível; Reduzir os custos associados a uma técnica pela metade.</p><p>Isso não se acumula com outra redução de custo.</p><p>Aprender uma nova técnica que ainda não possua.</p><p>Poder usar uma técnica de sua escolha sem desembainhar Kuregumo.</p><p>Porém, ele ainda precisa ter Kuregumo consigo.</p><p>Criar uma nova técnica baseada nas técnicas anteriores conhecidas.</p><p></p><p>Mei.</p><p>Você carrega seu chakra em Kuregumo, à medida que ele se acumula como eletricidade estática antes de explodir, queimando e eletrificando qualquer alvo em seu caminho.</p><p>Como uma Ação, você faz uma jogada de ataque por 10 de Chakra enquanto dispara um raio em uma criatura dentro de 60 pés de você.</p><p>Em um acerto, você causa 8d6 de dano de raio e a criatura ganha 2 ranks de eletrocutado.</p><p>Você pode, em vez disso, forçar um teste de resistência de Destreza para cada criatura dentro de 30 pés de você por 6d6 de dano de raio e 1 rank de eletrocutado, com criaturas sofrendo apenas metade do dano em um sucesso.</p><p>Porém, você pode carregar Mei em vez de dispará-lo imediatamente.</p><p>Você começa a carregar como uma Ação e pode continuar carregando como uma Ação Bônus.</p><p>Você só pode carregar Mei até 5 vezes desta forma antes de precisar dispará-lo.</p><p>Para cada Ação Bônus que você gastar desta forma, o dano aumenta em 2d6, o custo aumenta em 3 de Chakra, e com 5 cargas sua eletricidade fica mais difícil de controlar.</p><p>Criaturas que sofreram dano do Mei totalmente carregado devem fazer um teste de resistência de Constituição ou ficar Atordoadas até o final de seu próximo turno.</p><p>Depois de atacar com Mei o usuário deve usar uma Ação para recarregá-lo antes de usá-lo novamente, mas se ele carregou Mei, deve gastar a mesma quantidade de Ações Bônus carregando-o para recarregá-lo antes de usá-lo novamente.</p><p></p><p>Yui.</p><p>Gelo começa a se formar a partir de Kuregumo e você consegue arremessá-lo para congelar inimigos e bloquear ataques.</p><p>Como uma Ação ou Reação, você cria um cubo de gelo de 10 pés dentro de 15 pés de você, com 20 pontos de vida.</p><p>Este cubo pode interceptar ataques e agir como cobertura, como qualquer outra parede faria, e é vulnerável a dano de terra.</p><p>Você pode gastar incrementos de 5 de chakra para aumentar o tamanho do cubo em 5 pés ou aumentar os pontos de vida do cubo em 10.</p><p>Este cubo pode assumir qualquer forma que você quiser, desde que esteja dentro das dimensões que você pode criar.</p><p>Além disso, se você criar gelo onde uma criatura estiver posicionada atualmente, ela deve fazer um teste de resistência de Destreza ou ficar contida no gelo, podendo fazer um teste de resistência de Força como uma Ação para se libertar.</p><p>Você pode reforçar este gelo ainda mais se seu objetivo for capturar um alvo, aumentando o custo do gelo pela classe da criatura vezes 5.</p><p>(Lacaio 1, Padrão 2, Elite 3, Solo 5) Em vez disso, elas ficam petrificadas se falharem no teste de resistência de Destreza e devem fazer um teste de resistência de Força com desvantagem ao final de seu turno para se libertar.</p><p>Você pode reduzir o custo de chakra das características de Yui em -2 usando uma fonte de água adequada.</p><p></p><p>Kou.</p><p>Água começa a fluir de Kuregumo na forma de névoa ou água pura para apoiar seus movimentos ou fortalecer suas técnicas.</p><p>Você pode, como uma Ação Bônus, fazer Kuregumo gerar água suficiente para contar como uma fonte de água considerável para jutsus e características.</p><p>Esta fonte de água pode ser usada duas vezes antes de precisar ser ativada novamente.</p><p>Você também pode conjurar Técnica da Névoa Oculta através do uso de Kou.</p><p>Antes de conjurar um jutsu ou causar dano de raio, você pode gastar uma Ação Bônus para espalhar água na área ao seu redor, aumentando o passo do dado de dano de raio em +1, até um d12.</p><p></p><p>Mei: Manto.</p><p>Uma extensão de Mei, agora você se envolve na energia crepitante que gera e aprimora ainda mais suas habilidades.</p><p>Como uma Ação, agora você quadruplica sua velocidade, fica imune a efeitos que reduziriam sua velocidade, aumenta seu valor de Destreza em +4, e sempre que se mover, agora você se teleporta até lá.</p><p>Se este aumento na Destreza fizer você exceder seu máximo, em vez disso você aumenta sua velocidade de movimento em mais 60 pés para cada ponto que exceder seu máximo de Destreza, e você causa um rank de eletrocutado para cada dois acertos que uma criatura sofrer de Kuregumo.</p><p>Para manter Mei Envolto ativo você deve gastar 15 de Chakra no início de cada um de seus turnos.</p><p></p>"
+  },
+  "q4FSC5NzD4kjX15M": {
+   "name": "Hiramekarei \"Linguado\"",
+   "description": "<p>Tipo de Arma: Espada Longa </p><p>Uma espada aparentemente difícil de manejar, infundida com chakra potente e moldável, forjada pelo Sábio dos Seis Caminhos.</p><p> Hiramekarei pode utilizar seu chakra inato para alterar sua forma.</p><p> Você ganha um bônus de +3 em jogadas de ataque e dano feitas com esta arma.</p><p> Além de suas propriedades normais de arma, enquanto Hiramekarei está em sua forma base ela também possui a propriedade Leve e Multiataque.</p><p> Enquanto Hiramekarei tiver a propriedade leve, você pode escolher separar a arma em duas metades, que pode empunhar duplamente como armas separadas.</p><p> Enquanto empunha Hiramekarei o usuário ganha os seguintes benefícios; </p><p></p><p>Reduza o custo de todos os Bukijutsus que você conjurar em uma quantidade determinada pelo rank do jutsu.</p><p> (Rank D = 1, Rank C = 2, Rank B = 3, Rank A = 4, Rank S = 5).</p><p></p><p> Como uma ação livre, você pode comandar Hiramekarei a moldar sua forma para se parecer com uma arma totalmente nova.</p><p> Quando fizer isso, a arma substitui até duas de suas propriedades por uma de sua escolha, e você pode alterar seu tipo de dano entre concussão, perfurante e cortante.</p><p></p>"
+  },
+  "qJkVYoUT5jZc7yGv": {
+   "name": "Cantil",
+   "description": "<p>Capacidade: 4 pints de líquido</p>"
+  },
+  "qTNb391BO5Hn7jCK": {
+   "name": "Baralho de Cartas"
+  },
+  "qwQUYYvdxOe2pui5": {
+   "name": "Bandana de Fogo",
+   "description": "<p>Enquanto veste esta bandana, você pode tratar seu valor de atributo de Conjuração para jutsus de fogo como sendo 18, reduz o custo de todos os ninjutsus de fogo em 2, e aprende 5 ninjutsus de fogo de Rank C ou inferior.</p><p>Além disso, uma vez por descanso longo você pode reduzir à metade o custo de um ninjutsu de fogo.</p><p></p>"
+  },
+  "rC8zTzD5OhwVaBFY": {
+   "name": "Tocha",
+   "description": "<p>Uma tocha queima por 1 hora, fornecendo luz forte em um raio de 20 pés e luz fraca por mais 20 pés. </p><p>Se você fizer um ataque corpo a corpo com uma tocha acesa e acertar, ela causa 1 de dano de fogo.</p>"
+  },
+  "rHexAjj1gNju40gR": {
+   "name": "Bandana Médica",
+   "description": "<p>Enquanto veste esta bandana, você pode tratar seu valor de atributo de Conjuração para jutsus médicos como sendo 18, reduz o custo de todos os ninjutsus médicos em 2, e aprende 5 ninjutsus médicos de Rank C ou inferior.</p><p>Além disso, uma vez por descanso longo você pode reduzir à metade o custo de um ninjutsu médico.</p><p></p>"
+  },
+  "riak3K8jxHfakAOk": {
+   "name": "Ração de Campo",
+   "description": "<p>Rações necessárias para sobreviver um dia inteiro.</p>"
+  },
+  "soEVN6OAiirXTa5m": {
+   "name": "Selo de Armadura de Preservação de Chakra",
+   "description": "<p>Este é um selo que pode ser colocado em qualquer armadura, concedendo à pessoa que a usa benefícios únicos.</p><p>Esta Armadura concede a seu usuário uma quantidade adicional de chakra igual ao nível do Usuário vezes 2. </p><p>Este chakra é reiniciado à meia-noite.</p>"
+  },
+  "ssKzz2PbTM7YfPra": {
+   "name": "Kunai da Cobra",
+   "description": "<p>Tipo de Arma: Kunai. Você ganha um bônus de +1 em jogadas de ataque e dano feitas com esta arma infundida com chakra.</p><p>Você pode usar uma ação para fazer um veneno negro e espesso cobrir a lâmina.</p><p>O veneno permanece por 1 minuto ou até que um ataque usando esta arma acerte uma criatura.</p><p>Aquela criatura deve ser bem-sucedida em um teste de resistência de Constituição CD 15 ou sofrer 2d10 de dano de veneno e ficar envenenada por 1 minuto.</p><p>A adaga não pode ser usada desta forma novamente até o próximo amanhecer.</p>"
+  },
+  "u0QlZEIRSDRPBbvd": {
+   "name": "Armadura de Montaria",
+   "description": "<p>Armadura de montaria é uma armadura projetada para proteger a cabeça, o pescoço, o peito e o corpo de um animal. </p><p>Qualquer tipo de armadura mostrado na tabela de Armaduras deste capítulo pode ser comprado como armadura de montaria. </p><p>O custo é quatro vezes o da armadura equivalente feita para humanoides, e ela tem o dobro do peso.</p>"
+  },
+  "uUVTOZdpOuh4bYJv": {
+   "name": "Arma de Metal de Chakra",
+   "description": "<p>Tipo de Arma: Qualquer</p><p>Armas que podem ser feitas principalmente de metal (a critério do seu Mestre) também podem ser forjadas a partir de um metal especial condutor de chakra em vez de aço, permitindo que a arma assuma a natureza do seu chakra e aumentando sua eficácia.</p><p>Armas feitas de Metal de Chakra têm um bônus inato de +1 em jogadas de ataque e dano.</p><p>Como uma ação bônus, você pode gastar 1 de chakra para canalizar seu chakra na arma, mudando o tipo de dano da arma para o tipo de sua liberação de natureza (se você não tiver nenhuma liberação de natureza, esta arma causa dano de energia; se você tiver múltiplas liberações de natureza disponíveis, você escolhe qual usar).</p><p>Este bônus dura até o final de seu próximo turno.</p>"
+  },
+  "ue8VgK5LPJIvgdk5": {
+   "name": "Kit de Escalada",
+   "description": "<p>Um kit de escalada inclui grampos especiais, pontas de bota, luvas e um arnês.</p><p> Você pode usar o kit de escalada como uma ação para se ancorar; quando faz isso, não pode cair mais do que 25 pés a partir do ponto onde se ancorou, e não pode escalar mais do que 25 pés de distância daquele ponto sem desfazer a ancoragem.</p><p></p>"
+  },
+  "v2dz0Pl6N5CX3OPH": {
+   "name": "Espada do Alto",
+   "description": "<p>Esta arma tem +1 em jogadas de ataque e dano feitas com ela.</p><p> Além disso, como uma ação bônus ao empunhar esta arma.</p><p> Você pode acelerá-la, transformando-a em uma arma Perfurante; quando você causa dano com um ataque de arma enquanto ela causa dano Perfurante, pode infligir um rank de sangrando.</p><p></p>"
+  },
+  "v6FLODzpn1cSFCej": {
+   "name": "Barraca de Duas Pessoas",
+   "description": "<p>Uma barraca maior para uso ao ar livre. Cabem 2 pessoas dentro.</p>"
+  },
+  "vR57YB28X3V84DPB": {
+   "description": "<p>Livros Bingo são livros negros usados por ninjas que contêm todas e quaisquer informações sobre ninjas da lista negra que devem ser seus alvos.</p><p>Existem múltiplas versões dos Livros Bingo, sendo a mais comum aquelas baseadas nas Vilas Ocultas.</p><p>Decisões Relacionadas: Veja o Capítulo 8 para uma explicação mais detalhada e um guia sobre os Livros Bingo.</p>"
+  },
+  "vmHdTiRlvdQqWMOO": {
+   "name": "Livro Vazio"
+  },
+  "wAmB2UGLakb9C7NS": {
+   "name": "Selo Explosivo (Obra-Prima)",
+   "description": "<p>Armas imbuídas com este selo causam dano de energia em vez de seu dano listado.</p><p> Quando você causa 10 ou mais de dano em um único acerto, o alvo é empurrado 30 pés; se uma criatura arremessada desta forma colidir com um objeto sólido, seu movimento é interrompido e ela sofre dano como se tivesse caído de uma distância igual à que percorreu.</p><p></p>"
+  },
+  "wcXNa4HRV3t9FMiX": {
+   "name": "Saco de Dormir",
+   "description": "<p>Permite que uma criatura obtenha os benefícios de um descanso curto ou longo mesmo estando ao ar livre ou em um ambiente desconfortável.</p>"
+  },
+  "whoOP3MxfM1QZZPL": {
+   "name": "Roupas de Plebeu",
+   "description": "<p>Roupas comuns feitas por meio de alfaiataria básica.</p><p> A maioria dos conjuntos de roupas é considerada Roupas de Plebeu, mas pode ser dividida em diferentes categorias com base na qualidade dessas roupas.</p><p> Embora ainda conte como desarmado para fins de cálculo de CA, roupas de qualidade melhor podem conceder benefícios com base em quem você interage enquanto as veste.</p><p></p>"
+  },
+  "wir93kCipJf5OiLC": {
+   "name": "Selo de Destruição (Obra-Prima)",
+   "description": "<p>CD de Criação: +3</p><p>Armas imbuídas com este selo causam dano necrótico em vez de seu dano listado.</p><p> Esta arma causa 1d6 de dano necrótico bônus.</p><p> Objetos não aprimorados por chakra e aqueles de rank inferior a esta arma, que cheguem a 0 PV devido ao dano desta arma, são destruídos.</p><p> Criaturas que cheguem a 0 pv devido ao dano desta arma morrem instantaneamente, pois seu corpo é completamente destruído, e não podem ser ressuscitadas, pois sua alma é completamente destruída.</p><p></p>"
+  },
+  "xTm9aIh1hfvSDkG6": {
+   "name": "Selo de Armadura de Velocidade Divina",
+   "description": "<p>Este é um selo que pode ser colocado em qualquer armadura, concedendo à pessoa que a usa um benefício único.</p><p> Você ganha a capacidade de usar sua ação bônus para dobrar sua velocidade de movimento até o final de seu próximo turno.</p><p> Além disso, criaturas cuja velocidade de movimento seja menor que a metade da sua são incapazes de reagir a você enquanto estiver recebendo os benefícios deste item.</p><p> Você pode fazer isso uma vez por dia.</p><p></p>"
+  },
+  "xTwQBgd7oxVJeBSc": {
+   "name": "Kit de Cozinha",
+   "description": "<p>Esta caixa de lata contém uma caneca e talheres simples.</p><p>A caixa se encaixa, e um lado pode ser usado como uma frigideira e o outro como um prato ou tigela funda</p>"
+  },
+  "xcN8GaE8oqVvjaaW": {
+   "name": "Bandana de Vento de Elite",
+   "description": "<p>Enquanto veste esta bandana, você pode tratar seu valor de atributo de Conjuração para jutsus de vento como sendo 22, reduz o custo de todos os ninjutsus de vento em 3, e aprende 8 ninjutsus de vento de Rank A ou inferior.</p><p>Além disso, duas vezes por descanso longo você pode reduzir à metade o custo de um ninjutsu de vento.</p><p></p>"
+  },
+  "xcsTOwERmzIHlBhs": {
+   "name": "Lupa",
+   "description": "<p>Esta lente permite observar de perto objetos pequenos.</p><p> Também é útil como substituto de pederneira e aço ao iniciar fogueiras.</p><p> Acender um fogo com uma lupa exige luz tão intensa quanto a luz solar para focalizar, isca para incendiar, e cerca de 5 minutos para o fogo se iniciar.</p><p> Uma lupa concede vantagem em qualquer teste de atributo feito para avaliar ou inspecionar um item que seja pequeno ou altamente detalhado.</p><p></p>"
+  },
+  "xmE373xSxfpB9Y5T": {
+   "name": "Saco de Dormir",
+   "description": "<p>Permite que uma criatura obtenha os benefícios de um descanso curto ou longo mesmo estando ao ar livre ou em um ambiente desconfortável.</p>"
+  },
+  "yXcKMQywpqhv04kl": {
+   "name": "Espada do Sábio",
+   "description": "<p>Esta lâmina tem +1 em jogadas de ataque e dano feitas com ela. </p><p>Além disso, quando usada como arma de arremesso, você pode gastar uma ação bônus para se teleportar até o alvo do seu ataque, fazendo um ataque adicional como parte da mesma ação.</p>"
+  },
+  "yfRSlSDWroVJOwuX": {
+   "name": "Vela"
+  },
+  "yhA72PPjAzr9m8C4": {
+   "name": "Anel da Akatsuki Dedo Indicador Direito Azul/Verde",
+   "description": "<p>Os Anéis da Akatsuki são feitos de um material desconhecido, porém indestrutível.</p><p>Cada um é único em sua criação.</p><p>Existem apenas 10 anéis em existência e cada um possui uma propriedade especial além de poder se comunicar com qualquer outra pessoa que também tenha um anel, desde que estejam no mesmo plano de existência.</p><p>Uma vez vestidos, estes anéis não podem ser retirados por nenhum meio, exceto desmembramento ou morte.</p><p>Se você tiver tanto o anel quanto o manto da Akatsuki, eles contam como apenas um slot de sintonia.</p><p></p><p>Dedo indicador direito: \"azul\", \"verde\" Um anel com coloração azul-petróleo.</p><p>Enquanto veste este anel você tem vantagem em testes de resistência contra genjutsus com a palavra-chave visual e todos os jutsus com uma Área de Efeito têm sua Área de Efeito aumentada em 10 pés.</p>"
+  },
+  "ysv63kmJUGIOx5IX": {
+   "name": "Espada do Incendiário",
+   "description": "<p>Tipo de Arma: Qualquer Espada</p><p>Você pode usar uma ação bônus para conjurar Manto de Chamas em Rank C.</p><p>Quando você conjura Manto de Chamas usando esta arma, você não paga o custo de concentração e sua CD de concentração é reduzida em 1.</p>"
+  },
+  "zuuuDDQcCnHc8oxL": {
+   "name": "Bolsa",
+   "description": "<p>Capacidade: 1/5 de pé cúbico</p>"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "N5eB-pt-br",
+  "title": "Naruto 5e - Português (Brasil)",
+  "version": "0.2.0",
+  "authors": [
+    {
+      "name": "PreTusko",
+      "url": "https://x.com/PreTusk",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "esmodules": [
+    "babele-register.js"
+  ],
+  "url": "https://github.com/PreTusk0/5eBR",
+  "manifest": "https://raw.githubusercontent.com/PreTusk0/N5eB-pt-br/main/module.json",
+  "download": "https://github.com/PreTusk0/5eBR/archive/refs/heads/main.zip",
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "pt-br.json",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {
+          "minimum": "2.9"
+        }
+      }
+    ],
+    "systems": [
+      {
+        "id": "n5eb",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}

@@ -1,0 +1,583 @@
+{
+ "label": "Classe T7",
+ "folders": {
+  "Lunar Slayer": "Caçador Lunar",
+  "Weapon Tricks": "Truques de Arma",
+  "Cursed Techniques": "Técnicas Amaldiçoadas",
+  "Caryll Runes": "Runas de Caryll",
+  "Jujutsu Sorcerer Features": "Características de Feiticeiro Jujutsu",
+  "Minor Binding Vows": "Votos Vinculantes Menores",
+  "Major Binding Vows": "Votos Vinculantes Maiores",
+  "Cursed Physiques": "Físicos Amaldiçoados",
+  "Jujutsu Sorcerer": "Feiticeiro Jujutsu",
+  "Rifle Tricks": "Truques de Rifle",
+  "Lunar Slayer Features": "Características de Caçador Lunar"
+ },
+ "entries": {
+  "0RcsJtMqeWb9Y0lV": {
+   "name": "Truque Pragmático",
+   "description": "<p>Em vez de usar mecanismos e componentes estranhos e extravagantes para melhorar sua Arma de Truque, você opta por aprimoramentos mais funcionais e testados; selecione 2 dos Mecanismos a seguir, e decida qual forma de sua Arma de Truque é afetada por cada um desses aprimoramentos:</p><p></p><p>Mecanismo Mortal:</p><p>Você instala um mecanismo para melhorar a capacidade letal de sua arma, como lâminas adicionais ou uma bainha metálica autoafiável.</p><p>Sua Arma de Truque ganha a propriedade Mortal.</p><p>Você pode aplicar a propriedade Mortal a Bukijutsu.</p><p></p><p>Mecanismo Defensivo:</p><p>Você instala um mecanismo para melhorar a capacidade defensiva de sua arma, como uma guarda cruzada ou ranhuras na lâmina para capturar outras lâminas.</p><p>Sua arma ganha a propriedade Bloqueio.</p><p></p><p>Mecanismo Estendido:</p><p>Você instala um mecanismo para aumentar o alcance de sua arma, como uma empunhadura maior ou uma lâmina mais longa.</p><p>Sua arma ganha a propriedade Alcance 2.</p><p>Se sua arma for uma arma à distância, em vez disso ambos os seus alcances aumentam em 15 pés.</p><p>Se sua Arma já possuir a propriedade Alcance, você pode aumentar seus ranks de alcance em 2.</p><p></p><p>Mecanismo Dobrável:</p><p>Você instala um mecanismo dentro de sua Arma de Truque que se dobra para dentro e para fora para desequilibrar os inimigos.</p><p>Sua arma ganha as propriedades Derrubar e Oculta.</p><p></p><p>Você pode selecionar este Truque uma segunda vez, ganhando mais 2 aprimoramentos.</p><p></p>"
+  },
+  "0a8wcFZ9PJRPoCPX": {
+   "name": "Voto Vinculante Maior: O Verdadeiro Trabalho de uma Vida",
+   "description": "<p>Pré-requisito: Manipulação de Marionete Amaldiçoada</p><p>Você assume um voto maior para permitir que sua técnica floresça o máximo possível.</p><p>Ao fazer este Voto, você abandona seu personagem existente e passa a jogar como sua Marionete Amaldiçoada.</p><p>Sua Marionete Amaldiçoada ganha acesso a todos os seus sentidos, recursos, características, jutsus e habilidades que não vêm do seu clã.</p><p>Qualquer valor de atributo que a Marionete Amaldiçoada possua que seja menor que seu valor equivalente se torna igual ao seu valor equivalente.</p><p>Os pontos de vida máximos da sua Marionete Amaldiçoada também são dobrados.</p><p>Marionetes Amaldiçoadas são consideradas conscientes durante qualquer forma de descanso.</p><p>Marionetes Amaldiçoadas não possuem testes de resistência contra a morte; em vez disso, desde que uma fração delas possa ser recuperada, elas podem ser revividas ao receberem pontos de vida novamente.</p><p>Suas motivações e ações mudam dependendo do seu Caminho Divergente, concedendo os seguintes benefícios esotéricos:</p><p></p><p>Natureza e Criação:</p><p>Você acredita que seria melhor para sua criação crescer organicamente, por conta própria e independente de você.</p><p>Seu personagem existente se torna um NPC sob controle do Mestre.</p><p>Sua Marionete Amaldiçoada ganha de graça um talento de classe de Arquétipo.</p><p>Sua Marionete Amaldiçoada ganha de graça o talento de Linhagem, Latente.</p><p>Reduza em -1 o custo de todos os Núcleos Amaldiçoados.</p><p></p><p>Revolução e Industrialização:</p><p>Você forma um pacto para conceder a si mesmo uma imensa Energia Amaldiçoada, ao custo de sua vitalidade física.</p><p>Embora você não seja um NPC, você se tornou completamente incapaz de se mover adequadamente, e sua saúde se deteriorou tanto que até a luz do sol o mataria.</p><p>Você ganha o dobro de Energia Amaldiçoada.</p><p>Você tem acesso a todas as Técnicas Amaldiçoadas.</p><p>Usando tempo livre, você pode criar Melhorias de Marionete adicionais da classe Mestre das Marionetes.</p><p>A quantidade de tempo livre necessária é igual a 10 + uma quantidade igual ao rank da melhoria desejada.</p><p>Você pode criar melhorias até um nível acima do seu nível mais alto conhecido.</p><p>(Madeira: 2, Bronze: 4, Prata: 6, Ouro: 8, Platina: 10).</p><p>Você pode criar um número adicional de melhorias desta forma igual ao seu bônus de proficiência.</p><p></p>"
+  },
+  "0bgbCRcvTKYok7Nx": {
+   "name": "Técnica de Maldição Reversa: Purificar",
+   "description": "<p>Como uma ação, você pode gastar 3 de Energia Amaldiçoada e selecionar uma criatura a até 5 pés de você. </p><p>Se a criatura tiver uma condição Mental, você remove 1 rank da condição.</p>"
+  },
+  "2RlgCBALhR3g27hq": {
+   "name": "Flagelo",
+   "description": "<p>Seu deslocamento aumenta em 10 pés, e você pode cair até 60 pés antes de sofrer dano de queda. </p><p>Sofrer dano de queda não o deixa caído.</p>"
+  },
+  "2xEgleCyoE7lkrvj": {
+   "name": "Ira da Lua",
+   "description": "<p>A partir do 1º nível, você ganha +1 nas jogadas de ataque com sua Arma de Truque, e uma vez por turno, quando causar dano com ela, pode somar seu bônus de proficiência ao dano.</p><p>No 7º nível, você ganha um bônus de +1 na margem de ameaça crítica em ataques de arma e de taijutsu com sua Arma de Truque.</p>"
+  },
+  "3PQmZIoxyD4RD9lL": {
+   "name": "Vendo Sem Olhos",
+   "description": "<p>Você ganha visão às cegas e sentido sísmico de 500 pés, sendo capaz de perceber o que o rodeia tão bem quanto alguém que pode ver.</p><p>Porém, você ganha permanentemente a condição cego.</p>"
+  },
+  "4PmFBEHk9PDUsr1D": {
+   "name": "Truque Propulsor",
+   "description": "<p>Você instala um mecanismo em sua Arma de Truque que permite que ela inflija um poder devastador.</p><p> Quando você realizar a ação de ataque, pode optar por assumir uma postura de preparação, condensando todos os ataques em um só.</p><p> Em um acerto, um mecanismo semelhante a um dardo emerge e perfura a criatura, causando dano perfurante como se você tivesse acertado com todos os ataques.</p><p> Você ainda conta como tendo acertado ataques separados para fins de sua característica Recobro.</p><p> Uma vez usado, este Truque não pode ser usado novamente por 1d4 rodadas.</p><p> A criatura afetada deve fazer um teste de resistência de Força com desvantagem contra sua maior CD de resistência.</p><p> Em uma falha no teste de resistência, ela é incapaz de se libertar enquanto você ativa o mecanismo secundário deste truque, uma grande explosão que empurra a criatura para trás uma quantidade de pés igual a 5 + 5 vezes o seu nível de caçador lunar.</p><p> O dano que a criatura sofre ao colidir com outro objeto é dobrado, e se a criatura voar contra outra criatura, a distância percorrida pela criatura que a acionou é reduzida à metade, e essa outra criatura também deve fazer o mesmo teste de resistência de Força com desvantagem, sendo arremessada junto com a criatura que acionou o efeito.</p><p> Isso pode ocorrer repetidamente.</p><p></p>",
+   "condition": "Quando você realizar a ação de ataque"
+  },
+  "4UuJfF4ohYCyMOLm": {
+   "name": "Olhos por Dentro",
+   "description": "<p>A partir do 9º nível, em sua busca pelo iluminismo, você ganha acesso a um recurso especial conhecido como Olhos Perspicazes.</p><p> Você pode usar esses olhos das seguintes formas para obter informações sobre uma criatura a até 30 pés de você em seu turno, uma vez por turno.</p><p> O conhecimento obtido por esta característica chega milagrosamente à mente do seu personagem, que nem mesmo tem certeza de como sabe as coisas que sabe.</p><p> Você tem uma quantidade de olhos igual ao seu bônus de proficiência.</p><p> Você recupera a metade dos olhos gastos em um descanso longo, e todos os olhos em um descanso completo.</p><p> Cada vez que você usa um Olho Perspicaz, você ganha 15 pés de visão verdadeira até o final do seu próximo turno.</p><p> Isso se torna 30 pés no 15º nível.</p><p></p><p> 1 Olho Perspicaz: Aumente sua Percepção Passiva e sua Intuição Passiva em metade do seu nível de Caçador Lunar, arredondado para cima, até o final do seu próximo turno.</p><p> 1 Olho Perspicaz: Você aprende a CD de resistência de Ninjutsu, Genjutsu ou Taijutsu do seu alvo (Escolha uma).</p><p> 2 Olhos Perspicazes: Você pode perguntar ao seu Mestre se o alvo é resistente ou imune a um tipo de dano específico.</p><p> 2 Olhos Perspicazes: Você pode perguntar ao seu Mestre se o alvo é resistente ou imune a uma condição específica.</p><p> 3 Olhos Perspicazes: Você aprende o maior ou o menor valor de atributo do seu alvo (Escolha um).</p><p> 3 Olhos Perspicazes: Aprenda a lista de jutsus do alvo de uma classificação específica (Ninjutsu, Genjutsu, Taijutsu, Bukijutsu).</p><p> 5 Olhos Perspicazes: Você aprende os pontos de vida ou pontos de chakra atuais e máximos do seu alvo (Escolha um).</p><p></p>",
+   "condition": "Uma vez por turno"
+  },
+  "5YCgVmepqsl5OLpw": {
+   "name": "Visão Amaldiçoada",
+   "description": "<p>No início do seu turno, você pode gastar 2 de Energia Amaldiçoada para ganhar Visão de Chakra e Visão no Escuro de 90 pés até o final do seu próximo turno. </p><p>A Visão no Escuro concedida desta forma permite que você veja como se estivesse em luz plena.</p>",
+   "condition": "No início do seu turno"
+  },
+  "5xh5AzxSqcgvbkfd": {
+   "name": "Ataque Extra",
+   "description": "<p>A partir do 5º nível, você pode atacar duas vezes, em vez de uma, sempre que realizar a ação de Ataque em seu turno.</p>"
+  },
+  "6YithLFzMx5CxHj3": {
+   "name": "Sempre Aposte no Jujutsu",
+   "description": "<p>Escolha par ou ímpar; você não pode mudar essa escolha depois.</p><p> Uma vez por turno, quando fizer um ataque, você pode declarar par ou ímpar.</p><p> Role um d20; se o resultado corresponder à sua escolha, você ganha os benefícios de A Zona para aquele ataque.</p><p> Se o d20 não corresponder à sua escolha, reduza o resultado do ataque em -1d4.</p><p></p>",
+   "condition": "Uma vez por turno, quando você fizer um ataque"
+  },
+  "78p8vo6tzmhZEWeU": {
+   "name": "Caçador Lunar",
+   "description": "<p>Como um Caçador Lunar, você ganha as seguintes características de classe.</p><h3>Pontos de Vida</h3><p><strong>Dados de Vida:</strong> 1d10 por nível de Caçador Lunar<br><strong>Pontos de Vida no 1º Nível e além</strong>: 10 + seu modificador de constituição</p><hr><h3>Pontos de Chakra</h3><p><strong>Dados de Chakra</strong>: 1d8 por nível de Caçador Lunar<br><strong>Pontos de Chakra no 1º Nível</strong>: 8 + seu modificador de constituição<br><strong>Pontos de Chakra em Níveis Superiores</strong>: 1d8 (ou 5) + seu Modificador de Constituição por nível de Caçador Lunar após o 1º.</p><hr><h3>Proficiências</h3><p><strong>Armadura</strong>: Armadura leve, armadura média<br><strong>Armas</strong>: Todas as Armas Simples e Marciais<br><strong>Ferramentas Ninja</strong>: Kit de Alquimista, Kit de Ferreiro de Armaduras, Kit de Disfarce, Kit de Perícia Forense, Kit de Armadilheiro, Kit de Ferreiro de Armas<br><strong>Testes de Resistência</strong>: Destreza, Sabedoria, Inteligência<br><strong>Perícias</strong>: Acrobacia, Criação, Escolha duas entre Atletismo, História, Intimidação, Intuição, Percepção, Ninshou, Furtividade, Sobrevivência, Artes Marciais</p><h1>Progressão de Caçador Lunar</h1><table><thead><tr><th>Nível</th><th>Bônus de Proficiência</th><th>Características</th><th>Runas de Caryll</th><th>Truques</th><th>Jutsus Conhecidos</th><th>Rank Mais Alto de Jutsu Conhecido</th></tr></thead><tbody><tr><td>1º</td><td>+3</td><td>@UUID[Compendium.n5eb.t7-class.Item.2xEgleCyoE7lkrvj]{Ira da Lua}, @UUID[Compendium.n5eb.t7-class.Item.YVSZDFoGsi3nTyYp]{Armamento de Truque}</td><td>—</td><td>1</td><td>6</td><td>Rank D</td></tr><tr><td>2º</td><td>+3</td><td>@UUID[Compendium.n5eb.t7-class.Item.GUmQNZ0ZYjzVtld7]{Postura do Caçador}, @UUID[Compendium.n5eb.t7-class.Item.p8icsnpS4G3HHn89]{Caçador do Profano}, @UUID[Compendium.n5eb.t7-class.Item.Df6JHcRfibMfjZsM]{Runas de Caryll}</td><td>1</td><td>1</td><td>6</td><td>Rank D</td></tr><tr><td>3º</td><td>+3</td><td>@UUID[Compendium.n5eb.t7-class.Item.EkCX0QPey3Ltaf6v]{Juramento do Caçador}</td><td>1</td><td>1</td><td>6</td><td>Rank D</td></tr><tr><td>4º</td><td>+4</td><td>@UUID[Compendium.n5eb.class.Item.3R6ULWi6YDL3qyIf]{Aumento no Valor de Atributo/Talento}</td><td>2</td><td>1</td><td>6</td><td>Rank D</td></tr><tr><td>5º</td><td>+4</td><td>@UUID[Compendium.n5eb.t7-class.Item.GRZAvpk6nLoq8y6I]{Ataque Extra}</td><td>2</td><td>1</td><td>7</td><td>Rank C</td></tr><tr><td>6º</td><td>+4</td><td>@UUID[Compendium.n5eb.t7-class.Item.wg6ZCFmm1fF6DSup]{Recobro}, @UUID[Compendium.n5eb.t7-class.Item.HePQ4eO0v3HLCsOO]{Passo Rápido}</td><td>2</td><td>1</td><td>7</td><td>Rank C</td></tr><tr><td>7º</td><td>+5</td><td>@UUID[Compendium.n5eb.t7-class.Item.2xEgleCyoE7lkrvj]{Ira da Lua (1)} , @UUID[Compendium.n5eb.t7-class.Item.h4rhh2ng2YkDyC7X]{Rifle do Caçador}</td><td>2</td><td>2</td><td>7</td><td>Rank C</td></tr><tr><td>8º</td><td>+5</td><td>@UUID[Compendium.n5eb.class.Item.3R6ULWi6YDL3qyIf]{Aumento no Valor de Atributo/Talento}</td><td>3</td><td>2</td><td>7</td><td>Rank C</td></tr><tr><td>9º</td><td>+5</td><td>@UUID[Compendium.n5eb.t7-class.Item.4UuJfF4ohYCyMOLm]{Olhos por Dentro}</td><td>3</td><td>2</td><td>8</td><td>Rank B</td></tr><tr><td>10º</td><td>+6</td><td>@UUID[Compendium.n5eb.t7-class.Item.hUyBxl9dAmBKJLtu]{Infusão de Gema}, @UUID[Compendium.n5eb.t7-class.Item.ugBXYBpv027uYcah]{Sonho de Flora}</td><td>3</td><td>2</td><td>8</td><td>Rank B</td></tr><tr><td>11º</td><td>+6</td><td>@UUID[Compendium.n5eb.t7-class.Item.EkCX0QPey3Ltaf6v]{Juramento do Caçador (3)}, @UUID[Compendium.n5eb.t7-class.Item.HePQ4eO0v3HLCsOO]{Passo Rápido (2)}</td><td>3</td><td>2</td><td>8</td><td>Rank B</td></tr><tr><td>12º</td><td>+6</td><td>@UUID[Compendium.n5eb.class.Item.3R6ULWi6YDL3qyIf]{Aumento no Valor de Atributo/Talento}</td><td>4</td><td>3</td><td>8</td><td>Rank B</td></tr><tr><td>13º</td><td>+7</td><td>@UUID[Compendium.n5eb.t7-class.Item.phwMXxU1guMk8JUp]{Golpes Perspicazes}</td><td>4</td><td>3</td><td>9</td><td>Rank A</td></tr><tr><td>14º</td><td>+7</td><td>@UUID[Compendium.n5eb.t7-class.Item.h4rhh2ng2YkDyC7X]{Rifle do Caçador (2)}</td><td>4</td><td>3</td><td>9</td><td>Rank A</td></tr><tr><td>15º</td><td>+7</td><td>@UUID[Compendium.n5eb.t7-class.Item.EkCX0QPey3Ltaf6v]{Juramento do Caçador (4)}, @UUID[Compendium.n5eb.t7-class.Item.4UuJfF4ohYCyMOLm]{Olhos por Dentro (2)}</td><td>4</td><td>3</td><td>9</td><td>Rank A</td></tr><tr><td>16º</td><td>+8</td><td>@UUID[Compendium.n5eb.class.Item.3R6ULWi6YDL3qyIf]{Aumento no Valor de Atributo/Talento}</td><td>5</td><td>3</td><td>9</td><td>Rank A</td></tr><tr><td>17º</td><td>+8</td><td>—</td><td>5</td><td>4</td><td>10</td><td>Rank S</td></tr><tr><td>18º</td><td>+8</td><td>@UUID[Compendium.n5eb.t7-class.Item.ugBXYBpv027uYcah]{Sonho de Flora (2)}</td><td>5</td><td>4</td><td>10</td><td>Rank S</td></tr><tr><td>19º</td><td>+9</td><td>@UUID[Compendium.n5eb.class.Item.3R6ULWi6YDL3qyIf]{Aumento no Valor de Atributo/Talento}</td><td>5</td><td>4</td><td>10</td><td>Rank S</td></tr><tr><td>20º</td><td>+9</td><td>@UUID[Compendium.n5eb.t7-class.Item.EkCX0QPey3Ltaf6v]{Juramento do Caçador (5)}</td><td>5</td><td>4</td><td>10</td><td>Rank S</td></tr></tbody></table>",
+   "advancement": {
+    "cug7OuPrCKxiWSob": {
+     "title": "(a) Armadura Acolchoada ou (b) Jaqueta de Combate"
+    },
+    "LK73aYaRaM9ufxqO": {
+     "title": "(a) 1 Arma Simples ou (b) 1 Arma Marcial",
+     "hint": "Você pode escolher duas vezes (2 Escolhas)"
+    },
+    "aK3jVdx4EJiaH75Q": {
+     "title": "Bolsa de Cintura Shinobi, Bolsa de Cinto e Bolsa de Perna"
+    },
+    "R7jLLEIkcLQ0WXY4": {
+     "title": "Um kit à sua escolha"
+    },
+    "7amCILSblg2JPzMs": {
+     "title": "Jutsus Conhecidos"
+    },
+    "iFlYJcCysbubCeoK": {
+     "title": "Runas de Caryll"
+    },
+    "rPKdbX5Y3NJEpooM": {
+     "title": "Truques"
+    },
+    "QlZ1gJp581PQm0Qr": {
+     "title": "Escolha Truque de Arma",
+     "hint": "Truques de Arma e Truques de Rifle são compartilhados entre os truques conhecidos."
+    },
+    "tvQWh16z3smKwEG3": {
+     "title": "Escolha uma Postura"
+    },
+    "gky8osUxsJAi9MBe": {
+     "title": "Escolha Runa de Caryll"
+    },
+    "4td8lt7S0CLd7ZzK": {
+     "title": "Escolha Truque",
+     "hint": "Truques de Arma e Truques de Rifle são compartilhados entre os truques conhecidos."
+    }
+   }
+  },
+  "7IOqvOtEQRbZR6oL": {
+   "name": "Lago Arcano",
+   "description": "<p>Sempre que sofrer dano psíquico, reduza a quantidade pelo seu modificador de Constituição.</p><p> Você também não pode se tornar vulnerável a dano psíquico por meio de efeitos hostis.</p>"
+  },
+  "7jRLNDx4zpWHXwfT": {
+   "name": "Truque do Canhão do Caçador",
+   "description": "<p>Você instala um mecanismo em seu Rifle do Caçador que permite que ele se transforme em um canhão grande e incrivelmente pesado, como uma ação bônus.</p><p> Revertê-lo de volta ao Rifle do Caçador também exige uma ação bônus.</p><p> Enquanto seu rifle estiver neste estado, você não pode atacar com esta arma, nem utilizar quaisquer outros truques que ela possua.</p><p> Ele também ganha as propriedades pesada e duas mãos.</p><p> Como uma ação, você pode reduzir seu dado de munição em um passo para disparar um tiro do canhão contra um espaço a até 300 pés.</p><p> Todas as criaturas a até 20 pés do espaço devem fazer um teste de resistência de Destreza contra sua maior CD de resistência, sofrendo Xd10 de dano de energia em uma falha, ou metade disso em um sucesso, onde X é igual ao seu bônus de proficiência.</p><p> Cada vez que você usa este truque, o Xd10 é reduzido em 1 passo até você fazer um descanso longo.</p><p> Se este dano chegar a ficar abaixo de Xd4, este truque se torna inoperante até você fazer um descanso longo.</p><p></p>"
+  },
+  "8bWGd6AiYVJoopRi": {
+   "name": "Truque do Escudo do Caçador",
+   "description": "<p>Você instala um mecanismo para permitir que seu rifle se transforme em um de dois escudos.</p><p>Caçadores normalmente não utilizam escudos, já que a melhor defesa é uma ofensiva forte, mas você discorda.</p><p>Ao escolher este Truque, selecione entre o Escudo de Madeira ou o Escudo do Lago de Cristal.</p><p>Você ganha este escudo.</p><p>Como uma reação, você pode reduzir seu dado de munição em um passo para transformar seu Rifle do Caçador no escudo escolhido e imediatamente bloquear com ele.</p><p>Uma vez ativado, em rodadas subsequentes você pode bloquear com seu escudo novamente como uma reação.</p><p>Enquanto seu escudo estiver ativo, você não pode usar sua característica Passo Rápido ou atacar com seu Rifle do Caçador.</p><p>Reverter seu escudo de volta ao rifle exige uma ação livre.</p><p>Você pode escolher este truque duas vezes.</p><p>Ao fazer isso, seu Rifle do Caçador ganha a capacidade de se transformar em qualquer um dos dois escudos.</p><p></p><p>Escudo de Madeira: </p><p>Seu rifle se transforma em um escudo de madeira com uma base de aço.</p><p>Quando você bloqueia com seu escudo, ganha um amortecedor de pontos de vida igual ao seu nível de Caçador Lunar, e fica resistente a dano de Concussão, Perfurante e Cortante enquanto possuir esses pontos de vida.</p><p></p><p>Escudo do Lago de Cristal: </p><p>Seu rifle se transforma em um belo escudo de tom aquamarinho feito de um cristal único.</p><p>Quando você bloqueia com seu escudo, ganha um amortecedor de pontos de vida igual ao seu nível de Caçador Lunar, e fica resistente a dano de Terra, Vento, Fogo, Água e Raio enquanto possuir esses pontos de vida.</p><p></p>"
+  },
+  "951UieEguMHJfoGB": {
+   "name": "Truque Integrado 2.0",
+   "description": "<p>Você decide expandir ainda mais seu já extenso arsenal.</p><p> Você adiciona uma terceira arma, ou seu Rifle do Caçador, se o possuir, à sua Arma de Truque.</p><p> Isso passa a ser conhecido como a Forma Surpresa da Arma de Truque.</p><p> Esta forma conta como a Forma de Truque de sua Arma de Truque, para fins de interação com características de Caçador Lunar.</p><p> Quando você escolhe este truque pela primeira vez, escolha entre a propriedade Justa ou a propriedade Serrilhada.</p><p> A Forma Surpresa de sua Arma de Truque ganha essa propriedade.</p><p></p>"
+  },
+  "9pLpvi5nxWjb845X": {
+   "name": "Grande Lago",
+   "description": "<p>Pré-requisito: Nível 10+</p><p>Escolha qualquer tipo de dano à sua escolha, exceto Energia. </p><p>Você ganha resistência ao tipo de dano escolhido, desde que não cause dano desse tipo a si mesmo.</p>"
+  },
+  "9tJjUxC5mCW9ciOW": {
+   "name": "Arrancada Amaldiçoada",
+   "description": "<p>Quando você se mover, pode gastar 3 de Energia Amaldiçoada. </p><p>Aumente seu deslocamento em 15 pés até o final do seu turno. </p><p>Em Níveis Superiores: No 5º nível, isso se torna 30 pés. No 9º nível, torna-se 45 pés.</p>",
+   "condition": "Quando você se mover"
+  },
+  "B63gGyvdd5iGEG5W": {
+   "name": "Exorcismo dos Perversos",
+   "description": "<p>Também no 2º nível, sua energia amaldiçoada o chama para expulsar deste plano de existência toda e qualquer criação maligna.</p><p> Ao atacar uma criatura com a condição Amaldiçoado, uma criatura morta-viva, um demônio ou uma monstruosidade, você ganha um +1 adicional nas jogadas de ataque feitas contra essa criatura.</p><p> No 9º nível, quando você causar dano a uma dessas criaturas, trate todos os resultados 1 como 2.</p><p> No 18º nível, você pode gastar 5 de energia amaldiçoada e escolher como alvo até 3 dessas criaturas que tenham pelo menos dois níveis abaixo do seu, dentro de um raio de 20 pés.</p><p> Essas criaturas devem fazer um teste de resistência de constituição contra sua maior CD de resistência de jutsu.</p><p> Em uma falha no teste, elas são imediatamente erradicadas.</p><p> Isso não pode ser usado em Solos ou Elites.</p><p></p>"
+  },
+  "BQlpv0I2PQ2RGAep": {
+   "name": "Técnica de Maldição Reversa: Curar",
+   "description": "<p>Como uma ação, você pode gastar 4 de Energia Amaldiçoada e selecionar uma criatura a até 5 pés de você.</p><p>Você restaura 3d6 pontos de vida ao alvo.</p><p>Em Níveis Superiores: No 9º nível, isso aumenta para 4d6 pontos de vida.</p>"
+  },
+  "BTUZqlANWEyQNxAp": {
+   "name": "Feiticeiro Jujutsu",
+   "description": "<p>Como um Feiticeiro Jujutsu, você ganha as seguintes características de classe.</p><h3>Pontos de Vida</h3><p><strong>Dados de Vida</strong>: 1d10 por nível de Feiticeiro Jujutsu<br><strong>Pontos de Vida no 1º Nível e além</strong>: 10 + seu modificador de constituição</p><hr><h3>Pontos de Chakra</h3><p><strong>Dados de Chakra</strong>: 1d8 por nível de Feiticeiro Jujutsu<br><strong>Pontos de Chakra no 1º Nível</strong>: 8 + seu modificador de constituição<br><strong>Pontos de Chakra em Níveis Superiores</strong>: 1d8 (ou 5) + seu Modificador de Constituição por nível de Feiticeiro Jujutsu após o 1º.</p><hr><h3>Proficiências</h3><p><strong>Armadura</strong>: Armadura leve, armadura média<br><strong>Armas</strong>: Todas as Armas Simples e Marciais e uma Exótica à sua escolha<br><strong>Ferramentas Ninja</strong>: Kit de Rastreamento e Kit de Perícia Forense<br><strong>Testes de Resistência</strong>: Carisma, Constituição, Destreza<br><strong>Perícias</strong>: Acrobacia, Controle de Chakra, Escolha quaisquer 2 entre as seguintes: Intuição, Percepção, Atletismo, Prestidigitação, Intimidação, Investigação, História, Furtividade, Sobrevivência</p><h1>Progressão de Feiticeiro Jujutsu</h1><table><thead><tr><th>Nível</th><th>Bônus de Proficiência</th><th>Características</th><th>Energia Amaldiçoada</th><th>Técnicas Amaldiçoadas</th><th>Jutsus Conhecidos</th><th>Rank Mais Alto de Jutsu Conhecido</th></tr></thead><tbody><tr><td>1º</td><td>+3</td><td>@UUID[Compendium.n5eb.t7-class.Item.ZSpS9XwuYzaD0iZJ]{Energia Amaldiçoada}, @UUID[Compendium.n5eb.t7-class.Item.Y4Pjg5tgkmxNFc7X]{Técnica Amaldiçoada}, @UUID[Compendium.n5eb.t7-class.Item.va8ZrcgNQumh2ivr]{Voto Vinculante}</td><td>6</td><td>2</td><td>6</td><td>Rank D</td></tr><tr><td>2º</td><td>+3</td><td>@UUID[Compendium.n5eb.t7-class.Item.ku4uRjtIU7CKcUAQ]{A Zona}, @UUID[Compendium.n5eb.t7-class.Item.B63gGyvdd5iGEG5W]{Exorcismo dos Perversos}</td><td>7</td><td>2</td><td>6</td><td>Rank D</td></tr><tr><td>3º</td><td>+3</td><td>@UUID[Compendium.n5eb.t7-class.Item.tLsSNIGxUsSFPHDZ]{Técnica Jujutsu}, @UUID[Compendium.n5eb.t7-class.Item.Y4Pjg5tgkmxNFc7X]{Técnica Amaldiçoada (2)}</td><td>8</td><td>3</td><td>7</td><td>Rank D</td></tr><tr><td>4º</td><td>+4</td><td>@UUID[Compendium.n5eb.class.Item.3R6ULWi6YDL3qyIf]{Aumento no Valor de Atributo}</td><td>9</td><td>3</td><td>7</td><td>Rank D</td></tr><tr><td>5º</td><td>+4</td><td>@UUID[Compendium.n5eb.t7-class.Item.5xh5AzxSqcgvbkfd]{Ataque Extra}</td><td>10</td><td>3</td><td>8</td><td>Rank C</td></tr><tr><td>6º</td><td>+4</td><td>@UUID[Compendium.n5eb.t7-class.Item.Y4Pjg5tgkmxNFc7X]{Técnica Amaldiçoada (3)}, @UUID[Compendium.n5eb.t7-class.Item.WcgJ8L0sCzp6if4w]{Sempre Vigilante}</td><td>11</td><td>4</td><td>8</td><td>Rank C</td></tr><tr><td>7º</td><td>+5</td><td>@UUID[Compendium.n5eb.t7-class.Item.tLsSNIGxUsSFPHDZ]{Técnica Jujutsu (2)}</td><td>12</td><td>4</td><td>9</td><td>Rank C</td></tr><tr><td>8º</td><td>+5</td><td>@UUID[Compendium.n5eb.class.Item.3R6ULWi6YDL3qyIf]{Aumento no Valor de Atributo}</td><td>13</td><td>4</td><td>9</td><td>Rank C</td></tr><tr><td>9º</td><td>+5</td><td>@UUID[Compendium.n5eb.t7-class.Item.URN6xqebcUNE5gtB]{Físico Amaldiçoado}</td><td>14</td><td>4</td><td>10</td><td>Rank B</td></tr><tr><td>10º</td><td>+6</td><td>@UUID[Compendium.n5eb.t7-class.Item.ZSpS9XwuYzaD0iZJ]{Energia Amaldiçoada (2)}</td><td>15</td><td>4</td><td>10</td><td>Rank B</td></tr><tr><td>11º</td><td>+6</td><td>@UUID[Compendium.n5eb.t7-class.Item.tLsSNIGxUsSFPHDZ]{Técnica Jujutsu (3)}</td><td>16</td><td>4</td><td>11</td><td>Rank B</td></tr><tr><td>12º</td><td>+6</td><td>@UUID[Compendium.n5eb.class.Item.3R6ULWi6YDL3qyIf]{Aumento no Valor de Atributo}</td><td>17</td><td>4</td><td>11</td><td>Rank B</td></tr><tr><td>13º</td><td>+7</td><td>@UUID[Compendium.n5eb.t7-class.Item.B63gGyvdd5iGEG5W]{Exorcismo dos Perversos (2)}</td><td>18</td><td>4</td><td>12</td><td>Rank A</td></tr><tr><td>14º</td><td>+7</td><td>@UUID[Compendium.n5eb.t7-class.Item.Y4Pjg5tgkmxNFc7X]{Técnica Amaldiçoada (4)}, @UUID[Compendium.n5eb.t7-class.Item.IAd3jkO2XhCvAQYg]{Pseudo-Habilidoso}</td><td>19</td><td>5</td><td>12</td><td>Rank A</td></tr><tr><td>15º</td><td>+7</td><td>@UUID[Compendium.n5eb.t7-class.Item.tLsSNIGxUsSFPHDZ]{Técnica Jujutsu (4)}</td><td>20</td><td>5</td><td>13</td><td>Rank A</td></tr><tr><td>16º</td><td>+8</td><td>@UUID[Compendium.n5eb.class.Item.3R6ULWi6YDL3qyIf]{Aumento no Valor de Atributo}</td><td>21</td><td>5</td><td>13</td><td>Rank A</td></tr><tr><td>17º</td><td>+8</td><td>@UUID[Compendium.n5eb.t7-class.Item.B63gGyvdd5iGEG5W]{Exorcismo dos Perversos (3)}, @UUID[Compendium.n5eb.t7-class.Item.WcgJ8L0sCzp6if4w]{Sempre Vigilante (2)}</td><td>22</td><td>5</td><td>14</td><td>Rank S</td></tr><tr><td>18º</td><td>+8</td><td>@UUID[Compendium.n5eb.t7-class.Item.Y4Pjg5tgkmxNFc7X]{Técnica Amaldiçoada (5)}</td><td>23</td><td>6</td><td>14</td><td>Rank S</td></tr><tr><td>19º</td><td>+9</td><td>@UUID[Compendium.n5eb.class.Item.3R6ULWi6YDL3qyIf]{Aumento no Valor de Atributo}</td><td>24</td><td>6</td><td>15</td><td>Rank S</td></tr><tr><td>20º</td><td>+9</td><td>@UUID[Compendium.n5eb.t7-class.Item.tLsSNIGxUsSFPHDZ]{Técnica Jujutsu (5)}</td><td>25</td><td>6</td><td>15</td><td>Rank S</td></tr></tbody></table>",
+   "advancement": {
+    "578EgOWqPXmZqKad": {
+     "title": "(a) Armadura Acolchoada ou (b) Jaqueta de Combate"
+    },
+    "xKORK8kKpY8ZfXqz": {
+     "title": "(a) 1 Arma Marcial ou (b) 1 Arma Exótica"
+    },
+    "Pfk7ZpHL1OFzKNTH": {
+     "title": "(a) Uma pilha de Kunai ou (b) Chakram"
+    },
+    "CfEcTQqgeWqU4KAL": {
+     "title": "2 Armas Simples"
+    },
+    "KhuzNWbUXS72GKZl": {
+     "title": "2 Bombas de Papel ou 2 Etiquetas de Luz"
+    },
+    "6AY0vtv4Fiy4AWk6": {
+     "title": "2 Bombas de Papel ou 2 Etiquetas de Luz"
+    },
+    "Ux4HpXHMrfliP1Uv": {
+     "title": "Espaços de Voto Vinculante"
+    },
+    "N4FpNITvgppV0SxK": {
+     "title": "Técnicas Amaldiçoadas"
+    },
+    "Ki1NqEyX8h1sz8Go": {
+     "title": "Jutsus Conhecidos"
+    },
+    "c9Mksk6tuDaiAVkJ": {
+     "title": "Técnica Jujutsu"
+    },
+    "eJiiNheNWQ19Ih0i": {
+     "title": "Escolha Técnica Amaldiçoada"
+    },
+    "2KYGDXPsSbpIUhGF": {
+     "title": "Escolha Votos Vinculantes"
+    },
+    "x2CRMOulqeeCSN8w": {
+     "title": "Energia Amaldiçoada"
+    },
+    "J65RuI1INvpUXfJA": {
+     "title": "Escolha Físico Amaldiçoado"
+    }
+   }
+  },
+  "BouhIBzIv3e6vuq9": {
+   "name": "Espírito Tingido de Maldição",
+   "description": "<p>Você pode ganhar 1 ponto de energia amaldiçoada ao final do seu turno, mesmo que tenha usado uma técnica durante o turno.</p><p> Além disso, sua Energia Amaldiçoada máxima aumenta em seu nível.</p><p> Você reduz seus pontos de chakra máximos em uma quantidade igual ao seu nível nesta classe.</p><p> Depois disso, você perde um adicional de -1 a cada nível.</p><p></p>"
+  },
+  "DSkGoY2ozNZnPy7X": {
+   "name": "Marca Amaldiçoada",
+   "description": "<p>No início do seu turno, você pode gastar 4 de Energia Amaldiçoada e selecionar uma criatura em um raio de 30 pés. </p><p>Até o final do seu próximo turno, ela fica sob os efeitos de Marca de Chakra.</p>",
+   "condition": "No início do seu turno"
+  },
+  "Df6JHcRfibMfjZsM": {
+   "name": "Runas de Caryll",
+   "description": "<p>A partir do 2º nível, você ganha acesso a Runas de Caryll.</p><p> Essas runas foram passadas por gerações de Caçadores Lunares, e acredita-se que sejam pronunciamentos de seres muito distantes que, quando inspirados, dão fruto a um novo poder.</p><p> Você ganha 1 Runa de Caryll, e ganha runas adicionais conforme indicado na tabela de classe do Caçador Lunar.</p><p> As Runas de Caryll estão listadas no final desta classe, e você pode trocar qualquer número de Runas de Caryll em um descanso longo.</p><p></p>"
+  },
+  "EkCX0QPey3Ltaf6v": {
+   "name": "Juramento do Caçador",
+   "description": "<p>A partir do 3º nível, você escolhe um Juramento para seguir. </p><p>Seu juramento concede a você características nos níveis 3º, 6º, 11º, 15º &amp; 20º.</p>"
+  },
+  "G6MSibenqP7PkPcH": {
+   "name": "Olho",
+   "description": "<p>Selecione 2 perícias ou ferramentas. </p><p>Você ganha proficiência nas perícias ou ferramentas escolhidas. </p><p>Se você já for proficiente, ganha especialização em vez disso.</p><p></p><p>Em Níveis Posteriores: </p><p>No 9º nível, o alcance máximo e a Visão Verdadeira concedidos pela sua característica Olhos Por Dentro dobram.</p>"
+  },
+  "GRZAvpk6nLoq8y6I": {
+   "name": "Ataque Extra",
+   "description": "<p>A partir do 5º nível, você pode atacar duas vezes, em vez de uma, sempre que realizar a ação de Ataque em seu turno.</p>"
+  },
+  "GUmQNZ0ZYjzVtld7": {
+   "name": "Postura do Caçador",
+   "description": "<p>A partir do 2º Nível, você adota uma Postura de Arma específica para auxiliá-lo na caçada. </p><p>Escolha uma das Posturas de Arma localizadas no Capítulo 13: Opções de Personalização; </p><p>Você não pode escolher a mesma Postura de Arma mais de uma vez, mesmo que possa escolher novamente depois.</p>"
+  },
+  "HePQ4eO0v3HLCsOO": {
+   "name": "Passo Rápido",
+   "description": "<p>A partir do 6º nível, você aprende a icônica técnica evasiva usada por caçadores através das eras, conhecida como Passo Rápido.</p><p> Como uma reação e 3 de chakra, você ganha um bônus de +3 na sua CA e em testes de resistência de Destreza até o início do seu próximo turno, e se move imediatamente até 10 pés.</p><p> Se esse movimento o tirar de uma área de efeito que imponha um teste de resistência de Destreza, você tem vantagem no teste de resistência.</p><p> Além disso, enquanto se beneficia de Passo Rápido, você pode se mover até 5 pés quando um ataque errar contra você.</p><p> O movimento do Passo Rápido não provoca ataques de oportunidade.</p><p> No 11º nível, você pode aumentar o custo de Passo Rápido para 5 de chakra para aumentar o bônus para +5.</p><p> Além disso, enquanto estiver sob os efeitos de Passo Rápido, em um teste de resistência de Destreza bem-sucedido você não sofre dano nem efeitos, e sofre metade do dano em uma falha.</p><p></p>"
+  },
+  "IAd3jkO2XhCvAQYg": {
+   "name": "Pseudo-Habilidoso",
+   "description": "<p>No 14º nível, sua energia amaldiçoada o protege quando sua força natural falha.</p><p> Quando você falhar em um teste de perícia, pode gastar uma quantidade de energia amaldiçoada igual à diferença.</p><p> Ao fazer isso, você obtém sucesso nessa jogada.</p><p></p>"
+  },
+  "IM5GcYTOcLiNtpBB": {
+   "name": "Técnica de Maldição Reversa: Purificar",
+   "description": "<p>Como uma ação, você pode gastar 4 de Energia Amaldiçoada e selecionar uma criatura a até 5 pés de você.</p><p>Se a criatura tiver uma condição Elemental, você remove 2 ranks dessa condição.</p>"
+  },
+  "JgfkBTdh0kBgE1i5": {
+   "name": "Alto e Orgulhoso",
+   "description": "<p>Pré-requisito: Fala Amaldiçoada</p><p>Você expande o alcance de sua técnica; porém, cada uso agora sobrecarrega você.</p><p>Suas características de classe agora se aplicam a genjutsus com as palavras-chave Tátil e Visual. </p><p>No entanto, você sempre sofre o dano listado por Presença Influente ao usar uma característica da subclasse.</p>"
+  },
+  "KCl86YhfgVPaHQeI": {
+   "name": "Sem Forma",
+   "description": "<p>Pré-requisito: Nível 7+</p><p>Quando você for gastar um dado de vida para recuperar munição, role o dado de vida. </p><p>Se você rolar 9 ou 10, o dado de vida não é gasto, mas sua munição é restaurada mesmo assim.</p>"
+  },
+  "KFp1lSbvfEm4imiz": {
+   "name": "Contorcer-se",
+   "description": "<p>Pré-requisito: Nível 7+ </p><p>Sempre que você acertar uma Parada, um acerto crítico, ou matar uma criatura, aumente o dado de dano de sua Arma de Truque e do seu Rifle do Caçador em um passo por 1 minuto.</p><p> Você não pode se beneficiar desta runa novamente durante esse minuto.</p><p></p>",
+   "condition": "Sempre que você acertar uma Parada, um acerto crítico, ou matar uma criatura"
+  },
+  "KxvfZTNCExKCyIfV": {
+   "name": "Defesa Amaldiçoada",
+   "description": "<p>Como uma reação quando você for sofrer dano de um ataque ou teste de resistência, você pode reduzir o dano em 3d8.</p><p> Qualquer dano após o dano que acionou este efeito é reduzido pela metade do resultado até o início do seu próximo turno.</p><p> Em Níveis Superiores: No 9º, isso se torna 4d8 de dano.</p><p> No 13º, isso se torna 5d8.</p><p></p>",
+   "condition": "quando você for sofrer dano de um ataque ou teste de resistência,"
+  },
+  "L48yhy7DxDaWr4mp": {
+   "name": "Ampliação da Feitiçaria",
+   "description": "<p>No 2º nível, os Feiticeiros Jujutsu são conhecidos por conseguir intensificar suas técnicas gastando mais energia.</p><p>Ao usar uma característica concedida por uma técnica Jujutsu, você pode aumentar o custo de energia amaldiçoada da técnica em 50%.</p><p>Ao fazer isso, você pode usar o efeito de ampliação dela.</p><p>Se ela não tiver um efeito listado, aumente o dano, a redução de dano ou a cura em uma quantidade igual ao dobro do seu bônus de proficiência.</p><p>Se não houver custo, ela não pode ser ampliada.</p><p>Alternativamente, você pode intensificar seus ataques com energia amaldiçoada para tentar um Flash Negro.</p><p>Uma vez por turno, como parte de um ataque, você pode gastar 3 de Energia Amaldiçoada.</p><p>Ao fazer isso, você faz um teste de Controle de Chakra CD 20.</p><p>Aumente a CD deste teste em +2 se for um ataque de jutsu.</p><p>Se você se beneficiaria de especialização neste teste, em vez disso ganha +1d4 no lugar da especialização.</p><p>Em um sucesso, você aumenta o dano causado em Xd4, onde X é igual ao seu Bônus de Proficiência, muda o dano para energia, e reduz a CD do Flash Negro em -1, até um mínimo de 13.</p><p>Em uma falha, aumente a CD do Flash Negro em +1.</p><p>A CD do Flash Negro é reiniciada ao final do combate.</p><p></p>"
+  },
+  "LCB4iH59X2MQrnVQ": {
+   "name": "Segunda Vinda",
+   "description": "<p>Pré-requisito: Vaso Amaldiçoado</p><p>A Maldição que habita seu corpo é uma ameaça para todos no mundo.</p><p>Uma vez por descanso longo, em qualquer momento em que estiver sentindo grande angústia, ou como uma Ação de Turno Completo, você pode invocar seu Espírito Amaldiçoado.</p><p>Quando isso acontece, você deve fazer um teste de Carisma CD 20.</p><p>Em uma falha, o Espírito assume o controle e age como quiser (o Mestre controla seu personagem).</p><p>Porém, normalmente ele prioriza a autopreservação por qualquer meio necessário.</p><p>Independentemente disso, você ganha os seguintes benefícios durante o próximo minuto.</p><p>Você ganha imediatamente 15 de Energia Amaldiçoada, podendo exceder seu máximo.</p><p>Você também pode usar até 2 Técnicas Amaldiçoadas por turno.</p><p>No início do seu turno, você pode gastar qualquer quantidade de Energia Amaldiçoada e ganhar uma quantidade igual de Pontos de Vida Temporários. Você ganha acesso a toda Técnica Amaldiçoada.</p><p>Reduza todo o dano recebido pelo seu Bônus de Proficiência.</p><p>Esta habilidade pode ser usada uma vez por descanso.</p><p></p>"
+  },
+  "NIFjXeObHukGpOxJ": {
+   "name": "Físico Amaldiçoado: Resistente",
+   "description": "<p>Sua Energia o protege de golpes que, de outra forma, seriam mortais.</p><p>Você ganha Redução de Dano igual ao seu modificador de constituição.<br>Esse bônus é reduzido à metade quando sua energia amaldiçoada é igual ou inferior à metade do seu máximo.</p>"
+  },
+  "NWfmmmyluY5bNaph": {
+   "name": "Restrição das Estrelas",
+   "description": "<p>Aumente sua Energia Amaldiçoada em seu nível+5 e reduza o custo de todas as características que exigem Energia Amaldiçoada em -1 (mín. 1). </p><p>Porém, você não pode recuperar Energia Amaldiçoada fora de um descanso.</p>"
+  },
+  "NYv6nez75xH5YfHq": {
+   "name": "Físico Amaldiçoado: Não Convencional",
+   "description": "<p>Sua energia é ameaçadora.</p><p>Você aprende o D-jutsu Aura Opressiva e pode conjurá-lo de graça como uma ação bônus.<br>Você pode conjurá-lo usando sua maior CD de resistência e pode gastar Energia Amaldiçoada para conjurar o jutsu.</p>",
+   "effects": {
+    "v5JaVSNw2wx9R3pa": {
+     "name": "Físico Amaldiçoado: Não Convencional"
+    }
+   }
+  },
+  "NoflJQA3S8j2vu9m": {
+   "name": "Mar Profundo Claro",
+   "description": "<p>Quando você for fazer uma rolagem para resistir a ganhar as condições Enfeitiçado ou Medo, você pode adicionar seu bônus de proficiência completo à rolagem, caso ainda não o faça. </p><p>Se já o fizer, role com vantagem.</p>"
+  },
+  "NwP0a3RtEWpliEF7": {
+   "name": "Fora de Controle",
+   "description": "<p>Pré-requisito: Técnica de Cópia </p><p>Quando você está em perigo, seu Velho Amigo entra em frenesi.</p><p> Enquanto seu Velho Amigo estiver ativo, ou quando você o ativar estando com menos de 50% dos Pontos de Vida, seu Velho Amigo ativa no Estágio 3.</p><p> Quando isso ocorre, você deve fazer um teste de Carisma CD 20.</p><p> Em uma falha, o Velho Amigo ganha 4 Aumentos de Valor de Atributo adicionais e não pode ser controlado por você.</p><p> Enquanto isso estiver ativo, o Velho Amigo ficará sob o controle do Mestre e sob os efeitos da condição Frenesi, tendo criaturas hostis como alvo.</p><p> Quando todas as hostis forem derrotadas, o Velho Amigo tratará a criatura mais próxima de você como Hostil.</p><p> Em um sucesso, o Velho Amigo ganha 4 Aumentos de Valor de Atributo adicionais e pode ser controlado normalmente.</p><p> Se seu Velho Amigo estiver em Frenesi, como uma ação você pode refazer o teste.</p><p> Em um sucesso, o Velho Amigo se desativa imediatamente.</p><p></p>",
+   "condition": "Enquanto seu Velho Amigo estiver ativo, ou quando você o ativar estando com menos de 50% dos Pontos de Vida,"
+  },
+  "Pl4WgUlyM6MwcrOF": {
+   "name": "Truque da Eficiência",
+   "description": "<p>Pré-requisito: Nível 7+</p><p>Você instala um mecanismo para reduzir o custo de técnicas de arma mais avançadas, como um receptor de chakra, ou simplesmente uma estrutura de arma mais leve.</p><p>Jutsus que usam sua Arma de Truque como componente têm seu custo reduzido em -2 (Mín. metade).</p><p>Além disso, você adiciona um d4 aos testes para manter a concentração desses jutsus.</p><p></p>"
+  },
+  "QR0qhEmWBQpDzBl0": {
+   "name": "Truque Fumegante do Caçador",
+   "description": "<p>Você instala um mecanismo em seu Rifle do Caçador para encaixar um pequeno cilindro de óleo inflamável ou gás venenoso (Escolha um, ao criar este truque).</p><p>Com base em sua escolha, você pode usar sua ação para um dos efeitos listados; após usar este truque, no início do seu próximo turno, você pode usar sua ação imediatamente para usá-lo novamente, sem reduzir seu dado de munição.</p><p></p><p>Cilindro de Chamas: </p><p>Você libera um cone de fogo de 10 pés na sua frente.</p><p>Todas as criaturas dentro do alcance devem fazer um teste de resistência de Constituição, sofrendo o dobro do dano do seu Rifle do Caçador em dano de fogo e ficando Queimadas por 1 minuto em uma falha, ou metade do dano em um sucesso.</p><p></p><p>Cilindro de Veneno: </p><p>Você libera um cone de fogo de 10 pés na sua frente.</p><p>Todas as criaturas dentro do alcance devem fazer um teste de resistência de Constituição, sofrendo o dobro do dano do seu Rifle do Caçador em dano de energia, ganhando 2 ranks de empeçonhado por 1 minuto em uma falha, ou metade do dano em um sucesso.</p><p></p>"
+  },
+  "QxOLT9xUUYb1opt5": {
+   "name": "Primeiro a Alma, Depois o Corpo",
+   "description": "<p>Pré-requisito: Transfiguração Ociosa</p><p>Seus Pontos de Vida e Chakra são somados e se tornam um recurso próprio chamado Alma.</p><p>Quaisquer efeitos hostis além de dano que afetariam seu Chakra ou Pontos de Vida são reduzidos à metade e aplicados à sua Alma.</p><p>Você pode gastar Alma no lugar de efeitos que exijam Chakra ou Pontos de Vida. </p><p>Alma é considerada tanto Pontos de Vida quanto Chakra.</p>"
+  },
+  "R3YHTlAiSiIlbbYS": {
+   "name": "Lago Dissipador",
+   "description": "<p>Sempre que você sofrer dano de Ácido ou Necrótico, reduza a quantidade pelo seu modificador de Constituição.</p><p>Além disso, você não pode se tornar vulnerável a esses tipos de dano por efeitos hostis.</p>"
+  },
+  "S2u1Xq4ZSWwTUROF": {
+   "name": "Truque da Corda",
+   "description": "<p>Você instala um mecanismo que permite mover sua arma com mais velocidade para aumentar o dano que ela causa, como um mecanismo rotativo, ou a integração de materiais flexíveis para aproveitar o Momentum de sua Arma de Truque.</p><p> Escolha a forma Base ou a forma de Truque de sua arma; você obtém o seguinte benefício quando sua arma estiver nessa forma: como uma interação com objeto, você pode dar corda em sua arma de truque, ganhando até 2 cargas de Momentum, até um máximo de 4 cargas; para cada carga de Momentum que você tiver, sua Arma de Truque causa 1 dano adicional, e para cada 2 cargas, você ganha +1 para acertar com ataques feitos com sua Arma de Truque.</p><p> Porém, no início dos seus turnos, você perde 1 ponto de vida para cada carga de Momentum que possuir, já que a velocidade de sua arma causa um recuo; esse dano é somado ao cálculo de sua característica Recobro.</p><p> Você perde 1 carga de Momentum se não acertar um ataque antes do final do seu próximo turno.</p><p> Você pode optar por perder todas as cargas de Momentum em seu turno, mas só pode fazer isso depois de perder os pontos de vida referentes a quaisquer cargas de Momentum acumuladas (nenhuma ação necessária).</p><p></p>",
+   "condition": "Como uma interação com objeto"
+  },
+  "ToSihCGeiWCt8J5M": {
+   "name": "Mar Profundo Atordoante",
+   "description": "<p>Quando você for fazer uma rolagem para resistir a ganhar as condições Agarrado ou Contido, você pode adicionar seu bônus de proficiência completo à rolagem, caso ainda não o faça. </p><p>Se já o fizer, role com vantagem.</p>"
+  },
+  "URN6xqebcUNE5gtB": {
+   "name": "Físico Amaldiçoado",
+   "description": "<p>No 9º nível, sua energia amaldiçoada possui um traço próprio que a torna única. Você pode escolher um dos seguintes traços de energia.</p><hr><p><strong>Padrão</strong>:</p><p>Até mesmo aqueles sem um traço são únicos, pois sua própria energia é mais focada.</p><p>Sua Energia Amaldiçoada máxima aumenta em +4 e você aprende uma Técnica Amaldiçoada adicional.</p><hr><p><strong>Resistente</strong>:</p><p>Sua Energia o protege de golpes que, de outra forma, seriam mortais.</p><p>Você ganha Redução de Dano igual ao seu modificador de constituição.</p><p>Esse bônus é reduzido à metade quando sua energia amaldiçoada é igual ou inferior à metade do seu máximo.</p><hr><p><strong>Não Convencional</strong>:</p><p>Sua energia é ameaçadora.</p><p>Você aprende o D-jutsu Aura Opressiva e pode conjurá-lo de graça como uma ação bônus.</p><p>Você pode conjurá-lo usando sua maior CD de resistência e pode gastar Energia Amaldiçoada para conjurar o jutsu.</p><hr><p><strong>Áspera</strong>:</p><p>Sua energia machuca ao toque.</p><p>Até 3 vezes por turno, quando uma criatura fizer um ataque corpo a corpo contra você, ela sofre dano de energia igual ao seu modificador de constituição.</p><p>Esse dano ignora RD.</p><p></p>"
+  },
+  "Ugb6G457QQQmtC7S": {
+   "name": "Explosão Amaldiçoada",
+   "description": "<p>Como uma ação ou ação bônus, você pode gastar 4 de Energia Amaldiçoada e fazer um ataque à distância contra uma criatura a até 60 pés.</p><p> Em um acerto, você causa 3d8 de dano de energia.</p><p> A criatura atingida deve fazer um teste de resistência de Carisma ou ganhar a condição Amaldiçoado.</p><p> Em Níveis Superiores: No 5º nível, isso se torna 4d8.</p><p> No 9º, torna-se 5d8. No 13º, o alvo rola com desvantagem para resistir à condição amaldiçoado.</p><p></p>"
+  },
+  "V8DQ4yiF325tZHxS": {
+   "name": "Carga Amaldiçoada",
+   "description": "<p>Como uma ação bônus, você pode carregar sua Energia Amaldiçoada, ganhando 1d4+1 de Energia Amaldiçoada. </p><p>Como uma ação, você pode carregar e, em vez disso, ganhar 1d8+2.</p>",
+   "condition": "Ação Bônus ou Ação"
+  },
+  "VLIWchxun4Q0DBXC": {
+   "name": "Truque Celestial",
+   "description": "<p>Você instala um mecanismo para utilizar a luz celestial do céu e potencializar sua arma.</p><p> Duas vezes por descanso, como uma interação com objeto, você pode erguer sua arma de truque ao céu e ativar a luz armazenada dentro dela.</p><p> Este truque dura 1 minuto.</p><p> Durante a duração, uma aura de chakra turquesa contorna sua arma, irradiando um raio de 15 pés de luz plena e um raio de 30 pés de luz fraca.</p><p> Essa luz anula a escuridão potencializada por chakra.</p><p> O dano de sua arma também passa a contar como dano de energia.</p><p> Se sua arma for uma arma corpo a corpo, no início do seu turno, você pode gastar 3 de chakra para aumentar seu alcance em 15 pés até o início do seu próximo turno.</p><p> Se sua arma for uma arma à distância, no início do seu turno, você pode gastar 3 de chakra para conceder a si mesmo um alcance adicional igual à metade do seu alcance normal até o início do seu próximo turno.</p><p> Enquanto se beneficiar deste truque sob a luz do sol, ganhe +1 em ataques com arma.</p><p> Sob a luz da lua, ignore os custos de chakra deste truque.</p><p></p>",
+   "condition": "como uma interação com objeto"
+  },
+  "VNzxmYrkusz3kFOO": {
+   "name": "Comunhão",
+   "description": "<p>Quando você for usar um item consumível que forneça um recurso, como uma pílula de sangue, chakra ou militar, adicione +2 à quantidade ganha. </p><p> Quando usar um item consumível que cause dano, como uma ferramenta explosiva, você causa um dado adicional de dano.</p><p> Você pode se beneficiar desta runa um número de vezes igual ao seu bônus de proficiência por descanso longo.</p><p> Em Níveis Posteriores: No 5º nível, escolha a Forma Base ou a Forma de Truque de sua Arma de Truque; você pode optar por substituir um dos traços dessa arma por outro traço de sua escolha.</p><p> Você não pode substituir o traço Duas Mãos com esta característica.</p><p></p>",
+   "condition": "Ao usar uma ferramenta"
+  },
+  "Vz5ovrgZc8FWLbET": {
+   "name": "Imitação Divina: Seis Olhos",
+   "description": "<p>Você deve manter seus olhos obscurecidos para esconder a tentativa de imitar os Seis Olhos.</p><p>Você pode fazer isso com uma venda, um voto, ou óculos de sol.</p><p>Caso contrário, este voto é considerado ativo e drena seu chakra.</p><p>Como uma ação bônus em seu turno, você pode descobrir seus olhos e revelar os seis olhos.</p><p>Enquanto os Seis Olhos estiverem ativos você ganha os seguintes benefícios:</p><p></p><p>Você ganha +1 na CA e em todos os testes de resistência. Você ganha imunidade à condição cego. Você ganha Visão de Chakra com um alcance de 500 pés.</p><p>Aumente sua Percepção e Intuição passivas pela metade do seu nível (mín. 1).</p><p>Reduza o custo de qualquer característica de classe que exija energia amaldiçoada em -1 (mín. 1).</p><p></p><p>Ao final de cada rodada enquanto os Seis Olhos estiverem ativos, reduza seus pontos de chakra em -4.</p><p>Se você chegar a 0 pontos de chakra, esse custo passa a ser -12 pontos de vida.</p><p>Você pode desativar os seis olhos no início do seu turno.</p><p></p>"
+  },
+  "WJLE1zoJtNF4hSwX": {
+   "name": "Mar Profundo Grandioso",
+   "description": "<p>Pré-requisito: Nível 10+ </p><p>Escolha qualquer condição de sua preferência.</p><p> Quando você for fazer um teste de resistência que o faria ganhar a condição escolhida, você pode adicionar seu bônus de proficiência completo à rolagem, caso ainda não o faça.</p><p> Se já o fizer, então você rola com vantagem.</p><p> Além disso, efeitos hostis que automaticamente lhe dariam a condição escolhida sem exigir um teste de resistência não podem lhe conceder essa condição.</p><p> Este efeito não se aplica se a condição for autoinfligida.</p><p></p>"
+  },
+  "WTiOmvoE9X4StwPH": {
+   "name": "Truque Desarmado",
+   "description": "<p>Você instala um mecanismo que permite que sua Arma de Truque se transforme e cubra uma ou ambas as mãos ou pernas, como garras ou soqueiras.</p><p> Como uma ação bônus, você pode gastar 5 de chakra para ativar este truque.</p><p> Durante a duração, seu dano desarmado assume o dano da forma base ou da forma de truque de sua Arma de Truque, embora o dado de dano total seja reduzido em -1 (Mín. 1 dado).</p><p> Sua Arma de Truque também ganha a propriedade desarmado.</p><p> Ao escolher este truque, você aprende uma postura de luta de taijutsu e pode automaticamente assumi-la como parte da ativação deste truque, ou deixar de assumi-la como parte de sua desativação.</p><p> Você ignora qualquer restrição de postura que diga que você não pode usar uma arma.</p><p> Sua postura escolhida não pode ser alterada, mesmo que você volte a escolher este truque.</p><p> Você pode dispensar este truque em seu turno (nenhuma ação necessária).</p><p></p>"
+  },
+  "WcgJ8L0sCzp6if4w": {
+   "name": "Sempre Vigilante",
+   "description": "<p>Um Feiticeiro Jujutsu está sempre pronto.</p><p> No 6º nível, você não pode ser surpreendido enquanto estiver consciente.</p><p> Além disso, você tem vantagem em testes de resistência para resistir a condições Mentais.</p><p> No 17º nível, você ganha proficiência em testes de resistência de Sabedoria, e quando você usa a ação esquivar, ataques contra você sempre têm desvantagem, mesmo que o ataque tenha vantagem.</p><p></p>"
+  },
+  "XWHpAmJCfdj0fcUC": {
+   "name": "Obsessão 7:3",
+   "description": "<p>Pré-requisito: Técnica de Proporção</p><p>Você limita ainda mais sua técnica para criar um efeito ainda mais poderoso. </p><p>Você deixa de ter uma margem de ameaça crítica e só pode conseguir um acerto crítico com um resultado natural de 3 ou 7 no d20.</p><p>Porém, se isso ocorrer, você entra na Zona.</p>"
+  },
+  "Y4Pjg5tgkmxNFc7X": {
+   "name": "Técnica Amaldiçoada",
+   "description": "<p>Também no 1º nível, sua energia amaldiçoada é capaz de ser moldada em vários efeitos, conhecidos como Técnicas Amaldiçoadas.</p><p> A menos que indicado de outra forma, quando uma Técnica Amaldiçoada exigir que você faça um ataque ou force uma criatura a fazer um teste de resistência, você usa seu maior bônus de ataque ou CD relevante entre seus ataques e CDs de resistência de Ninjutsu, Taijutsu e Genjutsu.</p><p> Você pode usar uma técnica amaldiçoada por turno.</p><p> Você possui tantas técnicas quanto exibido na tabela da classe.</p><p> Você pode trocar uma técnica por outra em um descanso.</p><p></p>"
+  },
+  "YQPvvwy83BrlnVE4": {
+   "name": "Fique Orgulhoso, Você É Forte",
+   "description": "<p>Pré-requisito: Chamas do Desastre</p><p>Você elogia seu inimigo durante seus últimos suspiros;</p><p>porém, isso faz com que um oponente ainda mais forte ponha os olhos em você. </p><p>Sempre que você matar um adversário que seja elite ou solo, você pode elogiá-lo pouco antes de sua morte, ganhando os benefícios de um descanso longo ao fazer isso. </p><p>Você só pode fazer isso uma vez por descanso. </p><p>Depois disso, um inimigo esmagadoramente mais forte do que você é destinado a enfrentá-lo em um futuro próximo, sem garantia de sobrevivência.</p>",
+   "condition": "Sempre que você matar um adversário que seja elite ou solo, você pode elogiá-lo pouco antes de sua morte"
+  },
+  "YVSZDFoGsi3nTyYp": {
+   "name": "Armamento de Truque",
+   "description": "<p>A partir do 1º nível, você começa a integrar os costumes do Caçador Lunar ao seu arsenal, e forja uma arma capaz de se adaptar a qualquer situação.</p><p>Você ganha sua primeira Arma de Truque.</p><p>Apenas Caçadores Lunares são proficientes em Armas de Truque.</p><p>Armas de Truque são especiais porque são capazes de se transformar entre duas armas diferentes ao serem pressionadas ou movidas de uma maneira específica.</p><p>Escolha duas armas, como um Machado Grande e um Sasumata, ou um Tanto e um Arco Longo.</p><p>Você funde essas armas em uma arma híbrida que pode alternar entre ambas.</p><p>Enquanto estiver formada como Arma de Truque, ambas as armas escolhidas se tornam de qualidade Maior e aumentam seu dado de dano em 1 passo, até um máximo de 2d8.</p><p>Uma arma é designada como a Forma Base da Arma de Truque, e a outra como sua Forma de Truque.</p><p>O design de sua arma híbrida é escolhido por você, embora geralmente a arma mais complexa das duas seja listada como sua Forma de Truque.</p><p>Você pode alternar entre ambas as formas de sua arma durante seu turno (nenhuma ação necessária), e pode trocar quais armas compõem sua Arma de Truque em um descanso completo.</p><p>Armas de Truque podem usar Força ou Destreza para ataques com arma e Bukijutsu, e sua CD de resistência para Bukijutsu.</p><p>Você também pode sempre usar Bukijutsu para os quais sua arma se qualifique, independentemente de seu tipo de dano ou forma atual (Isso não permite que você conjure Bukijutsu que exijam uma arma à distância usando uma arma corpo a corpo, e vice-versa.) </p><p>Por fim, sua Arma de Truque ganha acesso a 1 Truque de sua escolha, listados no final desta classe.</p><p>Sua arma ganha mais truques conforme você sobe de nível nesta classe.</p><p>Você pode trocar quaisquer Truques escolhidos em um descanso longo ou ao subir de nível.</p><p></p>"
+  },
+  "ZSpS9XwuYzaD0iZJ": {
+   "name": "Energia Amaldiçoada",
+   "description": "<p>A partir do 1º nível, você começa a produzir Energia Amaldiçoada.</p><p> Essa energia nasce de emoções negativas e, portanto, só pode ser naturalmente extraída em combate.</p><p> Você pode ter uma quantidade de Energia Amaldiçoada igual ao seu nível+5.</p><p> No início e no final do seu turno, você ganha 1 de Energia Amaldiçoada.</p><p> Se você usou uma Técnica Amaldiçoada ou está recebendo os benefícios de uma Técnica Amaldiçoada, você não ganha Energia Amaldiçoada ao final do seu turno.</p><p> Quando completar um descanso curto, você ganha Energia Amaldiçoada igual à metade do seu máximo.</p><p> Em um descanso longo, você restaura toda a Energia Amaldiçoada gasta.</p><p> No 10º nível, ao rolar iniciativa, você ganha uma quantidade de Energia Amaldiçoada igual à metade do seu bônus de proficiência.</p><p></p>"
+  },
+  "b593AJVwyOCdWTag": {
+   "name": "Truque Elemental",
+   "description": "<p>Você instala um mecanismo dentro de sua Arma de Truque que permite que ela conduza afinidades elementais.</p><p> Se você não possuir uma liberação de natureza, escolha uma ao criar este truque, dentre Terra, Vento, Fogo, Água ou Raio.</p><p> Em seu turno (nenhuma ação necessária), você pode gastar 3 de chakra para fazer um movimento rápido com sua Arma de Truque, revestindo-a com uma aura de sua liberação escolhida.</p><p> Se você possuir uma liberação de natureza, pode fazer isso sem gastar chakra, usando qualquer liberação de natureza que tenha.</p><p> Por 1 minuto, o dano de sua arma também conta como o tipo de dano de seu elemento, para fins de superar resistência e imunidade.</p><p> Uma vez por turno, ao acertar uma criatura com sua arma, você pode gastar 3 de chakra para impor um teste de resistência de Constituição, concedendo à criatura 1 rank de uma condição associada ao seu elemento em uma falha.</p><p> (Terra=Contundido, Vento=Sangrando, Fogo=Queimado, Água=Resfriado, Raio=Eletrocutado)</p>",
+   "condition": "Em seu turno"
+  },
+  "b6htSuBgJ9Xaf8E3": {
+   "name": "Físico Amaldiçoado: Padrão",
+   "description": "<p>Até mesmo aqueles sem um traço são únicos, pois sua própria energia é mais focada.</p><p>Sua Energia Amaldiçoada máxima aumenta em +4 e você aprende uma Técnica Amaldiçoada adicional.</p>",
+   "effects": {
+    "PdWFoZaPE3xQ5z5G": {
+     "name": "Físico Amaldiçoado: Padrão"
+    }
+   }
+  },
+  "bnyEJDicWZXUipvp": {
+   "name": "Truque do Gancho do Caçador",
+   "description": "<p>Você instala um mecanismo de gancho com corrente e espinhos em seu Rifle do Caçador, que pode ser usado tanto para ataque quanto para movimento.</p><p> Como uma ação bônus, você pode reduzir seu dado de munição em um passo e fazer um ataque com arma à distância contra uma criatura a até 30 pés de você enquanto dispara o gancho contra ela.</p><p> Em um acerto, a criatura sofre o dano do seu Rifle do Caçador.</p><p> Se a criatura for do seu tamanho ou menor, ela deve ser bem-sucedida em um teste de resistência de Força ou ser puxada para o espaço vazio mais próximo adjacente a você.</p><p> Se a criatura for de um tamanho maior que o seu, você é puxado em linha reta até o espaço vazio mais próximo adjacente a ela.</p><p> O gancho se solta da criatura e volta a se encaixar no rifle ao final do turno.</p><p> Você também pode se agarrar a uma estrutura, constructo ou objeto não senciente ou aliado dentro do alcance, sem reduzir seu dado de munição.</p><p> Quando você optar por fazer isso, acerta automaticamente o alvo e não causa dano.</p><p></p>"
+  },
+  "c1P7g6vfwfwmJs9Z": {
+   "name": "Restrição Celestial",
+   "description": "<p>Um pacto para reduzir sua Energia Amaldiçoada natural, aumentando em troca as capacidades naturais de seu corpo físico.</p><p>Isso deve ser escolhido na criação do personagem e não pode ser revertido por meios normais.</p><p>Este pacto, em particular, possui múltiplos estágios.</p><p>A qualquer momento em que você puder escolher votos vinculantes, pode avançar este voto vinculante até qualquer estágio.</p><p>O primeiro estágio exige um espaço de voto vinculante maior; cada estágio seguinte exige um espaço adicional de voto vinculante menor.</p><p></p><p>(1): Reduza sua Energia Amaldiçoada máxima pela metade do seu nível.</p><p>Aumente seus Pontos de Vida máximos em seu nível.</p><p>Daí em diante, a cada nível, aumente seus Pontos de Vida máximos em +1.</p><p>(2): Reduza seu Chakra máximo em -1.</p><p>Daí em diante, a cada nível, reduza seus Pontos de Chakra máximos em -1.</p><p>Aumente sua furtividade passiva (10+ Perícia de Furtividade) em +5.</p><p>Você é considerado oculto para criaturas que dependam de Sensor de Chakra ou Visão de Chakra para vê-lo.</p><p>Se a criatura também tiver visão verdadeira, isso é ignorado.</p><p>(3): Reduza sua Energia Amaldiçoada máxima em -3 adicionais.</p><p>Aumente seu dado de dano desarmado/arma em um passo, e você pode usar a ação disparada como uma ação bônus.</p><p>(4): Você não recupera mais Energia Amaldiçoada naturalmente em seu turno.</p><p>Aumente seu deslocamento em +20 pés e ignore terreno difícil.</p><p>Você também aumenta sua Percepção e Intuição passivas em +5.</p><p>(5): Reduza sua Energia Amaldiçoada máxima para 0.</p><p>No início do seu turno, você recupera pontos de vida iguais ao seu Modificador de Constituição.</p><p>Ganhe RD igual à metade do seu nível (mín. 2).</p><p></p>"
+  },
+  "c1eE67h50d1LHonv": {
+   "name": "Metamorfose Anti-Horária",
+   "description": "<p>Para cada nível que você possuir nesta classe, aumente seus pontos de chakra máximos em +1.</p>"
+  },
+  "cgP1aY0rswfLYfDS": {
+   "name": "Truque Repetidor do Caçador",
+   "description": "<p>Em vez de focar em engenhocas complexas, você opta por melhorar os fundamentos básicos do seu rifle.</p><p> Seu Rifle do Caçador ganha um segundo cano, permitindo que você faça dois ataques com seu Rifle como uma ação bônus, em vez de apenas um, embora você já deva ter usado sua ação para que a ação bônus se beneficie deste truque.</p><p> Se você usar a ação de ataque com seu rifle, pode atacar três vezes, em vez de apenas duas, com ataques de arma à distância.</p><p> Por fim, em seu turno você pode reduzir seu dado de munição em um passo.</p><p> Ao fazer isso, seu Rifle do Caçador causa +2 de dano adicional com ataques de arma à distância.</p><p></p>"
+  },
+  "dHCrOHFxa7y46c9t": {
+   "name": "Herdeiro",
+   "description": "<p>Quando você acertar com sucesso uma Parada, um acerto crítico, ou matar uma criatura, você absorve temporariamente uma parte do poder dela, uma vez por rodada.</p><p> Até o final do seu próximo turno, seu deslocamento aumenta em 10 pés e você causa 2d4 de dano Necrótico adicional sempre que acertar com uma jogada de ataque.</p><p></p>",
+   "condition": "Quando você acertar com sucesso uma Parada, um acerto crítico, ou matar uma criatura, uma vez por rodada"
+  },
+  "dMZ8ijaEhok5V3UM": {
+   "name": "Irmãos de Sangue",
+   "description": "<p>Pré-requisito: Manipulação de Sangue </p><p>Seu sangue permitiu que você formasse um vínculo com aquele que você mais preza.</p><p>Esse vínculo é criado ao realizar um ritual em que vocês dois agora compartilham o mesmo sangue, além do seu próprio.</p><p>Uma criatura que não concorda pode fazer um teste de Controle de Chakra contestado pelo seu próprio teste de Controle de Chakra; se a criatura que não concorda for bem-sucedida, ela não se torna seu Irmão de Sangue, e você não pode tentar isso novamente até gastar 1 semana de tempo livre.</p><p>Escolha uma criatura aliada; essa criatura se torna seu Irmão de Sangue, e cada um de vocês ganha os seguintes efeitos: </p><p>Você e seu Irmão de Sangue sempre sabem a localização aproximada um do outro, em um raio de até 1 milha.</p><p>Você e seu Irmão de Sangue ganham o primeiro talento de arquétipo correspondente à classe da outra criatura.</p><p>Você não precisa atender aos pré-requisitos de nível ou valor de atributo.</p><p>Você e seu Irmão de Sangue têm vantagem em testes de resistência e testes de perícia que o fariam prejudicar seu Irmão de Sangue.</p><p>Quando você ou seu Irmão de Sangue estiverem sofrendo os efeitos de uma condição Física ou Elemental, aquele que não estiver sofrendo com ela tem desvantagem em testes e testes de resistência para evitar essas condições.</p><p>Você e seu Irmão de Sangue sofrem dano psíquico adicional igual à metade do seu bônus de proficiência, duas vezes por turno, se você vir o outro sofrer dano; esta característica não é acionada por si mesma.</p><p>Se seu Irmão de Sangue falhar em um teste de resistência contra a morte, você tem desvantagem no próximo teste de resistência contra a morte que fizer, até o final do combate.</p><p></p>"
+  },
+  "dbnufBfGGtGT1yyN": {
+   "name": "Físico Amaldiçoado: Áspero",
+   "description": "<p>Sua energia machuca ao toque.</p><p>Até 3 vezes por turno, quando uma criatura fizer um ataque corpo a corpo contra você, ela sofre dano de energia igual ao seu modificador de constituição.<br>Esse dano ignora RD.</p>"
+  },
+  "di5iO85cqPwKWLzj": {
+   "name": "Palmas Pra Cima",
+   "description": "<p>Pré-requisito: Boogie Woogie</p><p>Suas mãos doem muito, mas isso não vai te impedir. </p><p>Aumente seu Ritmo máximo em 6, e você pode trocar de lugar com objetos de uma categoria de tamanho maior que a sua. </p><p>Porém, o custo de Criss Cross e Slide é dobrado.</p>"
+  },
+  "dzV0aBtfCSi1XiDG": {
+   "name": "Hora Extra",
+   "description": "<p>Durante o horário das 9h às 17h (ou o equivalente) em um \"dia de trabalho\", você restringe deliberadamente seu poder.</p><p>Reduza sua Energia Amaldiçoada máxima em 3, e você não recupera energia amaldiçoada ao final dos seus turnos.</p><p>Quando seu bônus de proficiência aumentar, essa redução aumenta em -2.</p><p>Porém, fora desse horário sua energia dispara! </p><p>Remova os efeitos de todas as reduções à sua Energia Amaldiçoada e os efeitos negativos deste voto.</p><p>Então, aumente sua Energia Amaldiçoada máxima pelo valor da redução deste voto.</p><p>Por fim, quando isso se ativar, você ganha imediatamente Energia Amaldiçoada igual ao seu bônus de proficiência.</p><p>Se esse horário não for aplicável, simplesmente faça isso se ativar quando o usuário abrir mão de descansar durante um descanso longo.</p><p>Os efeitos desaparecem quando você faz um descanso longo.</p><p></p>"
+  },
+  "emXcI6PBZjB7DNhj": {
+   "name": "Jutsu Amaldiçoado",
+   "description": "<p>Você é capaz de substituir o chakra que normalmente alimentaria um jutsu. </p><p>Quando for conjurar um jutsu, você pode pagar uma quantidade de Energia Amaldiçoada no lugar do chakra. </p><p>Você ainda deve pagar chakra para concentração. </p><p>(Rank D/Rank C: 3 EA, Rank B/Rank A: 6 EA, Rank S: 12 EA)</p>"
+  },
+  "gSfys03se5EdlKyN": {
+   "name": "Golpe Amaldiçoado",
+   "description": "<p>Gaste 2 de Energia Amaldiçoada em seu turno e faça um ataque desarmado/com arma; este ataque causa seu dano desarmado ou de arma, respectivamente.</p><p> Este ataque causa 2d4 de dano adicional.</p><p> Em Níveis Superiores: No 5º nível, isso se torna 2d6.</p><p> No 9º, torna-se 2d8. No 13º, torna-se 2d12.</p><p></p>"
+  },
+  "h4rhh2ng2YkDyC7X": {
+   "name": "Rifle do Caçador",
+   "description": "<p>A partir do 7º nível, você cria uma arma única que nenhum outro shinobi de verdade consideraria fazer; Uma Arma de Fogo.</p><p> Você ganha o Rifle do Caçador, uma arma à distância (Propriedades: Munição, Precisão, Leve, Ataque Múltiplo, Alcance(30/60)) que causa 2d4 de dano perfurante.</p><p> Se alguma vez for perdido, você pode criar um rifle idêntico em um descanso longo por 100 ryo.</p><p> Você empunha seu Rifle do Caçador na mão não dominante.</p><p> O Rifle do Caçador pode ser usado como componente para Bukijutsu que exijam um arco.</p><p> O Rifle do Caçador usa uma forma especial de munição conhecida como Balas de Mercúrio, que só você consegue produzir.</p><p> Quando seu rifle fica sem munição, você pode ganhar uma carga completa de Balas de Mercúrio gastando 1 dado de vida.</p><p> O Rifle do Caçador tem acesso ao seu próprio conjunto de truques, listados na seção de truques.</p><p> Sua arma está sempre equipada com o Truque de Aparar do Caçador, que não conta contra seus Truques conhecidos.</p><p> Você pode equipar o rifle com um único outro Truque do Caçador, além deste Truque.</p><p> Empunhar o Rifle do Caçador não impede o uso de Selos de Mão com essa mão.</p><p> No 14º nível, você melhora o design do seu rifle.</p><p> Seu alcance se torna (60/90), ele ganha a propriedade crítico, e seu dado de dano se torna 2d6.</p><p></p>"
+  },
+  "hHHYEQX0bFsdzrPF": {
+   "name": "Técnica de Maldição Reversa: Transbordamento",
+   "description": "<p>Como uma ação, você pode gastar 4 de Energia Amaldiçoada e fazer um ataque contra uma criatura a até 5 pés de você.</p><p> Se o ataque acertar, você causa 3d10 de dano Necrótico.</p><p> Se o alvo for uma criatura morta-viva, um demônio, ou uma monstruosidade, ele é tratado como vulnerável a este dano.</p><p> Em Níveis Superiores: No 5º nível, isso se torna 4d10.</p><p> No 9º, torna-se 5d10. No 13º, torna-se 5d12.</p><p></p>"
+  },
+  "hUyBxl9dAmBKJLtu": {
+   "name": "Infusão de Gema",
+   "description": "<p>A partir do 10º nível, você ganha especialização em Criação, e reduz tanto o tempo livre quanto o ryo necessários para criar Itens Potencializados por Chakra pela metade (Mín. 1 Semana e Mín. 100 Ryo).</p><p>Quando for criar um selo de arma ou armadura, você pode optar por armazenar o selo em uma Gema Lunar, usando uma semana extra de tempo livre.</p><p>Gemas Lunares podem ser incorporadas e removidas de uma arma ou conjunto de armadura por você em um descanso, permitindo que você personalize novamente o equipamento sem destruí-lo.</p><p>Quando você ganha esta característica, todos os selos que você possuía anteriormente são convertidos em Gemas Lunares.</p><p></p>"
+  },
+  "icC5jGy6O0gqXXSf": {
+   "name": "Truque da Engrenagem",
+   "description": "<p>Você encaixa uma serra em sua Arma de Truque, capaz de girar rapidamente no lugar ou ricochetear em paredes.</p><p>Escolha sua Forma Base ou Forma de Truque, dependendo se a forma é corpo a corpo ou à distância você obtém uma das seguintes opções; </p><p></p><p>Corpo a Corpo: </p><p>Sempre que você usar a ação de ataque, no lugar de um ataque, pode optar por gastar 5 de chakra e empunhar sua arma com as duas mãos enquanto a serra começa a girar.</p><p>Faça um ataque corpo a corpo contra uma criatura dentro do alcance, causando Xd6 + seu modificador de atributo de Taijutsu em dano cortante, onde X é igual ao seu bônus de proficiência.</p><p>Em turnos seguintes, você pode optar por usar sua ação para manter a serra girando; se a criatura ainda estiver no alcance, ela sofre automaticamente o dano novamente.</p><p>Enquanto este truque estiver ativo, tanto o seu deslocamento quanto o do seu alvo ficam reduzidos à metade.</p><p></p><p>À Distância: </p><p>Quando você usar a ação de ataque, no lugar de um ataque pode optar por gastar 5 de chakra, soltando uma serra de sua arma.</p><p>Faça um ataque com arma à distância contra uma criatura dentro do alcance, causando Xd4 + seu modificador de atributo de Taijutsu em dano cortante em um acerto, onde X é igual à metade do seu bônus de proficiência.</p><p>Independentemente de acertar ou errar, no início do seu próximo turno ela ricocheteia em uma superfície próxima em direção ao inimigo mais próximo, permitindo que você faça outra jogada de ataque contra essa criatura, causando o mesmo dano de antes.</p><p>A serra pode ricochetear duas vezes por rodada.</p><p></p>",
+   "condition": "Sempre que você usar a ação de ataque"
+  },
+  "iprnOZTRtb09k662": {
+   "name": "Truque Divisor",
+   "description": "<p>Você instala um mecanismo para permitir que sua Arma de Truque se divida em duas armas.</p><p> Como uma ação bônus, você pode gastar 5 de chakra para dividir sua Arma de Truque em duas, concedendo-lhe acesso à forma base e à forma de truque de sua Arma de Truque ao mesmo tempo.</p><p> Você pode reverter sua arma ao normal em seu turno (nenhuma ação necessária).</p><p> Durante a duração, sua Arma de Truque perde as propriedades Duas Mãos e Pesada, caso as tivesse em qualquer uma das formas, e você ganha os benefícios da Postura de Luta com Duas Armas.</p><p> Enquanto este Truque estiver ativo, você não pode usar seu Rifle do Caçador, pois não tem uma mão livre para dispará-lo.</p><p> Quaisquer truques adicionais que você possua são divididos entre as duas armas.</p><p></p>"
+  },
+  "j162dZn0CCU0MJDQ": {
+   "name": "Anomalia Estatística",
+   "description": "<p>Você troca poder físico por poder mental, ou talvez o contrário.</p><p>Escolha um valor de atributo e aumente esse valor de atributo e seu máximo em +2.</p><p>Porém, reduza o atributo vinculado a ele e seu máximo em -2.</p><p>Você pode fazer este voto múltiplas vezes.</p><img src=\"systems/n5eb/assets/content/cheat-sheets/t7-statistical-anomaly.webp\">"
+  },
+  "j71HEdmLu3ZYbL9m": {
+   "name": "Truque Explosivo",
+   "description": "<p>Você instala um compartimento em sua Arma de Truque para armazenar um conjunto de ferramentas explosivas dentro de sua arma.</p><p> Durante um descanso, você pode armazenar uma Ferramenta Ninja Explosiva em sua Arma de Truque, à qual só pode ter acesso enquanto sua arma estiver em sua Forma de Truque.</p><p> Nos níveis 7º, 14º e 18º desta classe, você pode armazenar uma ferramenta explosiva adicional.</p><p> Ao declarar um ataque com arma contra uma criatura, você pode optar por consumir qualquer quantidade das ferramentas explosivas armazenadas em sua Arma de Truque, fazendo com que a ponta de sua arma se cubra de brasas.</p><p> Em um acerto bem-sucedido, a criatura alvo deve fazer um teste de resistência de Destreza contra a maior CD entre as ferramentas explosivas usadas, ou sua CD de resistência de Taijutsu, sofrendo os efeitos da Ferramenta Explosiva em uma falha.</p><p></p>"
+  },
+  "kiurBDcVo3LjYs89": {
+   "name": "Truque Venenoso",
+   "description": "<p>Você encaixa algum tipo de matéria orgânica tóxica em sua Arma de Truque, como a vértebra de um mamífero morto ou a presa de uma cobra venenosa.</p><p> Ao criar este truque pela primeira vez, escolha entre dano de Ácido, Necrótico ou Veneno.</p><p> O dano de sua arma passa a contar como esse tipo de dano para fins de superar resistência e imunidade.</p><p> Uma vez por turno, ao acertar com sua Arma de Truque, você pode gastar 3 de chakra para excitar a matéria viva dentro de sua arma, fazendo-a atacar.</p><p> Em um acerto, a criatura afetada deve fazer um teste de resistência de Constituição, ganhando um efeito especial dependendo do tipo de dano da arma.</p><p></p><p> Ácido: Em uma falha, a criatura ganha 1 rank de Corroído.</p><p> Necrótico: Em uma falha, a criatura ganha 1 rank de Lacerado.</p><p> Veneno: Em uma falha, a criatura ganha 1 rank de Empeçonhado.</p><p></p>",
+   "condition": "Uma vez por turno"
+  },
+  "ku4uRjtIU7CKcUAQ": {
+   "name": "A Zona",
+   "description": "<p>Por fim, no 2º nível, um Feiticeiro Jujutsu pode entrar na Zona com pouco esforço.</p><p> Quando você usa um Flash Negro com sucesso, você entra na Zona.</p><p> Enquanto estiver na Zona, até o final do seu próximo turno, você ganha um bônus de +1d4 em jogadas de ataque, testes de perícia/atributo, e testes de resistência.</p><p> Além disso, você ganha acesso a uma postura de taijutsu ou de arma de sua escolha.</p><p></p>",
+   "condition": "Quando você usa um Flash Negro com sucesso",
+   "effects": {
+    "KIbguDRNhFLQU4Kv": {
+     "name": "A Zona"
+    }
+   }
+  },
+  "laK8mdR5aMtLOkjE": {
+   "name": "Truque Gatling do Caçador",
+   "description": "<p>Você instala um mecanismo em seu Rifle do Caçador para encaixar múltiplos canos capazes de disparar várias balas, semelhante a uma Minigun.</p><p> Como uma ação, você pode reduzir seu dado de munição em um passo para disparar uma saraivada de balas contra criaturas em uma linha de 60 pés de comprimento por 10 pés de largura.</p><p> Cada criatura deve fazer um teste de resistência de Destreza, sofrendo o dano do seu Rifle do Caçador + seu nível de Caçador Lunar em dano perfurante em uma falha, ou metade do dano em um sucesso.</p><p></p>"
+  },
+  "lcEUr8YIyslmvXjf": {
+   "name": "Olho Por Olho",
+   "description": "<p>Pré-requisito: Ressonância Amaldiçoada</p><p>Quando for usar a Técnica da Boneca de Palha, você pode, em vez disso, causar a si mesmo o dano máximo possível. </p><p>O dano causado desta forma não pode ser reduzido de nenhuma maneira. </p><p>A criatura alvo então sofre o dano listado do ataque. </p><p>A criatura não pode reagir ao dano nem reduzi-lo de nenhuma maneira.</p>"
+  },
+  "lmnFWUSSpjCtLR6F": {
+   "name": "Positivo e Negativo",
+   "description": "<p>Pré-requisito: Ilimitado</p><p>Você abandona o poder do seu ilimitado neutro para romper o limite de sua Energia Amaldiçoada. </p><p>Os Pontos de Vida do seu Infinito agora são iguais apenas ao seu nível de Feiticeiro Jujutsu. </p><p>Porém, suas características da subclasse Ilimitado são sempre ampliadas.</p>"
+  },
+  "mT1OqiFFCHh5vPan": {
+   "name": "Até Que a Morte Nos Separe",
+   "description": "<p>Enquanto estiver com menos de 50% dos PV, você ganha os benefícios da Zona.</p><p>Porém, você possui apenas um Teste de Resistência contra a Morte. </p><p>Você não pode ganhar mais Testes de Resistência contra a Morte, nem qualquer bônus a esse único teste.</p>"
+  },
+  "nGaCLz70HEIaH22p": {
+   "name": "Lago",
+   "description": "<p>Sempre que você sofrer dano de concussão, perfurante ou cortante, reduza a quantidade pelo seu modificador de Constituição. </p><p>Além disso, você não pode se tornar vulnerável a esses tipos de dano por efeitos hostis.</p>"
+  },
+  "ncKGUxHaxvaNW5Dq": {
+   "name": "Êxtase de Sangue",
+   "description": "<p>Pré-requisito: Nível 7+ </p><p>Enquanto estiver se beneficiando de Recobro e causar dano a uma criatura com sua Arma de Truque, aumente a quantidade de pontos de vida recuperados em +1 cada vez que rolar o valor máximo em um dado de dano (Ex.: Rolar um 8 em um d8).</p><p> Além disso, quando você acertar uma criatura com seu ataque de Ripostada após Aparar, você recupera uma quantidade de pontos de vida igual à sua proficiência.</p><p> Dobre essa cura se seu ataque de Ripostada reduzir a criatura a 0 pontos de vida</p>"
+  },
+  "oL2DIyFhgmR8ae6x": {
+   "name": "Orientação",
+   "description": "<p>Pré-requisito: Nível 6+ </p><p>Você ignora efeitos que inibiriam ou reduziriam a quantidade de Pontos de Vida ou Pontos de Chakra que você recuperaria, quando fosse recuperá-los.</p><p> Além disso, você pode usar Recobro em uma criatura imune a sangramento, embora só recupere metade do dano que causar.</p><p></p>"
+  },
+  "ope2sZpShPzKuvGo": {
+   "name": "Truque de Ferro do Caçador",
+   "description": "<p>Você instala algum tipo de mecanismo, como um botão, para derreter temporariamente seu Rifle em uma arma em forma de punho endurecida com Mercúrio.</p><p> Ao reduzir seu dado de munição em um passo, você pode ativar este truque até o final do turno.</p><p> Ao fazer isso, seu Rifle do Caçador se torna uma arma simples corpo a corpo, perdendo as propriedades de alcance e munição, e ganhando a propriedade desarmado.</p><p> O dado de dano de seu rifle também se torna d8.</p><p> Quando você acerta um ataque de arma corpo a corpo contra uma criatura com seu Rifle do Caçador, pode impor um teste de resistência de Força, Destreza ou Constituição.</p><p> Em uma falha no teste de resistência de Força, você acerta a criatura com tanta força que ela é lançada 30 pés para trás.</p><p> Em uma falha no teste de resistência de Destreza, você rapidamente derruba a criatura no chão, deixando-a caída.</p><p> Em uma falha no teste de resistência de Constituição, você acerta a criatura em uma área vital, fazendo com que ela fique Enfraquecida até o final do seu próximo turno.</p><p> Você pode dispensar este Truque antecipadamente em seu turno (nenhuma ação necessária).</p><p></p>"
+  },
+  "p8icsnpS4G3HHn89": {
+   "name": "Caçador do Profano",
+   "description": "<p>A partir do 2º nível, você aprendeu a especializar as formas de sua Arma de Truque para lidar com inimigos mais vis do que um shinobi comum.</p><p> Você ganha acesso a duas novas propriedades de arma, Justa e Serrilhada.</p><p> A forma base de sua Arma de Truque ganha uma dessas propriedades, enquanto sua Forma de Truque ganha a outra.</p><p> Essas propriedades permitem que você ignore resistência e trate imunidade como resistência contra tipos específicos de adversários, listados abaixo:</p><p>Justa: Aberrações, Celestiais, Demônios, Otsutsuki.</p><p>Serrilhada: Bestas, Monstruosidades, Mortos-Vivos, Plantas</p>"
+  },
+  "p9aIUIaCXWfrLhOo": {
+   "name": "Truque de Aparar do Caçador",
+   "description": "<p>Como uma reação quando você for alvo de uma jogada de ataque, você pode reduzir seu dado de munição em um passo para disparar um tiro de seu Rifle do Caçador, tentando interromper o ataque e, potencialmente, lançar um contra-ataque.</p><p> Faça um ataque com arma à distância contestado pela jogada de ataque de seu atacante.</p><p> Se você for bem-sucedido ou rolar um 20 natural, o ataque dele falha automaticamente.</p><p> Isso é conhecido como uma Parada.</p><p> Se você falhar neste confronto, a criatura o acerta automaticamente e causa o dano máximo possível.</p><p> Você não rola com desvantagem se estiver a até 5 pés da criatura.</p><p> Se você for bem-sucedido, como parte da mesma reação pode se mover até a metade do seu deslocamento em direção ao seu atacante, e, se estiver a até 5 pés dele, pode fazer um ataque desarmado contra ele com vantagem.</p><p> Este ataque desarmado usa seu maior bônus de ataque disponível, não pode ser reagido, e causa um acerto crítico com 16-20.</p><p> Em um acerto, você causa Xd6 + seu nível de Caçador Lunar, onde X é igual ao seu modificador de Força ou Destreza, e a criatura é lançada 15 pés para trás e cai.</p><p> Se este ataque reduzir seu alvo a 0 pontos de vida, ele é imediatamente morto enquanto você arranca seu coração.</p><p> Isso é conhecido como uma Ripostada.</p><p></p>",
+   "condition": "quando você for alvo de uma jogada de ataque"
+  },
+  "phwMXxU1guMk8JUp": {
+   "name": "Golpes Perspicazes",
+   "description": "<p>A partir do 13º nível, por questão de ambientação.</p><p> Quando você for atacar uma criatura de tamanho Enorme ou maior, pode optar por reduzir continuamente seu bônus de ataque em -2 e aumentar sua margem de ameaça crítica em +1, conforme você visa uma parte específica do corpo dela, como cabeça, braço, perna ou cauda.</p><p> Você não pode reduzir seu bônus de ataque abaixo de 0.</p><p> Se você conseguir um acerto crítico desta forma, injeta um pouco de seu chakra na criatura, e a área parece estar quebrada, indicada por uma dor excruciante.</p><p> Como parte do uso desta característica, você pode gastar 1 Olho Perspicaz para ignorar quaisquer outras penalidades na jogada de ataque, e ignorar imunidade a acertos críticos.</p><p> Até o final do seu próximo turno, cada vez que essa criatura sofrer dano, ela sofre um dado adicional de dano necrótico, que não pode ser reduzido e ignora pontos de vida temporários.</p><p> Quando seu próximo turno terminar, seu chakra deixa o corpo dela em uma explosão de energia vermelha, e esta característica termina.</p><p> Você não pode ativar esta característica se o alvo possuir pontos de vida temporários.</p><p> Você pode usar esta característica 3 vezes por descanso longo.</p><p></p>",
+   "condition": "Quando você for atacar uma criatura de tamanho Enorme ou maior"
+  },
+  "qNCTgGwQoYAy77ux": {
+   "name": "Mar Profundo",
+   "description": "<p>Quando você for fazer uma rolagem para resistir a ganhar as condições Cego ou Surdo, você pode adicionar seu bônus de proficiência completo à rolagem, caso ainda não o faça. </p><p>Se já o fizer, role com vantagem.</p>"
+  },
+  "qPjhTbyfIfwVb6G4": {
+   "name": "Lago Desbotado",
+   "description": "<p>Escolha dois tipos de dano elemental, entre Terra, Vento, Fogo, Água e Raio. </p><p>Sempre que você sofrer dano desse tipo, reduza a quantidade sofrida pelo seu modificador de Constituição. </p><p>Você também não pode se tornar vulnerável por efeitos hostis. </p><p>Você pode escolher esta runa múltiplas vezes, escolhendo dois novos tipos de dano a cada vez.</p>"
+  },
+  "ra2pGfY6HVag7wNU": {
+   "name": "Marca de Garra",
+   "description": "<p>Escolha um tipo de jogada de ataque (ataque de Ninjutsu, de Taijutsu, de Genjutsu, de Arma, ou Desarmado). </p><p>Sua margem de ameaça crítica aumenta em +1, até o máximo de 16-20, para o tipo de ataque escolhido.</p>"
+  },
+  "sReTDIKJmZMviglr": {
+   "name": "Vínculo Elemental",
+   "description": "<p>Você ganha acesso a uma liberação de natureza de sua escolha.</p><p> Jutsus dessa liberação de natureza aumentam o dano causado ou curado em dois dados (Uma vez por conjuração).</p><p> Se você sofrer dano de um tipo superior ao seu elemento, sofre dano adicional igual ao dobro do modificador de proficiência do conjurador.</p><p> Por exemplo, se você escolheu liberação de fogo e sofre dano de frio, sofre o dano adicional.</p><p></p>"
+  },
+  "swdXcgU9tjDCD4yE": {
+   "name": "Restrição da Lua",
+   "description": "<p>Você não ganha mais Energia Amaldiçoada no início do seu turno. </p><p>Porém, se você não causar dano a uma criatura em seu turno, ganha 2 de Energia Amaldiçoada adicional no início do seu próximo turno.</p>"
+  },
+  "tLsSNIGxUsSFPHDZ": {
+   "name": "Técnica Jujutsu",
+   "description": "<p>Você despertou para sua própria técnica jujutsu. </p><p>Nos níveis 3º, 7º, 11º, 15º e 20º, você ganha uma característica de sua técnica escolhida.</p>"
+  },
+  "tiYXtF0s3v4wYt7k": {
+   "name": "Restrição Infernal",
+   "description": "<p>Um pacto para prejudicar sua vitalidade em troca de um poder além da compreensão mortal.</p><p> Como uma ação, você pode optar por entrar em um círculo do inferno.</p><p> Para entrar no círculo, você deve pagar uma quantidade específica de Pontos de Vida.</p><p> Se optar por avançar direto para um círculo mais alto, deve pagar o custo em Pontos de Vida de cada círculo.</p><p> Pontos de Vida gastos desta forma não podem ser recuperados até você fazer um descanso longo.</p><p> 1º Círculo(10): Aumente sua Energia Amaldiçoada máxima pela metade do seu nível.</p><p> 2º Círculo(10): Dobre seu deslocamento, e você pode disparar ou desengajar como uma ação bônus.</p><p> 3º Círculo(15): Você pode esquivar como uma ação bônus ou reação.</p><p> 4º Círculo(15): Aumente sua CA e seus resultados de testes de resistência em +1 5º Círculo(20): Você é imune a todas as Condições Mentais.</p><p> 6º Círculo(20): Você está sempre sob os efeitos da ação esquivar e sempre sob os efeitos da Zona.</p><p> 7º Círculo(25): Cada Energia Amaldiçoada que você gastar agora conta como 2.</p><p></p>"
+  },
+  "tqNeluqKdBhTbxnD": {
+   "name": "Metamorfose Horária",
+   "description": "<p>Para cada nível que você possuir nesta classe, aumente seus pontos de vida máximos em +1</p>"
+  },
+  "ugBXYBpv027uYcah": {
+   "name": "Sonho de Flora",
+   "description": "<p>A partir do 10º nível, sua jornada na compreensão do misticismo do mundo lhe concedeu a simpatia de uma força desconhecida quando você for confrontado com a morte.</p><p> Após ganhar esta característica, na próxima vez em que você falharia em três testes de resistência contra a morte ou morreria, você não morre.</p><p> Pela misericórdia das forças que o guiam, seu corpo e todo o equipamento em sua posse desaparecem do plano material, reformando-se em uma dimensão de bolso conhecida como Sonho de Flora.</p><p> O Sonho de Flora é modelado a partir de um local da vida real, que contém muitas pequenas aberrações conhecidas como servos, e um servo humanoide.</p><p> Trabalhe com seu Mestre sobre como tornar o sonho mais adequado e único para seu personagem.</p><p> Após o período de um dia, você ganha os benefícios de um descanso completo; porém, ganha 2 ranks de exaustão e recupera apenas uma quantidade de pontos de vida e pontos de chakra igual à metade de seus máximos.</p><p> Você retorna ao mundo real a 1 milha de seus companheiros durante o anoitecer.</p><p> Para acionar esta característica novamente após a 1ª vez, você deve atender às mesmas condições de antes e fazer um Teste de Graça de Flora.</p><p> Role um d20 e adicione 1/3 do seu nível de Caçador Lunar ao resultado.</p><p> Seu resultado não pode ser aumentado por nenhum jutsu, talento, ou característica de clã/classe.</p><p> Se seu resultado for 13 ou mais, você retorna ao sonho; porém, não pode deixá-lo até que uma semana tenha passado.</p><p> Se desejar deixar o sonho antecipadamente, seu Mestre pode impor um ou mais testes a seu critério para permitir isso; porém, esteja avisado de que deixar o sonho antecipadamente pode e vai fazer seu personagem retornar em um estado muito mais fraco.</p><p> No 18º nível, assim como antes, agora você pode deixar o Sonho de Flora após 1 dia, em vez de uma semana.</p><p> Quando você deixa o Sonho de Flora, retorna ao mundo a até 500 pés de seus companheiros, com seus pontos de vida e pontos de chakra completos, sem nenhum rank de exaustão.</p><p></p>",
+   "condition": "Falhar em 3 testes de resistência contra a morte"
+  },
+  "v6sGhU9RhNofHPmi": {
+   "name": "Minha Técnica",
+   "description": "<p>Como uma ação bônus, você revela as particularidades de sua técnica jujutsu a até 3 criaturas a até 80 pés de você.</p><p> Uma criatura só pode ser informada se compreender o idioma que você está falando.</p><p> Uma vez que uma criatura é informada, isso não pode ser usado nela novamente até que ela complete um descanso longo.</p><p> Por 1 minuto após ser informada de sua técnica, características que exigem Energia Amaldiçoada são automaticamente ampliadas.</p><p> Se sua técnica não tiver um efeito de ampliação, ela causa dano adicional igual ao seu bônus de proficiência (No caso de invocações das sombras, seus ataques causam dano adicional igual ao seu Bônus de Proficiência) ou aumenta sua CD de resistência em +1.</p><p> Criaturas informadas ganham +3 em sua CA e em testes de resistência contra qualquer ataque/teste de resistência que se origine ou seja ampliado por sua técnica Jujutsu.</p><p></p>"
+  },
+  "va8ZrcgNQumh2ivr": {
+   "name": "Voto Vinculante",
+   "description": "<p>Por fim, no 1º nível você recebe a oportunidade de fazer Votos Vinculantes. Esses votos lhe concedem poder em troca de uma parte de você. Você possui 4 espaços de voto e ganha um espaço adicional no 7º, 11º e 15º níveis.</p><p>Existem dois tipos de votos. Votos <strong>Menores</strong> oferecem trocas pequenas e custam apenas um espaço. <strong>Maiores</strong>, porém, incluem acordos muito mais impactantes, que exigem dois espaços.</p><p>Um feiticeiro só pode manter um voto maior por vez. Você pode escolher tantos votos vinculantes quanto seus espaços permitirem.</p><p>Quando você ganha um nível nesta classe, pode remover ou adicionar um voto.</p><p></p>"
+  },
+  "vpDAe7eHSv7GtVKv": {
+   "name": "Restrição do Sol",
+   "description": "<p>Você reduz sua Energia Amaldiçoada Máxima pela metade do seu nível (arredondado para cima). </p><p>Porém, quando você causar dano a uma criatura com a condição amaldiçoado, uma criatura morta-viva, um demônio, ou uma monstruosidade, ganha 1 de Energia Amaldiçoada.</p>"
+  },
+  "vz62uiY5PCdJOBW5": {
+   "name": "O 11º Shikigami",
+   "description": "<p>Pré-requisito: Técnica de Invocação das Sombras </p><p>Você ganha acesso à invocação final das Sombras, que ninguém consegue controlar.</p><p>Como uma Ação de Turno Completo, você pode gastar 10 de Energia Amaldiçoada para invocar Makora.</p><p>Toda criatura a até 100 pés de você no momento da invocação passa a fazer parte do Ritual de Subjugação.</p><p>Makora é controlado pelo Mestre, é hostil a todas as criaturas, e se move antes do invocador na ordem de turnos.</p><p>Para que o ritual termine, os Pontos de Vida de todas as criaturas exceto os de Makora devem ser reduzidos a 0, ou os Pontos de Vida de Makora devem ser reduzidos a 0.</p><p>Qualquer um reduzido a 0 durante o ritual não rola testes de resistência contra a morte, e, se permanecer em 0 até o final do ritual, morre imediatamente.</p><p>Se você estiver sozinho (excluindo invocações/clones) quando derrotar Makora, ganha controle sobre ele e pode invocá-lo como se fosse uma invocação de Rank S.</p><p>Se qualquer outra pessoa for incluída no ritual, o ritual é considerado incompleto.</p><p>Construir Makora tem duas opções.</p><p>Você pode usar a build de invocação de Shikigami da Modificação de Classe Feiticeiro Jujutsu como se fosse de Rank S de nível 20, ou usar o bloco de estatísticas de Mahoraga de Nível 6 da Modificação de Classe Feiticeiro Jujutsu :).</p><p><a href=\"https://homebrewery.naturalcrit.com/share/1nEFYZRMbfs5x5XMCkuAuDXTbT-bqXwts8yK71sLpAAYF\">Modificação de Classe Feiticeiro Jujutsu</a></p>"
+  },
+  "wg6ZCFmm1fF6DSup": {
+   "name": "Recobro",
+   "description": "<p>A partir do 6º nível, você aprendeu uma tática para curar seus próprios ferimentos extraindo a energia vital das criaturas que ataca.</p><p> Em combate, quando uma criatura hostil causar dano a você, registre os pontos de vida perdidos.</p><p> Se você sofrer dano múltiplas vezes, deve registrar a instância mais recente de pontos de vida perdidos.</p><p> Até o final do seu próximo turno, quando você causar dano a uma criatura hostil com um ataque desarmado, de arma corpo a corpo, ou de taijutsu corpo a corpo, você recupera Xd6 pontos de vida, onde X é igual à metade do seu bônus de proficiência.</p><p> Esta cura não pode ser potencializada por nenhum meio fora desta classe.</p><p> Uma vez que você recupere uma quantidade total de pontos de vida igual ao valor registrado, esta característica termina.</p><p> Uma criatura resistente ou imune a Sangramento reduz à metade ou impede, respectivamente, qualquer recuperação de pontos de vida desta característica.</p><p></p>",
+   "condition": "quando você causar dano a uma criatura hostil com um ataque desarmado, de arma corpo a corpo, ou de taijutsu corpo a corpo"
+  },
+  "wiORr7MqWbJgx9Ua": {
+   "name": "Vitalidade Amaldiçoada",
+   "description": "<p>Você ganha uma quantidade adicional de energia amaldiçoada igual ao seu nível nesta classe.</p><p>A partir daí, você ganha +1 de energia amaldiçoada adicional a cada nível.</p><p>Você reduz seus pontos de vida máximos em uma quantidade igual ao seu nível nesta classe.</p><p>A partir daí, você perde -1 adicional a cada nível. </p><p>Você pode fazer isso múltiplas vezes.</p>"
+  },
+  "yWXsHnqNLUH3QrCp": {
+   "name": "Lua",
+   "description": "<p>Pré-requisito: Nível 10+ </p><p>Uma vez por descanso completo, quando você estiver Morrendo, pode optar por começar a rolar para entrar no Sonho de Flora mesmo que não tenha falhado em 3 Testes contra a Morte.</p><p> Se for bem-sucedido, você desaparece imediatamente para o Sonho de Flora, reaparecendo em um espaço de sua escolha a até 20 pés do local de onde desapareceu, em 1d4 turnos, tendo ganhado os benefícios de um Descanso Curto.</p><p> Se falhar neste teste, você automaticamente falha o Teste contra a Morte em seu turno.</p><p> Além disso, você ganha um bônus nos testes de Graça de Flora igual ao seu número de Testes de Resistência contra a Morte falhos.</p><p></p>",
+   "condition": "Uma vez por descanso completo, quando você estiver Morrendo"
+  }
+ }
+}

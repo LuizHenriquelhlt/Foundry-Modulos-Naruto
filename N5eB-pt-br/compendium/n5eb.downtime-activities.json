@@ -1,0 +1,78 @@
+{
+ "label": "Atividades de Tempo Livre",
+ "folders": {
+  "Core Downtime Activities": "Atividades Básicas de Tempo Livre"
+ },
+ "entries": {
+  "carousing0000001": {
+   "name": "Vida Boêmia",
+   "description": "<p>Passe uma semana se misturando, festejando e socializando com uma classe social escolhida. O livro lista os custos da vida boêmia das classes baixa, média e alta como 10, 50 e 250 Ryo por semana, sendo que a vida boêmia da classe alta exige acesso à nobreza ou um disfarce convincente.</p><p>Ao final da semana, registre com o Mestre os contatos, aliados ou informações obtidos.</p>",
+   "completion": "Registre contatos, aliados, rumores ou informações obtidos a partir da classe social escolhida."
+  },
+  "craftChakra00001": {
+   "name": "Criação de Itens Aprimorados com Chakra",
+   "description": "<p>Acompanhe a criação de itens aprimorados com chakra e o trabalho de selos de aprimoramento. O livro usa custos de tempo livre baseados em rank para itens aprimorados: Rank D 2 semanas, Rank C 4 semanas, Rank B 8 semanas, Rank A 12 semanas e Rank S 20 semanas. As CDs de Criação exigidas, kits de ferramentas, materiais, efeitos do selo e custos em Ryo são definidos pelo item ou selo específico.</p>",
+   "completion": "Registre o item aprimorado finalizado, o selo, o resultado da CD e o Ryo pago."
+  },
+  "craftNonEnh00001": {
+   "name": "Criação de Itens Não Aprimorados",
+   "description": "<p>Crie equipamentos não aprimorados, obras de arte, armaduras, armas ou outros objetos mundanos semelhantes. O personagem deve ter a proficiência no kit de ferramentas apropriado e quaisquer materiais, instalações ou locais exigidos.</p><p>Cada semana contribui com 100 Ryo de valor de mercado e custa metade do valor criado em materiais. Um kit de ferramentas relevante com Mastery pode aumentar a contribuição semanal, conforme descrito no livro. Criação Rápida e variantes de kits de ferramentas permanecem sob arbítrio do Mestre neste rastreador v1.</p>",
+   "completion": "Registre o item finalizado e qualquer custo de material pago."
+  },
+  "createJutsu00001": {
+   "name": "Criando um Jutsu",
+   "description": "<p>Acompanhe o projeto de criação de um novo jutsu. O livro determina que o criador defina o tipo, rank, requisitos, componentes, espaços de efeito, custo de chakra e restrições do jutsu. Este modelo registra apenas o trabalho; ele não constrói nem concede o jutsu final automaticamente.</p>",
+   "completion": "Registre o design final aprovado do jutsu; crie ou adicione o jutsu manualmente depois."
+  },
+  "learnJutsu000001": {
+   "name": "Aprendendo um Jutsu",
+   "description": "<p>Gaste tempo livre para adicionar um jutsu à sua lista de jutsus conhecidos sem que ele conte contra os jutsus conhecidos de classe. Você precisa ter acesso ao detentor do jutsu, professor, aliado, mentor ou outra fonte aprovada, e deve atender às restrições de afinidade de natureza e rank.</p><p>Custos do livro: Rank E 2 semanas autodidata / 1 ensinado por um mestre; Rank D 3 / 2; Rank C 6 / 4; Rank B 12 / 8; Rank A 20 / 16; Rank S 40 / 24 semanas.</p>",
+   "completion": "Adicione manualmente o jutsu aprendido se o Mestre aprovar a conclusão."
+  },
+  "recuperate000001": {
+   "name": "Recuperando-se",
+   "description": "<p>Gaste tempo livre se recuperando de um ferimento debilitante, doença ou veneno. Após 1 semana, faça um teste de resistência de Constituição CD 15. Em um sucesso, encerre um efeito que impeça a recuperação de pontos de vida ou ganhe vantagem na semana seguinte em testes de resistência contra uma doença ou veneno atual.</p>",
+   "completion": "Registre o efeito encerrado ou a vantagem no teste de resistência contra doença/veneno obtida para a semana seguinte."
+  },
+  "research00000001": {
+   "name": "Pesquisando",
+   "description": "<p>Use o tempo livre para pesquisar mistérios, lendas, locais, rumores ou questões da campanha. O Mestre determina se a informação está disponível, as semanas necessárias, restrições e quaisquer testes, como Inteligência (Investigação) ou Carisma (Persuasão).</p>",
+   "completion": "Registre a informação aprendida ou o motivo pelo qual ela permanece indisponível."
+  },
+  "shopping00000001": {
+   "name": "Fazendo Compras",
+   "description": "<p>Gaste 1 semana procurando em todo lugar pela melhor oferta possível em itens. O livro concede aos itens encontrados uma redução de preço de 5d4 por cento na loja onde são encontrados. Compras locais sem gasto de tempo livre podem usar Pechinchar como uma ação separada.</p>",
+   "completion": "Role ou registre o desconto de 5d4 por cento e qualquer item comprado."
+  },
+  "toolkitWork00001": {
+   "name": "Trabalhando com Kits de Ferramentas",
+   "description": "<p>Use um kit de ferramentas em que seja proficiente durante o tempo livre para criar itens, investigar pistas, resolver crimes, aceitar ordens, cozinhar, demolir, pesquisar compostos ou realizar outro trabalho especializado com o kit. A atividade específica, CD, duração, pagamento e resultados dependem da entrada do kit de ferramentas e do arbítrio do Mestre.</p>",
+   "completion": "Registre o resultado do kit de ferramentas, pagamento, item, pista ou outro resultado aprovado pelo Mestre."
+  },
+  "trainArmor000000": {
+   "name": "Treinamento: Proficiência em Armadura",
+   "description": "<p>Treine com um instrutor para obter uma nova proficiência em armadura. O livro lista 12 semanas de tempo livre e 100 Ryo por semana, com quaisquer testes ou requisitos de instrutor definidos pelo Mestre.</p>",
+   "completion": "Conceda manualmente a proficiência em armadura escolhida após a aprovação do Mestre."
+  },
+  "trainFeat0000001": {
+   "name": "Treinamento: Talento",
+   "description": "<p>Treine com um instrutor ou fonte narrativa para obter um talento. O livro lista 20 semanas de tempo livre e 100 Ryo por semana, com quaisquer testes, aplicação de pré-requisitos ou requisitos de instrutor definidos pelo Mestre.</p>",
+   "completion": "Conceda manualmente o talento após a aprovação do Mestre."
+  },
+  "trainLang0000001": {
+   "name": "Treinamento: Idioma",
+   "description": "<p>Treine com um instrutor para aprender um novo idioma. O livro lista 2 semanas de tempo livre e 100 Ryo por semana, com quaisquer testes ou requisitos de instrutor definidos pelo Mestre.</p>",
+   "completion": "Conceda manualmente o idioma escolhido após a aprovação do Mestre."
+  },
+  "trainSkill000000": {
+   "name": "Treinamento: Proficiência em Perícia",
+   "description": "<p>Treine com um instrutor para obter uma nova proficiência em perícia. O livro lista 12 semanas de tempo livre e 100 Ryo por semana, com quaisquer testes ou requisitos de instrutor definidos pelo Mestre.</p>",
+   "completion": "Conceda manualmente a proficiência em perícia escolhida após a aprovação do Mestre."
+  },
+  "trainTool0000001": {
+   "name": "Treinamento: Proficiência em Ferramenta ou Veículo",
+   "description": "<p>Treine com um instrutor para obter uma nova proficiência em ferramenta ou veículo. O livro lista 2 semanas de tempo livre e 100 Ryo por semana, com quaisquer testes ou requisitos de instrutor definidos pelo Mestre.</p>",
+   "completion": "Conceda manualmente a proficiência em ferramenta ou veículo escolhida após a aprovação do Mestre."
+  }
+ }
+}

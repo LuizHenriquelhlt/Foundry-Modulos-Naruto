@@ -1,0 +1,86 @@
+{
+ "label": "Itens HB",
+ "folders": {},
+ "entries": {
+  "7IFRdjA4isenrzVA": {
+   "name": "Mordida de Usagi",
+   "description": "<p>Causa 1 rank de Sangrando em um acerto crítico.</p>"
+  },
+  "7t15K82eq6AdcZ6Y": {
+   "description": "<p><span style=\"font-family:Times New Roman\">Sua Claymore é inquebrável e você não pode ser desarmado dela contra sua vontade.</span></p><p><span style=\"font-family:Times New Roman\">Você pode usar Destreza como seu modificador de atributo de Taijutsu para seu Hijutsu de Clã Claymore em todos os cálculos.</span></p><p><span style=\"font-family:Times New Roman\">Se uma criatura além de você tentar empunhar esta arma, ela recebe a propriedade Duas Mãos.</span></p><p><span style=\"font-family:Times New Roman\">A partir do 11º nível, sua maestria sobre sua arma supera muito seu nível anterior, e agora você pode utilizar sua arma de forma mais eficiente. Sua Claymore agora causa 2d8 de dano cortante e, uma vez por turno, quando você causa dano a uma criatura ou uma criatura falha em um teste de resistência com esta arma, você pode forçá-la a fazer um teste de resistência de Constituição contra sua CD de resistência de Taijutsu ou ganhar 1 rank de enfraquecido.</span></p>"
+  },
+  "C6q2RJMbp00KPM7A": {
+   "name": "Teste 2",
+   "description": "<p>Feito por Benni</p>"
+  },
+  "EoIIxU9UKng7P6bv": {
+   "name": "Objeto Querido",
+   "description": "<p>Uma vez por descanso curto, como uma ação livre, você pode olhar para seu Objeto Querido e remover todos os ranks de Desmoralizado e Enfeitiçado conforme é trazido de volta à realidade. </p><p>Alternativamente, se um Ente Querido tiver seu Objeto Querido, ele ganha vantagem no teste de Persuasão para calmá-lo.</p>"
+  },
+  "Jrdq0Zd7pE1VV5sW": {
+   "name": "Chute de Usagi",
+   "description": "<p>causa 1 rank de Contundido em um acerto crítico</p>"
+  },
+  "KnMbmnUJtOmpZA9V": {
+   "name": "Espada de Exorcismo",
+   "description": "<p><span style=\"font-family:Times New Roman\">Ataques com arma e jutsus que usam sua Espada de Exorcismo sempre podem ser conjurados com cuidado perto de qualquer criatura que não seja Aberração, Celestial, Demônio, Otsutsuki ou Monstruosidade; ela pode Interagir com quaisquer criaturas não físicas, como fantasmas ou espectros; pode ser usada no lugar da Lança Cruz para qualquer Hijutsu de clã Walker; pode usar Constituição para a propriedade pesada; e conta como sua Innocence (Cross) e como um odachi para fins de interação com características e jutsus. Além disso, um número de vezes por descanso igual ao seu modificador de Constituição, quando você causar dano com esta arma, você pode causar dano adicional como dano de chakra igual à metade do dano original. Você não precisa gastar o uso desta característica para ativá-la quando for causar dano a uma Aberração, Celestial, Demônio, Otsutsuki ou Monstruosidade.</span></p>"
+  },
+  "PRIW5ol0xFM3s1Fq": {
+   "name": "Mecanismo de Controle",
+   "description": "<p>Você ganha um novo item conhecido como <em><strong>Mecanismo de Controle (MC)</strong></em>. O visual deste item fica a critério do jogador/mestre e pode ser qualquer coisa, de uma coleira de choque a uma coroa mágica. O MC tem um número de cargas igual à metade do seu bônus de proficiência por descanso. Sempre que você estiver sob a condição Frenesi, você pode gastar 1 carga para remover de si mesmo qualquer número de ranks de Frenesi. Para cada rank de Frenesi que você remover como resultado deste item, você ganha +5 pontos de vida temporários até o final do combate atual.</p>",
+   "condition": "Sempre que você estiver sob a condição Frenesi"
+  },
+  "RALFPsUHr1lCAbWv": {
+   "description": "<p>Kagune do tipo Rinkaku se manifestam a partir das costas, ao redor da cintura, criando uma forma semelhante a um tentáculo. </p><p>As Células RC que compõem um Rinkaku são extremamente maleáveis, resultando em uma arma com um poder de ataque extremo, mas uma forma muito frágil. </p><p>Seu Rinkaku é uma arma natural corpo a corpo que causa 2d12 de dano e possui as seguintes propriedades: Crítico, Alcance 3.</p><p> Seu Rinkaku tem um número de pontos de vida igual ao seu Modificador de Constituição vezes 5 e uma CA de 15.</p>"
+  },
+  "Ti0iLY58kEzl840d": {
+   "description": "<p>Kagune do tipo Bikaku se manifestam a partir do cóccix, formando uma cauda mais tradicional. </p><p>O Bikaku é um ponto de equilíbrio entre os outros três Kagune, tornando-o uma arma muito versátil. </p><p>Seu Bikaku é uma arma natural corpo a corpo que causa 2d10 de dano e possui as seguintes propriedades: Sutileza, Agarrar, Alcance 2. </p><p>Seu Ukaku tem um número de pontos de vida igual ao seu Modificador de Constituição vezes 5 e uma CA de 15.</p>"
+  },
+  "WA7y5MceNOHUW7wr": {
+   "name": "Martelo de Forja",
+   "description": "<p>um Martelo de Forja e equipe-o. </p><p>Martelos de Forja têm aparência de pequenos martelos de ferreiro, causam 1d6 + seu Modificador de Força em dano de concussão, possuem as propriedades Leve e Arremessável (30/60), e pertencem ao grupo de armas de Força. </p><p>Enquanto equipado, você não pode ser desarmado do seu Martelo de Forja, e ele não pode ser destruído por meio de jutsu. </p><p>Kits mais fortes produzem Martelos de Forja mais fortes, com cada estágio superior de kit adicionando +1 ao Martelo de Forja (Carga Maior = +1, Carga Superior = +2, Carga Suprema = +3). </p><p>A partir do 11º nível, o dano base do seu Martelo de Forja se torna 1d10 + seu Modificador de Força.</p>"
+  },
+  "XnvXIFqgFjR9Vk9U": {
+   "name": "Chicote de Cabelo",
+   "description": "<p>Conta como um chicote para requisitos de jutsu. Além disso, você pode escolher adicionar Creme Sedoso ou Shampoo ao seu cabelo, não podendo mudar essa escolha depois de feita.</p><ul><li><p>Creme Sedoso: Seu cabelo está muito mais liso do que antes, permitindo que você ataque inimigos em um ritmo mais rápido. Ao fazer um ataque com seu chicote de cabelo, você pode fazer dois ataques em vez de um.</p></li><li><p>Shampoo: Seu cabelo foi fortalecido pelo poder do Shampoo, fazendo com que quem for atingido sinta ainda mais dor. Seu chicote de cabelo ganha a palavra-chave Crítico e adiciona seu bônus de proficiência ao seu dano.</p></li></ul>"
+  },
+  "Xr20XLez954jJr9e": {
+   "name": "Estrela da Manhã"
+  },
+  "YFdOVb3rcSI9uINN": {
+   "name": "Toxina Kamizuru"
+  },
+  "cWXxog1HKcEykujG": {
+   "description": "<p>Kagune do tipo Ukaku se manifestam na área dos ombros em um padrão parecido com penas e são usados para fazer múltiplos ataques de alta velocidade disparando</p><p>fragmentos cristalinos de Células RC condensadas. </p><p>Seu Ukaku é uma arma natural à distância que causa 2d6 de dano e possui as seguintes propriedades: Alcance 60/120, Multiataque. </p><p>Seu Ukaku tem um número de pontos de vida igual ao seu Modificador de Constituição vezes 10 e uma CA de 20.</p>"
+  },
+  "eI7HDyepMgLZDAJW": {
+   "description": "<p><span style=\"font-family:Times New Roman\">No final do seu turno, você pode escolher defender uma criatura a até 5 pés de você; até o início do seu próximo turno, você perde os benefícios da propriedade de bloqueio desta arma, concedendo-a em vez disso à criatura que você escolheu defender, desde que ela permaneça a até 5 pés de você. No 11º nível, esta arma ganha a propriedade crítico, mais um rank das propriedades alcance e bloqueio, e seu dano se torna 2d6.</span></p>"
+  },
+  "g8CxECTvGlhaOCm1": {
+   "name": "Ataque de Mordida de Ghoul"
+  },
+  "gpyfDtXgDHs6RQ97": {
+   "name": "Mel Kamizuru"
+  },
+  "hGSeoF3S2GHaHJQK": {
+   "name": "Garras de Izuno",
+   "description": "<p>Quando você acerta um crítico com suas garras, você causa 1 rank de sangramento.</p>"
+  },
+  "k4Ud3VF91yd6rVDd": {
+   "name": "Lança Cruzada",
+   "description": "<p>No 11º nível, esta arma ganha a propriedade bloqueio, mais um rank da propriedade Crítico, e seu dano se torna 2d8.</p>"
+  },
+  "kss0qKHWmHhwPmKe": {
+   "description": "<p>Kagune do tipo Koukaku se manifestam abaixo da escápula, formando uma arma a partir de Células RC altamente condensadas. </p><p>A alta densidade de Células RC em um Koukaku faz dele uma ótima arma defensiva. </p><p>Seu Koukaku é uma arma natural corpo a corpo que causa 2d8 de dano e possui as seguintes propriedades: Bloqueio, Derrubar. </p><p>Seu Koukaku tem um número de pontos de vida igual ao seu Modificador de Constituição vezes 20 e uma CA de 25.</p>"
+  },
+  "nsorJupo3NgoJXhx": {
+   "name": "Artefato da Deusa",
+   "description": "<p>Este artefato pode ser qualquer item de sua descrição, pesa 1 de volume e, se por algum motivo for destruído ou perdido, retorna a você ao final de um descanso ou após 12 horas terem passado. Este artefato tem um número de cargas igual ao seu bônus de proficiência por descanso longo. Quando você conjura um Ninjutsu, você pode gastar 1 carga (ou 3 de chakra, se não tiver cargas restantes) para adicionar seu Artefato da Deusa como componente, concedendo ao seu jutsu os seguintes benefícios;</p><ul><li>Você ignora os componentes HS e CS.</li><li>Você ganha um bônus de +1d6 em testes de confronto.</li><li>Seu jutsu ganha dois dados adicionais de dano ou cura, uma vez por conjuração.</li><li>Seu jutsu pode ter como alvo uma criatura adicional (se já pudesse ter múltiplos alvos para seu rank) ou aumenta seu alcance e área de efeito em 15 pés e 5 pés, respectivamente (escolha um).'</li><li>Você trata quaisquer 1s ou 2s rolados no dado de dano ou cura do jutsu como 3s.</li></ul>",
+   "condition": "Ao conjurar um ninjutsu"
+  },
+  "zw7t6Usme7MY9sYR": {
+   "name": "Arco de Luz",
+   "description": "<p>Ataques com o <em><strong>Arco de Luz</strong></em> nunca podem ser feitos em desvantagem, e seu dano não pode ser reduzido em mais de 5 (incluindo resistência e imunidade). Este arco e suas munições emitem 30 pés de luz plena e 60 pés de luz difusa, que atravessam a escuridão intensificada por chakra.</p>"
+  }
+ }
+}
