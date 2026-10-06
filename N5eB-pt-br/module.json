@@ -1,17 +1,17 @@
 {
   "id": "N5eB-pt-br",
   "title": "Naruto 5e - Português (Brasil)",
-  "version": "0.2.0",
+  "description": "Tradução para Português (Brasil) do sistema Naruto 5e (n5eb), incluindo interface e compêndios via Babele.",
+  "version": "0.2.1",
   "authors": [
     {
       "name": "PreTusko",
-      "url": "https://x.com/PreTusk",
-      "flags": {}
+      "url": "https://x.com/PreTusk"
     }
   ],
   "compatibility": {
     "minimum": "13",
-    "verified": "14"
+    "verified": "14.368"
   },
   "esmodules": [
     "babele-register.js"
@@ -23,8 +23,7 @@
     {
       "lang": "pt-BR",
       "name": "Português (Brasil)",
-      "path": "pt-br.json",
-      "flags": {}
+      "path": "pt-br.json"
     }
   ],
   "relationships": {

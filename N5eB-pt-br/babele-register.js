@@ -1,3 +1,5 @@
+const MODULE_ID = "N5eB-pt-br";
+
 const ACTIVITY_FIELDS = {
 	name: "name",
 	condition: "activation.condition",
@@ -8,33 +10,44 @@ const ACTIVITY_FIELDS = {
 	rangeSpecial: "range.special"
 };
 
+const ADVANCEMENT_FIELDS = {
+	title: "title",
+	hint: "hint"
+};
+
+/**
+ * Translate a collection of sub-objects (activities, advancement) keyed by id.
+ * Accepts both shapes used by dnd5e-based systems: an array of objects with `_id`
+ * or an object keyed by id. Returns a copy; the compendium source data is never mutated,
+ * so Babele can still show/restore the original text.
+ */
 function translateById(collection, translations, fields) {
 	if (!collection || !translations) return collection;
 	const apply = (doc, id) => {
 		const t = translations[id ?? doc?._id];
-		if (!t) return doc;
+		if (!t || (typeof doc !== "object")) return doc;
+		const copy = foundry.utils.deepClone(doc);
 		for (const [key, path] of Object.entries(fields)) {
-			if (t[key] !== undefined && foundry.utils.hasProperty(doc, path)) foundry.utils.setProperty(doc, path, t[key]);
+			if (t[key] !== undefined && foundry.utils.hasProperty(copy, path)) foundry.utils.setProperty(copy, path, t[key]);
 		}
-		return doc;
+		return copy;
 	};
 	if (Array.isArray(collection)) return collection.map(doc => apply(doc));
-	for (const [id, doc] of Object.entries(collection)) apply(doc, id);
-	return collection;
+	return Object.fromEntries(Object.entries(collection).map(([id, doc]) => [id, apply(doc, id)]));
 }
 
 Hooks.once("babele.init", (babele) => {
 	// Register the translation folder first so an error in the optional extras below can't block it.
 	babele.register({
-		module: "N5eB-pt-br",
+		module: MODULE_ID,
 		lang: "pt-BR",
 		dir: "compendium"
 	});
-	console.log("N5eB-pt-br | traduções registradas no Babele (idioma do cliente:", game.settings.get("core", "language"), ")");
+	console.log(`${MODULE_ID} | traduções registradas no Babele (idioma do cliente: ${game.i18n?.lang})`);
 	try {
 		babele.registerConverters({
 			n5ebActivities: (activities, translations) => translateById(activities, translations, ACTIVITY_FIELDS),
-			n5ebAdvancement: (advancement, translations) => translateById(advancement, translations, { title: "title", hint: "hint" })
+			n5ebAdvancement: (advancement, translations) => translateById(advancement, translations, ADVANCEMENT_FIELDS)
 		});
 		babele.registerMapping({
 			Item: {
@@ -54,8 +67,8 @@ Hooks.once("babele.init", (babele) => {
 			}
 		});
 	} catch ( err ) {
-		console.error("N5eB-pt-br | falha ao registrar conversores/mapeamentos extras:", err);
+		console.error(`${MODULE_ID} | falha ao registrar conversores/mapeamentos extras:`, err);
 	}
 });
 
-Hooks.once("babele.ready", () => console.log("N5eB-pt-br | Babele pronto; compêndios do n5eb traduzidos."));
+Hooks.once("babele.ready", () => console.log(`${MODULE_ID} | Babele pronto; compêndios do n5eb traduzidos.`));
