@@ -29,7 +29,7 @@
    "effects": {
     "2g8Y3pCT0AkOe5GW": {
      "name": "Resistência a Genjutsu",
-     "description": "<p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;margin-block-end:0px\">Adicione um bônus de <strong>1d4</strong> em testes de resistência feitos para resistir a Genjutsu.</p><p><br class=\"Apple-interchange-newline\"></p>"
+     "description": "<p>Adicione um bônus de <strong>1d4</strong> em testes de resistência feitos para resistir a Genjutsu.</p><p><br class=\"Apple-interchange-newline\"></p>"
     },
     "LX3kj2aU8Ry3ljti": {
      "name": "Visão de Chakra",
@@ -47,7 +47,7 @@
   },
   "2iYer6B8rDCpFhat": {
    "name": "Passiva Hoshi",
-   "description": "<p><span style=\"font-family:Signika\">Este adversário, como uma ação bônus, pode ativar o poder característico do clã Hoshi, o Modo Kujaku, ganhando os seguintes benefícios; Além disso, este adversário pode escolher traços do conjunto de afiliação Shinobi da Estrela. </span></p><ul><li><p><span style=\"font-family:Signika\">+1 na CA </span></p></li><li><p><span style=\"font-family:Signika\">Resistência a dano de chakra </span></p></li><li><p><span style=\"font-family:Signika\">Jutsus que você conjura são aprimorados pelo seu Chakra Estelar, ganhando um dos seguintes benefícios por conjuração; </span></p><ol><li><p><span style=\"font-family:Signika\">+1 de bônus nas jogadas de ataque e na CD de resistência </span></p></li><li><p><span style=\"font-family:Signika\">Bônus de dano igual ao nível deste adversário, uma vez por conjuração.</span></p></li></ol></li></ul>"
+   "description": "<p>Este adversário, como uma ação bônus, pode ativar o poder característico do clã Hoshi, o Modo Kujaku, ganhando os seguintes benefícios; Além disso, este adversário pode escolher traços do conjunto de afiliação Shinobi da Estrela. </p><ul><li><p>+1 na CA </p></li><li><p>Resistência a dano de chakra </p></li><li><p>Jutsus que você conjura são aprimorados pelo seu Chakra Estelar, ganhando um dos seguintes benefícios por conjuração; </p><ol><li><p>+1 de bônus nas jogadas de ataque e na CD de resistência </p></li><li><p>Bônus de dano igual ao nível deste adversário, uma vez por conjuração.</p></li></ol></li></ul>"
   },
   "2xxkCVr2i3qQS4Ou": {
    "name": "Conjurador (Ninjutsu) 1",
@@ -55,7 +55,7 @@
   },
   "3qmaaBNjteulIuFL": {
    "name": "Passiva Sem Clã",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário é de versatilidade. Este Adversário pode selecionar 2 Traços adicionais de qualquer categoria para a qual se qualifique.</span></p>"
+   "description": "<p>Este Adversário é de versatilidade. Este Adversário pode selecionar 2 Traços adicionais de qualquer categoria para a qual se qualifique.</p>"
   },
   "4ZPgeEKS70K8XSWP": {
    "name": "Defensor 2",
@@ -76,11 +76,11 @@
   },
   "7iHZ1gjnQFXGsmyq": {
    "name": "Passiva Hyuga",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário é o mais proeminente da Folha com o Byakugan, ganhando os seguintes benefícios; </span></p><ul><li><p><span style=\"font-family:'Trebuchet MS'\">500 Pés de Visão de Chakra &amp; 360 graus de visão, podendo ver coisas sem se virar ou desviar o olhar. </span></p></li><li><p><span style=\"font-family:'Trebuchet MS'\">Pode ver através de até 5 pés de material. </span></p></li><li><p><span style=\"font-family:'Trebuchet MS'\">Ganha um bônus de 1d4 em testes de resistência contra Genjutsu com a Palavra-chave Visual. - Pode ver a liberação de natureza de uma criatura, se houver. </span></p></li><li><p><span style=\"font-family:'Trebuchet MS'\">O dado de dano desarmado é 2d6 e causa dano de chakra.</span></p></li></ul>"
+   "description": "<p>Este Adversário é o mais proeminente da Folha com o Byakugan, ganhando os seguintes benefícios; </p><ul><li><p>500 Pés de Visão de Chakra &amp; 360 graus de visão, podendo ver coisas sem se virar ou desviar o olhar. </p></li><li><p>Pode ver através de até 5 pés de material. </p></li><li><p>Ganha um bônus de 1d4 em testes de resistência contra Genjutsu com a Palavra-chave Visual. - Pode ver a liberação de natureza de uma criatura, se houver. </p></li><li><p>O dado de dano desarmado é 2d6 e causa dano de chakra.</p></li></ul>"
   },
   "88sdrniMogwEFkc3": {
    "name": "Passiva Hoshigaki",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário é verdadeiramente um predador de topo. Em sua Ação de Elite ou Lendária, ele pode gastar 5 dados de Tenacidade para se transformar em sua forma de Tubarão, ganhando os seguintes benefícios;</span></p><ul><li><p><span style=\"font-family:'Trebuchet MS'\">+2 na CA </span></p></li><li><p><span style=\"font-family:'Trebuchet MS'\">Dano de Frio que ele causa também causa dano de chakra igual à metade do resultado, uma vez por turno. </span></p></li><li><p><span style=\"font-family:'Trebuchet MS'\">Resistência a dano de Concussão, Perfurante e Cortante.</span></p></li></ul>",
+   "description": "<p>Este Adversário é verdadeiramente um predador de topo. Em sua Ação de Elite ou Lendária, ele pode gastar 5 dados de Tenacidade para se transformar em sua forma de Tubarão, ganhando os seguintes benefícios;</p><ul><li><p>+2 na CA </p></li><li><p>Dano de Frio que ele causa também causa dano de chakra igual à metade do resultado, uma vez por turno. </p></li><li><p>Resistência a dano de Concussão, Perfurante e Cortante.</p></li></ul>",
    "condition": "Gastando 5 Dados de Tenacidade"
   },
   "89logyEAhSev4vnX": {
@@ -140,7 +140,7 @@
   },
   "GIH8hNfFttqi6mPu": {
    "name": "Passiva Fushin",
-   "description": "<p><span style=\"font-family:Signika\">Este adversário empunha o poder da Liberação de Tufão, que torna a liberação de vento ainda mais devastadora. Quando este adversário conjura um jutsu com a palavra-chave Liberação de Vento, dobre o alcance e aumente qualquer área de efeito em 10 pés.</span></p><p><span style=\"font-family:Signika\">Este adversário também pode sempre escolher quais criaturas são afetadas por jutsu de Liberação de Vento, e pode conjurar jutsu de Liberação de Vento com Destreza.</span></p>"
+   "description": "<p>Este adversário empunha o poder da Liberação de Tufão, que torna a liberação de vento ainda mais devastadora. Quando este adversário conjura um jutsu com a palavra-chave Liberação de Vento, dobre o alcance e aumente qualquer área de efeito em 10 pés.</p><p>Este adversário também pode sempre escolher quais criaturas são afetadas por jutsu de Liberação de Vento, e pode conjurar jutsu de Liberação de Vento com Destreza.</p>"
   },
   "HapH27TmUo4L8Hg0": {
    "name": "Habilidade de Conjurador (Ninjutsu)",
@@ -160,7 +160,7 @@
   },
   "JouOuWcyLWUQhKg2": {
    "name": "Passiva Aburame",
-   "description": "<p><span style=\"font-family:Signika\">Este Adversário é um controlador adepto de insetos, capaz de realizar uma infinidade de coisas em combate apenas com insetos. O dano que este Adversário causa com Hijutsu do Clã Aburame pode absorver <strong>chakra igual à metade do resultado do dano</strong>.</span></p>",
+   "description": "<p>Este Adversário é um controlador adepto de insetos, capaz de realizar uma infinidade de coisas em combate apenas com insetos. O dano que este Adversário causa com Hijutsu do Clã Aburame pode absorver <strong>chakra igual à metade do resultado do dano</strong>.</p>",
    "condition": "Sempre que esta criatura causar dano",
    "effects": {
     "HiqXHahQbvuT8cEI": {
@@ -257,7 +257,7 @@
   },
   "UI2YnabK5v2UyqVS": {
    "name": "Passiva Hozuki",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">O sangue deste Adversário realmente corre como água. Este Adversário pode ganhar os benefícios de estar perto de uma fonte de água, mesmo que não haja água por perto.</span></p>"
+   "description": "<p>O sangue deste Adversário realmente corre como água. Este Adversário pode ganhar os benefícios de estar perto de uma fonte de água, mesmo que não haja água por perto.</p>"
   },
   "UwusKIEjJpJlB91j": {
    "name": "Conjurador (Genjutsu) 1",
@@ -305,28 +305,28 @@
   },
   "aYVsE9UMuC3OgByr": {
    "name": "Passiva Kaguya",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário é sedento por batalha e tem sede de sangue e combate. A cada turno em que esta criatura faz um ataque com arma corpo a corpo, ela ganha um bônus de +1 em dano, até um máximo de +5. Este adversário perde esses bônus se gastar sua Ação conjurando um jutsu ou fazendo qualquer coisa que não seja um ataque com arma corpo a corpo. Além disso, este adversário sempre tem acesso a uma Katana de osso que causa 1d8 + mod. de Atributo.</span></p>",
+   "description": "<p>Este Adversário é sedento por batalha e tem sede de sangue e combate. A cada turno em que esta criatura faz um ataque com arma corpo a corpo, ela ganha um bônus de +1 em dano, até um máximo de +5. Este adversário perde esses bônus se gastar sua Ação conjurando um jutsu ou fazendo qualquer coisa que não seja um ataque com arma corpo a corpo. Além disso, este adversário sempre tem acesso a uma Katana de osso que causa 1d8 + mod. de Atributo.</p>",
    "condition": "Cada vez que esta criatura faz um ataque com arma corpo a corpo"
   },
   "afgZhgtO9b8XPitS": {
    "name": "Passiva de Planta",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário é um com o mundo natural. Este Adversário é imune a Genjutsu, Veneno e a Jutsus que tenham apenas a palavra-chave Liberação de Água. Ele também tem vulnerabilidade a dano de Fogo, dano de Ácido e dano Necrótico.</span></p><p><span style=\"font-family:'Trebuchet MS'\">Quando esta criatura for conjurar um jutsu com a palavra-chave Liberação de Terra ou Liberação de Água, ela não precisa de nenhum componente, exceto a moldagem de chakra.</span></p>"
+   "description": "<p>Este Adversário é um com o mundo natural. Este Adversário é imune a Genjutsu, Veneno e a Jutsus que tenham apenas a palavra-chave Liberação de Água. Ele também tem vulnerabilidade a dano de Fogo, dano de Ácido e dano Necrótico.</p><p>Quando esta criatura for conjurar um jutsu com a palavra-chave Liberação de Terra ou Liberação de Água, ela não precisa de nenhum componente, exceto a moldagem de chakra.</p>"
   },
   "asuI8zdKQIH3Fcxc": {
    "name": "Passiva Kuru",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário consegue enxergar através da escuridão com seu Kurugan, concedendo os seguintes benefícios;</span></p><ul><li><p><span style=\"font-family:'Trebuchet MS'\">Bônus na CA igual à metade do seu mod. de Sabedoria.</span></p></li><li><p><span style=\"font-family:'Trebuchet MS'\">Ação: Escolha até três criaturas hostis, concedendo a elas desvantagem em seu próximo teste de resistência de Força, Destreza ou Constituição, ou reduza a CA delas contra ataques de criaturas aliadas em -2, até o início do seu próximo turno.</span></p></li><li><p><span style=\"font-family:'Trebuchet MS'\">Ação Bônus: Escolha uma criatura aliada (exceto você mesmo), concedendo a ela vantagem em seu próximo teste de resistência de Força, Destreza ou Constituição.</span></p></li><li><p><span style=\"font-family:'Trebuchet MS'\">Reação: Este Adversário pode esquivar-se de um ataque ou jutsu que o afetaria. Isso pode ser feito uma vez por rodada.</span></p></li></ul>"
+   "description": "<p>Este Adversário consegue enxergar através da escuridão com seu Kurugan, concedendo os seguintes benefícios;</p><ul><li><p>Bônus na CA igual à metade do seu mod. de Sabedoria.</p></li><li><p>Ação: Escolha até três criaturas hostis, concedendo a elas desvantagem em seu próximo teste de resistência de Força, Destreza ou Constituição, ou reduza a CA delas contra ataques de criaturas aliadas em -2, até o início do seu próximo turno.</p></li><li><p>Ação Bônus: Escolha uma criatura aliada (exceto você mesmo), concedendo a ela vantagem em seu próximo teste de resistência de Força, Destreza ou Constituição.</p></li><li><p>Reação: Este Adversário pode esquivar-se de um ataque ou jutsu que o afetaria. Isso pode ser feito uma vez por rodada.</p></li></ul>"
   },
   "c4HPq3PL0myVcXku": {
    "name": "Passiva de Criatura Sábia",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Os Jutsus deste Adversário são tratados como <strong>Artes de Fera Sábia</strong> e, portanto, são tratados como Rank S se uma criatura hostil tentar dissipar ou interromper sua conjuração.</span></p>"
+   "description": "<p>Os Jutsus deste Adversário são tratados como <strong>Artes de Fera Sábia</strong> e, portanto, são tratados como Rank S se uma criatura hostil tentar dissipar ou interromper sua conjuração.</p>"
   },
   "cGyGDmuGveW3QOgi": {
    "name": "Passiva Ranton",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário pode sobrecarregar jutsus com a palavra-chave Liberação de Raio ao estar perto de uma fonte suficiente de água.</span></p>"
+   "description": "<p>Este Adversário pode sobrecarregar jutsus com a palavra-chave Liberação de Raio ao estar perto de uma fonte suficiente de água.</p>"
   },
   "d5QJedRheP7IEvBe": {
    "name": "Passiva Inuzuka",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário está sempre em sintonia com seu mascote. Enquanto este Adversário estiver a até 15 pés de seu mascote, tanto ele quanto seu mascote ganham +2 em suas CAs, pois se protegem mutuamente.</span></p>"
+   "description": "<p>Este Adversário está sempre em sintonia com seu mascote. Enquanto este Adversário estiver a até 15 pés de seu mascote, tanto ele quanto seu mascote ganham +2 em suas CAs, pois se protegem mutuamente.</p>"
   },
   "dSBWFsb9auJahBMq": {
    "name": "Espreitador 2",
@@ -351,11 +351,11 @@
   },
   "fC459c8lmhvNsMi1": {
    "name": "Passiva Jiton",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário tem a história da Areia correndo em seu sangue. Este adversário ignora terreno difícil resultante do deserto, e quando sofreria dano de uma arma feita de metal, reduz o dano sofrido em 1d8.</span></p>"
+   "description": "<p>Este Adversário tem a história da Areia correndo em seu sangue. Este adversário ignora terreno difícil resultante do deserto, e quando sofreria dano de uma arma feita de metal, reduz o dano sofrido em 1d8.</p>"
   },
   "fOqbb8X3iCj3iyrj": {
    "name": "Passiva Namikaze",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário é conhecido por sua Velocidade desenfreada. O deslocamento deste Adversário não pode ser reduzido em mais da metade como resultado de efeitos baseados em jutsu.</span></p>"
+   "description": "<p>Este Adversário é conhecido por sua Velocidade desenfreada. O deslocamento deste Adversário não pode ser reduzido em mais da metade como resultado de efeitos baseados em jutsu.</p>"
   },
   "hHxPJLji0djpMFdk": {
    "name": "Passiva Ninneko",
@@ -415,7 +415,7 @@
   },
   "n1b2ecsDMJ5FNyLb": {
    "name": "Passiva de Mutante",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário é uma abominação da natureza e não segue as regras normais estabelecidas por ela.</span></p><p><span style=\"font-family:'Trebuchet MS'\">Este Adversário é imune a dano de Ácido, Necrótico e Fogo, mas sofre dano dobrado de efeitos de Cura resultantes de jutsus com a palavra-chave Médico, e de dano Elétrico.</span></p>"
+   "description": "<p>Este Adversário é uma abominação da natureza e não segue as regras normais estabelecidas por ela.</p><p>Este Adversário é imune a dano de Ácido, Necrótico e Fogo, mas sofre dano dobrado de efeitos de Cura resultantes de jutsus com a palavra-chave Médico, e de dano Elétrico.</p>"
   },
   "p0gUWxiZSqB9G0rD": {
    "name": "Passiva Kashu",
@@ -423,7 +423,7 @@
   },
   "pQN1EOZCrylRtIe9": {
    "name": "Passiva Kurama",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário tem o poder incontrolável de Transformar Ficção em Fato. Ao gastar <strong>1 dado de tenacidade</strong>, este adversário pode transformar um jutsu que conjura em um Genjutsu, mudando seu teste de resistência, se houver, para um teste de resistência de Sabedoria.</span></p>",
+   "description": "<p>Este Adversário tem o poder incontrolável de Transformar Ficção em Fato. Ao gastar <strong>1 dado de tenacidade</strong>, este adversário pode transformar um jutsu que conjura em um Genjutsu, mudando seu teste de resistência, se houver, para um teste de resistência de Sabedoria.</p>",
    "condition": "1 Dado de Tenacidade"
   },
   "pqQ1hvAQ6XLbPFnq": {
@@ -432,12 +432,12 @@
   },
   "prFTBxspNc2rhzn4": {
    "name": "Passiva Nara",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário é conhecido por suas Táticas. Se este Adversário escolher como alvo uma criatura hostil com um Hijutsu do clã Nara e esse alvo estiver sob os efeitos de qualquer condição Sensorial ou Física, o alvo faz seu teste de resistência com uma penalidade de 1d4, ou este adversário faz suas jogadas de ataque com um bônus de 1d4.</span></p>",
+   "description": "<p>Este Adversário é conhecido por suas Táticas. Se este Adversário escolher como alvo uma criatura hostil com um Hijutsu do clã Nara e esse alvo estiver sob os efeitos de qualquer condição Sensorial ou Física, o alvo faz seu teste de resistência com uma penalidade de 1d4, ou este adversário faz suas jogadas de ataque com um bônus de 1d4.</p>",
    "condition": "Se o alvo estiver sob os efeitos de qualquer condição Sensorial ou Física"
   },
   "qRcf9IaHyDwUbrxW": {
    "name": "Passiva de Monstruosidade",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário é um extremo do mundo natural. Muito parecido com uma fera, mas muito mais que isso. Não se pode raciocinar com este Adversário, tornando-o imune a efeitos ou condições Sociais que não sejam baseados em jutsu.</span></p><p><span style=\"font-family:'Trebuchet MS'\">Além disso, este Adversário causa dano adicional a criaturas que tenham ferido seus aliados, em uma quantidade igual ao seu nível. Depois de causar esse dano, o dano adicional não se aplica novamente até que ele veja a criatura hostil ferir seus aliados.</span></p>",
+   "description": "<p>Este Adversário é um extremo do mundo natural. Muito parecido com uma fera, mas muito mais que isso. Não se pode raciocinar com este Adversário, tornando-o imune a efeitos ou condições Sociais que não sejam baseados em jutsu.</p><p>Além disso, este Adversário causa dano adicional a criaturas que tenham ferido seus aliados, em uma quantidade igual ao seu nível. Depois de causar esse dano, o dano adicional não se aplica novamente até que ele veja a criatura hostil ferir seus aliados.</p>",
    "condition": "Aliados são feridos"
   },
   "qSl4bPNTt7kNFHpm": {
@@ -455,7 +455,7 @@
   },
   "r3lFdWnxsRhWLb7G": {
    "name": "Passiva Ryu",
-   "description": "<p><span style=\"font-family:'Trebuchet MS'\">Este Adversário pode gastar sua Ação de Elite e 1 dado de Tenacidade para aumentar seu Estágio Dracônico em 1; </span></p><ul><li><p><span style=\"font-family:'Trebuchet MS'\">Estágio 1: Aumente a CA em +1, o dado de Dano Desarmado em +1. </span></p></li><li><p><span style=\"font-family:'Trebuchet MS'\">Estágio 2: O dado de dano de Hijutsu Ryu aumenta de acordo com o Estágio Dracônico atual. </span></p></li><li><p><span style=\"font-family:'Trebuchet MS'\">Estágio 3: Ataques desarmados ganham Alcance 2, Hijutsu Ryu não pode ser dissipado por jutsus de rank igual ou inferior. </span></p></li><li><p><span style=\"font-family:'Trebuchet MS'\">Estágio 4: Aumente a CA em +1, o dado de Dano Desarmado em +1. </span></p></li><li><p><span style=\"font-family:'Trebuchet MS'\">Estágio 5: Este Adversário não pode perder a concentração em Hijutsu Ryu.</span></p></li></ul>",
+   "description": "<p>Este Adversário pode gastar sua Ação de Elite e 1 dado de Tenacidade para aumentar seu Estágio Dracônico em 1; </p><ul><li><p>Estágio 1: Aumente a CA em +1, o dado de Dano Desarmado em +1. </p></li><li><p>Estágio 2: O dado de dano de Hijutsu Ryu aumenta de acordo com o Estágio Dracônico atual. </p></li><li><p>Estágio 3: Ataques desarmados ganham Alcance 2, Hijutsu Ryu não pode ser dissipado por jutsus de rank igual ou inferior. </p></li><li><p>Estágio 4: Aumente a CA em +1, o dado de Dano Desarmado em +1. </p></li><li><p>Estágio 5: Este Adversário não pode perder a concentração em Hijutsu Ryu.</p></li></ul>",
    "condition": "1 Dado de Tenacidade"
   },
   "rVsmlm7iziOTTMWe": {
@@ -473,7 +473,7 @@
    "effects": {
     "3duhlS8MXnrAwjEr": {
      "name": "Generalista 1",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Você não pode fazer testes de atributo ou testes de resistência com desvantagem.</span></p>"
+     "description": "<p>Você não pode fazer testes de atributo ou testes de resistência com desvantagem.</p>"
     }
    }
   },

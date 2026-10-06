@@ -46,7 +46,7 @@
    "effects": {
     "eXiOA9cVz0BLwc7n": {
      "name": "Selo Aprimorado (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo ganha +4 de Redução de Dano contra dano de concussão, perfurante ou cortante.</span></p>"
+     "description": "<p>Armadura imbuída com este selo ganha +4 de Redução de Dano contra dano de concussão, perfurante ou cortante.</p>"
     }
    }
   },
@@ -104,7 +104,7 @@
    "effects": {
     "eAct63eYFgvvVogl": {
      "name": "Selo Quente (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a quem a usa um bônus de 1d4 em testes de resistência feitos para resistir à condição Queimado.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a quem a usa um bônus de 1d4 em testes de resistência feitos para resistir à condição Queimado.</p>"
     }
    }
   },
@@ -122,7 +122,7 @@
    "effects": {
     "8vWYzrsVmR1HrxqU": {
      "name": "Selo Nauseante (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Quando esta arma causaria dano a uma criatura com a condição Envenenado, o(s) alvo(s) sofrem 1d4 de dano adicional.</span></p>"
+     "description": "<p>Quando esta arma causaria dano a uma criatura com a condição Envenenado, o(s) alvo(s) sofrem 1d4 de dano adicional.</p>"
     }
    }
   },
@@ -181,7 +181,7 @@
    "effects": {
     "neUUS4k6eKtgFPpC": {
      "name": "Selo Oculto (Superior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Enquanto estiver em iniciativa com uma criatura hostil Aberração ou Morto-Vivo, esta Armadura ganha um bônus de +3 na CA.</span></p>"
+     "description": "<p>Enquanto estiver em iniciativa com uma criatura hostil Aberração ou Morto-Vivo, esta Armadura ganha um bônus de +3 na CA.</p>"
     }
    }
   },
@@ -219,7 +219,7 @@
    "effects": {
     "YTDKBgXM55mfHsRC": {
      "name": "Selo Esmagador (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a quem a usa um bônus de 1d4 em testes de resistência feitos para resistir à condição Aturdido.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a quem a usa um bônus de 1d4 em testes de resistência feitos para resistir à condição Aturdido.</p>"
     }
    }
   },
@@ -256,7 +256,7 @@
    "effects": {
     "8zjzRqlknrORBj1k": {
      "name": "Selo de Aço Frio (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário um bônus de +1 em testes de resistência de Destreza e Inteligência.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário um bônus de +1 em testes de resistência de Destreza e Inteligência.</p>"
     }
    }
   },
@@ -388,7 +388,7 @@
    "effects": {
     "IqM55zO0xrwdpjt6": {
      "name": "Selo Nauseante (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo têm um bônus de 1d6 em testes de resistência feitos para resistir à condição Envenenado.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo têm um bônus de 1d6 em testes de resistência feitos para resistir à condição Envenenado.</p>"
     }
    }
   },
@@ -410,7 +410,7 @@
    "effects": {
     "aJogrIaP2uzAUd8H": {
      "name": "Selo Solar (Superior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Durante o dia, sob luz solar direta, o usuário desta armadura ganha um bônus de +3 em todos os testes de Atributo e Perícia.</span></p>"
+     "description": "<p>Durante o dia, sob luz solar direta, o usuário desta armadura ganha um bônus de +3 em todos os testes de Atributo e Perícia.</p>"
     }
    }
   },
@@ -450,7 +450,7 @@
    "effects": {
     "HpPXeeKi5iozEWep": {
      "name": "Selo Solar (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Durante o dia, sob luz solar direta, o usuário desta armadura ganha um bônus de +1 em todos os testes de Atributo.</span></p>"
+     "description": "<p>Durante o dia, sob luz solar direta, o usuário desta armadura ganha um bônus de +1 em todos os testes de Atributo.</p>"
     }
    }
   },
@@ -460,7 +460,7 @@
    "effects": {
     "vCkLAwecoGKiKw3s": {
      "name": "Selo Imortal (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem ao seu usuário um bônus de +2 em testes de resistência contra a morte.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem ao seu usuário um bônus de +2 em testes de resistência contra a morte.</p>"
     }
    }
   },
@@ -490,7 +490,7 @@
    "effects": {
     "SAfEUVikqZQBO2pw": {
      "name": "Selo Presa (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Enquanto gravada com este selo, a arma brilha em uma cor laranja fraca durante lua cheia.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Selecione um tipo de invocação Carnívoro encontrado no Capítulo de Jutsu de Invocação do Compêndio de Jutsu de Jiraiya.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Como uma ação, o portador pode se transformar em uma Besta Sábia de Rank D sem nenhuma de suas Características Especiais ou a habilidade de conjurar sua especialidade de Jutsu, uma vez por descanso longo.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Quando o portador se transforma, sua armadura, armas e itens se fundem a ele pela duração.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Você mantém sua CA, valores de atributo, proficiências e idiomas, mas ganha os sentidos especiais da criatura (se houver), deslocamentos especiais, a capacidade de se comunicar com ela e outros animais do seu tipo (Carnívoro) e suas armas naturais.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Você pode permanecer nesta forma por 10 minutos.</span></p>"
+     "description": "<p>Enquanto gravada com este selo, a arma brilha em uma cor laranja fraca durante lua cheia.</p><p>Selecione um tipo de invocação Carnívoro encontrado no Capítulo de Jutsu de Invocação do Compêndio de Jutsu de Jiraiya.</p><p>Como uma ação, o portador pode se transformar em uma Besta Sábia de Rank D sem nenhuma de suas Características Especiais ou a habilidade de conjurar sua especialidade de Jutsu, uma vez por descanso longo.</p><p>Quando o portador se transforma, sua armadura, armas e itens se fundem a ele pela duração.</p><p>Você mantém sua CA, valores de atributo, proficiências e idiomas, mas ganha os sentidos especiais da criatura (se houver), deslocamentos especiais, a capacidade de se comunicar com ela e outros animais do seu tipo (Carnívoro) e suas armas naturais.</p><p>Você pode permanecer nesta forma por 10 minutos.</p>"
     }
    }
   },
@@ -586,7 +586,7 @@
    "effects": {
     "NI7uqM5rfqPCXjxx": {
      "name": "Selo de Força (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem ao seu usuário um bônus de +1 em Testes de Resistência de Força e testes de Perícia.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem ao seu usuário um bônus de +1 em Testes de Resistência de Força e testes de Perícia.</p>"
     }
    }
   },
@@ -603,7 +603,7 @@
    "effects": {
     "UlcDORHEpDSaaZZT": {
      "name": "Selo Corrosivo (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo têm um bônus de 1d6 em testes de resistência feitos para resistir à condição Corroído.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo têm um bônus de 1d6 em testes de resistência feitos para resistir à condição Corroído.</p>"
     }
    }
   },
@@ -613,7 +613,7 @@
    "effects": {
     "qpKz6dMK1jPsA3ri": {
      "name": "Selo de Bravura (Obra-Mestra)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem ao seu usuário imunidade à condição Medo.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem ao seu usuário imunidade à condição Medo.</p>"
     }
    }
   },
@@ -623,7 +623,7 @@
    "effects": {
     "Q5N3zUzeOvfr1doX": {
      "name": "Selo de Força (Superior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem ao seu usuário um bônus de +3 em Testes de Resistência de Força e testes de Perícia.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem ao seu usuário um bônus de +3 em Testes de Resistência de Força e testes de Perícia.</p>"
     }
    }
   },
@@ -669,7 +669,7 @@
    "effects": {
     "bob8bdIMlUOgPe0B": {
      "name": "Selo Gélido (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">rmadura imbuída com este selo tem um bônus de 1d6 em testes de resistência feitos para resistir à condição Resfriado.</span></p>"
+     "description": "<p>rmadura imbuída com este selo tem um bônus de 1d6 em testes de resistência feitos para resistir à condição Resfriado.</p>"
     }
    }
   },
@@ -706,7 +706,7 @@
    "effects": {
     "fnGZQiY5otipEN6H": {
      "name": "Selo Disruptivo (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armas imbuídas com este selo que causam dano a uma criatura concentrada em um Jutsu forçam a criatura alvo a rolar seu Teste de Controle de Chakra para manter a concentração com uma penalidade de -2 ao teste.</span></p>"
+     "description": "<p>Armas imbuídas com este selo que causam dano a uma criatura concentrada em um Jutsu forçam a criatura alvo a rolar seu Teste de Controle de Chakra para manter a concentração com uma penalidade de -2 ao teste.</p>"
     }
    }
   },
@@ -716,7 +716,7 @@
    "effects": {
     "B3f0WKUTv1NByvV7": {
      "name": "Selo Eletrizante (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem ao seu usuário um bônus de 1d4 em testes de resistência feitos para resistir à condição Eletrocutado.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem ao seu usuário um bônus de 1d4 em testes de resistência feitos para resistir à condição Eletrocutado.</p>"
     }
    }
   },
@@ -738,7 +738,7 @@
    "effects": {
     "NzzetFAJiMfGXBAd": {
      "name": "Selo Sinistro (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem ao seu usuário um bônus de +1d6 em testes de Intimidação.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem ao seu usuário um bônus de +1d6 em testes de Intimidação.</p>"
     }
    }
   },
@@ -771,7 +771,7 @@
     },
     "izEdFbf4rQxMybsi": {
      "name": "Selo de Desaparecimento (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem ao seu usuário a capacidade de se tornar invisível como uma Ação por 1 minuto como se estivesse sob o efeito do Genjutsu de Rank B Invisibilidade.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Criaturas podem obter o benefício deste selo uma vez por descanso longo.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;margin-block-end:0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Este efeito ocupa um slot de concentração como se estivesse concentrando em um jutsu de Rank B.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem ao seu usuário a capacidade de se tornar invisível como uma Ação por 1 minuto como se estivesse sob o efeito do Genjutsu de Rank B Invisibilidade.</p><p>Criaturas podem obter o benefício deste selo uma vez por descanso longo.</p><p>Este efeito ocupa um slot de concentração como se estivesse concentrando em um jutsu de Rank B.</p>"
     }
    }
   },
@@ -796,7 +796,7 @@
   },
   "EKLpxw5jWy7vEqzL": {
    "name": "Bolsa de Perna Shinobi",
-   "description": "<p>Bolsa de perna confortável usada por shinobi em toda a terra.</p><p>Ela dá +2 à Carga.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span><br></p><p><span style=\"font-family:Signika, sans-serif\">Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</span></p>"
+   "description": "<p>Bolsa de perna confortável usada por shinobi em toda a terra.</p><p>Ela dá +2 à Carga.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span><br></p><p>Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</p>"
   },
   "EPg4Vh9AjdCRSMkI": {
    "name": "Armadilha de Alarme [C]",
@@ -841,7 +841,7 @@
    "effects": {
     "nDftMtUZM6bgsgmS": {
      "name": "Selo Enegrecido (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem ao seu usuário um bônus de +1d6 em testes de Furtividade.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;margin-block-end:0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Isso também remove quaisquer penalidades de furtividade que uma Armadura possa ter.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem ao seu usuário um bônus de +1d6 em testes de Furtividade.</p><p>Isso também remove quaisquer penalidades de furtividade que uma Armadura possa ter.</p>"
     }
    }
   },
@@ -851,7 +851,7 @@
    "effects": {
     "OJecWYh4YPkwtubq": {
      "name": "Selo Gélido (Obra-Mestra)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem ao seu usuário imunidade à condição Resfriado.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem ao seu usuário imunidade à condição Resfriado.</p>"
     }
    }
   },
@@ -871,7 +871,7 @@
    "effects": {
     "nu2vxehK0s6X6AY3": {
      "name": "Selo Celestial (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem ao seu usuário +4 de redução de dano contra ataques de arma, bukijutsu e taijutsu de Bestas Sábias e Mortos-Vivos.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem ao seu usuário +4 de redução de dano contra ataques de arma, bukijutsu e taijutsu de Bestas Sábias e Mortos-Vivos.</p>"
     }
    }
   },
@@ -884,7 +884,7 @@
    "effects": {
     "iS77Vj9oDAap2lTf": {
      "name": "Selo Esmagador (Obra-Prima)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem ao seu usuário imunidade à condição Aturdido.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem ao seu usuário imunidade à condição Aturdido.</p>"
     }
    }
   },
@@ -898,7 +898,7 @@
    "effects": {
     "T9wsZZpAT4nIq7WU": {
      "name": "Selo Ilusório (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armas imbuídas com este selo concedem ao seu usuário um bônus de +1 ao seu Ataque de Genjutsu.</span></p>"
+     "description": "<p>Armas imbuídas com este selo concedem ao seu usuário um bônus de +1 ao seu Ataque de Genjutsu.</p>"
     }
    }
   },
@@ -975,7 +975,7 @@
    "effects": {
     "ZEEQmZ5lthEledhe": {
      "name": "Selo Eletrizante (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo têm um bônus de 1d6 em testes de resistência feitos para resistir à condição Eletrocutado.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo têm um bônus de 1d6 em testes de resistência feitos para resistir à condição Eletrocutado.</p>"
     }
    }
   },
@@ -994,7 +994,7 @@
    "effects": {
     "BQvE7zyz6zhIH6dZ": {
      "name": "Selo Primal (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Enquanto você estiver em iniciativa contra uma criatura hostil do tipo Besta Sábia ou Monstruosidade, esta armadura ganha um bônus de +2 na CA.</span></p>"
+     "description": "<p>Enquanto você estiver em iniciativa contra uma criatura hostil do tipo Besta Sábia ou Monstruosidade, esta armadura ganha um bônus de +2 na CA.</p>"
     }
    }
   },
@@ -1080,7 +1080,7 @@
    "effects": {
     "Lj2QwN1C8PonPbpI": {
      "name": "Selo Imortal (Superior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem a quem as usa vantagem em testes de resistência contra morte.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem a quem as usa vantagem em testes de resistência contra morte.</p>"
     }
    }
   },
@@ -1130,7 +1130,7 @@
    "effects": {
     "fUh1OXActHFfmJDO": {
      "name": "Selo de Sustentação (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo têm um bônus de 1d6 em testes de resistência feitos para resistir a ser movido, empurrado ou puxado.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo têm um bônus de 1d6 em testes de resistência feitos para resistir a ser movido, empurrado ou puxado.</p>"
     }
    }
   },
@@ -1148,7 +1148,7 @@
    "effects": {
     "LNaqjNAEc1nMGybr": {
      "name": "Selo Estelar (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Durante o crepúsculo, enquanto o sol, a lua e as estrelas estão visíveis ao mesmo tempo, esta armadura ganha resistência a todo dano.</span></p>"
+     "description": "<p>Durante o crepúsculo, enquanto o sol, a lua e as estrelas estão visíveis ao mesmo tempo, esta armadura ganha resistência a todo dano.</p>"
     }
    }
   },
@@ -1162,7 +1162,7 @@
    "effects": {
     "oUDVghJczPNjFAVT": {
      "name": "Selo de Caçador (Superior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armas imbuídas com este selo causam 2 dados de dano adicionais em ataques de arma contra tipos específicos de criaturas. Selecione 2 tipos de criatura da lista a seguir para serem afetados por este selo:</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;margin-block-end:0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Aberrações, Bestas, Celestiais, Construtos, Demônios, Monstruosidades, Mutantes, Plantas, Criaturas Sábias, Mortos-vivos.</span></p>"
+     "description": "<p>Armas imbuídas com este selo causam 2 dados de dano adicionais em ataques de arma contra tipos específicos de criaturas. Selecione 2 tipos de criatura da lista a seguir para serem afetados por este selo:</p><p>Aberrações, Bestas, Celestiais, Construtos, Demônios, Monstruosidades, Mutantes, Plantas, Criaturas Sábias, Mortos-vivos.</p>"
     }
    }
   },
@@ -1172,7 +1172,7 @@
    "effects": {
     "qwR5ECfZeDFVXZ3C": {
      "name": "Selo Disruptivo (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com isto concedem a seu usuário um bônus de +2 em testes de Controle de Chakra feitos para manter a concentração.</span></p>"
+     "description": "<p>Armaduras imbuídas com isto concedem a seu usuário um bônus de +2 em testes de Controle de Chakra feitos para manter a concentração.</p>"
     }
    }
   },
@@ -1186,7 +1186,7 @@
    "effects": {
     "lZAsiAgReGaSrqkW": {
      "name": "Selo de Ninshou (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armas imbuídas com este selo concedem a seu usuário um bônus de +1 em seu Ataque de Ninjutsu.</span></p>"
+     "description": "<p>Armas imbuídas com este selo concedem a seu usuário um bônus de +1 em seu Ataque de Ninjutsu.</p>"
     }
    }
   },
@@ -1238,7 +1238,7 @@
    "effects": {
     "2nLr1VzarCyNXZgM": {
      "name": "Selo de Aço Obsidiana (Obra-Prima)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem a seu usuário um bônus de +3 em testes de resistência de Força e Constituição.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem a seu usuário um bônus de +3 em testes de resistência de Força e Constituição.</p>"
     }
    }
   },
@@ -1252,7 +1252,7 @@
    "effects": {
     "eKHmmkuOIMwQLV6Q": {
      "name": "Selo Oculto (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Enquanto você estiver em iniciativa contra uma criatura hostil do tipo Aberração ou Morto-vivo, esta Armadura ganha um bônus de +2 em testes de resistência contra essas criaturas.</span></p>"
+     "description": "<p>Enquanto você estiver em iniciativa contra uma criatura hostil do tipo Aberração ou Morto-vivo, esta Armadura ganha um bônus de +2 em testes de resistência contra essas criaturas.</p>"
     }
    }
   },
@@ -1323,7 +1323,7 @@
    "effects": {
     "LqVuojonglC2IbvU": {
      "name": "Selo Aterrorizante (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armas imbuídas com este selo concedem a seu usuário proficiência na perícia de Intimidação.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Além disso, o usuário pode usar sua ação em combate para fazer um teste de Intimidação usando o atributo Primário da arma imbuída, contra uma criatura a até 5 pés dele, versus a Sabedoria (Intuição) do alvo.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Em um sucesso, o alvo deixa cair qualquer arma que esteja segurando por medo, ganha 1 rank de Medo, e se move até metade de seu deslocamento para longe de você.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;margin-block-end:0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">O alvo então se torna imune a este efeito até completar um descanso longo.</span></p>"
+     "description": "<p>Armas imbuídas com este selo concedem a seu usuário proficiência na perícia de Intimidação.</p><p>Além disso, o usuário pode usar sua ação em combate para fazer um teste de Intimidação usando o atributo Primário da arma imbuída, contra uma criatura a até 5 pés dele, versus a Sabedoria (Intuição) do alvo.</p><p>Em um sucesso, o alvo deixa cair qualquer arma que esteja segurando por medo, ganha 1 rank de Medo, e se move até metade de seu deslocamento para longe de você.</p><p>O alvo então se torna imune a este efeito até completar um descanso longo.</p>"
     }
    }
   },
@@ -1341,7 +1341,7 @@
   },
   "NijK86qNzaHagxIh": {
    "name": "Kit Médico",
-   "description": "<p>Este kit inclui todos os instrumentos necessários para realizar investigações e procedimentos médicos complexos fora de uma instalação médica com ambiente esterilizado, permitindo que você diagnostique e até trate problemas como ossos quebrados, feridas abertas, e até mesmo forneça cuidados imediatos a pessoas à beira da morte fazendo testes de resistência contra a morte.</p><p>Proficiência com este kit permite que você adicione seu bônus de proficiência a qualquer teste de perícia feito para realizar tarefas médicas, cura leve, tratamento de condições, estabilização e criação de Pílulas de Sangue.</p><hr><p><strong>Checkup Médico (1 Carga).</strong></p><p>Gastando 1 carga ao longo de 10 minutos, você consegue avaliar o estado atual de até 6 criaturas, informando-as sobre todas as condições, doenças, venenos ou efeitos que as afetam no momento, e como curá-los/removê-los.</p><hr><p><strong>Curativo Leve (X Carga(s)).</strong></p><p>Você seleciona uma criatura a até 5 pés de você.</p><p>Pelos próximos 10 minutos, você gasta tempo tratando-a.</p><p>Gaste qualquer quantidade de cargas.</p><p>Para cada carga gasta, a criatura recupera 2d4 pontos de vida.</p><hr><p><strong>Reparo Completo (2 Cargas).</strong></p><p>Você seleciona uma criatura a até 5 pés de você.</p><p>Como uma ação, você a injeta com um fluido adrenal destinado a evitar a morte.</p><p>Remova um teste de resistência contra a morte falho dela.</p><hr><p><strong>Estabilização (3 Cargas).</strong></p><p>Selecione uma criatura que esteja morrendo ou fazendo testes de resistência contra a morte a até 5 pés de você.</p><p>Gastando 3 cargas, você consegue estabilizá-la em 0 pontos de vida.</p><p>Fazer isso remove até 2 testes de resistência contra a morte falhos.</p><hr><p><strong>Tratamento de Condição (3 Cargas).</strong></p><p>Selecione uma criatura que esteja a até 5 pés de você.</p><p>Ao longo de 10 minutos a 1 hora, você consegue tratar uma criatura, curando-a de uma quantidade de condições sob cujos efeitos ela esteja atualmente.</p><p>Role 1d6.</p><p>O resultado é a quantidade de minutos gastos realizando esse tratamento, multiplicada por 10.</p><hr><p><strong>Criação de Pílula de Sangue (2 Carga(s)).</strong></p><p>Gastando pelo menos 2 cargas, você pode gastar 1 hora de tempo de lazer ou a duração de um descanso curto criando estimulantes que aumentam o sangue em forma de pílula, conhecidos como Pílula de Sangue.</p><p>Ao fazer isso, você cria uma quantidade de Pílulas de Sangue de uso único com qualidade igual à qualidade deste Kit; para cada 2 Cargas gastas, você cria uma Pílula de Sangue de uso único.</p><p></p><p><span style=\"font-family:Signika, sans-serif\">Rank de Condição Removida: Rank C.</span></p>"
+   "description": "<p>Este kit inclui todos os instrumentos necessários para realizar investigações e procedimentos médicos complexos fora de uma instalação médica com ambiente esterilizado, permitindo que você diagnostique e até trate problemas como ossos quebrados, feridas abertas, e até mesmo forneça cuidados imediatos a pessoas à beira da morte fazendo testes de resistência contra a morte.</p><p>Proficiência com este kit permite que você adicione seu bônus de proficiência a qualquer teste de perícia feito para realizar tarefas médicas, cura leve, tratamento de condições, estabilização e criação de Pílulas de Sangue.</p><hr><p><strong>Checkup Médico (1 Carga).</strong></p><p>Gastando 1 carga ao longo de 10 minutos, você consegue avaliar o estado atual de até 6 criaturas, informando-as sobre todas as condições, doenças, venenos ou efeitos que as afetam no momento, e como curá-los/removê-los.</p><hr><p><strong>Curativo Leve (X Carga(s)).</strong></p><p>Você seleciona uma criatura a até 5 pés de você.</p><p>Pelos próximos 10 minutos, você gasta tempo tratando-a.</p><p>Gaste qualquer quantidade de cargas.</p><p>Para cada carga gasta, a criatura recupera 2d4 pontos de vida.</p><hr><p><strong>Reparo Completo (2 Cargas).</strong></p><p>Você seleciona uma criatura a até 5 pés de você.</p><p>Como uma ação, você a injeta com um fluido adrenal destinado a evitar a morte.</p><p>Remova um teste de resistência contra a morte falho dela.</p><hr><p><strong>Estabilização (3 Cargas).</strong></p><p>Selecione uma criatura que esteja morrendo ou fazendo testes de resistência contra a morte a até 5 pés de você.</p><p>Gastando 3 cargas, você consegue estabilizá-la em 0 pontos de vida.</p><p>Fazer isso remove até 2 testes de resistência contra a morte falhos.</p><hr><p><strong>Tratamento de Condição (3 Cargas).</strong></p><p>Selecione uma criatura que esteja a até 5 pés de você.</p><p>Ao longo de 10 minutos a 1 hora, você consegue tratar uma criatura, curando-a de uma quantidade de condições sob cujos efeitos ela esteja atualmente.</p><p>Role 1d6.</p><p>O resultado é a quantidade de minutos gastos realizando esse tratamento, multiplicada por 10.</p><hr><p><strong>Criação de Pílula de Sangue (2 Carga(s)).</strong></p><p>Gastando pelo menos 2 cargas, você pode gastar 1 hora de tempo de lazer ou a duração de um descanso curto criando estimulantes que aumentam o sangue em forma de pílula, conhecidos como Pílula de Sangue.</p><p>Ao fazer isso, você cria uma quantidade de Pílulas de Sangue de uso único com qualidade igual à qualidade deste Kit; para cada 2 Cargas gastas, você cria uma Pílula de Sangue de uso único.</p><p></p><p>Rank de Condição Removida: Rank C.</p>"
   },
   "Nj46AhAxGNmz7fkf": {
    "name": "Armadilha Venenosa [D]",
@@ -1371,7 +1371,7 @@
    "effects": {
     "Fkl4UglnXMwr6era": {
      "name": "Selo Fantasma (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Enquanto gravada com este selo, a arma brilha com uma aura sombria ao redor de sua parte de impacto ou de sua munição.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;margin-block-end:0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Esta arma pode ferir criaturas sem forma física, como fantasmas ou espectros.</span></p>"
+     "description": "<p>Enquanto gravada com este selo, a arma brilha com uma aura sombria ao redor de sua parte de impacto ou de sua munição.</p><p>Esta arma pode ferir criaturas sem forma física, como fantasmas ou espectros.</p>"
     }
    }
   },
@@ -1425,7 +1425,7 @@
   },
   "Q3WASa9H11K0PExf": {
    "name": "Bolsa de Perna Shinobi",
-   "description": "<p>Bolsa de perna confortável usada por shinobi em toda a terra.</p><p>Ela dá +2 à Carga.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span><br></p><p><span style=\"font-family:Signika, sans-serif\">Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</span></p>"
+   "description": "<p>Bolsa de perna confortável usada por shinobi em toda a terra.</p><p>Ela dá +2 à Carga.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span><br></p><p>Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</p>"
   },
   "Q7j5Bnx8XQa7RDZI": {
    "name": "Arma de Kunai Balística",
@@ -1466,7 +1466,7 @@
    "description": "<p>Você cultiva um esporo venenoso de mofo que ataca criaturas próximas.</p><p>Esta armadilha é acionada quando uma criatura se move para o espaço do mofo, causa dano a ele, ou falha ao tentar desativá-lo.</p><p>Quando a armadilha é acionada, todas as criaturas a até 10 pés são expostas ao mofo.</p><p>Elas devem fazer um teste de resistência em todos os turnos pelo próximo minuto.</p><p>Cada teste de resistência malsucedido impõe a elas 1 rank da condição Empeçonhado, que persiste por 24 horas.</p><p></p><p>CD de Construção: 27</p><p>CD de Percepção/Desarme: 26</p><p>Kit necessário para criar/desarmar: Kit de Culinária</p>"
   },
   "RN4s5LRwSNYAmr47": {
-   "description": "<p><span style=\"font-family:Signika, sans-serif\">Um par de escudo e lança curta, oferecendo defesa e ataques perfurantes.</span></p>"
+   "description": "<p>Um par de escudo e lança curta, oferecendo defesa e ataques perfurantes.</p>"
   },
   "RVH6a2yVGWNNAi8w": {
    "name": "Selo de Coragem (Menor)",
@@ -1474,7 +1474,7 @@
    "effects": {
     "6t3SGspjnId68G8G": {
      "name": "Selo de Coragem (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem a quem as usa um bônus de 1d4 em testes de resistência feitos para resistir à condição Medo.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem a quem as usa um bônus de 1d4 em testes de resistência feitos para resistir à condição Medo.</p>"
     }
    }
   },
@@ -1492,7 +1492,7 @@
    "effects": {
     "GVlXFTHdCXphDIq4": {
      "name": "Selo de Aço Obsidiana (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem a seu usuário um bônus de +1 em testes de resistência de Força e Constituição.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem a seu usuário um bônus de +1 em testes de resistência de Força e Constituição.</p>"
     }
    }
   },
@@ -1509,7 +1509,7 @@
    "effects": {
     "4EoddZSUrt7gsOox": {
      "name": "Selo Ardente (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo têm um bônus de 1d6 em testes de resistência feitos para resistir à condição Queimado.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo têm um bônus de 1d6 em testes de resistência feitos para resistir à condição Queimado.</p>"
     }
    }
   },
@@ -1587,7 +1587,7 @@
    "effects": {
     "LAx95Lnj9RFOEWpL": {
      "name": "Selo Aprimorado (Obra-Prima)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo ganham +6 de Redução de Dano contra dano de Concussão, Perfurante ou Cortante.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo ganham +6 de Redução de Dano contra dano de Concussão, Perfurante ou Cortante.</p>"
     }
    }
   },
@@ -1625,7 +1625,7 @@
    "effects": {
     "FCzXrwyeaPRLrOJt": {
      "name": "Selo Caótico (Superior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem a quem as usa +4 de Redução de Dano contra ataques de arma, bukijutsu, taijutsu, ninjutsu e genjutsu de Construtos e Mutantes.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem a quem as usa +4 de Redução de Dano contra ataques de arma, bukijutsu, taijutsu, ninjutsu e genjutsu de Construtos e Mutantes.</p>"
     }
    }
   },
@@ -1642,7 +1642,7 @@
    "effects": {
     "QkIULPb2uy0Onjjd": {
      "name": "Selo Ardente (Obra-Prima)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armaduras imbuídas com este selo concedem a seu usuário imunidade à condição Queimado.</span></p>"
+     "description": "<p>Armaduras imbuídas com este selo concedem a seu usuário imunidade à condição Queimado.</p>"
     }
    }
   },
@@ -1689,7 +1689,7 @@
    "effects": {
     "yFWRIk1o2xGrXN3N": {
      "name": "Selo Corrosivo (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a quem a veste um bônus de 1d4 em testes de resistência feitos para resistir à condição Corroído.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a quem a veste um bônus de 1d4 em testes de resistência feitos para resistir à condição Corroído.</p>"
     }
    }
   },
@@ -1699,7 +1699,7 @@
    "effects": {
     "5atvXRXE3eRsr2O4": {
      "name": "Selo de Dissipação (Superior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a quem a veste a capacidade de dissipar efeitos prejudiciais sobre si mesmo.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;margin-block-end:0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Uma vez por descanso, como Reação, quem a veste pode conjurar o Ninjutsu Dissipar Chakra, em Rank B, tendo a si mesmo como alvo.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a quem a veste a capacidade de dissipar efeitos prejudiciais sobre si mesmo.</p><p>Uma vez por descanso, como Reação, quem a veste pode conjurar o Ninjutsu Dissipar Chakra, em Rank B, tendo a si mesmo como alvo.</p>"
     }
    }
   },
@@ -1713,7 +1713,7 @@
    "effects": {
     "VM0o4X9ZxhcdFL4Z": {
      "name": "Selo Primal (Superior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Enquanto você estiver em iniciativa com uma criatura hostil do tipo Besta Sábia ou Monstruosidade, esta armadura ganha um bônus de +3 na CA.</span></p>"
+     "description": "<p>Enquanto você estiver em iniciativa com uma criatura hostil do tipo Besta Sábia ou Monstruosidade, esta armadura ganha um bônus de +3 na CA.</p>"
     }
    }
   },
@@ -1723,7 +1723,7 @@
    "effects": {
     "AoMDxsPieXn95SrV": {
      "name": "Selo Eletrizante (Obra-Prima)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário imunidade à condição Eletrocutado.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário imunidade à condição Eletrocutado.</p>"
     }
    }
   },
@@ -1797,7 +1797,7 @@
    "effects": {
     "uJYmszZbbMKcvdc0": {
      "name": "Selo Corrosivo (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armas imbuídas com este selo que causam dano a uma criatura com a condição Corroído são capazes de sifonar parte dessa energia do alvo uma vez por turno, concedendo a você um bônus de 1d4 no primeiro teste de resistência que fizer contra um Jutsu que infligiria uma condição Elemental, até o início do seu próximo turno.</span></p>"
+     "description": "<p>Armas imbuídas com este selo que causam dano a uma criatura com a condição Corroído são capazes de sifonar parte dessa energia do alvo uma vez por turno, concedendo a você um bônus de 1d4 no primeiro teste de resistência que fizer contra um Jutsu que infligiria uma condição Elemental, até o início do seu próximo turno.</p>"
     }
    }
   },
@@ -1840,7 +1840,7 @@
    "effects": {
     "1TupExq7xdcT7IL2": {
      "name": "Selo Sangrento (Obra-Prima)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário imunidade à condição Sangrando.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário imunidade à condição Sangrando.</p>"
     }
    }
   },
@@ -1882,7 +1882,7 @@
    "effects": {
     "5Us6OaqJqLW1koJM": {
      "name": "Selo de Rapidez (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a quem a veste +10 em seu deslocamento.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a quem a veste +10 em seu deslocamento.</p>"
     }
    }
   },
@@ -1903,7 +1903,7 @@
    "effects": {
     "pbGdq0Jx9rwUOKv8": {
      "name": "Selo de Metal Estelar (Obra-Prima)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário um bônus de +3 em testes de resistência de Sabedoria e Carisma.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário um bônus de +3 em testes de resistência de Sabedoria e Carisma.</p>"
     }
    }
   },
@@ -1925,7 +1925,7 @@
    "effects": {
     "e8w0RZVWDbyVzKqR": {
      "name": "Selo Quente (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Quando esta arma causaria dano a uma criatura com a condição Queimado, o(s) alvo(s) sofre(m) 1d4 de dano adicional.</span></p>"
+     "description": "<p>Quando esta arma causaria dano a uma criatura com a condição Queimado, o(s) alvo(s) sofre(m) 1d4 de dano adicional.</p>"
     }
    }
   },
@@ -1943,7 +1943,7 @@
    "effects": {
     "STwXfO91ToeU831V": {
      "name": "Selo de Metal Estelar (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário um bônus de +2 em testes de resistência de Sabedoria e Carisma.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário um bônus de +2 em testes de resistência de Sabedoria e Carisma.</p>"
     }
    }
   },
@@ -1957,7 +1957,7 @@
    "effects": {
     "gcDjr967XSSbwOIo": {
      "name": "Selo Resfriante (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário um bônus de 1d4 em testes de resistência feitos para resistir à condição Resfriado.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário um bônus de 1d4 em testes de resistência feitos para resistir à condição Resfriado.</p>"
     }
    }
   },
@@ -1967,7 +1967,7 @@
    "effects": {
     "tE3Zu6nUazpb69NY": {
      "name": "Selo da Maldição (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Quando este selo é colocado em uma arma, ela começa a vibrar de forma aparentemente aleatória na presença da criatura que especificamente procura.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Escolha dois tipos de criatura entre os seguintes: Aberração, Besta, Celestial, Monstruosidade, Mutante, Planta, Criatura Sábia, Morto-vivo.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;margin-block-end:0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Quando esta arma causa dano a uma criatura desse tipo, essa criatura sofre 1d6 de dano adicional</span></p>"
+     "description": "<p>Quando este selo é colocado em uma arma, ela começa a vibrar de forma aparentemente aleatória na presença da criatura que especificamente procura.</p><p>Escolha dois tipos de criatura entre os seguintes: Aberração, Besta, Celestial, Monstruosidade, Mutante, Planta, Criatura Sábia, Morto-vivo.</p><p>Quando esta arma causa dano a uma criatura desse tipo, essa criatura sofre 1d6 de dano adicional</p>"
     }
    }
   },
@@ -2047,7 +2047,7 @@
    "effects": {
     "18XJCr9vtZuDVOou": {
      "name": "Selo Aprimorado (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo ganha +2 de Redução de Dano contra dano de concussão, perfurante ou cortante.</span></p>"
+     "description": "<p>Armadura imbuída com este selo ganha +2 de Redução de Dano contra dano de concussão, perfurante ou cortante.</p>"
     }
    }
   },
@@ -2071,7 +2071,7 @@
    "effects": {
     "YtsFh9XHLIIC2ZGW": {
      "name": "Selo Estelar (Superior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Durante o crepúsculo, enquanto o sol, a lua e as estrelas estão à vista ao mesmo tempo, esta armadura ganha resistência a todo dano e você reduz o dano resistido em -5 adicional.</span></p>"
+     "description": "<p>Durante o crepúsculo, enquanto o sol, a lua e as estrelas estão à vista ao mesmo tempo, esta armadura ganha resistência a todo dano e você reduz o dano resistido em -5 adicional.</p>"
     }
    }
   },
@@ -2137,7 +2137,7 @@
    "effects": {
     "a1U5P9orfaGQj59t": {
      "name": "Selo Esmagador (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo tem um bônus de 1d6 em testes de resistência feitos para resistir à condição Aturdido.</span></p>"
+     "description": "<p>Armadura imbuída com este selo tem um bônus de 1d6 em testes de resistência feitos para resistir à condição Aturdido.</p>"
     }
    }
   },
@@ -2147,7 +2147,7 @@
    "effects": {
     "MvgQPKVT0jBZouCM": {
      "name": "Selo Abissal (Superior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário +4 de redução de dano contra ataques de arma, bukijutsu, taijutsu, ninjutsu e genjutsu de Demônios e Monstruosidades.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário +4 de redução de dano contra ataques de arma, bukijutsu, taijutsu, ninjutsu e genjutsu de Demônios e Monstruosidades.</p>"
     }
    }
   },
@@ -2169,7 +2169,7 @@
    "effects": {
     "7aOxjtUbdaEDqU6H": {
      "name": "Selo Sangrento (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário um bônus de 1d4 em testes de resistência feitos para resistir à condição Sangrando.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário um bônus de 1d4 em testes de resistência feitos para resistir à condição Sangrando.</p>"
     }
    }
   },
@@ -2202,7 +2202,7 @@
    "effects": {
     "lJzPqzf7OCwUURbc": {
      "name": "Selo Disruptivo (Superior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com isto concede a seu usuário um bônus de +4 em testes de Controle de Chakra feitos para manter a concentração.</span></p>"
+     "description": "<p>Armadura imbuída com isto concede a seu usuário um bônus de +4 em testes de Controle de Chakra feitos para manter a concentração.</p>"
     }
    }
   },
@@ -2216,7 +2216,7 @@
    "effects": {
     "NkCD9SENFmtY0Ok1": {
      "name": "Selo de Destreza (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário um bônus de +1 em testes de resistência de Destreza e testes de perícia.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário um bônus de +1 em testes de resistência de Destreza e testes de perícia.</p>"
     }
    }
   },
@@ -2248,7 +2248,7 @@
    "effects": {
     "SJwGO53LcJEcboj6": {
      "name": "Selo Lunar (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Durante a noite, sob a luz de qualquer fase da lua exceto a lua nova, esta armadura trata acertos críticos de ataques de arma, Taijutsu ou Bukijutsu como acertos normais.</span></p>"
+     "description": "<p>Durante a noite, sob a luz de qualquer fase da lua exceto a lua nova, esta armadura trata acertos críticos de ataques de arma, Taijutsu ou Bukijutsu como acertos normais.</p>"
     }
    }
   },
@@ -2273,7 +2273,7 @@
    "effects": {
     "4IPwoQk4Udp3UxBt": {
      "name": "Selo Abissal (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário +4 de redução de dano contra ataques de arma, bukijutsu e taijutsu de Demônios e Monstruosidades.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário +4 de redução de dano contra ataques de arma, bukijutsu e taijutsu de Demônios e Monstruosidades.</p>"
     }
    }
   },
@@ -2296,7 +2296,7 @@
    "effects": {
     "eypcHKIAOeQaRXu5": {
      "name": "Selo Escorregadio (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário um bônus de +1d6 em testes de Atletismo feitos para escapar de um agarrão e testes de Acrobacia feitos para se espremer por aberturas pequenas.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário um bônus de +1d6 em testes de Atletismo feitos para escapar de um agarrão e testes de Acrobacia feitos para se espremer por aberturas pequenas.</p>"
     }
    }
   },
@@ -2310,7 +2310,7 @@
    "effects": {
     "JOjf60vSFv4UrhtV": {
      "name": "Selo Sangrento (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo tem um bônus de 1d6 em testes de resistência feitos para resistir à condição Sangrando</span></p>"
+     "description": "<p>Armadura imbuída com este selo tem um bônus de 1d6 em testes de resistência feitos para resistir à condição Sangrando</p>"
     }
    }
   },
@@ -2334,7 +2334,7 @@
    "effects": {
     "Lhu2JfqP3crIctYS": {
      "name": "Selo de Metal Estelar (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário um bônus de +1 em testes de resistência de Sabedoria e Carisma.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário um bônus de +1 em testes de resistência de Sabedoria e Carisma.</p>"
     }
    }
   },
@@ -2379,7 +2379,7 @@
    "effects": {
     "WMaxPznFCcUWyGAr": {
      "name": "Selo de Aço Frio (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário um bônus de +2 em testes de resistência de Destreza e Inteligência.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário um bônus de +2 em testes de resistência de Destreza e Inteligência.</p>"
     }
    }
   },
@@ -2389,7 +2389,7 @@
    "effects": {
     "5n4mdYKwjFBtrH7D": {
      "name": "Selo Nauseante (Obra-Mestra)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário imunidade à condição Envenenado.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário imunidade à condição Envenenado.</p>"
     }
    }
   },
@@ -2399,7 +2399,7 @@
    "effects": {
     "jMtf9TNDzXolJVyg": {
      "name": "Selo Nauseante (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário um bônus de 1d4 em testes de resistência feitos para resistir à condição Envenenado.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário um bônus de 1d4 em testes de resistência feitos para resistir à condição Envenenado.</p>"
     }
    }
   },
@@ -2413,7 +2413,7 @@
    "effects": {
     "R9kjB6HFNmLLwQAx": {
      "name": "Selo Sangrento (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Quando esta arma causaria dano a uma criatura com a condição Sangrando, o(s) alvo(s) sofre(m) 1d4 de dano adicional.</span></p>"
+     "description": "<p>Quando esta arma causaria dano a uma criatura com a condição Sangrando, o(s) alvo(s) sofre(m) 1d4 de dano adicional.</p>"
     }
    }
   },
@@ -2427,7 +2427,7 @@
    "effects": {
     "r1gca5W3XIHmg9jf": {
      "name": "Selo Cruento (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Quando você usa esta arma em um Taijutsu ou Bukijutsu de Rank D, criaturas afetadas sofrem penalidade de -1 em seus testes de resistência contra a conjuração do jutsu.</span></p>"
+     "description": "<p>Quando você usa esta arma em um Taijutsu ou Bukijutsu de Rank D, criaturas afetadas sofrem penalidade de -1 em seus testes de resistência contra a conjuração do jutsu.</p>"
     }
    }
   },
@@ -2445,13 +2445,13 @@
    "effects": {
     "iL6rs7JC39pDktB5": {
      "name": "Selo Lunar (Superior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Durante a noite, sob a luz de qualquer fase da lua exceto a lua nova, esta armadura trata acertos críticos de arma, Taijutsu, Bukijutsu, Ninjutsu e Genjutsu como acertos normais.</span></p>"
+     "description": "<p>Durante a noite, sob a luz de qualquer fase da lua exceto a lua nova, esta armadura trata acertos críticos de arma, Taijutsu, Bukijutsu, Ninjutsu e Genjutsu como acertos normais.</p>"
     }
    }
   },
   "k2Et9OOk4b755SC5": {
    "name": "Mochila Shinobi",
-   "description": "<p>Mochila confortável usada por shinobi em toda a terra.</p><p>Ela concede +10 de Volume.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span><br></p><p><span style=\"font-family:Signika, sans-serif\">Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</span></p>"
+   "description": "<p>Mochila confortável usada por shinobi em toda a terra.</p><p>Ela concede +10 de Volume.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span><br></p><p>Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</p>"
   },
   "k8ak5XxXp5g0sQli": {
    "name": "Fechadura Venenosa [C]",
@@ -2505,7 +2505,7 @@
    "effects": {
     "XINiPL6oLC3aB2NK": {
      "name": "Selo de Mobilidade (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário deslocamento de escalada e de natação igual ao deslocamento de seu usuário.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário deslocamento de escalada e de natação igual ao deslocamento de seu usuário.</p>"
     }
    }
   },
@@ -2515,7 +2515,7 @@
    "effects": {
     "9dwji4WaiZ02jvAT": {
      "name": "Selo Sinistro (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário um bônus de +1d4 em testes de Intimidação.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário um bônus de +1d4 em testes de Intimidação.</p>"
     }
    }
   },
@@ -2579,11 +2579,11 @@
   },
   "n5ebBackpack0010": {
    "name": "Mochila Shinobi",
-   "description": "<p>Mochila confortável usada por shinobi em toda a terra.</p><p>Ela concede +10 de Volume.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span><br></p><p><span style=\"font-family:Signika, sans-serif\">Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</span></p>"
+   "description": "<p>Mochila confortável usada por shinobi em toda a terra.</p><p>Ela concede +10 de Volume.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span><br></p><p>Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</p>"
   },
   "n5ebBeltPouch010": {
    "name": "Bolsa de Cinto Shinobi",
-   "description": "<p>Bolsa de cinto confortável usada por shinobi em toda a terra.</p><p>Ela concede +3 de Volume.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span></p><p><br><span style=\"font-family:Signika, sans-serif\">Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</span></p>"
+   "description": "<p>Bolsa de cinto confortável usada por shinobi em toda a terra.</p><p>Ela concede +3 de Volume.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span></p><p><br>Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</p>"
   },
   "n5ebChokuto00100": {
    "description": "<p>Uma espada reta de um só fio, para causar cortes precisos e letais.</p>"
@@ -2598,7 +2598,7 @@
   },
   "n5ebLegPouch0010": {
    "name": "Bolsa de Perna Shinobi",
-   "description": "<p>Bolsa de perna confortável usada por shinobi em toda a terra.</p><p>Ela dá +2 à Carga.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span><br></p><p><span style=\"font-family:Signika, sans-serif\">Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</span></p>"
+   "description": "<p>Bolsa de perna confortável usada por shinobi em toda a terra.</p><p>Ela dá +2 à Carga.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span><br></p><p>Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</p>"
   },
   "n5ebRadioLink010": {
    "name": "Link de Rádio",
@@ -2652,7 +2652,7 @@
    "effects": {
     "1E678igRjsguv554": {
      "name": "Selo da Bravura (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com o selo tem um bônus de 1d6 em testes de resistência feitos para resistir à condição Medo.</span></p>"
+     "description": "<p>Armadura imbuída com o selo tem um bônus de 1d6 em testes de resistência feitos para resistir à condição Medo.</p>"
     }
    }
   },
@@ -2709,7 +2709,7 @@
    "effects": {
     "iIMKjFepUsknxu6p": {
      "name": "Selo Marcial (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armas imbuídas com este selo concedem a seu usuário um bônus de +1 em seu Ataque de Taijutsu.</span></p>"
+     "description": "<p>Armas imbuídas com este selo concedem a seu usuário um bônus de +1 em seu Ataque de Taijutsu.</p>"
     }
    }
   },
@@ -2765,7 +2765,7 @@
    "effects": {
     "yC3lOX3AUlFIhnVP": {
      "name": "Selo de Aço Obsidiana (Maior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário um bônus de +2 em testes de resistência de Força e Constituição.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário um bônus de +2 em testes de resistência de Força e Constituição.</p>"
     }
    }
   },
@@ -2831,7 +2831,7 @@
    "effects": {
     "2mEThpjGdeVOGlvM": {
      "name": "Selo Veloz (Superior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário +20 em seu deslocamento</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário +20 em seu deslocamento</p>"
     }
    }
   },
@@ -2865,7 +2865,7 @@
    "effects": {
     "WM9G2Wx8MirST2lS": {
      "name": "Selo de Laceração (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armas imbuídas com este selo causam um dado de dano de arma adicional a criaturas com Pontos de Vida Temporários.</span></p>"
+     "description": "<p>Armas imbuídas com este selo causam um dado de dano de arma adicional a criaturas com Pontos de Vida Temporários.</p>"
     }
    }
   },
@@ -2893,7 +2893,7 @@
   },
   "tHs1qx4r1dWOP17G": {
    "name": "Bolsa de Cinto Shinobi",
-   "description": "<p>Bolsa de cinto confortável usada por shinobi em toda a terra.</p><p>Ela concede +3 de Volume.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span></p><p><br><span style=\"font-family:Signika, sans-serif\">Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</span></p>"
+   "description": "<p>Bolsa de cinto confortável usada por shinobi em toda a terra.</p><p>Ela concede +3 de Volume.</p><p><span dir=\"ltr\">Você só pode se beneficiar de uma ferramenta de armazenamento Shinobi do mesmo tipo.</span></p><p><br>Ex. Você não pode se beneficiar de ter 10 Bolsas de Perna ou 5 Bolsas de Cinto. Você só se beneficia de 1 de cada.</p>"
   },
   "tTFWWJ9iiYvaMiJR": {
    "name": "Armadilha de Fosso Oculta [B]",
@@ -2919,7 +2919,7 @@
    "effects": {
     "6QyR4dHyVhskqb5u": {
      "name": "Selo Caótico (Refinado)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário +4 de redução de dano contra ataques de arma, bukijutsu e taijutsu de Constructos e Mutantes.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário +4 de redução de dano contra ataques de arma, bukijutsu e taijutsu de Constructos e Mutantes.</p>"
     }
    }
   },
@@ -2966,7 +2966,7 @@
   },
   "vCsW0g3LA6UAgikH": {
    "name": "Utensílio de Cozinha",
-   "description": "<p>Um Utensílio de Cozinha concedido pela Característica @UUID[Compendium.n5eb.class.Item.ntoWvPmVM0WDsbgm]{Infusão de Utensílio de Cozinha}.</p><hr><p><span style=\"font-family:Signika, sans-serif\">Você ganha um <strong style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">Utensílio de Cozinha</strong>: uma frigideira, ou outro item à sua escolha que se encaixe no seu jeito pessoal de cozinhar.</span></p><p><span style=\"font-family:Signika, sans-serif\">Seu utensílio de cozinha causa dano igual aos seus Dados de Culinária, e você pode optar por usar Inteligência no lugar de Força ao determinar suas jogadas de ataque e dano.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Criaturas que não são proficientes com um utensílio de cozinha não podem usar suas características.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px;color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:Signika, sans-serif\">Como esta é sua arma, você pode personalizá-la de várias formas.</span></p>"
+   "description": "<p>Um Utensílio de Cozinha concedido pela Característica @UUID[Compendium.n5eb.class.Item.ntoWvPmVM0WDsbgm]{Infusão de Utensílio de Cozinha}.</p><hr><p>Você ganha um <strong>Utensílio de Cozinha</strong>: uma frigideira, ou outro item à sua escolha que se encaixe no seu jeito pessoal de cozinhar.</p><p>Seu utensílio de cozinha causa dano igual aos seus Dados de Culinária, e você pode optar por usar Inteligência no lugar de Força ao determinar suas jogadas de ataque e dano.</p><p>Criaturas que não são proficientes com um utensílio de cozinha não podem usar suas características.</p><p>Como esta é sua arma, você pode personalizá-la de várias formas.</p>"
   },
   "vFSFlV8HfkB0F5SU": {
    "name": "Escolha de Kit de Ferramentas (3)"
@@ -2977,7 +2977,7 @@
    "effects": {
     "6IvkH7o8TzZZNrN1": {
      "name": "Selo Eletrizante (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Quando esta arma causaria dano a uma criatura com a condição Eletrocutado, o(s) alvo(s) sofre(m) 1d4 de dano adicional.</span></p>"
+     "description": "<p>Quando esta arma causaria dano a uma criatura com a condição Eletrocutado, o(s) alvo(s) sofre(m) 1d4 de dano adicional.</p>"
     }
    }
   },
@@ -2991,7 +2991,7 @@
    "effects": {
     "igSeLHmrRfM3Ri8n": {
      "name": "Selo de Aço Frio (Obra-Prima)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário um bônus de +3 em testes de resistência de Destreza e Inteligência.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário um bônus de +3 em testes de resistência de Destreza e Inteligência.</p>"
     }
    }
   },
@@ -3013,7 +3013,7 @@
    "effects": {
     "Z0RORHXVFoKLfmHA": {
      "name": "Selo Esmagador (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Quando esta arma causaria dano a uma criatura com a condição Aturdido, o(s) alvo(s) sofre(m) 1d4 de dano adicional.</span></p>"
+     "description": "<p>Quando esta arma causaria dano a uma criatura com a condição Aturdido, o(s) alvo(s) sofre(m) 1d4 de dano adicional.</p>"
     }
    }
   },
@@ -3023,7 +3023,7 @@
    "effects": {
     "uVEfv6tqF5SJxKKh": {
      "name": "Selo Sinistro (Obra-Prima)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a seu usuário vantagem em todos os testes de Intimidação.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a seu usuário vantagem em todos os testes de Intimidação.</p>"
     }
    }
   },
@@ -3093,7 +3093,7 @@
     },
     "TP45OJjzsX1IGCdr": {
      "name": "[Arma Corpo a Corpo] Selo de Extensão (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armas corpo a corpo imbuídas com este selo aumentam seu alcance de ataque em 5 pés. Armas à distância imbuídas com este selo aumentam seu alcance de ataque em 20 pés.</span></p>"
+     "description": "<p>Armas corpo a corpo imbuídas com este selo aumentam seu alcance de ataque em 5 pés. Armas à distância imbuídas com este selo aumentam seu alcance de ataque em 20 pés.</p>"
     }
    }
   },
@@ -3103,7 +3103,7 @@
    "effects": {
     "Dx3a4cMcCA4HrCR8": {
      "name": "Selo Resfriante (Menor)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Quando esta arma causar dano a uma criatura com a condição Corroído, o(s) alvo(s) sofre(m) 1d4 de dano adicional.</span></p>"
+     "description": "<p>Quando esta arma causar dano a uma criatura com a condição Corroído, o(s) alvo(s) sofre(m) 1d4 de dano adicional.</p>"
     }
    }
   },
@@ -3125,7 +3125,7 @@
    "effects": {
     "QTiz4hlRMMvwFqxs": {
      "name": "Selo de Destreza (Superior)",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Armadura imbuída com este selo concede a quem a veste um bônus de +3 em testes de resistência de Destreza e testes de perícia baseados em Destreza.</span></p>"
+     "description": "<p>Armadura imbuída com este selo concede a quem a veste um bônus de +3 em testes de resistência de Destreza e testes de perícia baseados em Destreza.</p>"
     }
    }
   },

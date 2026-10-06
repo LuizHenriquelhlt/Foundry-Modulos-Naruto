@@ -352,7 +352,7 @@
     },
     "t9zp8pA10mEN88LT": {
      "name": "Mordida e Agarrão",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Se a criatura alvo for atingida por seu ataque de mordida, ela deve ser bem-sucedida em um teste de resistência de Força contra a CD de resistência de Ninjutsu do usuário. Em uma falha no teste, ela é derrubada caída.</span></p>"
+     "description": "<p>Se a criatura alvo for atingida por seu ataque de mordida, ela deve ser bem-sucedida em um teste de resistência de Força contra a CD de resistência de Ninjutsu do usuário. Em uma falha no teste, ela é derrubada caída.</p>"
     }
    }
   },

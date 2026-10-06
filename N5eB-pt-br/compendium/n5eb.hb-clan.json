@@ -64,7 +64,7 @@
   },
   "066LWnBc0FQp57BU": {
    "name": "Hijutsu de Rank B",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">(Você deve ter Hijutsu de Rank C)</span></p><p><span style=\"font-family:Lexend,sans-serif\"> Você ganha a capacidade de aprender Técnicas de Assassino de Rank B.</span></p>"
+   "description": "<p>(Você deve ter Hijutsu de Rank C)</p><p> Você ganha a capacidade de aprender Técnicas de Assassino de Rank B.</p>"
   },
   "07CYW2bFe0T3bSme": {
    "name": "Hijutsu de Rank C",
@@ -279,7 +279,7 @@
   },
   "2g1HdwXCuMTRUzHB": {
    "name": "Hijutsu de Rank D",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">Você ganha a habilidade de aprender Técnicas de Assassino de Rank D.</span></p>"
+   "description": "<p>Você ganha a habilidade de aprender Técnicas de Assassino de Rank D.</p>"
   },
   "2l5gWAcr0U1HmtWS": {
    "name": "Toque de Midas",
@@ -580,7 +580,7 @@
   },
   "5YEiWvny3C6fVduE": {
    "name": "Talentos de Clã",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">Você ganha a capacidade de aprender Talentos de Clã, tendo o Clã Zoldyck como pré-requisito.</span></p>"
+   "description": "<p>Você ganha a capacidade de aprender Talentos de Clã, tendo o Clã Zoldyck como pré-requisito.</p>"
   },
   "5nfbKdpOw6ZhJvYz": {
    "name": "Kamizuru Latente",
@@ -922,7 +922,7 @@
   },
   "9TqNNByozE9n9Iis": {
    "name": "Arma Viva V2",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">Conforme você avança, torna-se ainda mais mortal. No nível 3, escolha entre as propriedades <em><strong>Ataque Múltiplo</strong></em>, <em><strong>Desarmar</strong></em>, <em><strong>Mortal</strong></em>, <em><strong>Letal, Rasteira</strong></em>, ou <em><strong>Agarrar</strong></em>. Seus ataques desarmados ganham a propriedade escolhida e aumentam sua faixa de ameaça crítica em +1.</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\">Além disso, você tem vantagem em testes e testes de resistência contra ser envenenado, empeçonhado ou infectado por uma Característica ou Jutsu de Rank D. Isso aumenta para Rank C no nível 7, Rank B no nível 11, e Rank A no nível 15.</span></p>"
+   "description": "<p>Conforme você avança, torna-se ainda mais mortal. No nível 3, escolha entre as propriedades <em><strong>Ataque Múltiplo</strong></em>, <em><strong>Desarmar</strong></em>, <em><strong>Mortal</strong></em>, <em><strong>Letal, Rasteira</strong></em>, ou <em><strong>Agarrar</strong></em>. Seus ataques desarmados ganham a propriedade escolhida e aumentam sua faixa de ameaça crítica em +1.</p><p dir=\"ltr\">Além disso, você tem vantagem em testes e testes de resistência contra ser envenenado, empeçonhado ou infectado por uma Característica ou Jutsu de Rank D. Isso aumenta para Rank C no nível 7, Rank B no nível 11, e Rank A no nível 15.</p>"
   },
   "9VlJAV1ZT3yhSNHt": {
    "name": "Resistência da Fera Latente I",
@@ -1023,7 +1023,7 @@
   },
   "Ap7hL6TR3rrm2Ven": {
    "name": "Hijutsu de Rank C",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">(Você deve possuir Hijutsu de Rank D) </span></p><p><span style=\"font-family:Lexend,sans-serif\">Você ganha a capacidade de aprender Técnicas de Assassino de Rank C.</span></p>"
+   "description": "<p>(Você deve possuir Hijutsu de Rank D) </p><p>Você ganha a capacidade de aprender Técnicas de Assassino de Rank C.</p>"
   },
   "ArIYUNy4hC8EoMoL": {
    "name": "Martelo Combo Temperado",
@@ -1580,7 +1580,7 @@
   },
   "HzGwGk7KXRjF8efx": {
    "name": "Arma Viva Latente V2",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">No 3º nível, escolha entre as propriedades <em><strong>Múltiplos Ataques</strong></em>, <em><strong>Desarmar</strong></em>, <em><strong>Mortal</strong></em>, <em><strong>Letal, Derrubar</strong></em> ou <em><strong>Agarrar</strong></em>. Seus ataques desarmados ganham a propriedade escolhida e aumentam sua margem de ameaça crítica em +1</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\">Além disso, você tem vantagem em testes e testes de resistência contra ser envenenado, empeçonhado ou contrair doenças por uma Característica ou Jutsu de Rank D. Isso aumenta para Rank C no 7º nível, Rank B no 11º nível e Rank A no 15º nível.</span></p>"
+   "description": "<p>No 3º nível, escolha entre as propriedades <em><strong>Múltiplos Ataques</strong></em>, <em><strong>Desarmar</strong></em>, <em><strong>Mortal</strong></em>, <em><strong>Letal, Derrubar</strong></em> ou <em><strong>Agarrar</strong></em>. Seus ataques desarmados ganham a propriedade escolhida e aumentam sua margem de ameaça crítica em +1</p><p dir=\"ltr\">Além disso, você tem vantagem em testes e testes de resistência contra ser envenenado, empeçonhado ou contrair doenças por uma Característica ou Jutsu de Rank D. Isso aumenta para Rank C no 7º nível, Rank B no 11º nível e Rank A no 15º nível.</p>"
   },
   "I3Ov1Fo1fpLLqK2R": {
    "name": "Hijutsu de Rank D",
@@ -1880,7 +1880,7 @@
   },
   "M5aT3BbZ8CIyWm5b": {
    "name": "Durabilidade Sobre-Humana Latente",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">No 15º nível, você pode ignorar os efeitos negativos de até 2 ranks de exaustão durante o combate. Porém, você continua sofrendo os efeitos fora de combate.</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\">Além disso, você pode tratar um acerto crítico contra você como um acerto normal uma vez por descanso.</span></p>"
+   "description": "<p>No 15º nível, você pode ignorar os efeitos negativos de até 2 ranks de exaustão durante o combate. Porém, você continua sofrendo os efeitos fora de combate.</p><p dir=\"ltr\">Além disso, você pode tratar um acerto crítico contra você como um acerto normal uma vez por descanso.</p>"
   },
   "M5iICJOLcy7w2D8k": {
    "name": "Legado Manifesto",
@@ -1962,7 +1962,7 @@
   },
   "N1R62FhDJCb1HaDC": {
    "name": "Arma Viva",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">Você foi ensinado a transformar seu próprio corpo em uma arma. A partir do 1º nível, o dado de dano dos seus golpes desarmados se torna 1d4. O dado de dano se torna 1d6 no 3º nível, 1d8 no 7º nível, 1d10 no 11º nível, 1d12 no 15º nível, e 2d6 no 18º nível. No início do seu turno, você pode escolher que seu dano desarmado seja dano de concussão, perfurante ou cortante. </span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\">Se o dado de dano desarmado já for maior do que isso quando você alcançar o nível necessário, você adiciona +1 às suas jogadas de dano desarmado em vez disso. </span></p>"
+   "description": "<p>Você foi ensinado a transformar seu próprio corpo em uma arma. A partir do 1º nível, o dado de dano dos seus golpes desarmados se torna 1d4. O dado de dano se torna 1d6 no 3º nível, 1d8 no 7º nível, 1d10 no 11º nível, 1d12 no 15º nível, e 2d6 no 18º nível. No início do seu turno, você pode escolher que seu dano desarmado seja dano de concussão, perfurante ou cortante. </p><p dir=\"ltr\">Se o dado de dano desarmado já for maior do que isso quando você alcançar o nível necessário, você adiciona +1 às suas jogadas de dano desarmado em vez disso. </p>"
   },
   "N4qgy2UqzHBYJ38P": {
    "name": "Liberação Radiante: Tempestade de Esferas Explosivas",
@@ -1970,7 +1970,7 @@
   },
   "N5DFpZbrduTlwntn": {
    "name": "Névoas do Medo",
-   "description": "<p><span style=\"font-family:BookInsanityRemake\">Você libera uma névoa densa a partir da sua última posição conhecida, uma manifestação física da sua maldição. Criaturas dentro da névoa não conseguem ver mais do que 10 pés adiante, ganhando desvantagem em ataques feitos enquanto estiverem dentro da névoa.<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;color:rgb(0, 0, 0);font-family:BookInsanityRemake;font-size:12.8504px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Enquanto estiver dentro desta névoa, você pode se esconder como uma ação bônus; ao fazer isso, você ganha vantagem no seu teste de furtividade, já que nem sua sombra nem seu contorno são visíveis para os outros. Qualquer criatura hostil dentro da névoa deve fazer um teste de resistência de Sabedoria contra a CD de Genjutsu do conjurador no início de seu turno. Em uma falha, ela ganha 1 rank de medo. Criaturas afetadas pelo medo dentro da névoa não podem perder ranks de medo normalmente e só podem remover todos os ranks fazendo um teste de resistência de Sabedoria CD 15 como uma ação. Essas restrições se aplicam apenas enquanto estiverem dentro do raio da névoa.</span></p><p><span style=\"font-family:BookInsanityRemake\"><strong style=\"border:0px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:inherit;font-variant-east-asian:inherit;font-variant-alternates:inherit;font-variant-position:inherit;font-variant-emoji:inherit;font-weight:bold;font-stretch:inherit;font-size:12.8504px;line-height:inherit;font-family:BookInsanityRemake;font-optical-sizing:inherit;font-size-adjust:inherit;font-kerning:inherit;font-feature-settings:inherit;font-variation-settings:inherit;vertical-align:baseline;margin:0px;padding:0px;box-sizing:border-box;-webkit-print-color-adjust:exact;letter-spacing:-0.02em;color:rgb(0, 0, 0);orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(238, 229, 206);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">Em Ranks Superiores:</strong> Para cada rank acima do Rank D que você conjurar este jutsu, o custo de chakra aumenta em 4, o raio aumenta em 5 pés, e a CD do teste de resistência para remover todos os ranks de medo aumenta em 2.</span></p>",
+   "description": "<p>Você libera uma névoa densa a partir da sua última posição conhecida, uma manifestação física da sua maldição. Criaturas dentro da névoa não conseguem ver mais do que 10 pés adiante, ganhando desvantagem em ataques feitos enquanto estiverem dentro da névoa.<br />Enquanto estiver dentro desta névoa, você pode se esconder como uma ação bônus; ao fazer isso, você ganha vantagem no seu teste de furtividade, já que nem sua sombra nem seu contorno são visíveis para os outros. Qualquer criatura hostil dentro da névoa deve fazer um teste de resistência de Sabedoria contra a CD de Genjutsu do conjurador no início de seu turno. Em uma falha, ela ganha 1 rank de medo. Criaturas afetadas pelo medo dentro da névoa não podem perder ranks de medo normalmente e só podem remover todos os ranks fazendo um teste de resistência de Sabedoria CD 15 como uma ação. Essas restrições se aplicam apenas enquanto estiverem dentro do raio da névoa.</p><p><strong style=\"border:0px;font-weight:bold;padding:0px\">Em Ranks Superiores:</strong> Para cada rank acima do Rank D que você conjurar este jutsu, o custo de chakra aumenta em 4, o raio aumenta em 5 pés, e a CD do teste de resistência para remover todos os ranks de medo aumenta em 2.</p>",
    "effects": {
     "uJLJXQ2SFLMvKDHG": {
      "name": "Desmoralizado",
@@ -2072,7 +2072,7 @@
   },
   "OXNPsSHmiuK0RmrX": {
    "name": "Técnica de Assassino: Mergulho do Dragão",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">Como parte da ativação deste jutsu, você deve estar a pelo menos 30 pés de altura no ar. </span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:10pt\"><span style=\"font-family:Lexend,sans-serif\">Você canaliza seu chakra para criar uma cabeça de dragão massiva feita de chakra bruto acima do seu alvo. Ao atingir seu ápice, a cabeça do dragão se estilhaça em centenas de dragões menores que caem como chuva sobre a área abaixo.</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:10pt\"><span style=\"font-family:Lexend,sans-serif\">Escolha um ponto a até 500 pés de você. Todas as criaturas em um raio de 100 pés centrado nesse ponto devem fazer um teste de resistência de Destreza contra sua CD de resistência de Ninjutsu. Este jutsu ignora toda cobertura e destrói todas as estruturas dentro do alcance. Em uma falha no teste, as criaturas sofrem 10d10 de dano perfurante e 5d6 de dano de energia enquanto os dragões perfuram a área. Em um teste bem-sucedido, as criaturas sofrem metade do dano. Além disso, criaturas que falharem no teste por 5 ou mais reduzem seus pontos de vida e chakra máximos pela metade do dano sofrido.</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:10pt\"><span style=\"font-family:Lexend,sans-serif\">A chuva de dragões deixa a área difícil de atravessar. A área se torna terreno difícil. </span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:10pt\"><span style=\"font-family:Lexend,sans-serif\"><strong>Conjuração Superior</strong>: Para cada rank que você conjurar este jutsu acima de Rank A, aumente o custo deste jutsu em 3 de Chakra, o raio em 20 pés, e o dano perfurante e o dano de energia em 1d10 e 1d6, respectivamente.</span></p>"
+   "description": "<p>Como parte da ativação deste jutsu, você deve estar a pelo menos 30 pés de altura no ar. </p><p dir=\"ltr\">Você canaliza seu chakra para criar uma cabeça de dragão massiva feita de chakra bruto acima do seu alvo. Ao atingir seu ápice, a cabeça do dragão se estilhaça em centenas de dragões menores que caem como chuva sobre a área abaixo.</p><p dir=\"ltr\">Escolha um ponto a até 500 pés de você. Todas as criaturas em um raio de 100 pés centrado nesse ponto devem fazer um teste de resistência de Destreza contra sua CD de resistência de Ninjutsu. Este jutsu ignora toda cobertura e destrói todas as estruturas dentro do alcance. Em uma falha no teste, as criaturas sofrem 10d10 de dano perfurante e 5d6 de dano de energia enquanto os dragões perfuram a área. Em um teste bem-sucedido, as criaturas sofrem metade do dano. Além disso, criaturas que falharem no teste por 5 ou mais reduzem seus pontos de vida e chakra máximos pela metade do dano sofrido.</p><p dir=\"ltr\">A chuva de dragões deixa a área difícil de atravessar. A área se torna terreno difícil. </p><p dir=\"ltr\"><strong>Conjuração Superior</strong>: Para cada rank que você conjurar este jutsu acima de Rank A, aumente o custo deste jutsu em 3 de Chakra, o raio em 20 pés, e o dano perfurante e o dano de energia em 1d10 e 1d6, respectivamente.</p>"
   },
   "OY6LulMxe01KUTih": {
    "name": "A Arca",
@@ -2547,7 +2547,7 @@
   },
   "TOpLE14ohLDGm3RB": {
    "name": "Passo Fantasma",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">Um velho ditado entre os Zoldyck é \"Se eu puder vê-los, eles já estão mortos\". No 1º nível, você pode gastar qualquer quantidade do seu deslocamento no seu turno para adicionar ao alcance de um ataque corpo a corpo. Por exemplo, se você tiver 20 de deslocamento restante no seu turno e escolher adicioná-lo ao alcance de um Taijutsu que exija uma jogada de ataque, esse Taijutsu agora tem +20 ao seu alcance. Se você estiver sob os efeitos de uma disparada, o deslocamento extra concedido também pode ser usado para isso.</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\">Alternativamente, você pode realizar uma valsa silenciosa e gastar seu deslocamento para adicionar +2 a um teste baseado em Destreza para cada 15 pés de deslocamento gasto.</span></p>"
+   "description": "<p>Um velho ditado entre os Zoldyck é \"Se eu puder vê-los, eles já estão mortos\". No 1º nível, você pode gastar qualquer quantidade do seu deslocamento no seu turno para adicionar ao alcance de um ataque corpo a corpo. Por exemplo, se você tiver 20 de deslocamento restante no seu turno e escolher adicioná-lo ao alcance de um Taijutsu que exija uma jogada de ataque, esse Taijutsu agora tem +20 ao seu alcance. Se você estiver sob os efeitos de uma disparada, o deslocamento extra concedido também pode ser usado para isso.</p><p dir=\"ltr\">Alternativamente, você pode realizar uma valsa silenciosa e gastar seu deslocamento para adicionar +2 a um teste baseado em Destreza para cada 15 pés de deslocamento gasto.</p>"
   },
   "TSfXVAZknnOTK3UW": {
    "name": "Hijutsu de Rank D",
@@ -2907,7 +2907,7 @@
   },
   "Y7F0Eppyc8PSgSpF": {
    "name": "Aprendiz Rápido Latente V2",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">Começando no 11º nível, você ganha um talento associado a um dos 3 tipos (Taijutsu, Genjutsu, ou Ninjutsu) que você escolheu no 3º nível. Além disso, sua CD de resistência associada a esse tipo aumenta em +1.</span></p>"
+   "description": "<p>Começando no 11º nível, você ganha um talento associado a um dos 3 tipos (Taijutsu, Genjutsu, ou Ninjutsu) que você escolheu no 3º nível. Além disso, sua CD de resistência associada a esse tipo aumenta em +1.</p>"
   },
   "YG2GrAbtSvuHeAUG": {
    "name": "Selos de Aço",
@@ -3222,7 +3222,7 @@
   },
   "cVPxkg5N6kTZMkp9": {
    "name": "Aprendiz Rápido V2",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">Leva apenas um curto período de tempo para um Zoldyck dominar qualquer habilidade escolhida. A partir do 11º nível, você ganha um talento associado a um dos 3 tipos (Taijutsu, Genjutsu ou Ninjutsu) que você escolheu no 3º nível. Além disso, sua CD de resistência associada a esse tipo aumenta em +1.</span></p>"
+   "description": "<p>Leva apenas um curto período de tempo para um Zoldyck dominar qualquer habilidade escolhida. A partir do 11º nível, você ganha um talento associado a um dos 3 tipos (Taijutsu, Genjutsu ou Ninjutsu) que você escolheu no 3º nível. Além disso, sua CD de resistência associada a esse tipo aumenta em +1.</p>"
   },
   "cXH2qXFwXvHHgYQt": {
    "name": "Rank A",
@@ -3283,7 +3283,7 @@
   },
   "dTAvpPthuit35HVA": {
    "name": "Passo Fantasma Latente",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">No 1º nível, você pode gastar seu deslocamento em seu turno para adicioná-lo ao alcance de um ataque corpo a corpo. Por exemplo, se você tiver 20 de deslocamento restante em seu turno e escolher adicioná-lo ao alcance de um Taijutsu que exija uma jogada de ataque, esse Taijutsu agora tem +20 em seu alcance. Se você estiver sob os efeitos de uma disparada, o deslocamento extra concedido também pode ser usado para isso.</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\">Alternativamente, você pode realizar uma valsa silenciosa e gastar seu deslocamento para adicionar +2 a um teste baseado em Destreza para cada 15 pés de deslocamento gasto</span></p>"
+   "description": "<p>No 1º nível, você pode gastar seu deslocamento em seu turno para adicioná-lo ao alcance de um ataque corpo a corpo. Por exemplo, se você tiver 20 de deslocamento restante em seu turno e escolher adicioná-lo ao alcance de um Taijutsu que exija uma jogada de ataque, esse Taijutsu agora tem +20 em seu alcance. Se você estiver sob os efeitos de uma disparada, o deslocamento extra concedido também pode ser usado para isso.</p><p dir=\"ltr\">Alternativamente, você pode realizar uma valsa silenciosa e gastar seu deslocamento para adicionar +2 a um teste baseado em Destreza para cada 15 pés de deslocamento gasto</p>"
   },
   "dVIEMEgSx0vbenap": {
    "name": "Amarelinha",
@@ -3592,7 +3592,7 @@
   },
   "huZBXklDQPWxw2O8": {
    "name": "Hijutsu de Rank A",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">(Você deve possuir Hijutsu Rank B) Você ganha a habilidade de aprender Técnicas Assassinas de Rank A.</span></p>"
+   "description": "<p>(Você deve possuir Hijutsu Rank B) Você ganha a habilidade de aprender Técnicas Assassinas de Rank A.</p>"
   },
   "hzPmJ43IAzgTifyA": {
    "name": "Talento Tenaz",
@@ -3692,7 +3692,7 @@
   },
   "jOqC18FqhWTDkZxI": {
    "name": "Arma Viva Latente",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">A partir do 1º nível, seus ataques desarmados ganham a propriedade <em><strong>Acuidade</strong></em>, e o dado de dano de seus ataques desarmados se torna 1d4. O dado de dano se torna 1d6 no 3º nível, 1d8 no 7º nível, 1d10 no 11º nível, 1d12 no 15º nível, e 2d6 no 18º nível. No início do seu turno, você pode escolher que seu dano desarmado seja de concussão, perfurante ou cortante.</span></p>"
+   "description": "<p>A partir do 1º nível, seus ataques desarmados ganham a propriedade <em><strong>Acuidade</strong></em>, e o dado de dano de seus ataques desarmados se torna 1d4. O dado de dano se torna 1d6 no 3º nível, 1d8 no 7º nível, 1d10 no 11º nível, 1d12 no 15º nível, e 2d6 no 18º nível. No início do seu turno, você pode escolher que seu dano desarmado seja de concussão, perfurante ou cortante.</p>"
   },
   "jQ42VbxC3rnTI49k": {
    "name": "De Cabeça para Baixo Latente III",
@@ -4029,7 +4029,7 @@
   },
   "nGdFOMGK7kzaU72g": {
    "name": "Sombra de Cabelos Brancos Latente",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">Começando no 7º nível, uma vez por rodada, quando você fizer um ataque corpo a corpo e houver cobertura ou uma estrutura a até 30 pés de você, pode fazer um teste de Furtividade. Em um sucesso, você pode se mover para trás da cobertura ou estrutura e fica oculto da criatura até o final do próximo turno dela.</span></p>"
+   "description": "<p>Começando no 7º nível, uma vez por rodada, quando você fizer um ataque corpo a corpo e houver cobertura ou uma estrutura a até 30 pés de você, pode fazer um teste de Furtividade. Em um sucesso, você pode se mover para trás da cobertura ou estrutura e fica oculto da criatura até o final do próximo turno dela.</p>"
   },
   "nGiOwtop66EZzhrJ": {
    "name": "Sangue Ancestral Latente III",
@@ -4079,7 +4079,7 @@
   },
   "nwSvfIpyCqA6xsW7": {
    "name": "Durabilidade Inumana",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\"><strong> </strong>O dano letal que um Assassino Zoldyck pode suportar faz as pessoas questionarem se ele é sequer humano. No 15º nível, você pode ignorar os efeitos negativos de até 2 ranks de exaustão durante o combate. Porém, você ainda sofre os efeitos fora de combate.</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\">Além disso, você pode tratar um acerto crítico contra você como um acerto normal, uma vez por descanso.</span></p>"
+   "description": "<p><strong> </strong>O dano letal que um Assassino Zoldyck pode suportar faz as pessoas questionarem se ele é sequer humano. No 15º nível, você pode ignorar os efeitos negativos de até 2 ranks de exaustão durante o combate. Porém, você ainda sofre os efeitos fora de combate.</p><p dir=\"ltr\">Além disso, você pode tratar um acerto crítico contra você como um acerto normal, uma vez por descanso.</p>"
   },
   "nxvj37OBtAiwx8rQ": {
    "description": "<p>O Dojutsu característico do Clã Ōtsutsuki, transmitido aos Hyuga da Folha. O Byakugan é um olho de extremo foco refinado. No 1º Nível, você pode gastar 5 de Chakra para ativar o Byakugan como uma Ação Bônus, que permanece ativo por até 1 hora. Você pode desativar e reativar o Byakugan durante esse período sem custo adicional. Enquanto ativo, o Byakugan concede os seguintes benefícios:</p><ul><li><p><strong>Olho Branco que Tudo Vê:</strong> Você tem 500 pés de visão de Chakra fora de combate, e a metade disso em combate. Você ganha a habilidade de ver a natureza de chakra de uma criatura, se houver. Você pode ver através de material de até 10 pés de espessura. Criaturas não podem ficar obscurecidas para você de forma alguma, se você conseguir ver através do obstáculo.</p></li><li><p><strong>Visão de 360°:</strong> Você pode ver em um campo de 360 graus ao seu redor, até a metade do alcance de sua visão de Chakra, partindo de você em combate. Fora de combate, seu campo de visão aumenta para igualar o alcance de sua visão de Chakra. Você pode ver sem precisar virar a cabeça ou desviar os olhos.</p></li></ul>"
@@ -4133,7 +4133,7 @@
   },
   "ohKmWlQYSVhiHpHo": {
    "name": "Aprendiz Rápido",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\"> Seu treinamento afiou tanto sua mente quanto seu corpo. Começando no 3º nível, escolha entre Taijutsu, Genjutsu ou Ninjutsu. Você reduz o tempo livre necessário para aprender jutsus e talentos desse tipo em 2 semanas, até um mínimo de 1. Isso aumenta para 3 semanas no 7º nível e para 4 semanas no 11º nível. </span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\">Além disso, duas vezes por descanso, ao fazer um teste de perícia no qual você é proficiente, pode tratar uma rolagem de d20 de 9 ou menos como 10.</span></p>"
+   "description": "<p> Seu treinamento afiou tanto sua mente quanto seu corpo. Começando no 3º nível, escolha entre Taijutsu, Genjutsu ou Ninjutsu. Você reduz o tempo livre necessário para aprender jutsus e talentos desse tipo em 2 semanas, até um mínimo de 1. Isso aumenta para 3 semanas no 7º nível e para 4 semanas no 11º nível. </p><p dir=\"ltr\">Além disso, duas vezes por descanso, ao fazer um teste de perícia no qual você é proficiente, pode tratar uma rolagem de d20 de 9 ou menos como 10.</p>"
   },
   "oihVh0rufKiVLEi8": {
    "name": "Trava Mental",
@@ -4222,7 +4222,7 @@
   },
   "phJH2HHDrDxE8l3G": {
    "name": "Técnica de Assassino: Intenção Letal",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\"><strong> </strong>Sua intenção assassina enche o ar enquanto seus olhos se tingem de um tom sombrio e uma aura ameaçadora de sua descrição o envolve. Todas as criaturas hostis que possam vê-lo dentro do alcance devem fazer um teste de resistência de Carisma ou ganham 1 rank de Medo e Lento durante a duração, enquanto começam a perder a vontade de lutar contra uma ameaça tão inumana. Criaturas afetadas podem refazer o teste de resistência ao final de seus turnos.</span></p><p><span style=\"font-family:Lexend,sans-serif\"><strong>Conjuração Superior: </strong>Para cada rank que você conjurar este jutsu acima de Rank D, você aumenta o custo em 3 e causa 1d8 de dano Psíquico à criatura em seu turno enquanto estiver afetada. Quando conjurado em Rank B, aumente o dano em 1d8 e imponha 1 rank adicional de Medo e Lento. Quando conjurado em Rank A, aumente o dano em 1d8 e imponha 2 ranks adicionais de Medo e Lento. Quando conjurado em Rank S, as criaturas têm desvantagem em testes de resistência para encerrar o efeito.</span></p>",
+   "description": "<p><strong> </strong>Sua intenção assassina enche o ar enquanto seus olhos se tingem de um tom sombrio e uma aura ameaçadora de sua descrição o envolve. Todas as criaturas hostis que possam vê-lo dentro do alcance devem fazer um teste de resistência de Carisma ou ganham 1 rank de Medo e Lento durante a duração, enquanto começam a perder a vontade de lutar contra uma ameaça tão inumana. Criaturas afetadas podem refazer o teste de resistência ao final de seus turnos.</p><p><strong>Conjuração Superior: </strong>Para cada rank que você conjurar este jutsu acima de Rank D, você aumenta o custo em 3 e causa 1d8 de dano Psíquico à criatura em seu turno enquanto estiver afetada. Quando conjurado em Rank B, aumente o dano em 1d8 e imponha 1 rank adicional de Medo e Lento. Quando conjurado em Rank A, aumente o dano em 1d8 e imponha 2 ranks adicionais de Medo e Lento. Quando conjurado em Rank S, as criaturas têm desvantagem em testes de resistência para encerrar o efeito.</p>",
    "effects": {
     "MJXH5IfF4MhrQzAQ": {
      "name": "Lento"
@@ -4551,7 +4551,7 @@
   },
   "tQaOdduRAYAqrBH9": {
    "name": "Técnica Assassina: Autohipnose",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">Você usa sugestões mentais em seu cérebro para convencer seu corpo de que é capaz de continuar. Você ganha 3d6 de pontos de vida temporários. Enquanto tiver esses pontos de vida temporários, você tem vantagem em testes de resistência para encerrar condições físicas em si mesmo.</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\"><strong>Rank Superior: </strong>Para cada rank acima de Rank D em que você conjurar este jutsu, aumente o custo deste jutsu em 3 e os pontos de vida temporários em 1d6.</span></p>"
+   "description": "<p>Você usa sugestões mentais em seu cérebro para convencer seu corpo de que é capaz de continuar. Você ganha 3d6 de pontos de vida temporários. Enquanto tiver esses pontos de vida temporários, você tem vantagem em testes de resistência para encerrar condições físicas em si mesmo.</p><p dir=\"ltr\"><strong>Rank Superior: </strong>Para cada rank acima de Rank D em que você conjurar este jutsu, aumente o custo deste jutsu em 3 e os pontos de vida temporários em 1d6.</p>"
   },
   "tRgBXdQHRf3tCIcd": {
    "name": "Misturando Produtos",
@@ -4699,7 +4699,7 @@
    "description": "<p>Você muda sua postura para uma posição neutra para minimizar movimentos desnecessários, permitindo que se mova silenciosa, rápida e eficientemente. Durante a duração, você ganha um bônus de +1d4 em testes de Destreza (Acrobacia) e Destreza (Furtividade). Qualquer movimento que você faça e quaisquer objetos/superfícies que você toque ou impacte se tornam silenciosos, e você não deixa rastros ou vestígios de sua movimentação, tornando-se impossível de ser rastreado por quaisquer meios além de jutsu com a palavra-chave Sensorial conjurados em um rank superior ao rank em que este jutsu foi conjurado.</p><p>Enquanto em combate, este jutsu requer concentração para ser mantido.</p><p><strong>Em Ranks Superiores:</strong> Para cada rank acima de Rank D em que você conjurar este jutsu, aumente o custo em 3. Se este jutsu for conjurado em Rank C ou superior, aumente sua duração para até 10 minutos. Se este jutsu for conjurado em Rank B, aumente o bônus do teste de perícia para 1d6. Se este jutsu for conjurado em Rank A ou superior, aumente sua duração para até 1 hora. Se este jutsu for conjurado em Rank S, aumente o bônus do teste de perícia para 1d8.</p>"
   },
   "v2TLfz1njQdvTQT4": {
-   "description": "<p>Eficiência Incomparável .</p><p>Em uma área reclusa do mundo conhecida apenas pelos próprios membros, existe um clã de assassinos especialistas conhecido como Clã Zoldyck. Envolta em segredo, a única coisa conhecida sobre esta família em todo o mundo é que eles não são inimigos que você gostaria de fazer, eles não são baratos, e se você acabar com um preço alto pela sua cabeça, um Zoldyck certamente o encontrará em breve…</p><p></p><p><span style=\"font-family:Lexend,sans-serif\">Traços Zoldyck:</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\"><strong>Aumento de Valor de Atributo: </strong>+2 Destreza ou Força, +1 Constituição ou Sabedoria</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\"><strong>Deslocamento: </strong>Seu deslocamento base ao caminhar é de 30 pés</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\"><strong>Proficiências em Perícias: </strong>Furtividade, Escolha uma entre: Acrobacia, Atletismo, Prestidigitação ou Artes Marciais</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\"><strong>Treinamento Assassino: </strong>Você ganha acesso a jutsu do Clã Zoldyck conhecidos como Técnicas Assassinas</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\"><strong>Talento Zoldyck: </strong>Você conhece 1 Técnica Assassina, Taijutsu ou jutsu Não-Elemental de Rank D adicional. Isso não conta contra seu número de jutsu conhecidos.</span></p>"
+   "description": "<p>Eficiência Incomparável .</p><p>Em uma área reclusa do mundo conhecida apenas pelos próprios membros, existe um clã de assassinos especialistas conhecido como Clã Zoldyck. Envolta em segredo, a única coisa conhecida sobre esta família em todo o mundo é que eles não são inimigos que você gostaria de fazer, eles não são baratos, e se você acabar com um preço alto pela sua cabeça, um Zoldyck certamente o encontrará em breve…</p><p></p><p>Traços Zoldyck:</p><p dir=\"ltr\"><strong>Aumento de Valor de Atributo: </strong>+2 Destreza ou Força, +1 Constituição ou Sabedoria</p><p dir=\"ltr\"><strong>Deslocamento: </strong>Seu deslocamento base ao caminhar é de 30 pés</p><p dir=\"ltr\"><strong>Proficiências em Perícias: </strong>Furtividade, Escolha uma entre: Acrobacia, Atletismo, Prestidigitação ou Artes Marciais</p><p dir=\"ltr\"><strong>Treinamento Assassino: </strong>Você ganha acesso a jutsu do Clã Zoldyck conhecidos como Técnicas Assassinas</p><p dir=\"ltr\"><strong>Talento Zoldyck: </strong>Você conhece 1 Técnica Assassina, Taijutsu ou jutsu Não-Elemental de Rank D adicional. Isso não conta contra seu número de jutsu conhecidos.</p>"
   },
   "v2qTK9vkA6oFMD41": {
    "name": "Quebra-Costas Bestial",
@@ -4900,7 +4900,7 @@
   },
   "xeZ5C71IxhmaIc6X": {
    "name": "Técnica Assassina: Eco Rítmico",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\"><strong> </strong>Você utiliza uma aplicação básica da técnica Passo Fantasma para fazer com que criaturas de sua escolha dentro do alcance acreditem que você se clonou diversas vezes. Por um número de rodadas igual ao seu Modificador de Destreza, você ganha os benefícios de Meia Cobertura. Além disso, se você for bem-sucedido em um teste de Furtividade contra uma criatura dentro do alcance enquanto isso estiver ativo, você rerrola 1s e 2s em jogadas de ataque e dano contra ela.</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Lexend,sans-serif\">Esta técnica se desativa se você for Agarrado, ficar Caído, Contido, ou de outra forma incapaz de se mover mais do que a metade do seu deslocamento.</span></p>"
+   "description": "<p><strong> </strong>Você utiliza uma aplicação básica da técnica Passo Fantasma para fazer com que criaturas de sua escolha dentro do alcance acreditem que você se clonou diversas vezes. Por um número de rodadas igual ao seu Modificador de Destreza, você ganha os benefícios de Meia Cobertura. Além disso, se você for bem-sucedido em um teste de Furtividade contra uma criatura dentro do alcance enquanto isso estiver ativo, você rerrola 1s e 2s em jogadas de ataque e dano contra ela.</p><p dir=\"ltr\">Esta técnica se desativa se você for Agarrado, ficar Caído, Contido, ou de outra forma incapaz de se mover mais do que a metade do seu deslocamento.</p>"
   },
   "xh20itH7sl5Zx80R": {
    "name": "Maldição dos Pesadelos",
@@ -5052,7 +5052,7 @@
   },
   "zd58PJDwsIjuxIvC": {
    "name": "Sombra de Cabelos Brancos",
-   "description": "<p><span style=\"font-family:Lexend,sans-serif\">Um Zoldyck treinado é um borrão de movimento até para os olhos mais treinados. A partir do 7º nível, uma vez por rodada, quando você fizer um ataque corpo a corpo e houver cobertura ou uma estrutura a até 30 pés de você, pode fazer um teste de Furtividade contra o teste de percepção do alvo como uma reação. Em um sucesso, você pode se teleportar em um lampejo de movimento para trás da cobertura ou estrutura, ficando oculto da criatura. Atacar, ou quebrar a furtividade enquanto oculto, faz com que você seja revelado normalmente.</span></p>"
+   "description": "<p>Um Zoldyck treinado é um borrão de movimento até para os olhos mais treinados. A partir do 7º nível, uma vez por rodada, quando você fizer um ataque corpo a corpo e houver cobertura ou uma estrutura a até 30 pés de você, pode fazer um teste de Furtividade contra o teste de percepção do alvo como uma reação. Em um sucesso, você pode se teleportar em um lampejo de movimento para trás da cobertura ou estrutura, ficando oculto da criatura. Atacar, ou quebrar a furtividade enquanto oculto, faz com que você seja revelado normalmente.</p>"
   },
   "zePLEDZO9ONLMVhN": {
    "name": "Mentiras de Olhos Estrelados Latentes I",

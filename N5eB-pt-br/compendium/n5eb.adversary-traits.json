@@ -220,7 +220,7 @@
   },
   "17htsX7npCTcr5iH": {
    "name": "Roda Copiadora",
-   "description": "<p><span style=\"font-family:'Google Sans', Roboto, sans-serif\">Duas vezes por combate, quando uma criatura que você pode ver conjura um jutsu a até 30 pés de você, você pode usar sua reação para conjurar o mesmo jutsu contra essa criatura.</span></p>",
+   "description": "<p>Duas vezes por combate, quando uma criatura que você pode ver conjura um jutsu a até 30 pés de você, você pode usar sua reação para conjurar o mesmo jutsu contra essa criatura.</p>",
    "condition": "quando uma criatura que você pode ver conjura um jutsu a até 30 pés de você"
   },
   "1GlDeZUA8Mj82r6R": {
@@ -2162,11 +2162,11 @@
   },
   "Ye3l198yrbE1YyMB": {
    "name": "Contra-Genjutsu",
-   "description": "<p><span style=\"font-family:'Google Sans', Roboto, sans-serif\">Você tem vantagem em testes de resistência contra Genjutsu.</span></p>",
+   "description": "<p>Você tem vantagem em testes de resistência contra Genjutsu.</p>",
    "effects": {
     "anKV0MGLFsMI844J": {
      "name": "Contra-Genjutsu",
-     "description": "<p><span style=\"font-family:'Google Sans', Roboto, sans-serif\">Você tem vantagem em testes de resistência contra Genjutsu.</span></p>"
+     "description": "<p>Você tem vantagem em testes de resistência contra Genjutsu.</p>"
     }
    }
   },
@@ -2437,7 +2437,7 @@
    "effects": {
     "KhqwLPZqriS7arL0": {
      "name": "Inscrição Absoluta",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Pelo restante do combate, os pontos de vida máximos deste adversário são reduzidos em 50%, todo o dano com armas é dobrado, o deslocamento é dobrado, e ele ganha uma reação adicional por rodada. <br style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">Este adversário só pode entrar neste estado despertado uma vez por combate.</span></p>"
+     "description": "<p>Pelo restante do combate, os pontos de vida máximos deste adversário são reduzidos em 50%, todo o dano com armas é dobrado, o deslocamento é dobrado, e ele ganha uma reação adicional por rodada. <br>Este adversário só pode entrar neste estado despertado uma vez por combate.</p>"
     }
    }
   },
@@ -2852,7 +2852,7 @@
    "effects": {
     "Pm65zjnqk9t8Zsrx": {
      "name": "Fabricação de Pedra",
-     "description": "<p><span style=\"font-family:Signika, sans-serif\">Você sempre conta como uma Construção para fins de jutsu que interage com tais criaturas.<br style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);color:rgb(25, 24, 19);font-family:Signika, sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">Além disso, você tem resistência a Frio, Imunidade a Terra, e Vulnerabilidade a Dano Elétrico.</span></p>"
+     "description": "<p>Você sempre conta como uma Construção para fins de jutsu que interage com tais criaturas.<br>Além disso, você tem resistência a Frio, Imunidade a Terra, e Vulnerabilidade a Dano Elétrico.</p>"
     }
    }
   },

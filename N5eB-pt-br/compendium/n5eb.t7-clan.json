@@ -408,7 +408,7 @@
   },
   "31cZqhXOiio1KF5K": {
    "name": "Respiração Cáustica",
-   "description": "<p><span style=\"font-family:Signika, sans-serif\">Ao conjurar um Ninjutsu que causa dano de veneno, você pode gastar 1 célula para remover qualquer componente de selo de mão (HS), exalando o jutsu em forma de um ataque de respiração em vez disso. Se o jutsu tiver um alcance de toque, aumente seu alcance em 30 pés. Se o jutsu criar uma AOE como uma linha ou cone, aumente a área em 5 pés em todas as direções. A área do jutsu se espalha ao redor de cantos.</span></p>",
+   "description": "<p>Ao conjurar um Ninjutsu que causa dano de veneno, você pode gastar 1 célula para remover qualquer componente de selo de mão (HS), exalando o jutsu em forma de um ataque de respiração em vez disso. Se o jutsu tiver um alcance de toque, aumente seu alcance em 30 pés. Se o jutsu criar uma AOE como uma linha ou cone, aumente a área em 5 pés em todas as direções. A área do jutsu se espalha ao redor de cantos.</p>",
    "condition": "Ao conjurar um Ninjutsu que causa dano de veneno"
   },
   "3BdFYOSlO9FiER8q": {
@@ -611,7 +611,7 @@
   },
   "5OdCJamcO7MBvYoK": {
    "name": "Surto Cáustico",
-   "description": "<p><span style=\"font-family:Signika, sans-serif\">Ao conjurar um Ninjutsu que causa dano de veneno, você pode gastar 1 célula para aumentar os dados de dano do jutsu em 1 passo. (d4&gt;d6&gt;d8&gt;d10&gt;d12&gt;2d6)</span></p>",
+   "description": "<p>Ao conjurar um Ninjutsu que causa dano de veneno, você pode gastar 1 célula para aumentar os dados de dano do jutsu em 1 passo. (d4&gt;d6&gt;d8&gt;d10&gt;d12&gt;2d6)</p>",
    "condition": "Ao conjurar um Ninjutsu que causa dano de veneno"
   },
   "5OnxHTor9I3xwOYK": {
@@ -1657,7 +1657,7 @@
   },
   "HMhVk8cowMOQngyt": {
    "name": "Saturação Cáustica",
-   "description": "<p><span style=\"font-family:Signika, sans-serif\">Ao conjurar um Ninjutsu que causa dano de veneno, você pode gastar 1 célula para ganhar pontos de vida temporários iguais a 5 vezes o rank do jutsu conjurado: (Rank D: 1, Rank C: 2, Rank B: 3, Rank A: 4, Rank S: 5), que duram uma quantidade de rodadas igual ao seu modificador de Ninjutsu (mín. 1). Enquanto você tiver esses pontos de vida temporários, criaturas que o tocarem ou o acertarem com um ataque corpo a corpo devem ser bem-sucedidas em um teste de resistência de Constituição usando sua CD mais alta, ficando Envenenadas até o final de seu próximo turno em uma falha.</span></p>",
+   "description": "<p>Ao conjurar um Ninjutsu que causa dano de veneno, você pode gastar 1 célula para ganhar pontos de vida temporários iguais a 5 vezes o rank do jutsu conjurado: (Rank D: 1, Rank C: 2, Rank B: 3, Rank A: 4, Rank S: 5), que duram uma quantidade de rodadas igual ao seu modificador de Ninjutsu (mín. 1). Enquanto você tiver esses pontos de vida temporários, criaturas que o tocarem ou o acertarem com um ataque corpo a corpo devem ser bem-sucedidas em um teste de resistência de Constituição usando sua CD mais alta, ficando Envenenadas até o final de seu próximo turno em uma falha.</p>",
    "condition": "Ao conjurar um Ninjutsu que causa dano de veneno"
   },
   "HUFeH6pMCdqcyHb5": {
@@ -2713,7 +2713,7 @@
   },
   "TMkAUorlh20yEbZf": {
    "name": "Derretimento Cáustico",
-   "description": "<p><span style=\"font-family:Signika, sans-serif\">Ao conjurar um Ninjutsu que causa dano de veneno e exige um teste de resistência, você pode gastar 1 célula para impor uma penalidade de -1d4 ao teste de resistência de qualquer criatura afetada.</span></p>",
+   "description": "<p>Ao conjurar um Ninjutsu que causa dano de veneno e exige um teste de resistência, você pode gastar 1 célula para impor uma penalidade de -1d4 ao teste de resistência de qualquer criatura afetada.</p>",
    "condition": "Ao conjurar um Ninjutsu que causa dano de veneno e exige um teste de resistência"
   },
   "TSmQAtwdGGO0kiJC": {
@@ -3189,7 +3189,7 @@
   },
   "a3SiQR6CJv1WHqmz": {
    "name": "Eu Disparo Com a Mente",
-   "description": "<p><strong>Categoria:</strong> Clã <br><strong>Pré-requisito:</strong> Clã Gansuringa, Nível 8+ <br>Sempre há algo nelas - aqueles forasteiros que vagam pela cidade envoltos em mistério. Perigosas. Sedutoras. <em>Intocáveis.</em> Você ganha os seguintes benefícios;</p><div style=\"margin-top:0px\"><p></p></div><ul><li>Você ganha proficiência em um teste de resistência de sua escolha.</li><li>Seu dado de Grit aumenta de tamanho em 1 passo. (D4&gt;D6&gt;D8&gt;D10&gt;D12)</li><li>Ao fazer um teste de perícia de Sabedoria ou Carisma, você pode adicionar seu dado de Grit ao resultado, como se estivesse usando uma Besta com a propriedade Munição.</li><li><p>Quando você fizer um teste de resistência de Destreza, Constituição, Carisma ou Sabedoria, você pode gastar 1 dado de Grit, como se estivesse usando uma Besta com a propriedade Munição, e adicionar metade do resultado (arredondado para cima) à sua rolagem.</p></li></ul>"
+   "description": "<p><strong>Categoria:</strong> Clã <br><strong>Pré-requisito:</strong> Clã Gansuringa, Nível 8+ <br>Sempre há algo nelas - aqueles forasteiros que vagam pela cidade envoltos em mistério. Perigosas. Sedutoras. <em>Intocáveis.</em> Você ganha os seguintes benefícios;</p><div><p></p></div><ul><li>Você ganha proficiência em um teste de resistência de sua escolha.</li><li>Seu dado de Grit aumenta de tamanho em 1 passo. (D4&gt;D6&gt;D8&gt;D10&gt;D12)</li><li>Ao fazer um teste de perícia de Sabedoria ou Carisma, você pode adicionar seu dado de Grit ao resultado, como se estivesse usando uma Besta com a propriedade Munição.</li><li><p>Quando você fizer um teste de resistência de Destreza, Constituição, Carisma ou Sabedoria, você pode gastar 1 dado de Grit, como se estivesse usando uma Besta com a propriedade Munição, e adicionar metade do resultado (arredondado para cima) à sua rolagem.</p></li></ul>"
   },
   "a4ADQhVHWIeWKScE": {
    "name": "Vínculo Espiritual",

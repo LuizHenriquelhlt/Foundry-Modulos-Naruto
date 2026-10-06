@@ -2,13 +2,18 @@
   "id": "N5eB-pt-br",
   "title": "Naruto 5e - Português (Brasil)",
   "description": "Tradução para Português (Brasil) do sistema Naruto 5e (n5eb), incluindo interface e compêndios via Babele.",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "authors": [
     {
       "name": "PreTusko",
       "url": "https://x.com/PreTusk"
     }
   ],
+  "url": "https://github.com/LuizHenriquelhlt/Foundry-Modulos-Naruto",
+  "manifest": "https://github.com/LuizHenriquelhlt/Foundry-Modulos-Naruto/releases/latest/download/module.json",
+  "download": "https://github.com/LuizHenriquelhlt/Foundry-Modulos-Naruto/releases/download/v0.3.0/N5eB-pt-br.zip",
+  "bugs": "https://github.com/LuizHenriquelhlt/Foundry-Modulos-Naruto/issues",
+  "readme": "https://github.com/LuizHenriquelhlt/Foundry-Modulos-Naruto/blob/main/N5eB-pt-br/README.md",
   "compatibility": {
     "minimum": "13",
     "verified": "14.368"
@@ -16,9 +21,6 @@
   "esmodules": [
     "babele-register.js"
   ],
-  "url": "https://github.com/PreTusk0/5eBR",
-  "manifest": "https://raw.githubusercontent.com/PreTusk0/N5eB-pt-br/main/module.json",
-  "download": "https://github.com/PreTusk0/5eBR/archive/refs/heads/main.zip",
   "languages": [
     {
       "lang": "pt-BR",

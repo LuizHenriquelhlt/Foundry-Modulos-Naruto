@@ -36,6 +36,32 @@ function translateById(collection, translations, fields) {
 	return Object.fromEntries(Object.entries(collection).map(([id, doc]) => [id, apply(doc, id)]));
 }
 
+/**
+ * Inverse of translateById, used by Babele's "export translations" so the generated
+ * template has the same `{ id: { field: text } }` shape as the files in compendium/.
+ */
+function extractById(collection, fields) {
+	if (!collection) return undefined;
+	const entries = Array.isArray(collection) ? collection.map(doc => [doc?._id, doc]) : Object.entries(collection);
+	const out = {};
+	for (const [id, doc] of entries) {
+		if (!id || (typeof doc !== "object")) continue;
+		const values = {};
+		for (const [key, path] of Object.entries(fields)) {
+			const value = foundry.utils.getProperty(doc, path);
+			if ((typeof value === "string") && value.trim()) values[key] = value;
+		}
+		if (Object.keys(values).length) out[id] = values;
+	}
+	return Object.keys(out).length ? out : undefined;
+}
+
+function byIdConverter(fields) {
+	const converter = (collection, translations) => translateById(collection, translations, fields);
+	converter.extract = collection => extractById(collection, fields);
+	return converter;
+}
+
 Hooks.once("babele.init", (babele) => {
 	// Register the translation folder first so an error in the optional extras below can't block it.
 	babele.register({
@@ -46,8 +72,8 @@ Hooks.once("babele.init", (babele) => {
 	console.log(`${MODULE_ID} | traduções registradas no Babele (idioma do cliente: ${game.i18n?.lang})`);
 	try {
 		babele.registerConverters({
-			n5ebActivities: (activities, translations) => translateById(activities, translations, ACTIVITY_FIELDS),
-			n5ebAdvancement: (advancement, translations) => translateById(advancement, translations, ADVANCEMENT_FIELDS)
+			n5ebActivities: byIdConverter(ACTIVITY_FIELDS),
+			n5ebAdvancement: byIdConverter(ADVANCEMENT_FIELDS)
 		});
 		babele.registerMapping({
 			Item: {

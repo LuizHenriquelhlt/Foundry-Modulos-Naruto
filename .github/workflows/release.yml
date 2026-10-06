@@ -1,0 +1,49 @@
+# Publica o módulo N5eB-pt-br quando um release é criado no GitHub (ex.: tag v0.3.0).
+# Anexa ao release o module.json e o N5eB-pt-br.zip que o Foundry usa para instalar/atualizar.
+name: Release N5eB-pt-br
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ajusta versão e links do module.json
+        env:
+          TAG: ${{ github.event.release.tag_name }}
+          REPO: ${{ github.repository }}
+        run: |
+          VERSION="${TAG#v}"
+          jq --arg v "$VERSION" \
+             --arg manifest "https://github.com/$REPO/releases/latest/download/module.json" \
+             --arg download "https://github.com/$REPO/releases/download/$TAG/N5eB-pt-br.zip" \
+             '.version = $v | .manifest = $manifest | .download = $download' \
+             N5eB-pt-br/module.json > module.json.tmp
+          mv module.json.tmp N5eB-pt-br/module.json
+          cat N5eB-pt-br/module.json
+
+      - name: Valida os JSON
+        run: |
+          for f in N5eB-pt-br/module.json N5eB-pt-br/pt-br.json N5eB-pt-br/compendium/*.json; do
+            jq empty "$f"
+          done
+
+      - name: Empacota
+        run: |
+          cd N5eB-pt-br
+          zip -r ../N5eB-pt-br.zip . -x '.*'
+          cp module.json ../module.json
+
+      - name: Anexa ao release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            module.json
+            N5eB-pt-br.zip
