@@ -1,5 +1,5 @@
 # Publica o módulo N5eB-pt-br ao enviar uma tag vX.Y.Z (o release é criado automaticamente)
-# ou ao publicar um release pelo GitHub. Anexa ao release o module.json e o N5eB-pt-br.zip
+# ao publicar um release pelo GitHub, ou manualmente (Actions → Run workflow). Anexa ao release o module.json e o N5eB-pt-br.zip
 # que o Foundry usa para instalar/atualizar.
 name: Release N5eB-pt-br
 
@@ -8,6 +8,11 @@ on:
     tags: ["v*"]
   release:
     types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Tag do release (ex.: v0.3.0)"
+        required: true
 
 permissions:
   contents: write
@@ -20,7 +25,7 @@ jobs:
 
       - name: Ajusta versão e links do module.json
         env:
-          TAG: ${{ github.event.release.tag_name || github.ref_name }}
+          TAG: ${{ github.event.release.tag_name || inputs.tag || github.ref_name }}
           REPO: ${{ github.repository }}
         run: |
           VERSION="${TAG#v}"
@@ -47,8 +52,8 @@ jobs:
       - name: Anexa ao release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ github.event.release.tag_name || github.ref_name }}
-          name: N5eB-pt-br ${{ github.event.release.tag_name || github.ref_name }}
+          tag_name: ${{ github.event.release.tag_name || inputs.tag || github.ref_name }}
+          name: N5eB-pt-br ${{ github.event.release.tag_name || inputs.tag || github.ref_name }}
           files: |
             module.json
             N5eB-pt-br.zip
